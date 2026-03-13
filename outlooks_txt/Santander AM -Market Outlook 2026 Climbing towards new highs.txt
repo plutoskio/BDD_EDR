@@ -1,0 +1,2905 @@
+Source file: Santander AM -Market Outlook 2026 Climbing towards new highs.pdf
+Source path: outlooks/Santander AM -Market Outlook 2026 Climbing towards new highs.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:09.153022+00:00
+Page count: 52
+
+---
+
+## Page 1
+
+Market outlook 2026
+Climbing towards
+new highs
+
+## Page 2
+
+All data and figures in
+texts and graphs are as of
+November 14th, 2025.
+
+© Santander Asset Management
+
+## Page 3
+
+Dear investor,
+
+ We are delighted to present our 2026 Market Report, jointly compiled by our
+ global team and local experts. The product of this work is a comprehensive
+ strategic vision, balancing global trends with in-depth knowledge of domestic
+ assets, to help you build a diversified, consistent portfolio that is tailored to an
+ increasingly interconnected and dynamic environment.
+
+ The global economy’s resilience confirms that the cycle is not merely standing
+ its ground, but evolving. Looking ahead to 2026, we anticipate an environment
+ of sustained growth, contained inflation and economic policies that support
+ activity, setting up a favourable framework for investment and diversification.
+ Against this backdrop, we highlight three major investment ideas for the year:
+
+ • Global equity: climbing towards new highs beyond the U.S. technology
+Samantha Ricciardi sector, more countries and more sectors are joining in the rally.
+CEO of SAM
+ • Fixed income: opportunities for policy normalisation in Brazil and the UK,
+ without losing sight of carry in the Eurozone.
+
+ • Gold: a natural portfolio diversifier and long-term structural trend.
+
+ The path ahead is not without uncertainty. Our team continuously monitors
+ and assesses the economic and financial risks that could alter the core
+ scenario, as well as weighing up geopolitical factors and their potential impact
+ on economic policy design.
+
+ Last year, we underscored the importance of including investment in private
+ markets as a key structural trend. This year we go one step further: we
+ present our Capital Market Assumptions (CMAs), which are allowing us to
+ incorporate alternative assets in multi-asset portfolios and more efficiently
+ harness the sources of structural returns offered by markets. The CMAs model
+ is proprietary and places conventional assets and private markets in a single
+ analytical framework, aimed at providing a robust and long-term view of
+ expected returns, risk and correlation between asset classes. This framework
+ strengthens the analytical basis for our strategic decisions and builds on our
+ global investment approach.
+
+ In 2026, private markets will continue to play an increasingly important role in
+ building diversified portfolios: they are no longer merely ancillary, but are now
+ an integral component. Within this universe of alternatives, European private
+ debt stands out for its intrinsic value, underpinned both by structural factors—
+ given the more modest development of the capital market and alternative
+ financing compared to the weight of the banking system—and Europe’s
+ relative allure compared to other regions, especially the United States.
+
+ At Santander Asset Management, we share with you our global knowledge
+ and local analysis, grounded on a long-term strategic vision. We actively
+ manage your investments, standing with you every step of the way to ensure
+ that decisions are consistent with your personal goals. We are committed to
+ supporting you with an accessible and responsible approach, aimed at helping
+ you build a solid and secure financial future.
+
+ Thank you for your trust.
+
+ 3
+
+## Page 4
+
+Climbing towards new highs
+
+ José Mazoy, PhD
+ Global Chief Investment Officer at SAM
+Economies move past Average
+the tariff wall 30% announced
+The impact of tariffs has been milder tariff in April
+
+than expected and does not threaten the
+continuation of the global cycle.
+ 11% Average
+ collected
+ tariff in August
+ Average
+ collected tariff 2.5%
+ until January
+
+The global cycle extends Inflation is no longer the problem
+All regions continue to post positive growth and gain The disinflationary trend continues, although the pace
+momentum in the second half of the year. AI will remain a varies across regions.
+key driver of growth, particularly in the U.S.
+
+ 2026 GDP 4Q 2026 GDP Central banks
+
+ 5.3% targets
+ 5.0%
+
+ 3.3% Economic policies support the cycle
+
+ 2.6% Interest rates are shifting from restrictive to neutral,
+ 2.3% while fiscal policy stimulates investment.
+ 2.0%
+ 1.7%
+ 1.4%
+ Monetary policy
+
+ World U.S. UK China Latam Asia EurozoneEMEA Fiscal policy
+ exChina
+
+Source: FMI, World Economic Outlook October 25
+
+ Broader breadth in equity markets:
+ Earnings growth is widening across regions, sectors and companies
+ Earnings growth estimates
+ S&P 500 MSCI USA Small Caps STOXX 600 MSCI Emerging Markets
+ 22%
+ 15% 8% 15%
+ 10% 9% 0% 10%
+
+ 2025e 2025e 2025e2026e 2026e 2026e 2026e2025e
+
+ Source of all charts: Bloomberg and Santander AM
+
+ 4
+
+## Page 5
+
+Looking ahead to 2026, we want to highlight the resilience of the global economy. Facing, in succession, an unprecedented
+health shock, an inflationary shock -which in many economies reached levels unseen since the 1970s- and a tariff shock that
+called into question the future of global trade has been no easy task, yet the global cycle continues to show a remarkable
+capacity to expand.
+
+This resilience confirms that the global cycle not only endures but evolves. In particular, this year’s AI investment in the U.S. has
+played a key role in sustaining growth close to 4%. The environment we expect for 2026 combines steady growth, contained
+inflation, and economic policies that continue to support activity, shaping a constructive framework for investment. All this,
+underpinned by our proprietary Capital Market Assumptions (CMAs) model and with diversification as a central pillar, allows us
+to identify three major investment ideas in traditional assets.
+
+1. Global equities: Climbing towards new highs
+
+Equities remain at the core of our strategy for 2026. The global backdrop supports this constructive view, which is further
+reinforced across most major markets when we drill down to the local level. From the broadening of earnings growth in the
+United States -extending beyond AI-related technology- to near double-digit earnings growth estimates in the Eurozone and
+the momentum of Latin American markets, equities combine global macro tailwinds and domestic support, consolidating as the
+main growth engine in diversified portfolios.
+
+While valuations are demanding in some markets, we do not believe this prevents indices from continuing to reach new highs.
+Periods of economic growth expansion and sustained corporate earnings growth are typically accompanied by higher multiples.
+In that context, the main historical triggers for turning points in equities have been recessive environments or aggressive rate-
+hiking cycles -neither of which form part of our central scenario.
+
+ U.S. Eurozone Poland Japan
+ Earnings growth Near double-digit Small caps: strength Return to nominal
+ beyond technology: earnings growth: of the domestic cycle growth and improved
+ investment and economic recovery corporate governance
+ pro-business and controlled
+ policy mix inflation
+
+ Mexico
+Historically low Emerging Asia
+valuations, fiscal
+improvement, and Chile Argentina India
+favorable expectations
+on the USMCA Attractive dividend Reforms and fiscal Regional growth driver
+ yields, solid earnings, continuity
+ and a pro-investment China
+ environment Tactical opportunities
+
+ 5
+
+## Page 6
+
+2. Fixed income opportunities: Policy normalization with carry in focus
+
+The path toward neutral policy rates progresses at different speeds across geographies. This divergence opens opportunities
+in UK and Brazilian sovereign bonds, where carry combines with our expectation of rate cuts —potentially deeper than current
+market pricing. In the Eurozone, strong corporate fundamentals and historically attractive carry make credit a stable source
+of return for 2026.
+
+ UK Brazil Eurozone
+Nominal and inflation-linked UK The basic Selic rate is at very tight We maintain a positive view on
+government bonds still offer the levels and the combination of Eurozone investment-grade credit
+highest yields among G7 economies. moderate economic activity and for 2026. Yields remain attractive
+Proactive measures to curb inflation, declining inflation should allow the -well above the 10-year and 20-year
+a fiscally disciplined budget with BCB to start an easing cycle early next averages- and offer an additional
+potential further tax increases, and an year, with potential dovish surprises. premium over sovereign debt.
+anticipated gradual decline in Bank of The global scenario will also provide Strong demand, particularly from
+England base rates together provide support to local fixed income, retail investors, and robust corporate
+a supportive backdrop for continued particularly with the expected cuts in balance sheets leave room for further
+performance. U.S. rates. spread tightening.
+
+ Highest G7 yield*
+ 15% 3.10%
+ Average BoFA Euro Corporate
+ Index yield 2025*
+ 1.80%
+ 4.57% Expected rate-cut Average BoFA Euro Corporate
+ cycle ahead Index yield 10-year average*
+
+3. Gold: Portfolio diversifier and structural trend Investor demand as a share of total
+
+In a context where geopolitical risks persist, inflation has not disappeared, gold demand
+
+and investors perceive that central banks will continue to prioritize growth
+over price control, gold remains an effective hedge and a key component for
+portfolio diversification. 25%
+Underlying fundamentals also remain solid: the continuation of central bank 45%
+
+purchases and renewed investor demand after several years of negative flows.
+
+ 2021 2025e
+
+ Source: ICE Benchmark Administration, Metals Focus,
+ Reﬁnitiv GFMs, World Gold Council and Santander AM
+
+ We launch our CMAs for public and private markets
+ These three key investment ideas reflect the combination of our global and local capabilities and are supported by our
+ proprietary CMAs framework- an approach that allows us to integrate traditional and private markets in a single analytical
+ model. Looking ahead to 2026, we identify European Private Debt as the main investment opportunity within the alternative
+ assets universe (see page 44).
+
+* Source: Bloomberg and Santander AM
+
+ 6
+
+## Page 7
+
+Under the CIO’s lens
+
+The year ahead will reward focus over forecasts: staying invested in real growth, yet ready to adapt if exuberance, policy, or
+geopolitics shift the ground beneath us. In a world of structural change, agility in active management is the true edge.
+
+1. AI CapEx super-cycle: transformative or excessive?
+
+Corporate investment in AI infrastructure, semiconductors, and the cloud is surging to record $ 400Bn
+levels and is now large enough to contribute nearly half of U.S. real GDP growth. in 2025 CapEx reinvestment
+ CIO watch: by major tech companies
+ The ratio of CapEx-to-earnings for hyperscalers: a slide in marginal returns or a turn (70% of profits)1
+ toward vendor-financed projects would flag overheating.
+
+2. The age of economic statecraft: politics shapes profits
+Trade, technology, and capital are being redirected by industrial policy, tariffs, and sanctions, Over $ 2Trn
+fragmenting global supply chains. in new fiscal-industrial
+ CIO watch: incentives since 20222
+ The spread between “friendly-shore” and “strategic-rival” trade volumes and the
+ rollout of new subsidy or capital-control regimes: a sharp shift could reprice regions and
+ currencies.
+
+3. Fiscal dominance: deficits define rates
+
+Persistent government spending and ageing-related outlays keep fiscal policy in the driver’s 5.9% of GDP
+seat, anchoring a structurally higher-nominal world. U.S. deficit, the highest ever
+ CIO watch: outside wartime
+ Primary-deficit-to-GDP and long-term yield curves: a sustained rise in real yields above 2 or recession3
+ % would challenge equity markets.
+
+4. Market crowding & valuation risk: when leadership narrows
+
+AI-linked megacaps dominate indices; breadth and credit spreads are the pressure points of 38% share
+this rally. The surge of retail flows into large-cap tech ETFs reinforce the rally but raise the
+risk that any reversal in sentiment could cascade quickly across assets. of S&P 500
+ market capitalization
+ CIO watch: concentrated in the ten
+ Cross-asset volatility and credit spreads: simultaneous deterioration has preceded past largest companies,
+ multi-asset corrections. a record high4
+
+5. U.S. consumption surprise: the engine of growth
+U.S. consumption is estimated to have accelerated to 3.4% in Q3 2025 and strength is broad 97%
+across income groups. Household balance sheets remain solid.
+ CIO watch: of liabilities
+ in households segment
+ Payrolls, cyclical investment, and AI-driven productivity gains: out-of-consensus data are covered by cash, best
+ could reshape growth expectations. balance-sheet position
+ since the 1980s5
+
+Source: 1. Santander AM. 2. FMI Fiscal Monitor October 2025. 3. U.S. Congressional Budget Office August 2025. 4. Santander AM. 5. Federal Reserve Distributional Financial
+Accounts Q2 2025
+
+ 7
+
+## Page 8
+
+01
+ Capital Markets
+ Assumptions
+ (CMAs)
+
+Source:
+
+ 8
+
+## Page 9
+
+Return expectations for a long-term
+strategic horizon
+
+ Luiz Felix, PhD Haydn Davies,
+ Global Head of Asset Head of Quantitative
+ Allocation SAM Research SAM
+
+Strategic Asset Allocation (SAA) remains the primary driver of long-term portfolio
+performance, typically accounting for more than 80% of total return variability over time.
+In an environment characterized by a soft global landing, delayed disinflation in the U.S., A global soft landing
+and policy normalization across major economies, robust Capital Market Assumptions and policy normalization
+(CMAs) are essential to anchor strategic decisions. They translate macro expectations underpin healthy
+into consistent estimates of return and risk across asset classes. As 2026 approaches, the medium-term
+calibration of CMAs captures monetary conditions moving toward neutrality and resilient expectations across asset
+economic momentum, setting the stage for a cycle of renewed breadth of global growth. classes
+
+Nominal 7-year expected returns1
+
+ Local 1-year ∆ USD EUR GBP
+Equities Equities U.S. 8.3% 0.0% 8.3% 7.8% 9.3%
+ Equities Eurozone 7.6% -0.9% 8.1% 7.6% 9.1%
+ Equities UK 8.2% -1.0% 7.3% 6.8% 8.2%
+ Equities Japan 7.8% -0.6% 8.3% 7.9% 9.3%
+ Equities World 8.3% -0.5% 8.3% 7.9% 9.4%
+ Equities Emerging 7.2% -0.9% 6.2% 5.7% 7.2%
+Govies Govies U.S. 4.5% -0.5% 4.5% 3.3% 4.3%
+ Govies Eurozone 3.7% -0.1% 4.8% 3.7% 4.7%
+ Govies UK 5.1% -0.2% 5.3% 4.1% 5.1%
+ Govies +10Y U.S. 5.2% 0.0% 5.2% 4.0% 5.0%
+ Govies +10Y Eurozone 4.4% 0.3% 5.6% 4.4% 5.4%
+ Govies +10Y UK 5.7% 0.1% 5.8% 4.6% 5.7%
+ ILBs U.S. 4.2% -0.5% 4.2% 3.0% 4.0%
+ ILBs Europe 4.4% 0.0% 5.6% 4.4% 5.5%
+Credits Investment Grade U.S. 5.5% -0.5% 5.5% 4.3% 5.3%
+ Investment Grade Eurozone 4.1% -0.3% 5.3% 4.1% 5.2%
+ Investment Grade UK 5.4% -0.6% 5.5% 4.3% 5.4%
+ High Yield U.S. 6.3% -0.5% 6.3% 5.1% 6.1%
+ High Yield Eurozone 5.1% -0.4% 6.3% 5.1% 6.2%
+ Emerging debt HC 6.4% -0.8% 6.4% 5.2% 6.2%
+ Emerging debt LC 7.4% 0.0% 6.1% 5.7% 7.2%
+ Commodities 5.6% -0.3% 5.6% 5.2% 6.2%
+Private Assets Private Equity 10.6% 10.3% 9.9% 11.3%
+ Venture Capital 12.0% 11.7% 11.3% 12.7%
+ Real Estate 8.6% 8.3% 7.9% 9.3%
+ Infrastructure 8.3% 8.0% 7.6% 9.0%
+ Private Debt 8.9% 8.6% 8.2% 9.6%
+
+Source: Santander AM 1. Expected returns across the three investors’ base currencies covered (EUR, USD and GBP) are estimated in an FX un-hedge basis for 1) equities, 2)
+commodities, 3) local currency emerging market debt and 4) private assets, whereas estimated in a FX hedge basis for the remaining ﬁxed income assets.
+
+ 9
+
+## Page 10
+
+Building on this global backdrop, U.S. equities remain a key engine of long-term portfolio
+returns, supported by strong productivity gains, resilient profit margins, and a durable U.S. and Japan earnings
+earnings cycle. U.S. investors should enjoy an annual nominal return of 8.3% in the growth, strong dividend
+medium-term consistent with a mature yet still dynamic phase of the cycle. Amid elevated yields in the Eurozone
+valuations, our frameworks suggests that potential repricing in US equities should be offset and the UK, and selective
+by accelerating earnings growth. Across other developed equity markets, expected 7-years value in EMs sustain
+nominal returns cluster around 8% when currency effects are excluded. The UK is set to constructive global
+deliver above average local performance of 8.2%, supported by high shareholder yields equity outlooks
+and supportive valuations despite earnings growth prospects being a headwind. Eurozone
+markets are structurally less dynamic than the U.S. and earnings growth is also expected
+to be slower but higher dividend yield partially compensates for this difference. In Japan,
+meanwhile, investors face robust earnings growth but mediocre dividend yield, something
+that might change once meaningful improvements in corporate governance are achieved.
+Emerging markets posts the lowest level of buybacks among regions and weak earning
+growth while strong dividend yield and some valuation buffer lead to an expected return
+of 7.2% for the region. Overall, despite a strong year for global equities, the medium-term
+outlook remains constructive. While higher valuations dampen prospective returns in
+many regions, overall expectations remain consistent with a continued global expansion
+warranting investors to maintain a diversified exposure across regions.
+
+Fixed income yields, especially in the Eurozone, have largely traded in a narrow range
+this year, leaving the outlook broadly unchanged. Concerns over debt sustainability have,
+however, improved compensation for duration risk, mostly in the Eurozone, while tighter
+spreads have decreased the potential for credits, especially in the USD denominated debt.
+Despite that, long-term investors still find opportunities in credits. A U.S. investor can expect
+a nominal return of 6.3% from High Yield in the medium term, compared with 5.5% in
+Investment Grade and 4.5% in Treasuries. In the Eurozone, the pattern is similar: we expect
+returns of 5.1% in High Yield, 4.1% in Investment Grade, and 3.7% in sovereign bonds.
+
+We expect a diversified Commodity portfolio to return 5.6% for U.S. investors, above the
+4.2% and 4.4% anticipated from inflation-linked bonds in the U.S. and Eurozone.
+
+Expected 7-year return and risk: current vs one-year ago
+
+ 2025 November 2024 November Lineal (2025 November) Lineal (2024 November)
+
+ 9%
+ World Equities Eurozone
+ 8% UK U.S.
+
+ 7% Emerging
+
+ 6% U.S. HY EMD HC
+
+ 5%
+ U.S. IG Commodities
+ 4% UK Govies U.S. +10Y
+ EU +10Y UK +10Y
+ 3% U.S. Govies 10y+ Govies
+ Credits & <10y Govies
+ 2%
+
+ 1%
+
+ 0%
+ 2% 7% 12% 17% 22%
+ Annual volatility
+
+Source: Santander AM
+
+ 10
+
+## Page 11
+
+Private markets in 2026 should offer a differentiated return spectrum aligned with risk,
+illiquidity, and value-creation potential. Our long-term forecasts for Private Equity (Buyout
+and Growth) average 10.6% net of fees2, maintaining the segment’s high-return profile.
+Sentiment among managers has turned cautiously optimistic as exit conditions and deal
+flow improve after some subdued years. Fundraising remains selective, and distributions
+are below long-term norms, yet liquidity constraints have eased. Venture Capital continues
+to present the strongest nominal upside at around 12%, though with wide dispersion—
+underscoring the importance of vintage and manager selection as growth visibility improves.
+
+Real assets retain an income-anchored profile. Real Estate combines steady income from
+Core strategies with the cyclical upside of Value-Add opportunities averaging an expected
+return of 8.6% Infrastructure offers a similar balance: Core and Brownfield assets provide
+resilient, inflation-linked yields, while Greenfield projects—particularly in renewables,
+digital networks, and energy transition—offer higher nominal potential with greater
+execution risk (averaging 8.3%).
+
+Within Private debt, we expect mid-term net returns of 8.9%, supported by elevated base
+rates and strong current income. However, crowding and uneven credit quality are likely Private assets anchor
+to test manager skill, especially in the U.S. While fundraising cycles have lengthened, long-term return
+structural demand from institutional allocators remains strong, reinforcing the segment’s potential in a higher-for-
+role as a portfolio stabilizer in a higher-for-longer rate environment. Natural Resources, with longer rate world
+expected nominal returns near 8%, continue to serve as inflation-sensitive, low-correlation
+exposures.
+
+Overall, private assets are entering a phase of measured recovery and selective optimism.
+Despite somewhat elevated valuations, liquidity conditions are improving, macro risks
+are receding, and investor pacing is normalizing—setting the stage for private markets to
+reassert their role as long-term return drivers within diversified portfolios.
+
+Taken all together, our CMAs point to a more balanced and differentiated return landscape
+— one shaped by a soft landing for the global economy, delayed disinflation in the U.S., and
+the normalization of monetary policy. In this environment of moderate growth and stable
+inflation, medium-term return expectations remain broadly healthy. Above all, disciplined
+SAA continues to be the most effective compass for long-term investors, enabling them to
+capture opportunities across regions and asset classes as policy support, financial conditions,
+and corporate fundamentals work in tandem to extend the cycle.
+
+2. We report private asset returns on a net basis to reflect the impact of management fees and carried interest on investor outcomes, while public asset returns are shown gross of
+fees to ensure comparability across liquid markets where costs vary by mandate and implementation.
+
+ 11
+
+## Page 12
+
+02
+Global view
+
+ 12
+
+## Page 13
+
+Global investment scenario
+
+ Delfina Pérez, CIIA Luiz Felix, PhD
+ Head of Markets Global Head of Asset
+ Strategy SAM Allocation SAM
+
+ Central Scenario Alternative Scenarios
+
+ Probability Probability
+ 60% 25% Probability
+
+ Probability
+ 10% 5%
+
+ Soft landing of the global Light stagflation Recession Reacceleration
+ economy with delayed Growth slows more The combined effect of and reflation
+ disinflation in the U.S. sharply as tariffs weigh tariffs dampening activity, The Trump administration
+
+ Global growth moderates from more heavily on activity tighter financial conditions, implements stronger fiscal
+ 2024–25 levels due to tariffs, and confidence, although and lower confidence stimulus and procyclical
+ although their impact proves the economy avoids a triggers a synchronized policies. Domestic demand
+ temporary and does not derail formal recession. Inflation global slowdown, pushing accelerates through higher
+ the cycle. Healthy private- in the U.S. remains the U.S. and other business investment and
+ sector balance sheets cushion elevated for longer, developed economies a rebound in household
+ the slowdown, allowing leading the Fed to pause into recession. Business spending. Expansionary
+ momentum to recover in the its rate cuts. For markets, investment and hiring fiscal policy and tighter
+ second half of 2026. Inflation the environment becomes decline, while household immigration constraints
+ converges toward central bank less favorable: risk consumption weakens. This keep wage and cost
+ targets, with a slower process in assets face asymmetric adjustment phase is marked pressures elevated,
+ the U.S. Global monetary policy risks. Credit spreads by wider credit spreads pushing inflation above
+ moves toward neutral levels, could widen moderately, and a correction in equity target. The Fed adopts
+ improving credit conditions equities may struggle to valuations, accompanied a prolonged pause, and
+ and supporting growth. Fiscal sustain current levels, by a decline in corporate markets begin to price in
+ policy, focused on investment, and investors show a earnings. Government the risk of rate hikes. The
+ also underpins the cycle. In this preference for defensive bonds regain their role as a environment is initially
+ environment, carry, credit, and strategies, shorter safe haven, while gold also supportive for equities, but
+ equities remain attractive, while durations, and higher- benefits. persistent inflation and
+ volatility stays contained. quality assets. higher yields eventually
+ weigh on valuations,
+ favoring real and short-
+ duration assets.
+
+Risk Map
+ Negative geopolitical risk Negative financial risk Negative macroeconomic risk Material risk to the scenario
+ Positive geopolitical risk Positive financial risk Positive macroeconomic risk Non-material risk to the scenario
+
+ Disorderly U.S. U.S. no landing and
+ tech adjustment Fed rate repricing
+
+ Private Credit AI Capex Debt
+ shock over-investment tensions
+
+ Fed’s dovish bias U.S. tariffs
+ U.S. institutional erosion
+
+ China fInancial crisis Inflation European
+ (real estate driven) Trump deregulation revival& Tax cuts U.S. immigrationfiscal plan
+
+ Ukraine
+ peace deal
+ U.S. Mid-term
+ elections aftermath
+
+ Low Medium High
+ Probability
+
+ 13
+
+## Page 14
+
+Our central investment scenario —a soft landing for the global economy with a delayed
+ disinflation process in the U.S.— outlines a global backdrop that, after the initial impact of The growth and inflation
+ tariffs, preserves its growth capacity and extends the expansionary phase of the cycle. Tariffs backdrop supports risk
+ represent a temporary shock to growth, whose impact —milder than initially expected both assets
+ for the U.S. and exporting economies— gives way to a soft landing of the world economy.
+ This constructive outlook also assumes that growth momentum will gradually pick up in the
+ second half of 2026.
+
+ The disinflation process continues to advance. Although in the U.S. price moderation has
+ been slower than initially anticipated, the risk of a return to restrictive monetary policies has
+ receded from market focus. Central banks have succeeded in their fight against inflation, and
+ policy rates are approaching neutral levels. This enables a gradual improvement in financial
+ and credit conditions, supporting credit expansion and the financing of investment projects.
+ Monetary policy is thus ceasing to be a drag and instead is becoming an ally in extending
+ the cycle. Economic policies and
+ the strength of private-
+ Fiscal policy adds to this momentum. The packages approved in the U.S. (One Big Beautiful sector balance sheets
+ Bill Act) and in the European Union promote investment in strategic sectors -such as defense, are key pillars of our
+ infrastructure, digitalization, and AI- move in the same direction as monetary policy. Unlike investment scenario
+ previous stimulus programs that focused on addressing pandemic emergency and, in some
+ cases, on boosting private consumption, this new fiscal wave has a more structural character.
+ Moreover, many of these measures benefit small and mid-sized enterprises, improving their
+ access to financing and investment capacity.
+
+ Investment support is essential to sustain job gains and prevent a labor market slowdown
+ from spilling over into consumption and growth. In the U.S., the Fed is seeking to balance
+ these risks by lowering rates to foster employment through more accommodative financial
+ conditions. Overall, investment will benefit from the combined support of monetary and
+ fiscal policies, which are acting in tandem to sustain the cycle.
+
+ The strength of private-sector balance sheets is another key pillar of our central scenario.
+ Household savings and corporate profits do not show the imbalances that have historically
+ marked the end of expansionary cycles. This financial soundness improves the effects of
+ economic policies, reduces cyclical vulnerability, and strengthens the continuity of global
+ expansion.
+
+2026 GDP consensus forecast Historical and projected year-on-year inflation by
+ region through 2030
+ World U.S. Eurozone China Latam U.S. Eurozone
+ Emerging Asia Emerging Europe
+4.5% 30%
+
+3.5%
+ 25%
+
+3.0%
+
+ 20%
+2.5%
+
+2.0% 15%
+ Average
+ 2007-2016
+1.5%
+ 10%
+
+1.0%
+
+ 5%
+0.5%
+
+0.0% 0%
+ Jan/25 Feb/25 Mar/25 Apr/25 May/25 Jun/25 Jul/25 Aug/25 Sep/25 Oct/25 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+
+ Source: Bloomberg and Santander AM Source: FMI, World Economic Outlook October 25
+
+ 14
+
+## Page 15
+
+The regulatory environment also contributes positively. The deregulation trend led by the
+U.S. is now being joined by Germany, where the shift toward a more flexible and business- Earnings growth is
+friendly framework marks a structural change. This direction supports investment, broadening across
+productivity, and corporate dynamism. regions, sectors, and
+The constructive outlook for equities is underpinned by a broader and more positive earnings companies
+
+picture: we expect the broadening that began in 2025 to consolidate in 2026, so that
+leadership is no longer concentrated solely in AI-related technology names in the U.S. or in
+sectors such as defense and financials in Europe, but extends to other industries and regions
+that also benefit from the momentum in economic growth. The policy mix -fiscal incentives,
+more favorable financial conditions, and deregulation- materially enhances companies’
+ability to translate growth into earnings by supporting productive investment, demand, and
+operating margins. Regarding valuations, in those markets in which they are near the upper
+end of historical ranges, we view it as reflecting both an expansionary phase of the cycle and
+the dominance of technology stocks; however, under our scenario of ongoing cycle expansion
+and sustained earnings growth, we do not see these valuation levels as an impediment for
+indices to reach new highs, with potential returns broadly aligned with earnings trends.
+This outlook is consistent with further gains across both developed and emerging markets, In global fixed income,
+where we see particularly attractive opportunities in Latin America, given its higher leverage value lies in the carry
+to the cycle, the rebound in investment, and appealing valuation in certain markets.
+
+In fixed income, except for markets such as the U.K. or Brazil, yield curves already reflect
+expected monetary policies, and market rates should remain stable in both sovereign
+debt and credit. At the same time, solid corporate balance sheets, favorable financing
+conditions, and resilient investor demand continue to support the relative appeal of credit
+versus sovereigns. The tightening of spreads reflects confidence in issuers and in the
+macroeconomic backdrop, while current yield levels remain attractive in historical terms.
+
+In currencies, no major moves are expected in the dollar, which will continue to act as an
+anchor of stability in a gradually adjusting global environment. In commodities, gold
+maintains its essential role, both on fundamental grounds and as a key portfolio diversifier.
+
+Our investment scenario is not without risks, which we closely monitor. Among them, the
+possibility that tariffs turn out to be higher or more persistent than expected, potentially
+weighing on growth, confidence, and global trade. It is also necessary to remain alert to any
+factors that could trigger more durable inflationary pressures or an excessive tightening of
+financial conditions that might undermine investment and consumption. On the opposite
+end, a more aggressive fiscal stimulus or clearly procyclical policies could fuel a rebound in
+demand and reignite reflationary dynamics. Overall, the balance of risks remains broadly
+even, though with a margin of uncertainty that calls for active risk management.
+
+Broadening earnings growth across regions The policy mix supports the extension
+ EPS YoY 2025 EPS YoY 2026 of the economic cycle
+
+15% Monetary policy Fiscal policy
+
+10% Credit conditions Corporate incentives
+
+ Investment
+
+ 5%
+ Employment
+
+ 0%
+ MSCI ACWI S&P 500 STOXX 600 TOPIX MSCI Emerging Consumption
+ Markets
+
+Source: Bloomberg and Santander AM
+
+ 15
+
+## Page 16
+
+Global macro outlook
+
+ Agustín Carles, CFA
+ Head of Macroeconomics SAM
+
+ U.S.
+
+We estimate GDP growth of 2% in 2025 and around 1.6% in 2026. Although the increase in tariffs in 2025 poses a downside risk
+to growth, we believe the expansionary cycle is not yet exhausted, as neither the financial position of households and companies
+nor credit conditions are at levels that, in the past, have led to a recession. On the contrary, households and companies are in a
+healthy financial situation in terms of financing capacity, and credit conditions are also consistent with GDP growth of around
+1.5% to 2%.
+
+The lending capability of households and U.S. non-financial corporate profits before taxes on
+companies, as a percentage of GDP, reflects their income as a percentage of GDP are very high
+healthy financial position Average
+
+12% 10%
+
+10% 9%
+
+ 8%
+ 6% 8% 8.8%
+
+ 4% 7%
+
+ 2% 6%
+
+ 0%
+ 5%
+-2%
+ 4% Recessions
+-4% Recessions
+
+-6% 3%
+ 1983 1989 1995 2001 2007 2013 2019 2025 1985 1990 1995 2000 2005 2010 2015 2020 2025
+
+The current status of bank credit conditions to the private sector is consistent with GDP growth around
+1.5%/2%
+ Credit conditions to the private sector (Fed survey) (left inverted) GDP growth (rhs)
+
+ -1.5 4.0%
+Less 3.5%
+restrictive -1.0 3.0%
+credit
+conditions -0.5 2.5%
+
+ 2.0%
+ 0.0 1.5%
+
+ 0.5 1.0%
+
+More 0.5%
+restrictive 1.0 0.0%
+credit
+conditions 1.5 -0.5%
+
+ -1.0%
+
+ 2.0 -1.5%
+ 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source of all charts: Datastream and Santander AM
+
+ 16
+
+## Page 17
+
+U.S.
+
+A key factor in 2026 will be the trajectory of The current growth of ex AI investment is pointing to moderate
+investment. The recent trend in corporate employment growth but still clearly positive
+earnings suggests that total fixed investment
+excluding AI will return to positive growth, Fixed private and public invest. Ex AI Payrolls QoQ (rhs)
+paving the way for moderate job creation.
+We estimate employment to stabilize at 10% 350
+around 50,000 jobs per month—enough 8% 300
+to support private consumption growth 6% 250
+of roughly 1.5%. The downside risk to 4% 200
+growth stemming from higher tariffs has
+not disappeared, but the impact has so far 2% 150
+been milder than expected, likely because 0% 100
+the final increase has been clearly smaller -2% 50
+than initially announced. This is due to the -4% 0
+broad exemptions currently being applied,
+particularly to Mexico and Canada. Moreover, -6% -50
+the agreement reached with China at the -8% -100
+end of October will further reduce the tariff. -10% -150
+Against this backdrop, we expect the final 2004 2007 2010 2013 2016 2019 2022 2025
+average tariff to settle around 14%.
+
+Current employment growth is consistent with a consumption pace below the recent one, but still reasonable
+
+ Payrolls QoQ Private consumption (rhs)
+
+500 4.5%
+400 4.0%
+ 3.5%
+300 3.0%
+
+200 2.5%
+
+100 2.0%
+ 0 1.5%
+ 1.0%
+-100 0.5%
+
+-200 0.0%
+ 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+While the effective tariff was expected to exceed The 8% gap between announced and collected
+18%, the collected rate has so far remained tariffs is explained by several countries, mainly
+below 11% Mexico and Canada
+ Average effective tariff 1.6%
+ Average collected duties consumption
+33% 1.4%
+
+30% 1.2%
+27% 1.0%
+ Total: 8%
+24% 0.8%
+21% 17.1%
+18% 0.6%
+
+15% 0.4%
+
+12% 0.2%
+
+ 9% 0.0%
+ 6% 10.7%
+ -0.2%
+ 3%
+ 0%
+ Jan/25 Feb/25 Mar/25 Apr/25 May/25 Jun/25 Jul/25 Aug/25 Sep/25 Oct/25
+
+Source of all charts: Bloomberg, Datastream and Santander AM
+
+ 17
+
+## Page 18
+
+U.S.
+
+The increase in tariffs has begun to have an impact on the prices of goods, although this has been less than initially expected. In
+any case, we believe this effect will be temporary, and that slower GDP growth will mean inflation will not be a problem for the
+Fed in 2026. In this regard, we anticipate that the Fed will end 2025 with interest rates at 3.5%/3.75%, and that in 2026 there
+will be another 25 bps cut, bringing rates down to 3.25%/3.5%. We do not rule out a further 25 bps reduction, but we do not
+foresee rates falling below 3%, as this would require a weaker growth scenario than we currently predict. Rather than being
+driven by recession risk, these rate cuts are justified by the need to normalize monetary policy, shifting it from the restrictive
+stance seen in mid-2025 to a more neutral tone.
+
+The tariff hike is raising goods inflation, but the An scenario of strong Fed Funds rates would require
+impact is proving more moderate than initially a sharp contraction in employment, typical of a
+expected recession like 2009
+ Core goods ex used cars CPI MoM Payrolls Fed Funds rates (rhs)
+
+0.9% 300 6%
+
+ 200
+0.7% 5%
+ 100
+
+0.5% 0.35% 0 4%
+
+ -100
+0.3% -200 3%
+
+0.1% -300 2%
+
+ -400
+
+-0.1% -500 1%
+
+ -600
+-0.3% 0%
+ -700
+
+-0.5% -800 -1%
+ 2011 2013 2015 2017 2019 2021 2023 2025 Jan/06 Oct/06 Jan/07 Oct/07 Jan/08 Oct/08 Jan/09
+
+In real terms, the Fed Funds rates (deflated by core CPI inflation) are now the highest among
+developed economies
+
+2%
+
+1% 0.9%
+ Federal Reserve
+ 0.4%
+0% Bank of England
+ -0.3%
+ ECB
+-1%
+
+-2%
+
+ -2.9%
+-3% Bank of Japan
+
+-4%
+
+-5%
+ 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source of all charts: Bloomberg and Santander AM
+
+ 18
+
+## Page 19
+
+Eurozone
+
+ Eurozone
+
+Both the Eurozone and the United Kingdom are at a more nascent stage of the cycle compared to the U.S. The energy shock
+of 2021–22, being much more intense in Europe, caused the cycles of the former two to decouple from that of the U.S. In
+the Eurozone, key fundamentals such as relatively relaxed credit conditions for households and businesses, the turning point
+in corporate profits after two years of sharp deceleration, and finally, the German fiscal stimulus, should offset the potential
+negative impact of tariffs, leading to a GDP growth that we estimate of around 1% in 2026.
+
+GDP growth in both UK and Eurozone decoupled According to the ECB lending survey, credit
+from U.S. in 2022 and their phase of the cycle is an conditions in Eurozone are giving support to GDP
+early recovery growth of around 1% YoY
+
+ UK Eurozone U.S. Credit conditions (left inverted) GDP YoY growth (rhs)
+
+3.8%
+
+ -1.5% 4%
+3.0% -1.0% 3%
+
+2.2% -0.5% 2%
+
+ 0.0% 1%
+
+1.4% 0.5% 0%
+
+ 1.0% -1%
+0.6% 1.5% -2%
+
+-0.2% 2.0% -3%
+
+ 2.5% -4%
+
+-1.0% 3.0% -5%
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+After some years of strong slowdown, corporate Germany’s 2026 budget includes the largest
+profits are now pointing to an inflection point to fiscal stimulus in recent history outside a
+equipment investment recession,equivalent to around 1.2% of GDP
+
+ Gross operating surplus (real terms) 3% Fiscal expansion
+ Equipment investment (rhs)
+
+ 10.0% 2%
+
+ 7.5% 10.0% 1.2%
+
+ 7.5% 1%
+ 5.0%
+ 5.0%
+ 2.5% 2.5% 0%
+
+ 0.0% 0.0%
+
+ -2.5% -2.5% -1%
+
+ -5.0% Fiscal contraction
+ -5.0%
+ -7.5% -2%
+
+ -7.5% -10.0%
+
+-10.0% -12.5% -3%
+ 2003 2006 2009 2012 2015 2018 2021 2024 1997 2001 2005 2009 2013 2017 2021 2025
+
+ Source: German budget. Draft September 2025
+Source of the remaining charts: Datastream and Santander AM
+
+ 19
+
+## Page 20
+
+Eurozone
+
+ Eurozone exports to U.S. soared right after the announcement of tariff rise, but has plunged since 2Q 25
+ Eurozone exports to U.S. Eurozone exports RoW ex U.S. (rhs) Eurozone total exports (rhs)
+
+ 8.8%
+50% Tariffs front-
+ loading 7.5%
+
+40%
+ 6.3%
+
+30% 5.0%
+
+20% 3.8%
+
+ 2.5%
+10%
+
+ 1.3%
+
+ 0%
+ 0.0%
+
+-10% -1.3%
+
+-20% -2.5%
+ Dec/22 Mar/23 Jun/23 Sep/23 Dec/23 Mar/24 Jun/24 Sep/24 Dec/24 Mar/25 Jun/25
+
+ Unlike the Fed, the ECB has already significantly eased its monetary policy in 2025, bringing the Deposit rate down to 2%, a level
+ close to what could be considered neutral; that is, a rate corresponding to the current scenario of growth and inflation, but which
+ also takes into account that we are still under the regime of substantial monetary expansion that began in 2015. Nevertheless,
+ we consider it likely that there will be a further rate cut to 1.75% in the first quarter of 2026 if business confidence does not
+ recover somewhat from its current low level.
+
+ The ECB rate in real terms is now below what the If Eurozone composite PMI fails to recover in the
+ ouput gap points to, suggesting that policy is no coming months, the ECB could cut again in 1Q 26
+ longer restrictive with a further 25 bps
+
+ Output gap Deposit rate in real terms (rhs) Composite PMI
+ Semestral change in ECB Deposit rate (rhs)
+
+ 70 2.5%
+ 3% QE ECB 2.25% 68
+ regime 2.0%
+ 1.75% 66
+ 2% 64
+ 1.5%
+ 1% 1.25% 62
+ 60 1.0%
+ 0.75% 58
+ 0% 0.5%
+ 0.25% 56
+ -1% 54 0.0%
+ -0.25% 52
+ -2% 50 -0.5%
+ -0.3% -0.75%
+ 48
+ -3% -1.25% 46 -1.0%
+
+ -4% -1.75% 44 -1.5%
+ -0.3%=2%-2.3% 42
+ -5% -2.25% 40 -2.0%
+
+ 2004 2008 2012 2016 2020 2024 1999 2003 2007 2011 2015 2019 2023
+
+ Source of all charts: Bloomberg, Datastream and Santander AM
+
+ 20
+
+## Page 21
+
+China
+
+We estimate that China’s economy will continue to show a Chinese GDP continues to show a clear downtrend,
+tendency towards deceleration in 2026 (as it has done for but still quite gradual, with growth rates around
+the past 15 years), although this will remain gradual. 4.5%/5%
+
+ GDP YoY growth GDP QoQ annualized rate
+This moderation in growth is being led by a contraction
+in the construction sector (which has not yet corrected its 10%
+supply imbalances), but it is being offset by the dynamism 9%
+of the industrial and services sectors. 8%
+
+ 7%
+In any case, fiscal policy will continue to provide support to 4.8%
+ 6%
+ensure that the slowdown in growth remains gradual. As a
+result, we forecast GDP growth of 4% in 2026 compared to 5%
+4.9% in 2025. 4%
+ 3% 4.4%
+
+ 2%
+
+ 1%
+ 2011 2013 2015 2017 2019 2021 2023 2025
+
+Both industrial and services GDP are growing The sharp contraction of the construction sector is
+at a solid pace, offsetting the recession in the due to the excess of supply that the high
+construction sector stock-to-sales ratio shows
+ Industrial GDP Services GDP Construction GDP Housing for sales-to-sales ratio
+ House price (real terms) (rhs)
+
+ 7 116
+9% 114
+
+ 6 112
+7% 6.2% 110
+
+ 5 108
+5% 106
+ 5.4% 104
+3% 4
+ 102
+
+ 100
+1% 3 98
+
+ 96
+-1% 2 94
+
+ 92
+-3% -2.3% 1 90
+
+ 2015 2017 2019 2021 2023 2025 2012 2014 2016 2018 2020 2022 2024 2026
+
+Despite the high public deficit, the fiscal policy continues to be a significant support to the economy
+
+22% 21.1%
+20% Government
+ issuance
+18%
+
+16%
+
+14%
+
+12%
+
+10% 8.8%
+ Total financing
+ 8%
+ 6% 7.1%
+ Companies
+ 4% financing
+
+ 2% 2.4%
+ 0% Lending to
+ 2018 2019 2020 2021 2022 2023 2024 2025 households
+
+Source of all charts: Bloomberg, Datastream and Santander AM
+
+ 21
+
+## Page 22
+
+03
+Local view
+
+ 22
+
+## Page 23
+
+Equities
+
+ U.S. equities remain our top asset class for 2026. A combination of sustained earnings growth,
+U.S. pro-investment incentives, and a supportive policy mix underpins this constructive view. The
+ current earnings cycle is broadening beyond technology, extending to a wider range of sectors
+ and company sizes, creating a balance between resilience, diversification, and return potential.
+
+ Equities
+ Our constructive outlook for Eurozone equities in 2026 is underpinned by the ongoing economic
+Eurozone recovery, contained inflation trending toward the ECB’s target, and attractive valuations. In this
+ supportive environment, we anticipate a significant rebound in corporate earnings, with growth
+ approaching double-digit levels. We believe it remains essential to maintain a selective focus on
+ high-quality companies with solid balance sheets and international exposure.
+ Equities - Small & Mid Caps
+
+ A selective approach in equities will be essential. We prefer small and mid-cap segments,
+Poland which we believe better reflect the realities of domestic economic environment. Unlike large-
+ cap companies in the WIG 20 index, smaller firms tend to be more agile and less affected by
+ external pressures. This segment offers a more accurate lens into Poland’s economic dynamics
+ and presents attractive opportunities for discerning investors.
+ Sovereigns
+ Yields remain high by historic standards, offering a genuine real premium over both U.S. Treasuries
+UK and Eurozone bonds. Cooling inflation, fiscal restraint, and an expected shift in gilt issuance all
+ support further out performance.
+
+ Local fixed income
+ The basic Selic rate is at very tight levels (15%) and the combination of moderate economic activity
+Brazil and declining inflation should allow the BCB to start an easing cycle early next year, with potential
+ dovish surprises. The global scenario will also provide support to local fixed income, particularly
+ with the expected cuts in U.S. rates.
+ Equities
+
+ We consider that equities are well positioned to outperform in 2026. Mexico remains among the
+Mexico few markets trading below historic averages. We expect a positive outcome from the USMCA
+ renegotiations and anticipate stronger investor demand from foreign investors with light positioning,
+ after several years of outflows, and from local pension funds with a growing asset base. We expect
+ economic and fiscal outlook improvement vs 2025.
+
+ Equities
+
+ With expected earnings growth above 5% and a dividend yield close to 4.5%, local equities could
+Chile deliver returns near 10%. This potential is reinforced by the consolidation of valuation multiples,
+ which have converged toward historical averages, and by a political environment leaning toward
+ growth and investment — factors that could further support equity market performance.
+ Equities
+
+ Argentine equities enter 2026 with attractive valuations and improving fundamentals. Fiscal
+Argentina continuity and progress on structural reforms could reignite growth and credit expansion. In addition,
+ the ability to attract inflows in a more predictable environment provides further support. Banks,
+ utilities, and energy are positioned to lead in a cycle of normalization and recovery.
+
+ 23
+
+## Page 24
+
+U.S.
+Climbing higher, broadening further
+
+ Francisco Simón, CFA
+ Head of Investment Strategy SAM
+
+The investment outlook for the U.S. in 2026 remains constructive. Growth continues to show resilience despite the drag from
+tariffs, whose negative effect on activity is temporary. The Fed has started a rate-cutting cycle as employment softens, and
+monetary policy moves toward neutrality. Fiscal incentives, focus on productive investment and corporate profitability, and
+selective deregulation support corporate investment, creating a favorable backdrop for risk assets.
+
+ Equities Earnings growth is
+
+ Corporate earnings remain the key driver of U.S. equity markets in 2026, with estimates broadening beyond
+ strengthening and broadening beyond the mega-cap technology names. Earnings for the mega-cap technology,
+ S&P 500 are expected to grow around 15% over the next twelve months, the equally supporting a more
+ weighted version should rise about 12% and U.S. small caps could accelerate to 22%, sustainable expansion
+ confirming a healthier distribution of profits across sectors and sizes. phase and favouring
+ cyclical and quality
+ The technology and AI ecosystem remains the main engine of earnings growth, with segments
+
+ the IT sector projected to deliver around 25%. However, the earnings growth is now
+ broader: cyclical and capex-intensive sectors are catching up, supported by the rebound
+ in investment and the normalization of monetary policy. This rotation signals a more
+ balanced and sustainable phase of expansion rather than a change in leadership.
+
+ Valuations remain elevated overall but consistent with double-digit earnings growth
+ and solid fundamentals. Within technology, multiples already sit near record highs—
+ around the 98–99th percentile of the last fifteen years—leaving limited scope for further
+ re-rating. In contrast, the broader market, and particularly U.S. small caps, trade closer
+ to long-term averages, offering room for multiple expansion as earnings momentum
+ broadens. We do not see signs of an AI bubble, but we continue to monitor potential
+ imbalances or unsustainable price trajectories that deviate from fundamentals.
+
+ Strategically, we maintain a cyclical and quality bias, staying positive on technology and
+ the broader AI value chain, financials benefiting from credit growth, lighter regulation, and
+ still-low NPLs, and on industrials and capital goods tied to the investment cycle. Small-cap
+ companies also stand out for their more attractive valuations and faster earnings recovery,
+ offering additional upside and diversification in portfolios under our scenario.
+
+Broadening earnings growth across U.S. market Valuations tight in tech, room to expand
+segments in small caps
+ EPSe YoY 2025 EPSe YoY 2026
+25%
+
+20% PE ratio Percentile
+
+ 12 month forward PE 1Y 15Y
+15%
+ S&P 500 22.4x 0.82 0.98
+ S&P 500 Equally-weighted 17.5x 0.43 0.76
+10%
+ S&P 500 IT 29.8x 0.80 0.98
+
+ 5% MSCI USA Small Cap 19.8x 0.66 0.53
+
+ S&P 500 S&P 500 Equally-weighted S&P 500 IT MSCI USA Small Cap
+
+Source of all charts: Bloomberg and Santander AM
+
+ 24
+
+## Page 25
+
+U.S.
+
+Fixed income
+
+Money market and Sovereigns
+Fixed income remains appealing for income generation in 2026, but returns are expected to
+come primarily from carry rather than capital gains. With monetary policy moving toward
+neutrality, yields should stabilize rather than fall sharply, and a major repricing in sovereign
+bonds appears unlikely outside a recession scenario. In this environment, investors should
+favor an income-oriented strategy built on coupon accumulation, moderate duration, and
+limited credit exposure, balancing positions between high-quality corporate bonds and
+medium-term Treasuries. In rates, we expect the curve to steepen gradually, with short-
+term rates falling faster than long-term yields.
+
+Inflation-linked bonds
+We see value in inflation-linked bonds as a source of diversification and protection against
+a potential rise in structural inflation. Although not our base case, a more dovish Fed or
+fiscal dominance could lift inflation over time, supporting a slight preference for linkers
+over nominals.
+
+Credit
+In credit, spreads remain near historical lows, limiting the potential for further compression.
+However, all-in yields in both investment-grade and high-yield remain attractive, supported With monetary policy
+by solid fundamentals and low default rates. We expect spreads to trade in a narrow range near neutrality, carry
+unless the macro backdrop deteriorates—a low-probability outcome under our assumptions. and active credit
+Overall, carry remains the dominant theme for fixed income in 2026, favoring diversified management remain
+exposure, active selection, and disciplined risk management over directional duration or the key drivers of fixed
+spread bets. income returns in 2026
+Currency (Dollar index)
+
+The USD is expected to remain broadly stable in 2026. Fed easing and the move toward
+neutral policy reduce the carry premium that supported the currency, but resilient growth Constructive
+and higher structural yields should offset depreciation pressures. The Dollar index will likely environment for U.S.
+stay range-bound, with modest downside as global policy rates converge. The main risk risk assets, supported
+stems from a more tolerant Fed toward inflation, which could erode confidence in the policy by moderate growth,
+mix and lead to gradual dollar weakness. gradual disinflation, and
+ a broadly stable USD
+
+Credit yields remain attractive despite tight spreads The USD expected to remain range-bound in 2026
+
+ USD High Yield: effective yield percentile USD index
+ USD High Yield: swap spread percentile 115
+
+ 1
+0,9 110
+
+0,8
+
+0,7 105
+
+0,6
+
+0,5 100
+
+0,4
+
+0,3
+0,2 95
+
+0,1
+
+ 0 90
+ 2020 2021 2022 2023 2024 2025 Jan/24 Jul/24 Jan/25 Jul/25
+
+Source of all charts: Bloomberg and Santander AM
+
+ 25
+
+## Page 26
+
+Eurozone Germany Spain
+A constructive case for European equities in 2026
+
+ Jacobo Ortega, CEFA
+ Chief Investment Officer SAM Europe
+ Equities
+
+ Eurozone We hold a positive view
+ on Eurozone equities
+ Looking ahead to 2026, Eurozone equities enter the year with a positive bias that we for 2026, supported
+ believe has room to extend, supported by a gradual recovery in economic activity and by economic recovery,
+ inflation expectations consistent with the ECB’s target. Relative valuations remain a contained inflation, and
+ key supporting factor: compared with U.S. markets, European equities continue to attractive valuations.
+ trade at a notable discount, reinforcing their appeal for diversification-driven inflows. Maintaining a selective
+ In addition, corporate earnings in the region are expected to post a significant rebound focus on quality
+ in 2026, increasing close to double digits. Cyclical sectors, which lagged in 2025, could companies with strong
+ perform better if investment and demand gain traction. Both fiscal and monetary cash generation and
+ policies in the Eurozone should act as stabilizing forces. Higher public investment could international exposure
+ cushion potential volatility in external demand. Combined with contained inflation, this remains key
+ environment would allow the ECB to maintain a neutral policy stance in the coming
+ quarters. Key risks include trade uncertainty, geopolitical tensions, and potential euro
+ appreciation against the dollar or other currencies, which could continue to weigh on
+ the region’s competitiveness. Our positioning favors a selective, quality-driven approach,
+ focusing on companies with solid cash generation, strong balance sheets, and diversified
+ international exposure.
+ Germany enters 2026
+ Germany with recovery potential
+ following recent
+ German equities approach 2026 with meaningful recovery potential after several quarters industrial weakness.
+ of industrial weakness and competitiveness loss. Traditionally the Eurozone’s growth Attractive valuations and
+ engine, Germany is undergoing a structural realignment aimed at laying the foundation fiscal stimulus further
+ for a more balanced and less trade-dependent cycle. Recent indicators suggest that the enhance its appeal. We
+ contraction phase is likely to have bottomed out, with GDP growth expected to accelerate maintain a preference
+ in 2026, supported by private consumption and stronger fiscal stimulus linked to defense for high-quality, mid-cap
+ and infrastructure spending. companies
+
+Earnings growth rebounds strongly
+ EPS 12 month forward S&P 500 EPS 12 month forward MSCI Europe
+ EPS 12 month forward IBEX 35 EPS 12 month forward EuroStoxx 50
+16%
+
+14%
+
+12%
+
+10%
+
+ 8%
+
+ 6%
+
+ 4%
+
+ 2%
+
+ 0%
+ Oct/23 Feb/24 Jun/24 Oct/24 Feb/25 Jun/25 Oct/25
+
+Source: Bloomberg, Datastream and Santander AM
+
+ 26
+
+## Page 27
+
+Eurozone Germany Spain
+
+ In relative terms, the German market continues to trade at attractive multiples compared
+ with other developed regions, reinforcing its capacity to attract value-oriented investors.
+ However, some risks persist, such as exposure to global trade, tensions with China, and
+ weakness in the real estate sector. Overall, Germany offers an appealing prospect based
+ on corporate quality and gradual recovery potential. We maintain a preference for high-
+ quality mid-cap companies.
+
+ Spain
+ Spain stands out as one of the Eurozone’s most consistent growth stories for 2026, with Spain is set to stand
+ solid macro fundamentals supporting a constructive view on its equity market despite out in 2026 for its
+ the strong gains of recent years. The main driver remains resilient domestic growth, solid growth, strong
+ supported by a firm labor market, robust consumption, and increasing investment. consumption, and rising
+ Spanish equities trade at attractive multiples, while recent credit rating upgrades investment. Attractive
+ enhance resilience and international appeal. We see value in sectors such as tourism, valuations and credit
+ services, renewables, construction, and financials. Risks include the sensitivity of upgrades remain
+ tourism, potential reversal of fiscal stimulus, and global uncertainty. Overall, Spain tailwinds. Key sectors:
+ retains a competitive and attractive opportunity, with the potential for sustainable tourism, renewables, and
+ revaluation and relatively lower risk within Europe. banking. We continue to
+ see relatively lower risk
+
+Fixed income
+
+Money market
+Barring a negative surprise in Eurozone growth in 2026, the policy rate appears to have
+reached its neutral level, which we expect to be maintained. In this stable environment, we
+foresee money market rates remaining around current levels, providing predictability and
+stability for short-term euro funds.
+
+Sovereigns Stable rates around
+The ECB is expected to keep the Deposit rate around 2%, favoring a neutral duration stance 2% support a neutral
+in European government bonds. Risk premia in non-core countries have remained notably duration stance. We
+stable, suggesting limited room for further spread compression. In Germany, high issuance see value in the 5–10
+volumes will continue to exert some pressure, while in France, political uncertainty and year segment and
+weaker fundamentals could keep spreads elevated, with the risk of additional widening. remain cautious on
+We remain positive on issuers with solid fundamentals and fiscal discipline, such as Spain. longer maturities due to
+The recent rate cuts have come with a steepening of yield curves, leading us to see value technical factors. We are
+in intermediate maturities —particularly between five and ten years— while maintaining positive on issuers with
+ solid fundamentals such
+ as Spain; more cautious
+ on Germany and France
+
+Attractive PE ratio in the Spanish equity market Credit spreads remain tight, supported by strong
+ IBEX 35 12 month forward PE demand
+ MSCI WORLD 12 month forward PE Yield (ERL0) Spread (bps) (rhs)
+
+22 5% 300
+
+20 250
+ 4%
+18
+ 200
+16 3%
+ 150
+14 2%
+
+12 100
+
+ 1% 50
+10
+
+ 8 0% 0
+ 2020 2021 2022 2023 2024 2025 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source of all charts: Bloomberg, Datastream and Santander AM
+
+ 27
+
+## Page 28
+
+Eurozone Germany Spain
+
+caution on longer tenors.
+
+Inflation-linked bonds
+In the Eurozone, inflation appears well anchored around the ECB’s target and is not currently
+a source of concern. Real yields remain historically high, and inflation-linked bonds provide
+protection against a potential inflation rebound while preserving the benefit of capital gains
+from rate declines.
+ Positive outlook for
+Credit European investment
+We maintain a positive outlook for the European investment grade credit market heading grade credit in 2026:
+into 2026. Although spreads are currently around 81 bps —near the 2017 lows (73 bps)— attractive yields (>3%),
+yields remain attractive, with an average return of 3.1%, clearly above the 10 years and strong demand, and
+20 years averages (1.8% and 2.7%, respectively), and still offering an additional premium monetary stability.
+over deposit rates. The asset class continues to enjoy strong demand, particularly from Spreads are near their
+retail investors, and we do not anticipate major shifts in the short to medium term, given lows but still have some
+ECB’s pause, gradual rate cuts by the Fed, and fiscal stimulus programs in countries such room to tighten given
+as Germany. Lower uncertainty surrounding tariffs and global growth also supports this solid corporate balance
+favorable backdrop. Default expectations for the next 12 months remain contained, ranging sheets. Default risk
+between 2.6% in the base case and 4.5% under a moderately adverse scenario. remains low
+Currency
+
+We expect the EUR/USD exchange rate to remain within a 1.12-1.20 range in 2026, reflecting
+a mixed environment for the European currency. While the euro could benefit marginally We expect EUR/USD to
+from a somewhat weaker dollar amid a more accommodative Fed and lingering institutional stay within the 1.12–1.20
+uncertainty in the U.S., the Eurozone’s structural fundamentals remain mixed. Moderate range in 2026. The
+growth, fiscal constraints, and limited political visibility in some countries will continue euro’s support from
+to cap the euro’s relative appeal, while rate and growth differentials still favor the dollar. fundamentals is limited,
+Overall, we anticipate a stable performance of the pair within a context of greater monetary while the dollar remains
+stability. favored by rate and
+ growth differentials.
+ Monetary stability
+ should help prevent
+ sharp moves
+
+The French budget and German spending set risk We expect a stable range between $1.12/€
+premiums and $1.20/€
+ France risk premia (bps) EUR/USD Range
+ Spain risk premia (bps) 1.25
+ Italy risk premia (bps)
+200
+
+180 1.2
+
+160
+
+140
+ 1.15
+
+120
+
+100
+ 1.1
+ 80
+
+ 60
+
+ 40 1.05
+
+ 20
+
+ 0 1
+ Jan/24 May/24 Sep/24 Jan/25 May/25 Sep/25 Jan/23 Jul/23 Jan/24 Jul/24 Jan/25 Jul/25
+
+Source of all charts: Bloomberg, Datastream and Santander AM
+
+ 28
+
+## Page 29
+
+Poland
+On track for another solid year
+
+ Szymon Borawski-Reks, CFA
+ Chief Investment Officer Santander TFI
+
+2025 proved to be a good year for Polish assets. Returns in both equities and fixed income are solid. Provided that international
+markets remain stable, we expect positive trends to continue also in 2026. However, most probably, they will not be as strong
+or straightforward as they have been until now.
+
+In equities we focus our attention on small and mid-caps which are less prone to issues such
+as regulatory pressures than blue chips. In fixed income we still see potential in most of the We expect positive
+segments of the local market thanks to limited inflationary pressure and further rate cuts. trends to continue into
+ 2026 in both equities and
+Equities fixed income
+
+We remain constructive on Polish equities heading into 2026, supported by several favorable
+macro and market-specific factors. Valuations remain compelling on a historical basis, with Valuations remain
+the WIG index trading slightly below its long-term average PE ratio. The WIG index valuation attractive with the WIG
+multiples also remain at a discount compared to broader emerging markets. The loose fiscal index still trading at a
+policy across the Eurozone, particularly the historic shift in Germany, should support regional discount to emerging
+economic growth, creating a more favorable backdrop for Polish companies. In addition, markets. We prefer small
+Poland is entering an accelerated phase of disbursement of EU Recovery Fund resources, and mid-cap segment,
+which is expected to further boost economic momentum and therefore companies’ earnings. which better reflects
+ The easy gains of 2025 are unlikely to be repeated, though. A selective and quality- the domestic economic
+ focused approach will be essential. We will direct our attention towards small and mid- environment
+
+ cap segments, which we believe better reflect the realities of the domestic economic
+ environment. Unlike large-cap companies in the WIG 20 index, smaller firms tend to be
+ more agile and less affected by external pressures. This segment offers a more accurate
+ lens into Poland’s economic dynamics and presents attractive opportunities for discerning
+ investors.
+
+Valuation of Polish equities remains attractive
+
+ WIG 12 month forward PE WIG 10Y average 12 month forward PE MSCI Emerging Markets 12 month forward PE
+
+ 17
+
+ 15
+
+ 13
+
+ 11
+
+ 9
+
+ 7
+
+ 5
+ 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source: Bloomberg and Santander AM
+
+ 29
+
+## Page 30
+
+Poland
+
+Fixed income
+
+Money market
+Despite 125 bps of rate cuts delivered so far in 2025, Polish money market still offers value.
+Constant over liquidity in Polish banks results in very low deposit rates for households. This
+structural mismatch combined with low volatility attracts most of the inflows to mutual
+funds in Poland. On the run floating rate bonds with higher than recent average discount
+margin additionally sweetens this pick.
+
+Sovereigns
+We see continuation of rate cuts in 2026 due to limited inflationary pressure. The terminal
+rate is still vague but higher sensitivity to the outcome is at the short-end of the bond We see rate cuts to
+curve. Meanwhile fiscal risk aversion enabled a limited decline in long-term bond yields continue in 2026 due
+(appreciation of its price). The current steepness of the curve prompts us to exploit the wide to limited inflationary
+difference between long and short bonds. The contained size of planned net issuance in pressure
+2026 and balanced approach of National Bank of Poland to rate cuts should limit the scope
+of further yield increases. Even though fiscal consolidation is far from present we perceive
+current risk premiums as adequately remunerating.
+
+Inflation-linked bonds
+Inflation linkers remain a niche in Poland as they constitute not more than 2.5% of the
+outstanding Polish government bonds. Their poor liquidity creates however an opportunity
+through cheaper valuations. After several rate cuts they still offer over 3% real yield.
+Moreover, while the inflation outlook is indeed improving, the current pricing of CPI in this
+instrument is lower than the target set by the NBP.
+
+Local credit
+We expect further growth in the size of the local credit market. Banks will remain the largest
+issuers, but we see a growing number of issues from other large entities from various sectors Credit spreads should
+that have not been present on the Polish market in previous years. We anticipate continued stabilize at low levels
+strong inflows into local corporate bond funds and money market funds, which should help thanks to strong inflows
+stabilize credit spreads at low levels. into local corporate bond
+Currency and money market funds
+
+In recent months the zloty exchange rate has been very stable, hovering within a narrow
+range of 4.23-4.29 against the euro despite interest rate cuts, current account balance
+deterioration, loose fiscal policy and negative revisions of Poland’s credit outlook by rating
+agencies. In 2026, the high budget deficit and falling real interest rates will remain a risk
+for the zloty, but these negative factors should be offset by relatively strong economic
+growth and the inflow of EU funds. Therefore, unless the geopolitical situation deteriorates
+significantly, we expect the zloty to remain stable.
+
+Lower inflation points to lower yields
+ Inflation YoY 10Y Polish bond yield
+
+20%
+
+15%
+
+10%
+
+ 5%
+
+ 0%
+
+-5%
+ 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Source: Bloomberg and Santander AM
+
+ 30
+
+## Page 31
+
+UK
+Reasons to be cheerful
+
+ James Ind, CFA
+ Chief Investment Officer SAM UK
+
+This time last year, we suggested the relative cheapness of UK assets could pave the way for positive surprises in 2025 - and so
+it proved. Despite sticky inflation, fiscal pressures, and certain political tension, UK equities are on track to deliver their strongest
+returns in three decades. There are good reasons to believe this dissonance can continue through 2026.
+
+The local mood has been decidedly pessimistic this year. With record tax hikes, stuttering growth, and inflation stuck in a 3.5-4%
+range, there was plenty to complain about. The deterioration in public finances has fed intense angst about a further round of
+tax increases.
+
+The relative picture, however, is less negative. After 0.9% GDP gains in the first half, the UK is now projected to deliver the
+strongest growth in the G7 after U.S. The level of national debt is no worse than most major advanced economies, the primary
+deficit is on track to turn to surplus, and the UK was treated leniently in the application of U.S. trade tariffs.
+
+The government will have three objectives: to maintain fiscal discipline, improve growth, and temper inflation. It may prove too
+difficult to successfully achieve all three, but we can expect government policies specifically targeted at soothing the Gilt market,
+even if they come at the expense of short-term political pain.
+
+There is room for gains as investors start to consider fiscal sustainability a non-issue, and that inflation may have peaked,
+releasing the Bank of England to cut rates.
+
+Another long running UK theme is the under-ownership of UK equities by local investors, both pension funds and individuals.
+We can expect measures that specifically target this issue, in particular by tax incentivising savers to invest into UK markets.
+
+Risks, of course, remain: from politics to inflation persistence to global volatility. But if 2025 was the year UK markets surprised
+on the upside, 2026 may well be the year they consolidate those gains.
+
+Equities Despite sticky inflation,
+ fiscal pressures, and
+After years in the doldrums, UK equities have enjoyed a renaissance. Following a roughly political discontent, UK
+25% rally from last year, 2025 has so far been one of the most profitable periods for UK equities are on track to
+investors in three decades. deliver their strongest
+ returns in three decades.
+
+UK equities: still reasonably valued (20-year historical range by region)
+
+25
+23 Normal range
+ 23 Max: 23 Current PE
+21
+
+19
+17 Max: 19
+ Max: 17
+15 15
+
+13 13
+
+11
+ 9 Min: 9
+
+ 7 Min: 7 Min: 7
+
+ 5 U.S. Europe UK
+
+Source: Bloomberg and Santander AM
+
+ 31
+
+## Page 32
+
+UK
+
+Valuations are no longer at the extreme discounts of 2023, yet they remain undemanding
+compared with global peers. By some measures UK equities still trade near a 50% discount We can expect
+to U.S. markets, and also below Eurozone indices. The UK provides exposure to many high- government policies
+quality companies that trade at valuations well below their international peers. specifically targeted at
+The global market rally has been led yet again by global tech giants, notably absent from soothing the Gilt market,
+the UK stock market. But the local sector composition, with heavyweights in energy, mining, even if they come at the
+defence, and financials, has still been well suited to the macro environment of solid nominal expense of short-term
+growth and persistent geopolitical tension. political pain
+
+Meanwhile, domestic investors remain conspicuously under-allocated: UK pension funds
+hold less than 10% of their equity exposure in domestic companies, a figure many argue Pension funds hold less
+should rise to 20%-25%. Should the November budget take steps in that direction, the than 10% of their equity
+structural re-rating of UK equities could have further to run, particularly given the huge exposure in domestic
+potential pool of domestic savings. Moreover, this could be the catalyst for the long overdue companies, a figure many
+recovery of smaller UK companies. argue should rise to
+ Fixed Income 20%-25%. Should the
+ November budget take
+ Sovereigns steps in that direction,
+ From being the problem child of global fixed income in 2022, UK government bonds the structural re-rating
+ have become one of Europe´s best performing sovereign markets this year. Yields remain of UK equities could have
+ high by historic standards, offering a genuine real premium over both U.S. Treasuries and further to run
+
+ Eurozone bonds. Cooling inflation, fiscal restraint, and an expected shift in gilt issuance
+ all support further outperformance. Inflation-linked bonds offer attractive risk/reward
+ trade-offs at these levels.
+ Cooling inflation,
+Credit fiscal restraint, and an
+Credit was our top pick last year, with strong risk-adjusted gains so far in 2025. There is expected shift in gilt
+further potential should inflation decline over 2026, though any additional boost from issuance all support
+credit spread narrowing is likely to be more limited. further out performance
+Currency
+
+The pound has traded in a relatively narrow range against both the dollar and the euro,
+reflecting a balance of offsetting forces: stronger growth on one side, and the prospect of a
+more dovish Bank of England on the other. Whilst there could be vulnerability from political
+volatility, sterling looks unlikely to be a key driver of returns in 2026.
+
+UK Debt sustainability within reach
+
+1,0%
+ 0.67%
+0,5% 0.45%
+ 0.13%
+0,0%
+ UK Primary fiscal balance
+ -0.23% (deficit/surplus before
+-0,5% interest payments) % GDP
+
+-1,0%
+ -0.97%
+
+-1,5%
+
+-2,0% -1.82%
+ 2025 2026 2027 2028 2029 2030
+
+Source: IMF, Fiscal Monitor October 25
+
+ 32
+
+## Page 33
+
+Brazil
+2026: A year of opportunities and challenges
+
+ Mário Felisberto
+ Chief Investment Officer SAM Brazil
+
+We expect the Brazilian economy to remain on its gradual rebalancing path next year. After an extended period of restrictive
+monetary conditions, the Brazilian Central Bank (BCB) is expected to start an easing cycle in early 2026, with the policy rate
+(Selic), currently at 15.0%, declining to around 12.5% by the end of next year. If confirmed, this will be a smooth transition,
+with the BCB recognizing both softer activity and more moderate inflation, while keeping the prudence required to achieve
+more sustainable disinflation and clearer convergence towards the inflation target. In this context, we believe real rates will still
+remain on restrictive territory for some time.
+
+On the activity side, evidence is pointing to moderation, with GDP expected to grow 1.5% in 2026. Credit growth has slowed
+in line with tighter financial conditions, while the labor market shows incipient signs of softening. As a result, we expect the
+currently heated demand to normalize going forward. This scenario considers a gradual deceleration toward a more balanced
+economy, not involving a recession.
+
+In terms of inflation, we have also seen improvement throughout 2025. Industrial goods
+have gone through clearer disinflation on the back of currency appreciation. Service inflation, We expect the Brazilian
+while still running at high levels, has eased. Weaker activity and accommodation in inflation economy to remain on its
+expectations are expected to support further deceleration. We forecast a CPI between 4.0% gradual rebalancing path
+and 4.5% in 2026. next year
+
+As the year unfolds, the focus will increasingly shift to the elections, that will take place
+in the last quarter of 2026. Given the structural challenges of the economy - particularly
+increasing public debt, already high by emerging markets standards -, it will be important
+to monitor the economic discussions. In this context, proposals regarding public accounts
+and structural reforms are key. Favorable signs can potentially lead to appreciation of
+local assets, especially considering current valuations. Of course, the opposite is true, as
+postponing the necessary adjustments can have an impact on risk perception.
+
+Equities
+
+We are starting 2026 with a positive, yet cautious, view for Brazilian equities. Our framework
+consists of a supportive global environment for emerging markets, combined locally with
+attractive valuations, healthy earnings prospects, and expectations of a monetary easing cycle.
+
+A likely easing cycle in the beginning of 2026
+ Selic rate (%) and SAM forecast
+
+16 15.0
+
+14
+
+12
+
+10 12.5
+
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+ 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+Source: BCB and Santander AM
+
+ 33
+
+## Page 34
+
+Brazil
+
+Importantly, policy discussions involving the election next year will be key, with relevant
+potential impact in both directions.
+
+Fixed income
+
+Money market
+The Brazilian economy will remain on a rebalancing path in 2026, although at a more
+advanced stage. Expected deceleration in activity and inflation will likely allow the BCB to
+reduce the policy rate (Selic). However, fiscal challenges and inflation still running above
+the target recommend a gradual approach. We expect the policy rate to decline to 12.5% by
+2026 year-end from the current level of 15.0%. As a result, cash positions remain appealing
+and an attractive source of return for investors.
+
+ Local fixed income, Sovereigns and Inflation-linked bonds
+ We have a constructive view on local fixed income, considering both nominal and
+ inflation-linked curves. The macro scenario looks positive, as the BCB should start an
+ easing cycle at the beginning of 2026, and there is some asymmetry towards a more As the year unfolds, the
+ dovish path than our baseline forecast. In terms of valuation, current yields point to an focus will increasingly
+ above-average term premium in general. shift to the elections, that
+
+ On the other hand, policy guidelines and domestic structural debates still recommend will take place in the last
+ some caution as they could still weigh on expectations and risk perception in general. The quarter of 2026
+ election cycle could also lead to relevant movements across the curves.
+
+Local credit
+We see credit as an attractive opportunity for 2026, although not as strong as it has been
+in 2025. The Selic rate should still be high -from the current 15% dropping to 12.5%
+throughout the year- and fundamentals of the companies remain sound, with moderate
+growth. On the other hand, credit spreads declined substantially in the last two years and
+are now at relatively tight levels.
+
+Currency
+
+We still see most of the fundamentals regarding the Brazilian real (BRL) as positive. Valuation
+looks cheap from a long-term perspective, while carry tends to remain high despite the
+expected easing cycle by the BCB. A possible favorable global background for energing
+markets could also support BRL . On the other hand, current account is running with higher
+deficits amid heated domestic demand and lower commodity prices. Given the election
+cycle, policy guidelines will also be relevant to determine the currency trend throughout the
+year, and it is reasonable to expect some volatility.
+
+Currency still above its long-term average
+ BRL Real effective exchange rate Historical average
+
+130
+120
+
+110
+
+100
+ 90
+
+ 80
+
+ 70
+ 60
+
+ 50
+
+ 40
+ 30
+ 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+Source: BCB, Bloomberg and Santander AM
+
+ 34
+
+## Page 35
+
+Mexico
+There is life after tariffs
+
+ Rafael Buerba, CFA
+ Chief Investment Officer SAM Asset Management*
+
+Mexico has weathered through 2025 with a lower tariff vs the rest of the world, including its main trading competitors. Worst-
+case scenario fears have vanished, although investor attention now turns to the USMCA review process. We expect the trade
+agreement to be renewed by mid-2026, but the final handshake could be preceded by a long and complex negotiation process.
+Mexico economic forecasts have been revised upwards due to a clearer trading scenario, a looser than expected fiscal policy
+and for next year, higher private and public investment forecasts. Notwithstanding this, GDP growth estimates remain below
+potential. Finally, the rate-cutting cycle is close to its end, the central bank has substantially reduced the restrictive stance and
+points to brighter low-interest rate conditions in 2026.
+
+ Local assets had a very
+ Equities good performance in
+ 2025. Relative positioning
+ Valuations remain below historic averages and corporate results have beaten consensus in trade tariffs vs other
+ expectations in 2025. As previously mentioned, Mexico’s trading landscape has improved countries seems favorable
+ vs the beginning of 2025 and boosted Mexican equities to be the best local asset class in and the macro outlook
+ the year and among the best stock markets across the globe. For 2026, we expect the rally has improved
+ to extend and market multiples to narrow the gap vs historic levels. The latter would be
+ driven by the more benign macroeconomic environment if a USMCA positive resolution
+ is achieved and further interest rate cuts are implemented during the first half of the
+ year. Furthermore, we expect an earnings acceleration coming from higher consumer Mexican equities have
+ confidence, a private investment recovery and a potential nearshoring renaissance. gained close to 40% in
+ USD terms during 2025;
+ yet current valuation
+Fixed income remains below historic
+ averages. Interest rates
+Money market have dropped from
+The policy rate is close to 400 bps below its 2024 peak, but space remains for further cuts. 11.25% to 7.5% and
+We forecast a terminal rate of 6.50-6.75% to be reached by mid-2026. Our investment there is still space for
+strategy will be positioned in floaters (both sovereign and corporate) and will likely imply a further cuts
+gradual duration trim as we approach the last part of the expansionary cycle.
+
+México’s tariff advantage is widening Mexican equities have anticipated investment
+ 1995-2024 Average August 2025 turnarounds
+ MEXBOL-Indice de Precios y Cotizaciones (IPC)
+ 0% Gross fixed investment Index (rhs)
+
+ -5% 70.000 120
+
+-10% 60.000 110
+
+-15% 50.000 100
+
+-20% 40.000 90
+
+-25% 30.000 80
+
+-30% 20.000 70
+
+-35% 10.000 60
+
+-40% 0 50
+ Tariff differential
+ (Mexico vs RoW) Tariff differential (Mexico vs China)2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+Source: Secretaría de Hacienda with information from U.S. Census Bureau and Federal Register Source: Bloomberg and INEGI
+
+* SAM Asset Management, S.A. de C.V., S.O.F.I.
+
+ 35
+
+## Page 36
+
+Mexico
+
+Sovereigns
+As the easing cycle reaches its final phase in 2026, we believe that the relevance of the term Easing monetary policy
+premium’s magnitude will increase. In 2025 we have already witnessed some yield curve shall enter its final phase
+normalization (positive slope), but the steepening trend shall continue for 2026. In this in 2026. The yield curve
+scenario, gains coming from further rate cuts will be more palpable in short and medium- slope should continue
+term maturities (2-5 years) vs the longer end of the curve (10-30 years). Therefore, our normalizing and tactical
+2026 strategy will involve cutting duration towards the mid-part of the yield curve; put in bond maturity selection
+different words, our focus will transition from a duration focus to a tactical cherry picking of will be key. We will likely
+maturities. reduce duration towards
+Inflation-linked bonds the medium part of the
+Short-term inflation linkers’ valuation implies inflation levels below or at most near curve
+consensus expectations. However, longer-dated instruments have been boosted by what
+appears to be structural domestic institutional holder demand. This has led to a flat yield
+curve in Mexican long-term real rate instruments, far from the curve normalization seen
+in nominal MXN or USD rates. Hence, for 2026 our strategy will overweight intermediate
+durations (7-10 years) and underweight the long-end of the curve.
+
+Local credit
+We maintain an overweight position in credit, mainly in money market portfolios, whose
+strategy relies mostly on generating an attractive carry and held to maturity instruments.
+Issuer selection is based on fundamental analysis and bond relative valuation. As duration
+will likely contribute to lower added value vs 2025, higher yielding bonds with an attractive
+credit profile will be key in 2026 to obtain a favorable performance.
+Currency
+
+The MXN should continue its appreciating trend in the short-term sustained by positive
+GDP surprises, a weak USD global environment and the fiscal consolidation executed by the
+Mexican government. However, it is important to realize that real effective exchange rate
+models point to a peso currently trading at over-valued levels vs the dollar. As the interest
+rate differential between Mexico and the U.S. narrows and the USMCA re-negotiation
+enters heated conversations before its final resolution, short term headwinds may affect the
+currency performance in early 2026.
+
+Mexican equities: Among the few markets trading MXN: Short term appreciating trend, but
+below historic levels vs 20-year historical averages fundamentals suggest an overvalued currency
+
+ Current PE Average PE Fair Value (REER) MXN monthly average
+25.0x
+ 22
+
+ 21
+20.0x
+
+ 20
+
+15.0x
+ 19
+
+10.0x 18
+
+ 17
+
+ 5.0x
+ 16
+
+ 15
+ oo
+ 0.0x
+ LatAm U.S. Europe APAC EM Mexico Nov/21 May/22 Nov/22 May/23 Nov/23 May/24 Nov/24 May/25Nov/21 May/22 Nov/22 May/23 Nov/23 May/24 Nov/24 May/25
+
+Source: Bloomberg and Santander AM Source: Banxico and Santander AM
+
+ 36
+
+## Page 37
+
+Chile
+ 2026: Challenges that unlock new opportunities
+
+ Diego Ceballos
+ Chief Investment Officer SAM Chile
+
+ An expected growth slightly below 2%, together with inflation that continues to moderate and approach the central bank’s
+ target range, would set the stage for additional monetary policy rate cuts, contributing to a more favorable domestic
+ macroeconomic balance. On the external front, positive factors stand out — such as the continuation of the expansionary
+ phase of the global economy and a copper price remaining above USD 4.5/lb — both of which would support a positive
+ outlook for the Chilean peso.
+
+ Domestically, 2026 will mark the first year of implementation for the new government and Congress, elected at the end of
+ 2025. Although the electoral outcome remains uncertain, current polls give the opposition and right-wing sectors a slight
+ advantage. In this context, fiscal deficit reduction, economic growth stimulus, and job creation will represent significant
+ challenges, but also relevant opportunities to strengthen the country’s outlook during 2026
+
+ Equities Solid growth, converging
+ After a very positive 2025 for Chilean equities — with returns exceeding 35% in USD, inflation, global
+ largely in line with what was observed across emerging markets in general and Latin expansion, and high
+ America in particular — we expect 2026 to be a year of consolidation. In a neutral scenario, copper prices support
+ without incorporating potential changes in economic or investment policies, we forecast local assets
+
+ earnings growth of around 5% for the Chilean stock market, with strong dependence on
+ the evolution of commodity prices such as pulp and lithium.
+
+ Current valuations — around 12x price-to-earnings — suggest that much of the market
+ discount relative to historical averages has already corrected over the past five years. We forecast earnings
+ However, the recent rally still leaves room for upside when considering longer horizons, growth of around 5%
+ such as 10 years.
+
+ We estimate that a fair value multiple for Chile under current conditions is close to 14x.
+ For a more substantial revaluation, the country will need to strengthen its trend growth,
+ consolidate fiscal accounts, and continue deepening the capital markets.
+
+ Valuations remain at attractive levels
+
+ IPSA PE 12 month forward IPSA Average PE Standard deviation
+
+ 20.0
+
+ +2
+ 17.5
+
+ 15.0 +1
+
+ 12.5
+
+ 10.0
+ -1
+
+ 7.5
+
+ -2
+
+ 5.0
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Source: Bloomberg, Riskamerica and Santander AM
+
+ 37
+
+## Page 38
+
+Chile
+
+Fixed Income
+Money market Rates near historical
+Inflation is expected to converge to the central bank’s 3% target during the first half of 2026, averages support local
+allowing the Monetary Policy rate to reach its neutral level (4.0%–4.25%) within the same fixed income
+
+period — effectively concluding the rate-cutting cycle that began in 2023. Given this context,
+we expect average returns for money market instruments, supported by stable carry and
+inflation anchored at the 3% target.
+
+Sovereigns
+Chilean local-currency sovereign bonds currently offer attractive yields relative to their
+historical averages, particularly in the 2- to 5-year segment. Based on this, we expect solid
+returns for fixed income, albeit somewhat more moderate than those seen in 2025. This
+reflects the fact that the Monetary Policy rate is nearing its neutral level and much of the
+adjustment path is already priced in. Additionally, the fiscal deficit is expected to converge
+toward a structural 1.1% in 2026, with the debt-to-GDP ratio stabilizing around 40%. This
+would be positive news, implying reduced sovereign debt issuance.
+
+Inflation-linked bonds
+Inflation-indexed (UF-denominated) bonds offer effective protection against unexpected
+inflationary spikes over the medium term. While their performance should mirror that of
+nominal sovereign bonds — given that inflation expectations remain anchored at the central
+bank’s 3% target — these instruments enhance the risk-return profile by providing inflation
+hedging. This makes them an attractive option for investors seeking protection against
+unforeseen price fluctuations.
+
+Local credit
+Chilean corporate bonds traded with spreads below historical averages in 2025, driven by
+strong demand for local fixed income. Additionally, maturities exceeded new issuance during
+the year. This combination of higher demand and lower supply has led to spread compression,
+although not yet to historical lows. For 2026, we expect this trend to persist, with the
+differential versus sovereign bonds narrowing further. However, this segment presents higher
+relative risk, as it often serves as a release valve during episodes of market stress.
+
+Currency
+
+The outlook for the Chilean peso (CLP) in 2026 remains favorable. In a context of global U.S.
+dollar depreciation, a wider interest rate differential versus the U.S., along with supportive
+local dynamics and a copper price around USD 4.5–5.0/lb, should help maintain the
+appreciation trend observed in 2025.
+
+Converging inflation expectations create room for Mid-curve rates are broadly aligned with their
+additional cuts in the Monetary Policy Rate (TPM) long-term averages
+ 3-5Y Chilean government yield (CLP)
+ 12 month expected inflation Monetary Policy Rate 3-5Y Inflation indexed bonds (UF) yield
+ Lower bound / Upper bound of the inflation target range 10 Y average 10 Y average
+12% 10%
+
+10% 8%
+
+ 6%
+ 8%
+
+ 4%
+ 6%
+ 2%
+
+ 4%
+ 0%
+
+ 2% -2%
+
+ 0% -4%
+ 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Source of all charts: Bloomberg, Riskamerica and Santander AM
+
+ 38
+
+## Page 39
+
+Argentina
+ From adjustment to building forward
+
+ Cristian Brau, CFA
+ Chief Investment Officer SAM Argentina
+
+ After two years focused almost exclusively on macroeconomic stabilization — centered on fiscal consolidation, disinflation, and
+ monetary normalization — 2026 is shaping up to be the year when Argentina must broaden its political base to consolidate and
+ deepen structural reforms.
+
+ The key challenge will be transforming the achieved stability into sustainable growth, supported by a new governance pact that
+ allows for the first major reforms in labor and tax policy. These changes are essential to revive investment, rebuild productivity,
+ and reactivate formal employment, opening a new expansionary cycle after the adjustment phase.
+
+ In this context, the main determinant for 2026 will be the preservation of the fiscal anchor
+ without stifling activity, and combining macroeconomic predictability with clear signals The Argentine economy
+ of institutional normalization. If this balance holds, the Argentine economy could move could move beyond
+ beyond the defensive logic of stabilization and re-enter a stage of asset revaluation and the defensive phase of
+ real growth. stabilization and enter a
+ new cycle of real growth
+ Equities and asset revaluation
+
+ After a 2025 marked by profit-taking, volatility and valuation corrections following the
+ strong rally of 2024, the Argentine equity market enters 2026 with more reasonable Argentine equities stand
+ multiples and an attractive starting point. In a constructive scenario — with stronger as our preferred asset
+ political backing, progress on labor and tax reforms, and continued fiscal discipline — class for 2026, offering
+ a gradual recovery in valuations and renewed inflows into local equities are expected. the best balance between
+ Banks could lead the rebound amid credit normalization, while consumption and energy attractive valuations,
+ sectors stand to benefit from real wage growth and improved regulatory predictability. recovery potential,
+ Argentine equities thus offer a compelling entry point, with a favorable risk-reward and exposure to real
+ profile within local assets. economic growth
+
+ Argentine equities offer a compelling entry point, with a favorable risk-reward profile within local assets
+
+ S&P MERVAL PE 12 month forward S&P MERVAL Average PE Standard deviation
+
+ 25
+
+ 20
+
+ 15
+
+ +1
+
+ 10
+
+ -1
+ 5
+
+ 0
+ 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Source: Bloomberg and Santander AM
+
+ 39
+
+## Page 40
+
+Argentina
+
+Fixed income
+
+Sovereigns in USD
+In a constructive 2026 scenario, we expect a gradual compression of sovereign risk and a
+closer convergence with emerging market and global high yield debt. With domestic noise
+subsiding, the performance of Argentine bonds could re-align with regional and global
+spread movements, increasingly driven by Fed policy and global liquidity conditions. This
+environment would offer moderate price appreciation potential and improved relative value,
+as Argentine debt transitions from an isolated risk profile toward a more integrated position
+within the high yield universe.
+
+Money market and Local debt
+In 2025, the peso market was defined by a sharp rise in real rates and unusually high intraday The main challenge
+volatility, reflecting the limited depth of the financial system and frequent interventions for the local debt and
+to sustain monetary stability. Money markets operated defensively, with abrupt moves in overnight rate markets
+overnight rates, while local bonds experienced pronounced price swings with each shift in in 2026 will be to leave
+inflation or policy expectations. In 2026, a constructive scenario should bring a normalization behind extreme volatility
+of the peso yield curve, with real rates converging to more sustainable levels and lower daily and achieve sustainable
+volatility. As inflation expectations stabilize and monetary policy becomes more predictable, real rates consistent with
+investors could gradually extend duration, shifting from short-term liquidity toward medium an expanding economy
+and long-term instruments. This environment should allow for an orderly recovery of the
+local debt market, restoring the carry trade as a relevant source of real returns.
+
+Local credit
+In 2025, corporate bonds outperformed sovereigns in volatility-adjusted return metrics,
+supported by solid balance sheets and limited exposure to political risk. For 2026, within a
+more stable and reform-oriented context, they should offer an attractive yield pickup versus
+sovereign and regional debt, supported by high credit quality and limited potential for capital
+gains but a competitive carry for institutional portfolios.
+Currency
+
+After a challenging 2025 for the exchange rate, the Argentine peso will face opposing forces
+in 2026. On one hand, fiscal discipline, structural reforms, and greater access to external
+financing — from both private markets and U.S. Treasury support — should exert pressure
+toward a real appreciation. On the other, the need to rebuild international reserves will act
+as a counterbalance. As remaining capital controls are eased and market depth and liquidity
+increase, volatility should decline and the peso should trade in a more orderly manner, though
+the underlying trend remains uncertain. We maintain a neutral stance on the currency.
+
+Argentine risk converging toward emerging market The challenge in the peso market is to reduce both
+high yield levels the level and volatility of interest rates
+ EMBI Argentina spread / BBG Emerging Markets HY 30D Term Deposit rate 1D Banking Repo rate
+ Index spread 1D Market rate
+ BBG Emerging Markets HY Index spread (bps) (rhs) 160%
+
+5 1600 140%
+
+ 1400 120%
+4
+ 1200 100%
+
+3 1000
+ 80%
+ 800
+2 60%
+ 600
+
+ 400 40%
+1
+ 200 20%
+
+0 0 0%
+ 2008 2010 2012 2014 2016 2018 2020 2022 2024 Jan/25 Feb/25 Mar/25 Apr/25 May/25 Jun/25 Jul/25 Aug/25 Sep/25 Oct/25
+
+Source of all charts: Bloomberg, Banco Central de Argentina and Santander AM
+
+ 40
+
+## Page 41
+
+Japan Asian Emerging Markets Commodities
+
+ Japan
+Towards a more balanced phase
+
+ Tomás García-Purriños, CFA, CAIA
+ Investment Strategy Senior Strategist SAM
+
+Since the pandemic, Japan has transitioned from decades of semi-deflation to a phase of persistently rising prices above 2%. After
+years of ultra-expansionary policy and yield curve control, the Bank of Japan began a gradual normalization in 2024, although
+its stance remains accommodative. The economy is in a phase of moderate expansion, with real GDP growth expected to reach
+around 1.1% in 2025, supported by private consumption, domestic investment, and a tight labor market. In 2026, growth is
+expected to moderate slightly, aligning with potential. The tight labor market, underpinned by the largest wage increases in
+decades, confirms a structural shift in the inflation regime. At the same time, inflation is expected to slow gradually towards the
+BoJ’s 2% target, supporting a very gradual path of policy normalization. This backdrop of still-loose monetary conditions and
+nominal growth around 3% could lay the foundations for a more balanced economic phase, providing support to risk assets.
+
+Markets
+
+Overall, Japan approaches 2026 with a combination of sustainable inflation, resilient
+corporate earnings, and structural reforms that underpin a constructive view on risk assets. The labor market remains
+The projected pace of nominal growth provides a favorable setting for corporate profits. tight, accompanied by
+Strong consumption, rising wages, and improving domestic investment are offsetting the strongest wage
+external weakness, while the BoJ’s gradual normalization enhances policy credibility increases in decades,
+without causing disruptions. consolidating a structural
+Structurally, Japan benefits from a compelling combination: ongoing corporate reforms, shift in the inflation
+solid balance sheets, and a market historically underweighted by international investors. regime
+
+Measures to improve market efficiency, pressure from activist shareholders, and the rise in
+share buybacks justify further multiple expansion, as long as the “virtuous reflation” Japan
+has sought for decades continues to take hold.
+
+This positive outlook could be further reinforced by stronger fiscal momentum under
+the new government, which has expressed willingness to introduce additional stimulus Japan benefits from a
+targeting strategic sectors such as defense, digitalization, and advanced technology. Public compelling combination
+spending focused on innovation, automation, and energy resilience would not only support of corporate reforms,
+short-term growth but also enhance productivity, helping to offset demographic headwinds. solid balance sheets,
+ and a market historically
+A constructive view on equities does not imply a negative stance on the yen. Although short- underweighted by
+term divergences between the currency and the equity market may persist, the environment international investors
+
+Interest rates in Japan are normalizing gradually Return to nominal growth above 2.5%
+
+ 3M Japan bond yield 10Y Japan bond yield Japan GDP Consensus 2026
+ Japan CPI Consensus 2026
+
+ 2.0% 2.0%
+
+ 1.8%
+ 1.5% 1.6%
+
+ 1.4%
+ 1.0% 1.2%
+
+ 1.0%
+ 0.5% 0.8%
+
+ 0.6%
+ 0.0% 0.4%
+
+ 0.2%
+-0.5% 0.0%
+ Dec/23 Jun/24 Dec/24 Jun/25 Jan/25 Mar/25 May/24 Jul/25 Sep/25
+
+Source of all charts: Bloomberg and Santander AM
+
+ 41
+
+## Page 42
+
+Japan Asian Emerging Markets Commodities
+
+of anchored inflation and gradual normalization is not unfavorable for the yen. As rate
+differentials narrow and domestic investment flows return, the Japanese currency could
+appreciate moderately in 2026.
+
+ Asian Emerging Markets
+Constructive outlook amid demanding valuations
+
+We maintain a relatively positive view on risk assets across Emerging Asia. China may offer
+tactical opportunities supported by policy shifts, while India remains the structural driver of China may offer tactical
+regional growth. opportunities supported
+ by policy shifts, while
+China heads into 2026 with moderate growth and persistent imbalances in the real estate India stands as the main
+sector, but also with a clearly expansionary policy stance. Authorities have strengthened pillar of regional growth
+fiscal support—focused on technology, defense, and green infrastructure—while keeping
+monetary conditions accommodative. This combination could enable tactical rebounds in
+Chinese equities.
+
+Although valuations are relatively demanding, we favor a selective exposure to capture
+potential rebounds by combining the Hang Seng —where financials and technology could
+benefit from a gradual improvement in investor sentiment— with the CSI 300, which reflects
+domestic economic trends and shows lower correlation with global equities.
+
+India continues to display structural strength, with robust growth, contained inflation, and
+a reform agenda that keeps attracting capital inflows. Indian equities have lagged China’s in
+relative terms, but we believe this divergence creates additional upside potential for 2026,
+as external risks—such as tariff uncertainty—diminish and multiple expansion resumes,
+supported by solid fundamentals.
+
+Indian equities could close the gap with China in 2026
+ MSCI China MSCI India
+
+150
+
+140
+
+130
+
+120
+
+110
+
+100
+
+ 90
+
+ 80
+ Dec/24 Feb/25 Apr/25 Jun/25 Aug/25
+
+Source: Bloomberg and Santander AM
+
+ 42
+
+## Page 43
+
+Japan Asian Emerging Markets Commodities
+
+ Commodities
+We remain positive on gold
+
+ Gold remains on an upward trend, driven by sustained central banks purchases and In addition to structural
+ renewed investor interest after years of outflows. In addition to its role in reserve drivers of reserve
+ diversification, the perception that monetary authorities are adopting a more balanced diversification, there is a
+ approach between growth and inflation enhances gold’s appeal as a long-term asset. growing perception that
+ Both official and financial flows suggest that the current bullish cycle could extend further. monetary authorities
+
+Our outlook for industrial metals is mixed. Demand linked to the energy transition and are maintaining a more
+infrastructure investment should remain supportive, but rising supply and slower growth in balanced approach
+China will likely cap the recovery potential. Overall, we expect a stable price environment, between growth and
+with profit margins constrained by excess capacity. inflation
+
+In oil, we anticipate an oversupplied market in 2026, given increased production from both
+OPEC members and other producers. In this context, we estimate Brent prices in the 55–60
+USD per barrel range—levels consistent with sustaining expected production and absorbing
+potential demand-side surprises without triggering abrupt adjustments. Risks remain
+primarily geopolitical. Overall, we continue to favor gold as the preferred hedge against
+these risks.
+
+Investors are clearly increasing their demand for gold
+
+ Jewellery (Tn) Industrial (Tn) Investment (Tn) Central banks & other institutions (Tn)
+
+6,000
+
+5,000
+
+4,000
+
+3,000
+
+2,000
+
+1,000
+
+ 0
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025F
+
+Source: ICE Benchmark Administration, Metals Focus, Reﬁnitiv GFMS, World Gold Council
+
+ 43
+
+## Page 44
+
+04
+Alternative
+assets
+
+ 44
+
+## Page 45
+
+Private Credit 2026: A Strategic Reflection on Scale,
+Geography, and Purpose
+
+ Borja Díaz-Llanos
+ Global CIO at Santander Alternative Investments
+
+The alternatives industry has continued to mature and is now a widely discussed feature of institutional portfolios, driving
+diversification and enhancing long-term returns. Within the alternative space, private credit has become somewhat of a focal
+point - a scalable, income-generating sub-asset class focused on the real-economy financing, continuing to evolve from a niche
+alternative into a core pillar of modern portfolio allocation.
+
+1. A Market Still in Its Infancy
+
+Despite the intense attention from institutional investors, the world of alternatives and
+especially private credit remains small when viewed in the context of the broader financial Despite its exponential
+system. With roughly $3.3trillion in private credit AUM, the asset class is merely a fraction growth in recent years,
+of the total private markets $18.7 trillion and microscopic compared with global fixed private credit assets
+income and banks’ balance sheets that exceed $250 trillion combined. under management
+In other words, private credit is still a rounding error in global finance, especially in Europe ($3.3 trillion) remain a
+where banks continue to provide over three-quarters (76%) of sources of funding (see small fraction compared
+chart 2). This relative smallness should not be mistaken for weakness - it represents to traditional sources of
+headroom. The addressable universe of private assets – real economy lending, real estate, financing — such as the
+infrastructure, and specialty finance – exceeds $50 trillion, implying that private markets fixed income markets
+could multiply severalfold over the next decade without approaching systemic scale. Yet, ($145 trillion) or the
+because of its modest share, private credit still benefits from asymmetric information, balance sheets of the
+less crowded trades, and – importantly – a regulatory regime that rewards alternative world’s largest banks
+channels for financing the real economy. ($105 trillion)
+
+Public vs Private Markets
+
+ 145
+
+ 106
+
+ $18.7
+ 3
+ Private Credit AUM Global private capital Global size of banking Global fixed
+ AUM sector balance sheets income
+ outstanding
+
+Fuente: Apollo October 2025, S&P Cap IQ, Pitchbook, MSCI, FactSet, SIFMA, BIS. “Private debt” excludes insurance permanent capital AUM .
+
+ 45
+
+## Page 46
+
+2. Where Alpha Lives: Europe vs. the U.S.
+
+ We believe that Europe currently offers a more fertile ground for generating alpha in private
+ credit than the U.S., for several structural and cyclical reasons.
+
+ Dry Powder and Competition
+ U.S. private credit managers collectively sit on record levels of undeployed capital. The
+ North American market has attracted the bulk of global inflows over the past few years,
+ with dry powder exceeding $400 billion. This abundance of capital has driven yields down
+ and competition up, compressing spreads and eroding underwriting discipline in the upper
+ middle market. In contrast, Europe remains somewhat underpenetrated, with deal flow still
+ intermediated by banks and far fewer alternative lenders per transaction.
+
+ North America has far outpaced Europe in private debt capital raised In the past 20 years
+
+ North America Europe Asia Oceania Middle East Africa Rest of world Total
+
+ $350bn
+ $325
+ $300bn
+
+ $250bn $255 $257
+ $228 $234 $219
+ $200bn $207 215
+ $188
+ 169 184
+ $150bn $138 $144 134 152 167
+ $115 126 158 $113
+ $111
+ $100bn $93 $87 92 93
+ $60 $74 74 73
+ $50bn $53 81 99 $53 65 100 69
+ 36 $34 49 34 56 36 58 50 56 54 63 51
+ 12 26 16 10 20 33 36 37
+ $0bn 9 7 8 9
+ 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025YTD
+
+ Market Fragmentation and Bank Intermediation
+ Europe’s financing structure is unique. Around 76% of corporate and SME financing still
+ comes from banks, compared to 21% in the U.S. The opportunity for non-bank direct
+ lenders is therefore not merely cyclical – it is structural. The European credit ecosystem is
+ fragmented across jurisdictions, legal regimes, and languages, producing inefficiencies that
+ can be exploited by managers capable of sourcing, underwriting, and structuring at the local
+ level.
+
+ Businesses With Revenues of $100m+ Aggregated Revenue from Businesses with
+ Private Public Revenues of $100m+
+
+100% $45tn
+ 2.599 2.003 448$40tn
+
+ 75% 10.269 26.130 7.987 $35tn
+ $30tn
+
+ 50%
+
+ $15tn
+ 25%
+
+ 0% $0tn
+ EE.UU. UE Reino Unido PublicPrivate
+
+ Source: S&P Capital IQ, BlackRock. As of August 19, 2025. Company count shown as data labels; bars represent percentage of total businesses with above $100 million (or
+ equivalent) in last twelve months revenues.
+
+ 46
+
+## Page 47
+
+The scale of the European private corporate base underscores this potential: more than
+26,000 private companies generate over €100 million in annual revenue, yet most remain Compared to the United
+unlisted with limited options of financing. This hidden middle market – often family-owned, States, Europe has
+resilient, and export-oriented – forms the backbone of Europe’s industrial competitiveness a more fragmented
+and a natural habitat for private lenders. market, with greater
+Relative Value Across Markets dependence on the
+Even when controlling for credit quality, European credit trades wider than U.S. credit – both banking system, less
+in private and public markets. Spreads on European investment-grade (IG) and high-yield developed capital
+(HY) bonds remain 20–30 bps wider than U.S. equivalents, while direct lending spreads for markets, and a smaller
+senior secured loans in Europe are typically c. 50 bps higher than comparable U.S. deals. This pool of available private
+differential is not simply risk compensation – it reflects structural inefficiencies (smaller deal capital. This structural
+sizes, fewer intermediaries, less capital) that enhance expected returns. In short, beta alone context contributes to
+pays more in Europe, while alpha accrues to those who can navigate its complexity. European private credit
+ offering an attractive
+ additional premium for
+ investors
+
+ Spread and Percentile on 20-year range
+
+ 0% 25% 50% 75% 100%
+
+ US IG 77 pb, 2 %
+
+ US HY 291 pb 8%,
+
+ US Loans 392 pb, 41%
+
+ US A 64 pb , 2%
+
+ US BBB 97 pb, 3%
+
+ US BBs 185 pb, 8%
+ US Bs 297 pb 12%,
+
+ US CCCs 647 pb 29%,
+
+ US IG 3-5yr 69 pb 14%,
+
+ US IG 7-10yr 90 pb, 3%
+
+ US IG 10y+ 93 pb, 1%
+ GBP IG 88 pb, 9%
+
+ EUR IG 82 pb , 12%
+
+ EUR HY 312 pb , 19%
+
+ EUR As 73 pb , 15%
+
+ EUR BBBs 94 pb , 10%
+
+ EUR BBs 205 pb, 10%
+
+ EUR Bs 352 pb, 12%
+
+ EUR CCCs 996 pb, 61%
+
+ EUR 3-5yr 81 pb, 15%
+
+ EUR 7-10yr 101 pb, 12%
+
+ EUR 10yr+ 96 pb , 12%
+
+ Asia $ IG 64 pb, 1%
+
+Source: PitchBook | LCD, J.P. Morgan Asset Management. Guide to Alternatives. *2025 data are as of August 2025.
+
+ 47
+
+## Page 48
+
+3. From Yield Strategy to Portfolio Core
+
+Historically, private credit was viewed as an opportunistic asset class designed to deliver
+double-digit returns, suitable for high-yield alternatives sleeves. This perception is changing. Over the past 30+ years,
+In an environment of lower base rates and compression in traditional fixed income, investors having an allocation to
+increasingly see private credit as a core component of the portfolio’s income allocation, not Alternative Investments
+just as a high-return niche. We expect this evolution to accelerate over the next five years has improved returns and
+as institutions rebalance from listed bonds to private debt to improve risk-adjusted yield, reduced risk for investors
+duration control, and diversification. across all portfolio
+Indeed, over the past 25 years, adding private assets – private equity, real estate, private debt models
+
+– has shifted the efficient frontier outward: higher returns for any given level of volatility.
+Between 1998 and 2025, portfolios with 20–30% alternatives achieved annualized returns
+of 7-8% versus 6-7% for traditional 60/40 mixes, with substantial decrease in the volatility.
+
+Volatility and annualized returns, 1Q 1998-1Q 2025
+
+ Efficient Frontier Equities Fixed Income Alternative Investments
+
+ 9 20%
+
+ 20% 20% 20%
+ 8 50%5 60%
+
+ 20% 30% 80%
+ 30%%
+ 7 40% 60%
+
+ 50% 40%
+
+ 6
+ 60%
+
+ 5
+ 5 6 7 8 9 10 11 12 13 14
+ Annualized Volatility (%)
+
+4. Financing the Real Economy
+
+At its core, private credit is meant to directly finance the real economy. Private lenders
+provide working capital, leasing, infrastructure debt, trade finance, and real estate loans
+that collectively underpin the everyday operations of businesses – from SME machinery
+leasing to energy transition projects and logistics platforms.
+
+These assets, when properly structured, can exhibit investment-grade characteristics,
+yet offer 100–300 bps of excess spread relative to comparable more liquid securities. The
+reason is straightforward: these are complex, illiquid, and bespoke exposures that require
+underwriting skill but offer consistent collateral coverage and shorter duration than corporate
+bonds.
+
+This segment – what we call real economy credit – has the potential to become the largest
+and most durable growth area within private markets. Its addressable market – across
+infrastructure, real assets, leasing, and trade finance – far exceeds that of traditional direct
+lending.
+
+Source: Bloomberg, Burgiss, FactSet, NCREIF, Pivotal Path, Standard & Poor’s, J.P. Morgan Asset Management. The alternatives allocation includes hedge funds, real estate and private
+equity, with each receiving an equal weight. Portfolios are rebalanced at the start of the year. Equities are represented by the S&P 500 Total Return Index. Bonds are represented by
+the Bloomberg U.S. Aggregate Total Return Index. Volatility is calculated as the annualized standard deviation of quarterly returns. Past performance is not a reliable indicator of
+current and future results. Guide to Alternatives. Data are based on availability as of August 31, 2025.
+
+ 48
+
+## Page 49
+
+Banks, constrained by Basel III and the “Basel Endgame” capital rules, are reducing exposure
+to long dated or non-core assets. Yet, they retain origination capabilities, client relationships,
+and operational capabilities that alternative managers lack. This has led to a new era of
+collaboration, where banks originate, and asset managers fund or co-finance loans – via
+forward flow agreements, significant risk transfer (SRT) structures, or joint ventures.
+These partnerships allow banks to optimize capital while retaining client connectivity, and
+managers to access granular, diversified loan pools. This also gives managers enhanced data
+access, risk monitoring, and asset servicing, allowing scaling across granular exposures –
+something critical for structured finance and trade-related assets.
+
+5. The Forward View: Three Strategic Convictions
+1. 2. 3.
+Scale Has Not Yet Arrived Europe’s Alpha Is Structural Private Credit Will Redefine
+Private markets are still a small The combination of Europe’s relative Fixed Income
+fraction of the global credit ecosystem. dependence on the banking system, We expect private credit to evolve into
+Even if the asset class doubles by less developed capital markets, and a core income substitute rather than an
+2030, it will remain less than 5% of the smaller amount of capital raised opportunistic allocation. As investment
+the global debt universe. This limited by private credit funds in Europe –grade structured credit– infra debt,
+size keeps the opportunity asymmetric compared to the United States leads us leasing, and trade finance –scales,
+– returns can still be driven by skill, not to believe that the premiums achieved private markets will increasingly
+just capital. in European private credit will remain anchor the liability– matching side of
+ in place throughout 2026. portfolios.
+
+This evolution will blur the lines between “alternative” and “core”, with private credit taking its place beside traditional fixed
+income as a mainstream allocation.
+
+ 6. Private Credit as the Convergence Point
+
+ The private credit market of 2025 stands at an inflection point. It is large enough to matter, but small enough to offer alpha;
+ increasingly institutional, but still anchored in real –economy purpose.
+
+ Its next phase will be defined by its full integration into fixed income portfolios, and its evolution –particularly in Europe– will
+ be driven by bank partnerships with private credit managers.
+
+ For us, that is not merely a strategy; it is a vision for the future of credit itself.
+
+ 49
+
+## Page 50
+
+Glossary
+
+€STR: Euro short-term rate. Investment grade: Bonds issued by companies that,
+AI: Artificial inteligence. according to external rating agencies, are less likely than
+Backwardation: This situation occurs when the spot price of others to default on their debts.
+a commodity is higher than the projected future price for the LP: Investor in alternative investment funds.
+same asset. MXN: Mexican peso.
+Banxico: Bank of Mexico. NBP: National Bank of Poland. Authority in charge of
+BoJ: Bank of Japan. controlling the minting and circulation of the Polish currency,
+Bottom-up: Analysis that considers the individual economic- zloty.
+financial situation of the company before assessing the effect Nearshoring: The practice of transferring a business
+of the sector’s situation and subsequently the macroeconomic operation to a nearby country, especially in preference to a
+situation. more distant one.
+Breakeven: Inflation level that equals the yield of a nominal NPL: Non-performing loans.
+bond with the yield of its equivalent real bond. OPEC+: Organization of the Petroleum Exporting Countries.
+BRL: Brazilian real. It includes around thirty countries, led by Saudi Arabia among
+ the members of the Organization of Petroleum Exporting
+CAGR: The compound annual growth rate is the rate of return Countries, and by Russia at the head of the external allies.
+that an investment would need to have each year to grow P/E: Price earnings ratio. Measures the relationship between
+from its initial balance to its final balance, during a given time the price of a share in the market and the benefits offered
+interval. by the company. It is used to measure whether a stock
+Carry: Expected return on an investment assuming that its is expensive or cheap at that moment and will give us
+price does not change. information about the years it would take to recover the
+CBO: U.S. Congressional Budget Office. money invested in the company through its profits as long as
+CLP: Chilean peso. these remain stable.
+Credit Breadth Index (CBI): Credit market breadth indicator PLN: Zloty (Polish currency).
+designed to measure how many segments of corporate credit QE: Quantitative Easing. ECB's asset purchases, as tools used
+are performing positively or negatively at a given point in to support economic growth across the Eurozone and bring
+time. inflation to the 2% target.
+DAX: Is an index of 40 selected German blue chip stocks Real terms: Any variable from which the effect of inflation is
+traded on the Frankfurt Stock Exchange. eliminated.
+DX Y: Value of the USD in relation to a basket of currencies REER: Real effective exchange rate (a measure of the value
+that includes major world currencies. of a currency against a weighted average of several foreign
+ currencies) divided by a price deflator or cost index.
+ECB: European Central Bank; it is the authority responsible Reshoring: The process by which companies bring the production
+for the monetary policy of the countries of the euro area. and manufacture of goods back to their original country.
+EMBI: Market index elaborated by JP Morgan that serves as Selic: Brazilian interest rate.
+a reference to estimate the evolution of the emerging debt Small caps: Small and medium-sized companies, with low
+market. market capitalization. However, they constitute a segment of
+EPS: Earnings per share. Figure obtained by dividing, in a entities that are interesting for certain investors, given their
+given year, the net profit by the total number of shares in potential for revaluation, and stock market indices are even
+circulation. created on this type of company.
+ERL0: Fixed income index composed of the main bond issues Treasury: U.S. government bond.
+by large-cap international corporations denominated in USD: U.S. dollar.
+euros with investment grade credit quality.
+EUR: Euro. USMCA: United States – Mexico – Canada Agreement:
+Fed: Federal Reserve; it is the institution responsible for Agreement between Mexico, USA and Canada. This is the
+ agreement that emerged to replace the North American
+supervising the U.S. banking system, and for defining and Free Trade Agreement, better known by its acronym NAFTA
+applying the country’s monetary policy. or NAFTA, whose objective was to facilitate foreign trade
+FTSE 100: Is a capitalization-weighted index of the 100 most between Mexico, the U.S. and Canada.
+highly capitalized companies traded on the London Stock WIBOR: Warsaw interbank offered rate.
+Exchange. WIG: Warsaw Stock Exchange WIG index includes all
+FTSE 250: Is a capitalization-weighted index of the 250 most companies listed con the main market, excluding companies
+highly capitalized companies, outside FTSE 100, traded on and investment funds.
+the London Stock Exchange. Yield: Is the difference between the value that will be
+Gilt: UK government bond. returned to me at the maturity of a bond and its purchase
+GP: Manager making investment decisions in alternative price expressed as a percentage.
+funds. YTM: Yield to maturity.
+
+ 50
+
+## Page 51
+
+Private markets
+Brownfield: Term used in infrastructure to describe strategies Greenfield: Term used in infrastructure to describe strategies
+focused on mature projects or assets with a high level of focused on the development of projects or assets in an early
+occupancy and recurring income generation. stage that require construction and capital investment.
+Buyouts (LBOs): Investments made through the equity of Growth: Investments in established private companies in a
+private companies, typically structured with debt financing, full growth phase, with business expansion plans and CapEx
+with the objective of implementing transformation plans to requirements to support that expansion.
+maximize business value and drive EBITDA growth. At the Value Added: Investments involving the acquisition of
+same time, they pursue an exit strategy designed to achieve assets in a development phase or those requiring significant
+a higher valuation multiple upon realization. transformation or repositioning. These are actively managed
+Core: Investments in mature assets that generate stable and to enhance cash flows and generate capital appreciation
+predictable cash flows, supported by long-term contracts. at exit.
+Core+: Investments in mature assets that require some
+degree of transformation in order to improve efficiency or
+enhance asset value. These typically involve additional CapEx.
+
+Important Legal Notice
+
+This report has been prepared by Santander Asset Management (hereinafter “SAM”). SAM is the functional name of the asset management
+business conducted by the legal entity SAM Investment Holdings S.L . and its branches, subsidiaries and representative offices.
+
+This document contains economic forecasts and information gathered from several sources. The information contained in this document may
+have also been gathered from third parties. All these sources are believed to be reliable, although the accuracy, completeness or update of this
+information is not guaranteed, either implicitly or explicitly, and is subject to change without notice. Any opinions included in this document may
+not be considered as irrefutable and could differ or be, in any way, inconsistent or contrary to opinions expressed, either verbally or in writing,
+advices, or investment decisions taken by other areas of SAM.
+This report is not intended to be and should not be construed in relation to a specific investment objective. This report is published solely for
+informational purposes. This report does not constitute an investment advice, an offer or solicitation to purchase or sell assets, services, financial
+contracts or other type of contracts, or other investment products of any type (collectively, the “Financial Assets”), and should not be relied upon
+as the sole basis for evaluating or assessing Financial Assets. Likewise, the distribution of this report to a client, or to a third party, should not be
+regarded as a provision or an offer of investment advisory services.
+
+SAM makes no warranty in connection with any market forecasts or opinions, or with the Financial Assets mentioned in this report, including
+with regard to their current or future performance. The past or present performance of any markets or Financial Assets may not be an indicator
+of such markets or Financial Assets future performance. The Financial Assets described in this report may not be eligible for sale or distribution
+in certain jurisdictions or to certain categories or types of investors.
+
+Except as otherwise expressly provided for in the legal documents of a specific Financial Assets, the Investment Products are not, and will not
+be, insured or guaranteed by any governmental entity, including the Federal Deposit Insurance Corporation. They are not an obligation of, or
+guaranteed by, Santander, and may be subject to investment risks including, but not limited to, market and currency exchange risks, credit risk,
+issuer and counterparty risk, liquidity risk, and possible loss of the principal invested. In connection with the Financial Advisors, investors are
+recommended to consult their financial, legal, tax and other advisers as such investors deem necessary to determine whether the Financial
+Assets are suitable based on such investors particular circumstances and financial situation. Santander, their respective directors, officers,
+attorneys, employees or agents assume no liability of any type for any loss or damage relating to or arising out of the use or reliance of all or
+any part of this report.
+Past performance does not predict future returns. The returns may increase or decrease as a result of currency fluctuations relative to the
+respective investors’ domestic currency. Any reference to taxation should be understood as depending on the personal circumstances of each
+investor and which may change in the future. Costs incurred for purchasing, holding or selling Financial Assets may reduce returns and are not
+reflected in this report.
+
+This report may not be reproduced in whole or in part, or further distributed, published or referred to in any manner whatsoever to any person,
+nor may the information or opinions contained therein be referred to without, in each case, the prior written consent of SAM.
+
+Any third-party material (including logos, and trademarks), whether literary (articles/ studies/ reports, etc. or excerpts thereof) or artistic
+(photos/graphs/drawings, etc.), included in this report is registered in the name of its respective owner and only reproduced in accordance with
+honest industry and commercial practices.
+
+## Page 52

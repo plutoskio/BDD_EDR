@@ -1,0 +1,1946 @@
+Source file: EFG_outlook_2026.pdf
+Source path: outlooks/EFG_outlook_2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:59.851635+00:00
+Page count: 43
+
+---
+
+## Page 1
+
+Outlook 2026
+Our top 10 themes for the year ahead
+
+## Page 2
+
+Themes 2026 How we did in 2025 Publications
+
+ Outlook
+ 2026
+
+ Our top 10 themes for the year ahead
+
+ Welcome to EFG’s Outlook 2026. In this repor t ,
+ we present our top ten themes for the
+ year ahead and provide a review of how our
+ predic tions for 202 5 per formed.
+
+ As we frame our outlook for 2026, it is clear that several new and Third, technological advancement. The impact of new
+ rapidly evolving challenges are emerging alongside long-standing technologies – most notably artiﬁcial intelligence – and the
+ themes that have shaped the global landscape in recent years. signiﬁcant investment required to develop the data infrastructure
+ of the future will be central issues. Key questions will include: How
+ Fi rs t , ge o p o l i t i c s . Geopolitical developments remain highly will these investments be ﬁnanced? Will the capital be deployed
+ dynamic, with the potential for signiﬁcant change at short notice. effectively? And what are the long-term beneﬁts?
+ We anticipate that the ﬂow of geopolitical news will continue to
+ be volatile in 2026 – some events may be positively received, In addition to these themes, 2026 will also present challenges
+ while others could lead to disappointment. Unpredictability will that tend to resurface periodically. Two issues remain highly
+ remain a deﬁning characteristic. At the same time, the broader relevant: Will emerging economies, often characterised by higher
+ shift towards a multi-polar world, marked by increasing rivalry growth potential, deliver attractive returns for investors? And to
+ between major blocs, is a trend that has been underway for what extent will bond markets exert pressure on countries with
+ several years and is expected to persist. unsustainable ﬁscal policies to correct their course?
+
+ Second, US exceptionalism. The notion that the United States
+ distinguishes itself from other economies, particularly in terms of
+ economic growth, will continue to be scrutinised in 2026.
+ Policymakers and markets are expected to remain highly
+ data-dependent. However, the US has consistently been a leader Moz Afzal, Chief Investment Ofﬁcer
+ among advanced economies, and we believe this robust growth
+ trend will continue into the coming year.
+
+ Visit our
+ Outlook 2026
+ hub here
+
+2 EFG | Outlook 2026
+
+## Page 3
+
+Themes 2026 How we did in 2025 Publications
+
+ Content s
+
+ Our top 10 themes for the year ahead
+
+ Global economic Innovation Market
+ and polic y trends and change oppor tunit ie s
+ p. 4–17 p. 18–25 p. 26–39
+
+ 1 US set to lead economic growth 5 Trump’s 3 D’s: DOGE, Deregulation, 7 An EU revival: Restructuring and reform
+ 2 Trough interest rates in advanced and Drugs 8 Emerging markets have the wind in
+ economies; opportunities in emerging 6 Opportunities abound in the AI race their sails
+ markets 9 Private markets: Unlocking liquidity
+ 3 Bond markets: Beware of shark- and diversiﬁcation opportunities
+ infested waters 10 IPOs and M&A activity:
+ 4 Geopolitics: New alliances, state Multiple sectors set to beneﬁt
+ capitalism and a diverging electorate
+
+ How we did in 202 5 p. 40 –41
+
+ Publications p. 42
+
+3 EFG | Outlook 2026
+
+## Page 4
+
+Themes 2026 How we did in 2025 Publications
+
+ Global
+ eco nomic and
+ policy trends
+
+ In 2026, the spotlight will be on growth leadership/uni00A0–
+ particularly on whether US exceptionalism will
+ persist. With inﬂation largely back under control,
+ interest rates are expected to stabilise at more
+ normal, neutral levels. Fixed income markets
+ will continue to play a decisive role in assessing
+ ﬁscal sustainability. Meanwhile, geopolitical
+ developments are likely to remain unpredictable,
+ contributing to ongoing volatility and leaving many
+ voters feeling dissatisﬁed with their choices.
+
+ 1 US set to lead economic growth
+ 2 Trough interest rates in advanced economies;
+ opportunities in emerging markets
+ 3 Bond markets: Beware of shark-infested
+ waters
+ 4 Geopolitics: New alliances, state
+ capitalism and a diverging electorate
+
+4 EFG | Outlook 2026
+
+## Page 5
+
+Themes 2026 How we did in 2025 Publications
+ US set to lead
+ economic grow t h
+
+ Theme /uni2116 Key takeaways
+
+ ▪ We expect the US to be the fastest
+ growing advanced economy,
+ 1 supported by three structural and
+ three cyclical factors.
+
+ ▪ Despite structural headwinds,
+ China is still set to be the dominant
+ emerging economy.
+
+ ▪ Other emerging economies are
+ likely to be impeded by the impact
+ of US tariffs and geopolitics.
+
+5
+
+## Page 6
+
+Themes 2026 How we did in 2025 Publications
+
+ 1 US set to lead
+ economic grow th
+
+ In 2026 policymakers will continue to emphasise supporting economic
+ growth over ﬁghting inﬂation. We think the US will be the best-placed
+ advanced economy in growth terms in 2026. However, while it is our core
+ view that US growth will surprise to the upside, there are some potential
+ pitfalls to be aware of.
+
+ US leadership
+ There are three structural and three cyclical reasons why we believe the US
+ will be the fastest growing advanced economy in 2026.
+
+ The three structural factors are:
+
+ 1. Economic resilience. Since the pandemic the US economy has
+ … a clear plan for demonstrated a high degree of economic resilience, performing better than
+ delivering economic other advanced economies. While some recession indicators have prompted
+ concerns about a deterioration in the US economy, these have so far proved
+ growth – “3-3-3”. unfounded. This may be connected to the large amount of stimulus that was
+ applied during the Covid period, coupled with the highly ﬂexible, adaptable
+ and innovative nature of the US corporate sector.
+
+ 2. A clear growth plan. Scott Bessent, the US Treasury Secretary has set
+ out a clear plan for delivering economic growth – “3-3-3” 1 – 3% real growth,
+ 3% budget deﬁcit (relative to GDP), and an increase in oil production of 3
+ million barrels per day. Key to the success of these three targets, respectively,
+ are deregulation and pro-business reforms; spending cuts and revenue
+ increases; and simpliﬁcation of permits to increase oil supply and reduce
+ costs (see Theme 5). Whether these objectives can be achieved by these
+ measures alone is yet to be seen, but at least the US has a plan, in contrast
+ with much of the rest of the world.
+
+ 3. IT leadership. The US remains at the forefront of global IT innovation and
+ development largely due to the considerable investment in research and
+ development that has already taken place. In the ﬁrst half of 2025, private sector
+ investment in IT equipment contributed almost half the growth in GDP. 2
+ Already-announced plans by the largest IT companies strongly suggest this large
+ contribution will continue to at least 2030. This will, most notably, include
+ investment in data centres and energy provision which is set to continue to be a
+ battle ground in the global race for IT supremacy (see Theme 6).
+
+ 1 Bloomberg: https://www.bloomberg.com/news/features/2025-08-11/treasury-secretary-
+ bessent-on-tariffs-deﬁcits-trump-s-economic-plan?sref=dNFL42AE
+ 2 Source: US Bureau of Economic Analysis, LSEG, and EFGAM calculations. Data as at 08 October
+ 2025. The share from IT investment was 46%, and from consumer spending was 68% –
+ other components detracted from GDP growth. In the three years 2022–2024, IT investment
+ contributed just 2% and consumer spending as much as 79% to growth.
+
+6 EFG | Outlook 2026
+
+## Page 7
+
+Themes 2026 How we did in 2025 Publications
+
+ The three cyclical factors are:
+
+ 1. Lower rate environment. We anticipate that we will reach trough rates
+ in the ﬁrst half of 2026 (see Theme 2). Given the lag between monetary policy
+ and activity, lower rates will have an increasingly positive effect on economic
+ growth as the year progresses, in particular supporting consumer spending.
+
+ 2. Lower energy prices. 2025 saw much talk about tariffs resulting in
+ slower growth and higher inﬂation. However, that has not materialised. One
+ reason is that energy prices have been in decline, something that works in
+ exactly the opposite direction to tariffs, supporting growth and lowering
+ inﬂation. Furthermore, lower energy prices are expected to continue to
+ beneﬁt the US economy at least in the ﬁrst half of 2026 and potentially into
+ … One Big Beautiful Bill the second half if they remain depressed.
+ Act contains a number 3. Fiscal stimulus. President Trump’s much touted One Big Beautiful Bill
+ of measures that will be Act contains a number of measures that will be growth positive. Of note,
+ growth positive. growth will be well supported next year by accelerated depreciation, the
+ ability of companies to fully expense research and development costs in the
+ year in which they occur and an increase in individual tax deductions. The Tax
+ Foundation estimates that this will increase US GDP by about 1% in 2026
+ relative to what it would otherwise have been. 3
+
+ Of course, there are still potential risks to the US outlook as we enter 2026. It
+ is possible, for example, that the impact of tariffs has been delayed and there
+ are some tentative signs that the housing market is levelling off. We have also
+ observed a recent increase in student loan delinquencies, some high-proﬁle
+ bankruptcy cases, while the rate of credit card delinquencies is at its highest
+ in over 10 years – nothing to panic about but it is possible that these become
+ greater problems in 2026.
+
+ Figure 1: GDP growth prospects for 2026
+ Amongst G7 nations the US clearly leads in terms of
+ growth prospects, but still lags China and India
+
+ India
+
+ China
+
+ US
+
+ Brazil
+
+ Canada
+
+ Switzerland
+
+ UK
+
+ Eurozone
+
+ Japan
+
+ 0.0% 1.0% 2.0% 3.0% 4.0% 5.0% 6.0% 7.0%
+
+ Source: IMF WEO October 2025. Data as at 14 October 2025.
+
+ 3 https://taxfoundation.org/research/all/federal/big-beautiful-bill-senate-gop-tax-plan/
+
+7 EFG | Outlook 2026
+
+## Page 8
+
+Themes 2026 How we did in 2025 Publications
+
+ A separate risk that is not often talked about relates to artiﬁcial intelligence
+ (AI). Whilst there are lots of good things associated with AI, there is also a
+ risk that widespread adoption results in severe dislocation in the US labour
+ market, displacing current jobs and sparking an increase in unemployment.
+ However, on balance, we believe that the US is set to be the strongest
+ advanced economy in 2026 and indeed the latest IMF projections also reﬂect
+ this view (Figure 1).
+
+ Elsewhere: China set to lag the US but lead emerging market growth.
+ The outlook for Europe is mixed.
+ Action for investors:
+ ▪ Within developed markets, remain focused It is true that structural impediments to Chinese growth – high levels of debt,
+ on the US in terms of growth prospects. a weak property market and long-term demographic challenges – remain. But
+ ▪ Despite structural headwinds, China is still the dynamism and huge scale of Chinese industry and the rapid adoption of
+ set to be the predominant emerging new technology (notably in green energy, artiﬁcial intelligence and
+ economy. electriﬁcation) remain important strengths. India is now in a stronger position
+ ▪ Emerging markets with strong domestic to compete with China in key areas of manufacturing and also has a strong
+ demand should be favoured in terms of domestic market, making it less vulnerable to international trade tensions.
+ growth prospects. Consumer spending accounted for 61% of GDP in India but just 40% in China
+ ▪ European luxury goods could benefit from in 2025. 4
+
+ recovering Chinese demand and improving
+ global growth conditions. In Europe the growth outlook is mixed. The lagged impact of lower European
+ Central Bank rates will provide a tailwind to regional growth in 2026 and it is
+ expected that the German economy, Europe’s largest, will receive a signiﬁcant
+ boost from the increase in ﬁscal spending that was agreed this year, notably
+ with regard to defence spending. In addition, it will be interesting to see
+ whether with an improvement in China, where a signiﬁcant portion of
+ European exports are destined for, improves prospects. Against this it is
+ necessary to balance a worsening ﬁscal outlook and ongoing political
+ uncertainty in parts of Europe, exempliﬁed by the challenges facing the
+ French establishment.
+
+ Of course, economic growth is just one factor to take into consideration when
+ judging asset allocation. In equity markets, valuations are generally more
+ attractive in emerging than in advanced economies, as discussed further in
+ Theme 8.
+
+ 4 Source: Oxford Economics estimate, via LSEG
+
+8 EFG | Outlook 2026
+
+## Page 9
+
+Themes 2026 How we did in 2025 Publications
+
+ Trough interest rates in advanced
+ economies; oppor tunities
+ in e m e rging mar k e t s
+
+ Theme /uni2116 Key takeaways
+
+ ▪ The scope for rate reductions in
+ advanced economies is limited.
+ 2 ▪ Real interest rates and bond yields
+
+ in some emerging and developing
+ economies remain elevated and
+ provide opportunities.
+
+99EFG | Outlook 2026
+
+## Page 10
+
+Themes 2026 How we did in 2025 Publications
+
+ 2 Tr o u g h i n t e r e s t r a t e s i n a d v a n c e d e c o n o m i e s ;
+ oppor tunit ie s in emerging marke t s
+
+ Policy interest rates are unlikely to fall much further in the main
+ advanced economies in 2026, with a trough in rates expected during the ﬁrst
+ half. Elevated rates in several emerging economies are set to provide
+ opportunities.
+ ... interest rates are likely
+ to reach their lowest point What are trough interest rates?
+ In economics, a “trough” is the lowest point in a business or economic cycle,
+ (the “ trough”) in the ﬁrst following a decline and before a recovery. Trough interest rates occur when
+ half of 2026, after which central banks have reduced rates to their lowest levels, often in response to
+ economic downturns or recessions. The aim is usually to stimulate borrowing,
+ further cuts are unlikely. investment and spending to help the economy recover.
+
+ Developed market rates
+ In all the major advanced economies, the scope for cutting interest rates in
+ 2026 is limited. Policy rates are already close to what is considered the
+ “neutral” rate – the level that neither stimulates nor restrains economic
+ growth (Figure 2). Therefore, interest rates are likely to reach their lowest
+ point (the “trough”) in the ﬁrst half of 2026, after which further cuts are
+ unlikely.
+
+ The Bank of Japan is expected to struggle to raise rates – at least until the
+ Figure 2: Neutral interest rates middle of 2026. In Switzerland, rates are already at zero and Swiss National
+ Central banks unlikely to lower rates Bank President Schlegel has signalled the bar for reintroducing negative
+ much more as rates are already at or interest rates is higher than in the past. In the eurozone, interest rates are
+ close to neutral. already close to neutral. The scope for UK rate cuts will be constrained by
+ relatively sticky, above-target inﬂation, notably in the services sector. In the
+ Range of neutral rate estimates Latest US, the range of estimated neutral rates remains hotly disputed but we doubt
+
+ 6.0% the Federal Reserve will reduce rates much below 3%, given strong real
+
+ 5.0% growth and inﬂation which is still sticky.
+ 4.0% 4.00
+ 3.88
+ 3.0% For those with memories of interest rates being at or close to zero in the
+ 2.0% recent past, such expectations will be disappointing. Very low interest rates
+ 2.00 would only make sense in the event of either a crisis situation, which
+ 1.0%
+ 0.50 0.00 hopefully is avoided in 2026, or one in which growth and the labour market
+ 0.0%
+ -1.0% are persistently weak, which we do not expect. On balance, we welcome the
+ move to such neutral/trough rates as an indication that ﬁnancial markets are
+ -2.0% behaving in a rational manner.
+
+ Japan Switzer- Euro- US UK
+ land zone Po l i t i c i s e d ra te cu t s
+ There remains, of course, the big question surrounding whether US Federal
+ Sources: FRB Dallas, FRB New York, LSEG and EFGAM Reserve decisions become more politicised, with pressure for a large cut even
+ calculations. Data as at 03 November 2025.
+ if inﬂation remains above target and growth and unemployment remain
+ resilient. On balance, we see the risk of that as small. It is not reﬂected in
+ current market pricing, such as inﬂation break-even rates, or the expectations
+ of current Fed board members.
+
+10 EFG | Outlook 2026
+
+## Page 11
+
+Themes 2026 How we did in 2025 Publications
+
+ If it did happen the central bank could well fail to achieve the apparent
+ political objective of lower borrowing costs for households and businesses.
+ A politicised cut in rates would likely raise longer-term interest rates
+ (reﬂecting a higher risk premium and higher long-term inﬂation expectations)
+ therefore negating the impact.
+
+ Opportunities in emerging economies
+ In several emerging and developing economies, real interest rates are
+ Action for investors: particularly high when measured on the simple basis of comparing the policy
+ ▪ With interest rates expected to reach neutral, interest rate to the latest inﬂation rate (Figure 3).
+
+ trough levels in the first half of 2026, there
+ remains value in shorter- to mid-term In these economies, it is important to consider two key factors. First, the risk
+ duration exposure. This environment allows that currency depreciation may offset the advantages of higher interest rates
+ investors to borrow at the short end of the for investors. Second, the likelihood that inﬂation may not remain subdued
+ yield curve and invest further out to capture could potentially affect real returns. In a general environment of a stable-to-
+ attractive carry opportunities. weakening US dollar, the ﬁrst risk seems contained for 2026. But the fact that
+ ▪ Real rates in some emerging and developing the inﬂation-ﬁghting credentials of many emerging economy central banks
+ economies remain elevated and provide have yet to be fully established is a concern. On balance, we think these two
+ opportunities but investors need to be wary risks are lowest in Brazil and favour money and bond market exposure in that
+ of the risk of currency depreciation. market compared to other emerging market peers.
+
+ ▪ Look for opportunities in high-yielding
+ emerging sovereign markets where there is In Brazil, ten-year local currency bond yields are as high as 13.7% 5, well in
+ the prospect of capital gains as long-term excess of the likely 4.0–4.5% inﬂation rate for 2026 and also above expected
+ yields decline. Brazil, most notably, has high longer-run inﬂation trends. Brazil, however, may remain overshadowed by
+ real yields in a slowing economic political tensions with the US.
+
+ environment.
+ ▪ Mexico is set to be a beneficiary of a In contrast, Mexico is likely to experience a greater boost to growth from a
+ stronger US economy, which should support stronger US economy, which should also help support the peso. Additionally,
+ the Mexican peso. since Mexico’s interest rates are closely aligned with those of the US, they are
+ expected to follow any rate reductions.
+
+ Figure 3: Emerging economies real rates
+ Once the nominal rate has been adjusted for inﬂation,
+ Brazil’s real rate stands out as the strongest
+
+ Real rate Inﬂation Nominal rate
+
+ 16.0%
+
+ 14.0%
+
+ 12.0%
+
+ 10.0%
+
+ 8.0%
+
+ 6.0%
+
+ 4.0%
+
+ 2.0%
+
+ 0.0%
+
+ -2.0%
+
+ Sources: LSEG and EFGAM calculations. Data as at 03 November 2025.
+
+ 5 Source: LSEG as at 03 October 2025.
+11 EFG | Outlook 2026
+
+## Page 12
+
+Themes 2026 How we did in 2025 Publications
+ Bond marke t s: Beware
+ of shar k-infe s te d w ater s
+
+ Theme /uni2116 Key takeaways
+
+ ▪ In the US, debt stabilisation could
+ be reached if Treasury Secretary
+ 3 Bessent manages to achieve his
+ ‘3-3-3’ objective, something that
+ would calm investor concerns.
+
+ ▪ Prospects of stabilising debt are
+ worse in France and the UK.
+
+ ▪ French developments are not
+ expected to lead to a repeat of the
+ eurozone crisis. Memories of the
+ “Liz Truss moment”, however, still
+ stalk the UK gilt market.
+
+1212
+
+## Page 13
+
+Themes 2026 How we did in 2025 Publications
+
+ 3 Bond marke t s: Beware
+ of shark-infes ted water s
+
+ There are several markets – notably France and the UK – for which ﬁscal
+ sustainability will be questioned in 2026. Pledges to bring government
+ ﬁnances under control may pacify the sharks for a while but when conﬁdence
+ evaporates bond markets will look vulnerable once again. This may cause
+ problems for government stability in some parts of the world.
+
+ Can the US change its debt path?
+ In the US, concern about debt sustainability is demonstrated by the latest
+ projections which show US government debt rising from 100% of GDP in 2025
+ to 119% by 2035 (Figure 4) and continuing upwards to 156% in 2055, although
+ developments over such a long period are subject to a great deal of
+ uncertainty. In 2026, the sharks may be dissuaded from attacking the US bond
+ market if the revenues generated from tariffs are sufﬁcient to alleviate fears
+ about debt sustainability. Most estimates forecast such revenues to be in the
+ order of USD400bn per year.
+ .... the stabilisation of debt Over the long-term, the extent to which Scott Bessent’s “3-3-3” plan (Theme 1) is
+ expected under the Bessent successful will be key. It could markedly change the debt path, preventing an
+ upward trend. In the late 1990s and early 2000s, the debt level fell rapidly and
+ plan should be enough to unexpectedly to 31% of GDP, primarily due to the strength of tax revenues and
+ alleviate fears about improving productivity. There was active discussion at the time about
+ abandoning 30-year government bond issuance, regarding such debt as no
+ US debt sustainability. longer necessary to ﬁnance the deﬁcit. Although possible, such an extreme
+ outcome seems unlikely to us. The more realistic outlook for 2026 is that the
+ stabilisation in the level of debt expected under the Bessent plan as well as
+ improving productivity due to AI implementation should be enough to alleviate
+ fears about US debt sustainability.
+
+ Figure 4: US government debt projections
+ Under the Bessent plan debt could stabilise
+ at around 100%
+
+ Debt held by the public, % of GDP CBO projection
+ Debt stock, % of GDP, with Scott Bessent “3-3-3”
+
+ 140
+
+ 120
+
+ 100
+
+ 80
+
+ 60
+
+ 40
+
+ 20
+
+ 0
+ 2000 2005 2010 2015 2020 2025 2030 2035
+
+ Sources: CBO; EFGAM calculations. Data as at 03 November 2025.
+ Certain assumptions have been made regarding the above information is provided by way
+ of illustration only. Any changes to these assumptions may have a material impact on the
+ assessment presented.
+
+13 EFG | Outlook 2026
+
+## Page 14
+
+Themes 2026 How we did in 2025 Publications
+
+ Europe – sharks are circling
+ In Europe, concerns about ﬁscal sustainability will not be so easily quelled.
+ “France could be the new Greece” is a concern held by some, but that
+ comparison lacks credibility. France, unlike Greece in 2009–10, does not rely
+ on foreign capital inﬂows to ﬁnance its current account deﬁcit; economic
+ Support for an individual growth remains positive; the European Central Bank has better procedures in
+ bond market could place for averting a crisis; and the French bond market remains active and
+ liquid. Yet President Macron has been through ﬁve prime ministers in the
+ come from the European three years of his second term and none have been able to pass a budget to
+ Central Bank. put ﬁscal policy on a sustainable track.
+
+ Support for an individual bond market could come from the European Central
+ Bank, which has, in the past, modiﬁed its operating procedures to allow such
+ action. 6
+
+ Similarly, the credibility of the UK’s efforts to meet its self-imposed debt
+ restrictions is low and could be tested in 2026. Parallels with the “Liz Truss
+ moment” in 2022 are often drawn. That episode – when an unfunded
+ reduction in taxation, which had not been assessed by the independent Ofﬁce
+ for Budget Responsibility was announced – led to a sharp fall in sterling and
+ the gilt market. While the current UK government faces many challenges that
+ Action for investors: will likely put pressure on sterling and gilts, for the time being we do not
+ ▪ If bond yields have already discounted the foresee a repeat of the sharp and sudden dislocation.
+
+ worst, look to take advantage of high yields
+ in the US, France and UK. This could be a
+ risky strategy, especially for longer-duration
+ bonds which have a high sensitivity to
+ changing expectations of fiscal and
+ interest rate trends.
+ ▪ The absolute level of short-term US yields
+ is still high and it provides a safer habitat
+ for nervous investors as sharks circle.
+ ▪ Focus should be on countries that have
+ adequate finances to be able to pay off
+ their debts. Net Foreign Assets (NFA) as a
+ measure could provide a guide to long
+ term debt sustainability.
+
+ 6 In the past the European Central Bank has conducted various programs to support what
+ they described as “disorderly market dynamics”. This was the case of the Transmission
+ Protection Instrument (TPI) in 2022, the Asset Purchase Programme (APP) in 2015, and the
+ Pandemic Emergency Purchase Programme (PEPP) in 2020.
+
+14 EFG | Outlook 2026
+
+## Page 15
+
+Themes 2026 How we did in 2025 Publications
+ Geopolitic s: New alliances,
+ state capitalism and
+ a diverging elec torate
+
+ Theme /uni2116 Key takeaways
+
+ ▪ US-China rivalry will continue but a
+ transactional relationship between
+ 4 the two great superpowers is the
+ most likely outcome.
+
+ ▪ The US is embracing some aspects of
+ Chinese-style state capitalism. It is
+ likely other countries will follow suit.
+
+ ▪ Secondary sanctions on countries
+ aligned with Russia could cause
+ problems in some parts of the world.
+
+ ▪ Trust in political leadership remains
+ weak. A key test will be the US
+ midterm elections that take place in
+ November 2026.
+
+1515
+
+## Page 16
+
+Themes 2026 How we did in 2025 Publications
+
+ 4 Geopolitic s: New alliances, state capitalism
+ and a di v er g ing ele c t or at e
+
+ Continued rivalry between the US and China, the forging of new
+ alliances, the growth of state capitalism, electorate dissatisfaction and
+ bifurcation are the key geopolitical themes we see for 2026.
+
+ US-China rivalry
+ Rivalry between the US and China will remain a central issue in 2026.
+ Washington’s push to ‘de-risk’ from Chinese supply chains will continue,
+ particularly with respect to semiconductors and rare earth metals. In practical
+ This strategic decoupling terms, however, the reality is that the US, China and other economies in Asia
+ will reshape and split are deeply interdependent. Global supply chains are highly complex with
+ many economies involved in the production of the hardware needed to drive
+ the global economy, with the development of AI.
+ countries tending to lean It is ironic that the push by the US to be more autonomous involves an
+ towards China or the US embrace of Chinese-style state interference, with the US taking strategic
+ in terms of their economic stakes in key industries with a focus on IT and rare earth metals. In a parody
+ of a phrase famously used by Chinese authorities, some have called this
+ loyalties. “capitalism with American characteristics”. In 2025 the US government acquired
+ signiﬁcant holdings in companies including Intel (chip making) and MP
+ Materials (rare earth mining), as well as forcing Nvidia and AMD to hand over
+ 15% of the revenues they receive from their chip sales to China, in exchange
+ for export licences. And, of course, the US authorities have intervened to force
+ a change in ownership of TikTok’s US operations to a US company.
+
+ Beijing, meanwhile, will continue to develop its own sphere of inﬂuence
+ through closer trade links and infrastructure projects with nations perceived
+ as friendly. This was evident during China’s 2025 Victory Day Parade, which
+ saw leaders from a range of countries including Russia, Iran, North Korea,
+ Indonesia, Belarus and Myanmar in attendance whilst there was a notable
+ lack of representation from established Western nations.
+
+ This strategic decoupling will reshape and split the global economy, with
+ countries tending to lean towards China or the US in terms of their economic
+ loyalties. Nonetheless, it will be challenging for two countries that are so
+ deeply entwined to decouple entirely or at speed. This suggests a reality in
+ which a pragmatic, transactional arrangement between the world’s two great
+ superpowers results.
+
+ New alliances
+ New alliances will be strengthened. The expansion of the BRICS is perhaps
+ the clearest example of that as highlighted in last year’s Outlook. The four
+ founding members (Brazil, Russia, India, and China) were joined by South
+ Africa in 2010, Egypt, Ethiopia, Iran, and the UAE in 2024 and Indonesia in 2025.
+ Trade links between the members can be expected to strengthen but it is
+ certainly not a homogeneous grouping.
+
+16 EFG | Outlook 2026
+
+## Page 17
+
+Themes 2026 How we did in 2025 Publications
+
+ Figure 5: Trust in governments European security and the Russia–Ukraine war
+ Emerging economies have the highest Russia is facing economic, manpower and ﬁscal strains in its war with
+ levels of trust in government but for Ukraine. These could push it either toward negotiation or escalation. Europe
+ most other nations there is distrust itself is undergoing its largest rearmament in decades but cyberattacks as
+ well as Russian drone, aircraft and shipping incursions into European NATO
+ 100 member territories are likely to continue to pose challenging threats. The
+ cyberattack on British carmaker Jaguar Land Rover is a key example of this.
+ The auto manufacturer was unable to produce cars for over a month and
+ required government loan guarantees to support its supply chain. However,
+ Saudi Arabia (87) there are encouraging signs of European leaders coming together under the
+ China (83) catalysing inﬂuence of President Trump.
+ UAE (82)
+ India (79) Sanctions
+ Singapore (77)
+ Indonesia (75) Sanctions are set to continue, intensify and change in their nature. The US
+ Malaysia (67) intends to impose higher tariffs or sanctions on countries that trade with Russia
+ Thailand (63) (especially those who import cheap Russian oil, as evidenced by increased
+ Netherlands (58) tariffs on India) and encourage or pressure other countries to do likewise.
+ Sweden (54) Sanctions may well also, or alternatively, be on individual companies and their
+ Canada (50) leaders rather than the countries themselves. While their effectiveness can be
+ Ireland (48)
+ Australia (47) questioned, there is no doubt they can be harmful to the individuals involved,
+ Mexico (47) as they have been in the case of sanctioned Russian nationals.
+ Nigeria (44)
+ Argentina (42) Regional ﬂashpoints and institutional strain
+ US (41) Multiple regional tensions remain. The experience of recent years is that
+ Italy (40)
+ Brazil (39) these can ﬂare up with little warning. US involvement has been successful in
+ Kenya (38) defusing many of these, a role which is ever more important as global
+ S. Korea (38) institutions – such as the United Nations, World Trade Organization and
+ France (37) International Monetary Fund – struggle to enforce norms and manage global
+ UK (37) challenges.
+ S. Africa (36)
+ Colombia (35)
+ Germany (35) Tr u s t a n d lea d e rs h i p
+ Spain (33) 2026, we believe, will see a continued erosion in the trust that electorates
+ Japan (32) have in their political leadership (Figure 5). A polarisation between
+ increasingly far left and far right political options is evident in many
+ countries, with the ‘middle ground’ often struggling. That tension is evident,
+ for example, in France – with the result being a situation of virtual
+ Source: Edelman Trust Barometer, 2025. ungovernability. The electorate feel they are often choosing the ‘least bad’
+
+ option rather than a party or candidate they truly support. Too many leaders
+ focus on reacting to crises without offering a coherent long-term direction.
+
+ Action for investors: Equally important is global awareness. Politicians who retreat into
+ ▪ In 2026, geopolitics will be defined by nationalistic policies and views ignore the reality of the deep
+ US-China competition, concerns over new interdependence in areas such as trade, technology and climate. A key
+ security threats, especially in Europe, watchpoint will be the US midterm elections which will be a test for Donald
+ technological rivalry and the response in Trump as to whether his gamble on key policy initiatives such as tariffs and
+ the form of state capitalism. There will immigration have worked with the voting population. Recent political losses
+ be no easy or quick solutions. are a concern for the Trump administration and he may need to pivot to the
+ ▪ Populist policies that reflect either far left domestic agenda.
+
+ or far right views will lead to concerns as
+ to the sustainability of those governments.
+ ▪ Maintaining portfolios that are adequately
+ diversified between geographies continues
+ to be important.
+
+17 EFG | Outlook 2026
+
+## Page 18
+
+Themes 2026 How we did in 2025 Publications
+
+ Innovation
+ and change
+
+ The adoption and development of AI, sharing
+ many of the characteristics of the superpower
+ rivalries of the past, will be a key focus. In
+ the build up to the US midterm elections, Trump
+ will place greater focus on his deregulation
+ agenda as part of his push for growth.
+
+ 5 Trump’s 3 D’s: DOGE, Deregulation,
+ and Drugs
+ 6 Opportunities abound in the AI race
+
+1818EFG | Outlook 2026
+
+## Page 19
+
+Themes 2026 How we did in 2025 Publications
+ Tr u m p ’ s 3 D ’ s :
+ DOGE, Deregulation,
+ an d D r u g s
+
+ Theme /uni2116 Key takeaways
+
+ ▪ DOGE – ongoing effort to make cost
+ savings.
+ 5 ▪ Deregulation – Trump looks to rip up
+
+ the rule book, ranging from housing,
+ finance and technology.
+
+ ▪ Drug pricing – Trump will push to
+ bring global drug prices in line with
+ US levels.
+
+1919EFG | Outlook 2026
+
+## Page 20
+
+Themes 2026 How we did in 2025 Publications
+
+ 5 Tr u m p ’ s 3 D ’ s : DOGE,
+ Deregulation, and Drugs
+
+ We do not expect President Trump’s reform agenda to slow down in his
+ second year. We see ‘three Ds’ at the top of President Trump’s programme:
+ DOGE, deregulation, and drug pricing. It is anticipated that other countries
+ will follow closely and may look to adopt similar approaches in their
+ respective countries in due course.
+
+ DOGE
+ Trump had set up the Department of Government Efﬁciency (DOGE) to reduce
+ If all metropolitan areas wasteful government spending, with Elon Musk initially targeting USD2tn in
+ adopted the lowest level of savings. This was later scaled back to USD1tn and then USD150bn by the end
+ of April. Although Musk departed in late May, taking some of the noise away
+ land use regulation (found from DOGE, its work continues. The estimated savings generated by the
+ DOGE up until mid-October 2025 are put at USD214bn 7. That represents a
+ in Texas), US GDP would combination of asset sales, contract and lease cancellations and
+ increase by around 3%. renegotiations, deletion of fraudulent and improper payments and workforce
+ reductions. Broad deregulation remains an important theme of the Trump
+ administration and is seen as central to achieving the objective of 3% real
+ economic growth.
+
+ Deregulation
+ One important aspect of the Trump administration’s policies is deregulation
+ (Figure 6). With a particular focus on housing and de-zoning/re-zoning land.
+ De-zoning focuses on removing planning restrictions altogether and re-zoning
+ focuses on changing zoning regulations. Zoning restrictions can often be a
+ drag on the availability of housing and commercial space.
+
+ Deregulation in this area could involve a loosening of residential density
+ limits, allowing more apartments/homes to be built, easing shortages and
+ lowering housing costs. For businesses, an easing of zoning regulations can
+ allow, for example, more rapid development of new businesses in key areas.
+ One study ﬁnds that if all metropolitan areas adopted the lowest level of
+ land use regulation (found in Texas), US GDP would increase by around 3%
+ or around USD1tn per year. 8
+
+ Another important piece of ﬁnancial market legislation is the Genius Act
+ (Guiding and Establishing National Innovation for US Stablecoins Act), which
+ came into US law in July 2025. This allows the establishment of stablecoins
+ typically backed by US Treasuries. This will lead to a signiﬁcant increase in
+ the number of transactions and hence reduction in costs for cross-border
+ transfers and improved safety and regulation for consumers. It is expected
+ that stablecoins will be able to disrupt the cross-border payment systems,
+ especially in the US, where consumers pay a lot for transfers and often with
+ large time delays. We see that with further enhancement this technology
+
+ 7 https://doge.gov/savings
+
+ 8 https://www.hoover.org/research/reforming-us-commercial-land-use-regulations-could-
+ increase-gdp-1-trillion-year
+
+20 EFG | Outlook 2026
+
+## Page 21
+
+Themes 2026 How we did in 2025 Publications
+
+ Figure 6: Deregulation orders under the Trump Administration
+ Deregulation focus on Healthcare, Finance, Housing, Energy and AI
+
+ Sector Executive order or Rulemaking name Status
+
+ Affordable Care Act marketplace rule Partially effective
+
+ Healthcare Executive order on risky biological research In effect
+
+ Executive order establishing the “Make America Healthy Again Commission” In effect
+
+ Establishing the US Digital Asset Stockpile and the Genius Act, which leads to the creation of regulated stablecoins In effect
+ Finance
+ Establishing a United States sovereign wealth fund which has invested in chips and rare earths companies In effect
+
+ Invest America Act – establishes a tax advantaged account for every American child at birth In effect
+ (with a $1,000 deposit from the federal government)
+
+ Housing Rescinding all Afﬁrmative Fair Housing Marketing regulations In rulemaking
+
+ Ending the Greenhouse Gas Reporting program In rulemaking
+
+ Rescinding the greenhouse gas endangerment ﬁnding and vehicle emissions standards In rulemaking
+ Environment/ Rescinding the deﬁnition of “harm” under the Endangered Species Act In rulemaking
+ Energy
+ “Unleashing American Energy” In effect
+
+ Withdrawing from the Paris Agreement In effect
+
+ Executive order on data center permitting In effect
+
+ Delaying the TikTok ban In effect
+
+ Technology/AI Advancing AI in education executive order In effect
+
+ Establishing the Strategic bitcoin Reserve and US Digital Asset Stockpile In effect
+
+ Removing barriers to US AI leadership In effect
+
+ Sources: White House, Brookings Institution and EFGAM. Data as of 17 October 2025.
+
+ could lead to increased tokenisation of stocks, illiquid assets and eventually
+ 24/7 trading of investment assets.
+
+ Drug pricing
+ Drug pricing has, for a long time, been a contentious issue not just in the US
+ but globally. US drug prices are generally higher than those in the rest of the
+ world, especially for relatively new, branded drugs. President Trump’s view is
+ Action for investors: that drug prices are too low in other markets around the world, especially in
+ ▪ Look for opportunities in the 3D's: private European markets, with tariffs (on Switzerland in particular) designed to
+ sector provision of formerly government offset that difference. The Trump administration believes that US drug prices
+ services; real estate development in need to remain high in order to incentivise greater investment in research
+ selected residential and commercial areas and development. There is general support for that argument in other
+ as a result of de-zoning/re-zoning; and economies, notably the UK. However, there is a reluctance to see prices rise
+ innovators in the healthcare industry. for the purchasers of drugs, whether they be the end consumer, healthcare
+ ▪ The Genius Act may be a threat to existing providers or the state. In the US, the TrumpRX plan is designed to allow
+ cross border payment companies and consumers to buy drugs directly from pharmaceutical companies, but it
+ banks but will be an opportunity for remains to be seen how effective this will be.
+
+ companies in the stablecoin arena.
+ ▪ Be wary of changes in the drug pricing Furthermore, patent expirations (generic drug prices are lower in the US than
+ landscape and the impact on investment branded drug prices) and the weak pipeline of new drug approvals puts
+ and innovation. pressure on drug company margins and may further stiﬂe investment in new
+ ▪ Other economies (such as the UK and drugs. Issues relating to drug efﬁcacy (of immunisations and generic widely
+ some emerging economies) may look to used drugs such as paracetamol) means navigating developments in the
+ copy DOGE-like initiatives, so look for healthcare industry will be no easy task in 2026. We favour exposure to
+ opportunities there. smaller, innovative companies that are in a position to lead new drug
+ development rather than larger, established healthcare companies.
+
+21 EFG | Outlook 2026
+
+## Page 22
+
+Themes 2026 How we did in 2025 Publications
+ Oppor tunities abound
+ in t h e AI race
+
+Theme /uni2116 Key takeaways
+
+ ▪ AI infrastructure plan will require
+ significant energy investment.
+ 6 ▪ Sources of funding for these
+
+ investments are evolving.
+
+ ▪ The US and China will continue their
+ battle to be the global leader in AI.
+
+ ▪ Humanoid robots are a promising
+ application.
+
+## Page 23
+
+Themes 2026 How we did in 2025 Publications
+
+ 6 Oppor tunities abound
+ in t he AI race
+
+ The artiﬁcial intelligence (AI) race will be a deﬁning phase of the 2020s.
+ We will continue to witness intense competition between the US and China,
+ huge capital investment and unprecedented technological innovation.
+
+ AI infrastructure and energy demand
+ Since the launch of ChatGPT in November 2022 the speed and scale of AI
+ infrastructure investment has far exceeded forecasts. To date the majority of
+ the funding has been driven by US Hyperscalers.
+
+ In the third quarter of 2025 alone, the top four spenders (Amazon, Microsoft,
+ Google and Meta) spent a combined USD97bn on capital expenditures, a
+ year-over-year increase of +66%, most of which goes towards AI9.
+
+ Aggregate global datacentre investment in 2025 may have exceeded
+ USD500bn, with AI data centres representing the lion's share. Despite the eye
+ watering ﬁgures spent, the largest investors still claim to have insufﬁcient
+ capacity to meet current demand.
+
+ One of the critical challenges in building capacity is securing enough energy
+ to power the servers (Figure 7). AI data centres are uniquely power hungry,
+ with the latest AI servers consuming ~10" more power than traditional
+ servers. Data centres today are measured in gigawatts (GW) of capacity, for
+ reference 1GW of power is enough to power approximately 750,000 US
+ households.
+
+ Figure 7: Global data centre electricity consumption by equipment, base case
+ Increasing pressure on electricity supplies
+ spurred on by AI growth
+
+ Other infrastructure Cooling Other IT Equipment
+ Conventional Servers Accelerated Servers
+
+ 1000
+ 900
+ 800
+ 700
+ 600
+ 500
+ 400
+ 300
+ 200
+ 100
+ 0
+ 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+
+ Source: IEA, https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai
+
+ 9 Source: Company earnings and EFGAM calculations.
+23 EFG | Outlook 2026
+
+## Page 24
+
+Themes 2026 How we did in 2025 Publications
+
+ The International Energy Agency (IEA) estimates that in 2024 global
+ datacentres consumed ~1.5% of global energy. 10 Within the US, McKinsey
+ estimates that data centres' share of energy consumption will increase from
+ 4.3% in 2024 to 11.7% in 2030 (Figure 8). 11
+
+ Figure 8: Share of total US power demand
+ Data centres will signiﬁcantly increase share of US energy
+ consumption
+ 11.7%
+
+ 4.3%
+
+ 2024 2030
+
+ Source: McKinsey, https://www.mckinsey.com/industries/technology-media-and-telecommu-
+ nications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers
+
+ If the ambitious AI investment plans are to be believed, an estimated
+ additional 80–120GW of capacity needs to be constructed over 2025–2030.
+
+ However, at such scale over a relatively short period there are risks supply
+ will not be able to match demand. The IEA forecasts in their base case
+ scenario ~110GW of data centres capacity to be added between 2025–30, of
+ this ~20GW may be at risk of being delayed due to grid constraints. Data
+ centres operators are racing to bring as much renewable, nuclear and fossil
+ Whilst Chinese tech giants fuel energy sources online as quickly as possible to meet future demand.
+ have increased their AI How will all this investment be funded?
+ investments they are To date the majority has been funded by the free cash ﬂow of the world’s
+ yet to match the scale of most proﬁtable companies. However, as these companies’ free cash ﬂows
+ begin to approach zero and investments continue to rise, three alternative
+ their US counterparts. sources of ﬁnancing are becoming more prevalent:
+
+ 1. Debt ﬁnancing – e.g. Oracle must raise debt to invest at a similar scale
+ to the largest players. Hyperscalers have yet to meaningfully use debt
+ ﬁnancing.
+ 2. Equity ﬁnancing – e.g. OpenAI funding rounds being used to potentially
+ self-build capacity.
+ 3. Vendor ﬁnancing – notably Nvidia has agreed to invest up to USD100bn
+ into OpenAI to support the companies’ ambitions.
+
+ The shift to debt and vendor ﬁnancing indicates we have entered a new stage
+ of this cycle, although how long it is before the eventual correction occurs
+ depends ultimately on whether:
+ ▪ the collective belief in continued technological advancement and monetary
+ returns from investing in AI is maintained
+ ▪ there is enough remaining capital to be deployed. For the time being, there
+ is but that may not last.
+
+ 10 https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai
+
+ 11 https://www.mckinsey.com/industries/private-capital/our-insights/how-data-centers-and-
+ the-energy-sector-can-sate-ais-hunger-for-power
+24 EFG | Outlook 2026
+
+## Page 25
+
+Themes 2026 How we did in 2025 Publications
+
+ US vs. China
+ Both the US and China view AI as a strategic technology with implications for
+ economic growth as well as national security. Whilst Chinese tech giants have
+ increased their AI investments they are yet to match the scale of their US
+ counterparts. Alibaba has been the biggest spender and most vocal to date,
+ in September 2025 announcing their intention to invest “over RMB 380bn”
+ (USD53bn) into AI over a 3-year period. China may well have the energy
+ advantage as it mobilises its prowess in sales and nuclear energy. Outside of
+ the US, China is likely to be the second largest spender when it comes to
+ building AI infrastructure.
+
+ The US has targeted slowing down Chinese AI progress through
+ semiconductor export restrictions and to a lesser extent tariffs. China in
+ response has leveraged US industrial dependencies on rare earths.
+
+ As US Secretary of Commerce Howard Lutnick so bluntly put it: “We don’t
+ sell them our best stuff, not our second best stuff, not even our third best.
+ From factory ﬂoors The fourth one down, we want to keep China using it. We want to keep having
+ to hospital hallways, the Chinese use the American technology stack, because they still rely
+ upon it”. 12
+ humanoid robots are
+ stepping into trials as a In parallel to trade negotiations each country is following a path of trying to
+ localise strategic resources: for China chip fabrication and design, for the US
+ new age labour force. reshoring manufacturing and accessing critical materials.
+
+ Humanoid robots – from sci-ﬁ to the factory ﬂoor
+ An emerging application of AI comes in the form of autonomous robotics.
+ Humanoid robots, having once lived purely in the realm of science ﬁction, are
+ increasingly showing promising signs of reaching technological maturity. From
+ factory ﬂoors to hospital hallways, humanoid robots are stepping into trials
+ as a new age labour force.
+
+ The promised beneﬁts are ambitious, a tireless 24/7 worker that can slot into
+ human-designed spaces opens an almost limitless set of applications: from
+ factories, logistics warehouses, healthcare services, retail and beyond. For
+ Action for investors: economies battling ageing demographics and frequent stafﬁng shortages
+ ▪ Electricity demand will increase such that robotics are a compelling proposition to achieve productivity gains.
+
+ countries with the cheapest sources of
+ new electricity will have a comparative Today these autonomous robots are predominantly in pilot trials across
+ advantage, in particular in locations with sectors rather than seeing imminent mass adoption. Technological capability
+ growing data centre needs. and cost must continue to make progress, but the trends so far are promising.
+ ▪ Humanoid robots will likely be utilised in Costs have come down from USD100k+ to USD35–60k in some leading models,
+ more industries, such as: logistics & with some Chinese ﬁrms suggesting they’ll be able to reach <USD15k per unit.
+
+ manufacturing, healthcare services and
+ domestic services. Robotics may be another sector the US and China battle over, with plausibly
+ massive economic rewards from being able to automate many more manual
+ labour tasks there are strong incentives to localise this industry.
+
+ 12 https://www.cnbc.com/2025/07/15/howard-lutnick-says-china-is-only-getting-nvidias-4th-
+ best-ai-chip.html
+
+25 EFG | Outlook 2026
+
+## Page 26
+
+Themes 2026 How we did in 2025 Publications
+
+ Market
+ opportunities
+
+ Overlooked opportunities in previously favoured
+ markets will be a theme in 2026. Two stand out –
+ European equities and emerging market equities
+ and bonds. Both areas have been popular in
+ the past and can regain their allure. Meanwhile,
+ new opportunities in private markets and M&A
+ activity provide a fresh dimension.
+
+ 7 An EU revival: Restructuring and reform
+ 8 Emerging markets have the wind in
+ their sails
+ 9 Private markets: Unlocking liquidity
+ and diversiﬁcation opportunities
+ 10 IPOs and M&A activity: Multiple
+ sectors set to beneﬁt
+
+2626EFG | Outlook 2026
+
+## Page 27
+
+Themes 2026 How we did in 2025 Publications
+ An EU revival:
+ Re s t r uc t ur ing and re for m
+
+ Theme /uni2116 Key takeaways
+
+ ▪ Europe is committed to increasing
+ its defence spending, not just in
+ 7 2026 but for many years.
+
+ ▪ Europe is a leader in the green
+ energy and carbon reduction process.
+
+ ▪ Innovation is key to future growth,
+ exemplified by Switzerland.
+
+2727
+
+## Page 28
+
+Themes 2026 How we did in 2025 Publications
+
+ 7 An EU revival:
+ Re s t r uc tur ing and re for m
+
+ The EU will take further restructuring and reform steps in 2026. This is due
+ to external threats (particularly from Russia) and pressure from the US to
+ increase defence spending. Europe’s strength in innovation and collaboration
+ between member states will continue to be a critical factor here.
+
+ We believe a renewed excitement for European and Swiss equities is likely.
+ This positive view is driven by a range of potential catalysts, including: (1)
+ More material German stimulus impact; (2) Increased defence spending; (3)
+ Revived interest in green energy and carbon reduction spending; and (4)
+ Levels of innovation. Furthermore, there is an improving eurozone credit
+ impulse and lower interest rates.
+
+ German ﬁscal spending is a potential catalyst for improving economic activity
+ The EUR500bn infrastructure package and the circa EUR1trn more on defence
+ spending over the next decade are large by historical standards. While
+ Germany has historically underspent, we see three reasons why this time
+ could be different: (1) Merz’s political willingness is indisputable; (2) There is
+ no shortage in identiﬁable investment projects, and there are already
+ speciﬁc plans on where the money is to be spent, from railways and bridges
+ to contracts in the defence sector; (3) Substantial sums are being directed
+ through federal states, which have considerable local investment needs. A
+ ﬁfth of the EUR500bn infrastructure fund will be spent by Länder, which will
+ also have more ﬂexibility for structural new borrowing.
+
+ Figure 9: EU NATO member's defence spending
+ While seven EU member states did not meet the NATO defence spending target in 2024, all members
+ are expected to meet this in 2025
+
+ % of GDP 2%
+
+ 4%
+
+ 3%
+
+ 2%
+
+ 1%
+
+ 0%
+
+28 EFG | Outlook 2026 Sources: NATO and European Parliament estimates for 2024.
+
+## Page 29
+
+Themes 2026 How we did in 2025 Publications
+
+ Figure 10: WIPO Global Innovation Index Defence security
+ As innovation is key to future growth, Global geopolitical tensions have revived the issue of the extent to which
+ Europe is well placed Europe can be strategically autonomous. One aspect of that could be a truly
+ uniﬁed military and defence capability but this remains politically sensitive
+ Country World ranking and may take decades to achieve. However, there is clear progress on
+ Switzerland 1 increasing European countries’ defence spending. 23 of the 27 EU member
+ Sweden 2 states are in NATO and 16 of these had defence spending above 2% of GDP in
+ USA 3 2024 (Figure 9). All members are expected to reach or exceed the 2% target in
+ Singapore 4 2025 according to commitments made to NATO, with all members targeting a
+ United Kingdom 5 level of 5% by 2035. This extra spending is being tolerated, even with other
+ Korea 6
+ Finland 7 pressures on government spending.
+
+ Netherlands 8
+ Germany 9 Green transition
+ Denmark 10 Another key catalyst for renewed optimism in European equities is the revival
+ China 11
+ Fra n ce 12 of green-energy and carbon-reduction spending. Policy momentum remains
+ Japan 13 supportive: the EU’s Clean Industrial Deal, introduced in early 2025, and its
+ Canada 14 Affordable Energy Action Plan aim to lower energy costs, stimulate transition-
+ Israel 15 related investment, and support demand for low-carbon products shifting the
+ Estonia 16 focus from regulation to industrial competitiveness. According to European
+ Austria 17
+ Hong Kong, China 18 Commission estimates, faster electriﬁcation and efﬁciency improvements
+ Ireland 19 could reduce the EU’s fossil-fuel import bill by around EUR130bn per year by
+ Luxembourg 20 2030, and up to EUR260bn by 2040, improving resilience and lowering
+ Norway 21 long-term energy dependence.
+ Iceland 22
+ Australia 23
+ Belgium 24 Progress is already visible, with renewables providing close to half of EU
+ New Zealand 25 electricity in 2024, while the Carbon Border Adjustment Mechanism (CBAM), to
+ be fully implemented in 2026, reinforces incentives for cleaner production. In
+ Source: WIPO Global Innovation Index, 2025. our view, these developments provide a constructive medium-term backdrop
+
+ for Europe as it deepens its green transition creating opportunities across
+ industrials, utilities and companies linked to electriﬁcation and energy
+ efﬁciency.
+
+ Innovation
+ In this knowledge-based economy we live in, intangible assets such as
+ Action for investors: intellectual property – combined with inventions, patents and technological
+ ▪ The potential upside in economic and know-how – have become central sources of value creation on a country level
+ industrial activity could be particularly and on a company level. One such example is Klarna, which was the ﬁrst
+ beneficial to Swiss and eurozone small & European company and the ﬁrst ﬁntech ﬁrm globally to launch a ChatGPT
+ mid-caps. plugin. Klarna’s AI assistant has had over 2.3 million conversations,
+ ▪ The green transition is creating opportunities accounting for two-thirds of Klarna’s customer service chats, and is doing the
+ across industrials, utilities, and companies equivalent work of 700 full-time agents while also leading to faster and more
+ linked to electrification and energy efficiency. accurate errand resolutions. 13
+
+ ▪ Look for opportunities in defence and
+ industrial companies. Of course, in an era increasingly shaped by artiﬁcial intelligence, where many
+ forms of intellectual work risk being automated or displaced, the value of
+ uniquely human capabilities – talent, creativity and adaptive thinking –
+ become even more critical ingredients of innovation. According to the Global
+ Innovation Index, 16 of the 25 top-ranked innovative economies are in Europe.
+ Switzerland exempliﬁes this dynamic (Figure 10). As recent INSEAD research
+ highlights, the country continues to lead in both talent competitiveness and
+ in innovation, ranked number 1 globally for 15 years in a row. Having one of
+ the most skilled labour forces underpins Switzerland’s leadership across key
+ industries, including ﬁnance, medical technology, pharmaceutical and
+ precision manufacturing. In a world where innovation is the key to future
+ growth, this means Europe is well placed.
+
+29 EFG | Outlook 2026 13 Source: https://openai.com/index/klarna
+
+## Page 30
+
+Themes 2026 How we did in 2025 Publications
+ Emerging market s
+ have the wind in
+ their sail s
+
+ Theme /uni2116 Key takeaways
+
+ ▪ Emerging markets should benefit
+ from a stable-to-lower dollar
+ 8 environment, fiscal discipline, robust
+ demographics, good underlying
+ growth and low developed world
+ interest rates.
+
+ ▪ Domestic demand remains resilient
+ in many emerging economies and
+ emerging market equities trade at a
+ valuation discount to developed
+ equities.
+
+3030
+
+## Page 31
+
+Themes 2026 How we did in 2025 Publications
+
+ 8 Em e r g in g m a r k e t s have
+ the wind in their sails
+
+ It is fair to say that the attitudes of investors to emerging markets
+ have waxed and waned over long periods. Enthusiasm over their long-run
+ growth prospects has so often been quashed by the re-emergence of
+ crisis. Cheap valuations have been revealed as a value trap. And structural
+ reforms often fail to materialise. 2026, we think, will be a year in which a
+ more favourable appraisal materialises.
+ Favourable global demand
+ or supply constraints Strong valuations
+ Emerging market equities are currently priced at a discount relative to
+ for key commodities developed markets (Figure 11). While such a discount is normally the case, it
+ (minerals, metals, energy) is wider than on average and we expect that it will attract capital inﬂows,
+ especially in an environment of low global interest rates.
+ could improve export
+ revenues and ﬁscal A weak US dollar
+ In an environment of moderating inﬂation and trough interest rates, we
+ balances. expect the US dollar to be generally stable to lower in the year ahead.
+ Historically, emerging market equities have fared well against a lower/stable
+ dollar trend, as it reduces dollar-denominated debts and makes local assets
+ relatively more attractive.
+
+ Fiscal discipline
+ Emerging market economies are often incorrectly assumed to face higher
+ debt burdens than advanced economies. In fact, many of these economies
+ have become ﬁscally disciplined over the last few decades, learning lessons
+ Figure 11: Emerging markets discount to the world from previous debt crises such as the Tequila Crisis of 1994. Now, countries
+ The price/earnings multiple for such as Mexico, Brazil and India face gross government debt levels as a
+ emerging markets is generally lower percentage of their GDP lower than those of advanced economies such as the
+ than that of developed markets US, UK, France and Japan.
+
+ Emerging markets Price/Earnings multiple
+ World Price/Earnings multiple Emerging market domestic demand resilient
+ In emerging markets, domestic demand resilience and strong consumer
+ 35 spending remain important pillars of growth. This is most notably the case in
+
+ 30 India, whereas in China consumer demand is still restrained as a result of a
+ 25 debt overhang, a weak housing market and poor consumer conﬁdence.
+ 20 Even so, China still remains key to overall emerging market developments. It
+ has outsourced production to smaller economies (for example Vietnam) and
+ 15 has helped build infrastructure around the world under its Belt and Road
+
+ 10 Plan – even though that is now more constrained in its ambitions.
+
+ 5
+ 0 Commodities
+ 1995 2000 2005 2010 2015 2020 2025 In addition to domestic demand forces, several emerging markets are
+ commodity exporters. Favourable global demand or supply constraints for key
+ Source: Datastream Total market indices, LSEG. commodities (minerals, metals, energy) could improve export revenues and
+ Data as at 03 November 2025.
+ Past performance is not indicative of future results ﬁscal balances.
+
+31 EFG | Outlook 2026
+
+## Page 32
+
+Themes 2026 How we did in 2025 Publications
+
+ Figure 12: China's rare earth production and reﬁning A salient example is China’s rare earths dominance. The world’s second
+ China dominates the rare earth largest economy accounts for almost half of global reserves, two-thirds of
+ commodities battleground global production and over 90% of global reﬁning (Figure 12). China has been
+ strategically building these capabilities over decades. A famous quote from
+ former leader Deng Xiaoping in 1992 highlights this point: “The Middle East
+ has oil and China has rare earths”.
+
+ Rare earths are versatile, entering supply chains for products ranging from
+ loudspeakers and X-ray machines to missile guidance systems. They are also
+ used in the production of high-tech hardware that AI relies on and will
+ beneﬁt from the AI race. Additionally, the transition to clean energy may raise
+ demand for critical minerals (lithium, cobalt, etc.), beneﬁtting emerging
+ economies that host these resources.
+
+ Strong demographics
+ Emerging economies that have typically received less attention – notably
+ ~50% 2/3 +90% those in the Gulf region – should continue to do well even as the world
+ Share of Global Global pivots away from the use of oil and gas. In particular, they should beneﬁt
+ global reserves production reﬁning from their commitment to substantial infrastructure projects and favourable
+
+ Source: US Geological Survey and International Energy demographics of younger and growing populations (notably female
+ Agency, Global Critical Minerals Outlook 2025. participation in the Saudi workforce).
+
+ There have been outﬂows of funds from emerging market ﬁxed income
+ markets since 2002 (and broadly ﬂat equity ﬂows over the same period). We
+ think the above points set the scene for fund ﬂows into emerging markets to
+ increase and for emerging market performance to recover relative to
+ Action for investors: developed markets.
+
+ ▪ For 2026, we see a swing back in emerging
+ markets favour supported by a generally Risks to recognise
+ benign global environment (low, but stable As with any theme, there are risks that one should be aware of. Geopolitical
+ growth and inflation) and a stable to tensions have been elevated in recent years and this remains the case today.
+ weaker dollar. Valuations are at a discount If these tensions were to spike, a ﬂight to safety could pause the weaker
+ to developed markets. dollar trend that beneﬁts emerging markets. This trend could also be arrested
+ ▪ EM local currency debt favoured in addition by a more hawkish Fed which fails to deliver on market rate cut expectations
+ to emerging market commodities. if US labour market or inﬂation data is stronger than expected. In addition,
+ ▪ ‘Picks and shovel’ materials companies offer the overhanging threat of US tariffs is a prominent risk for the commodity
+ potential growth and opportunities. exporting emerging market economies, threatening to disrupt trade ﬂows and
+ lower economic growth.
+
+32 EFG | Outlook 2026
+
+## Page 33
+
+Themes 2026 How we did in 2025 Publications
+ Pr i va te mar k e t s : Unlocking
+ liquidit y and diversiﬁcation
+ oppor tunities
+
+ Theme /uni2116 Key takeaways
+
+ ▪ Mid-cap buyouts, secondaries
+ and private debt each play
+ 9 a central role in building flexible
+ and robust private market portfolios.
+
+ ▪ Success in private markets
+ increasingly relies on selecting
+ top-performing managers and
+ leveraging expert guidance.
+
+3333EFG | Outlook 2026
+
+## Page 34
+
+Themes 2026 How we did in 2025 Publications
+
+ 9 Pr iva te mar ke t s : Unlocking
+ liquidit y and diversiﬁcation
+ oppor tunities
+
+ Assets under management in private equity and private debt have
+ experienced rapid growth in recent years and are forecast to reach
+ approximately USD11.9tn and USD2.6tn, respectively (Figure 13). 14
+
+ How ever, the industry faces a persistent challenge: the slow return of capital
+ to investors. This issue is driving a shift toward strategies that prioritise
+ liquidity opportunities, diversiﬁcation, and risk management. Diversiﬁed
+ mid-cap private market portfolios, secondaries and private debt are emerging
+ as key solutions, helping investors balance growth opportunities with the
+ need for ﬂexibility and resilience.
+
+ Mid-cap buyouts offer built-in diversiﬁcation
+ Mid-cap buyouts could continue to shine in 2026 as a source of
+ diversiﬁcation, stability and potential high returns. These investments focus
+ on medium-sized companies, which tend to have more attractive entry
+ valuations and offer a larger variety of exit routes than larger deals. Mid-cap
+ managers often rely on trade sales and secondary buyouts rather than IPOs,
+ reducing their dependence on volatile public markets and smoothing the
+ timing of exits. According to Preqin, mid-cap buyouts have delivered stronger
+ annualised returns over the long term, outperforming both large-cap buyouts
+ and the S&P 500. 15
+
+ Figure 13: Private markets are projected to grow signiﬁcantly
+ The private markets sector continues to grow and become democratised
+
+ Global Private Equity and Private Debt AuM (in USD trillions)
+ 2024 2029 Growth
+ Private Equity Private Debt Actual Forecast (CAGR)
+
+ 16
+ 14 Buyout $4.3T $8.3T 14.1%
+
+ 12 Private Growth $1.2T $2.2T 12.4% 13.2%
+ 10 Equity
+
+ 8 Other $0.9T $1.4T 9.9%
+ 6 Direct
+ 4 Lending $0.8T $1.3T 10.4%
+ 2 Private
+ 0 Debt Debt $0.3T $0.5T 9.9% 10.3%
+
+ Other $0.5T $0.8T 10.3%
+
+ Forecast
+
+ Source: Preqin, as of 06 November 2025. Past performance is not indicative of future results
+
+ 14 Preqin 2025 Global Report. 2024, https://pro.preqin.com/insights/global-reports/
+ 2025-private-equity?chapter=sample
+ 15 Preqin Indices Benchmarks tool. 2025, https://pro.preqin.com/benchmarks/indices/
+ privateCapital
+
+34 EFG | Outlook 2026
+
+## Page 35
+
+Themes 2026 How we did in 2025 Publications
+
+ Diversiﬁcation remains critical in private markets. By combining private
+ equity, debt, infrastructure, and real estate, investors can spread risk and
+ achieve more consistent returns. Mid-cap buyouts, in particular, offer a
+ balanced approach, providing steady growth with lower volatility.
+
+ Secondaries have historically delivered strong returns
+ We believe the secondaries market is poised for signiﬁcant growth
+ continuation in 2026, driven by its ability to deliver strong returns while
+ offering greater liquidity than traditional private equity. Secondaries provide
+ diversiﬁcation across vintages, strategies, and managers. This reduces
+ concentration risk and enhances portfolio stability.
+ Investors could increasingly Over the past few years, secondaries have consistently outperformed primary
+ use secondaries to private equity funds, potentially making them an attractive option for
+ investors seeking both performance and reduced risk. Of course, past
+ unlock capital from aging performance is no guarantee of future performance. For vintages from 2019 to
+ assets, reinvest in new 2022, Preqin data indicates that the secondary market achieved a higher
+ median internal rate of return (IRR) by vintage compared to the primary
+ opportunities, and adapt to market. 16 Also, the transparency of secondaries – where investors can review
+ changing market conditions. underlying assets – adds another layer of conﬁdence, setting them apart from
+ ‘blind pool’ primary funds.
+
+ Looking ahead, the secondaries market will likely become the primary
+ mechanism for liquidity in private markets. Investors could increasingly use
+ secondaries to unlock capital from aging assets, reinvest in new opportunities
+ and adapt to changing market conditions.
+
+ Private debt has demonstrated consistent and stable returns
+ Private debt will remain a cornerstone of private market portfolios in 2026,
+ thanks to its historical ability to provide stable, consistent returns.
+ Additionally, private debt has generated annualised returns ranging from 7.5%
+ to 10.8% over the past ﬁve years, outperforming the Morningstar LSTA US
+ Leveraged Loan Index. 17 As an asset class, private debt spans a spectrum of
+ risk and return proﬁles, from senior secured loans to opportunistic debt. This
+ ﬂexibility allows investors to tailor their exposure based on their risk
+ tolerance and return objectives.
+
+ One of the key advantages of private debt is its defensive nature. Floating-
+ rate structures and collateralised loans help protect against downside risk
+ while maintaining attractive yields. Private debt has also proven to be one of
+ the most stable asset classes across market cycles, making it ideal for
+ resilient portfolio construction. Managers with cross-market expertise will be
+ best positioned to deliver hybrid credit solutions, simplifying access to the
+ full credit spectrum.
+
+ 16 Preqin 2025 Global Report. 2024
+
+ 17 Preqin Indices Benchmarks tool. 2025
+
+35 EFG | Outlook 2026
+
+## Page 36
+
+Themes 2026 How we did in 2025 Publications
+
+ Private markets will continue to evolve, driven by the need for liquidity,
+ stability, and growth. Mid-cap buyouts, secondaries and private debt will play
+ a central role in this transformation, offering investors the tools they need to
+ navigate this high potential market. Success in private markets hinges on
+ selectivity, focusing on strategies that align with long-term objectives while
+ managing risk.
+
+ Crucially, the disparity of returns in private markets underscores the
+ Action for investors: importance of selecting top quartile managers. Thus, leveraging the expertise
+ ▪ Mid-cap buyouts, secondaries and private of trusted advisors to identify and access these high-performing managers is
+ debt will play a central role in this essential to capturing the full potential of private markets. By embracing
+ transformation, offering investors the tools these trends and prioritising expert guidance, investors can position
+ they need to navigate this high potential themselves for resilience and growth in the years ahead.
+
+ market.
+ ▪ The key to success will be selectivity,
+ focusing on selecting top managers and
+ strategies that align with long-term
+ objectives while managing risk.
+
+36 EFG | Outlook 2026
+
+## Page 37
+
+Themes 2026 How we did in 2025 Publications
+ IP O a n d M& A a c t i v i t y :
+ Multiple sec tors set
+ to beneﬁt
+
+ Theme /uni2116 Key takeaways
+
+ ▪ After a quiet period due to rising
+ interest rates and market volatility,
+ 10 we expect to see the US IPO market
+ continue its recovery.
+
+ ▪ Special Purpose Acquisition
+ Companies (SPACs) are expected to
+ find a niche role in sectors where
+ speed to market is crucial, such as
+ biotech.
+
+ ▪ Dealmakers in 2026 will likely
+ prioritise quality over volume,
+ focusing on strategic alignment
+ rather than opportunistic expansion.
+
+3737
+
+## Page 38
+
+Themes 2026 How we did in 2025 Publications
+
+ 10 IP O and M& A ac t i v i t y : Multiple
+ sec tors to beneﬁt
+
+ The outlook for initial public offerings (IPOs) and mergers and
+ acquisitions (M&A) in 2026 is for a normalisation after a drying-up of activity
+ in recent years. A combination of sectoral opportunities, pent-up demand
+ and strategic opportunities points to a more active year.
+
+ IPO market: Recovery with discipline
+ The US IPO market was subdued through much of 2022–24 amid inﬂation,
+ rising rates and market volatility. It began to recover in 2025 (Figure 14) and
+ we expect that momentum to carry into 2026. Companies in high-growth
+ sectors – AI, biotech, clean energy and green infrastructure – are likely to
+ drive issuance, as investor demand for innovation and thematic exposure
+ remains strong. Private equity (PE) sponsors are also likely to see 2026 as an
+ attractive exit window with interest rates expected to trough. Indeed,
+ PE-backed IPO listings more than doubled in the ﬁrst three quarters of 2025
+ compared to the same period in 2024 .18
+
+ Figure 14: Number of US IPOs
+ While IPO levels are still below their peak of 2021,
+ 2025 has shown signs of recovery
+
+ Traditional IPOs SPAC IPOs
+
+ 1000
+
+ 800
+
+ 600
+
+ 400
+
+ 200
+
+ 0
+ 2019 2020 2021 2022 2023 2024 2025 H1
+
+ Sources: EY; SPAC Insider and Trout. Data as at 03 November 2025.
+
+ However, stricter regulatory requirements around disclosures, governance
+ and ESG standards raise the bar for public listings. Companies are also
+ tending to stay private for longer, preferring to reach greater scale before
+ entering public markets. Valuation conditions matter: if equity multiples
+ compress due to economic slowdown or policy tightening, issuance could
+ pause. Overall, 2026 is best characterised as a year of IPO recovery – more
+ active than 2025, but far from the exuberance of 2020–21.
+
+ Global growth in IPOs is set to remain a key phenomenon. In the ﬁrst half of
+ 2025, there were almost as many IPOs in India and China as in the US. This is
+ despite the number of IPOs in these countries declining compared to the
+ same period a year earlier. However, while IPO volumes declined in Asia,
+ proceeds rose, bolstered by listings of chips and semiconductor
+
+ 18 EY Global IPO Trends Q3 2025
+38 EFG | Outlook 2026
+
+## Page 39
+
+Themes 2026 How we did in 2025 Publications
+
+ manufacturing companies. This was evidenced by the fact the amount raised
+ in China was higher than in the US.
+
+ Return of the SPAC
+ Special Purpose Acquisition Companies (SPACs) are listed companies with
+ high levels of liquidity or credit lines which can be quickly deployed to
+ acquire other companies. They soared in popularity earlier in the decade
+ before collapsing under poor performance and regulatory backlash but are
+ showing signs of a comeback. In the ﬁrst half of 2025, SPACs represented over
+ 40% of IPO issuance in the US (Figure 15). This was supported by a favourable
+ regulatory backdrop after the Securities and Exchange Commission
+ implemented enhanced disclosure and investor protection rules in 2024.
+
+ Figure 15: SPAC status by year of IPO
+ SPACs set to return
+
+ In the ﬁrst half of 2025, Filed for IPO Searching Announced Completed Liquidated
+ there were almost as
+ 2021 0 20 29 240 324
+ many IPOs in India and
+ China as in the US. 2023 0 4 12 12 3
+
+ 2025 67 91 14 0 0
+
+ Source: SPAC Insider. Data as at 22 October 2025.
+
+ Still, headwinds remain. Investor scepticism lingers after underwhelming
+ post-merger performance in the last cycle. Quality deal ﬂow is another
+ challenge: sponsors must secure credible targets with sound ﬁnancials, which
+ will limit volume compared to the earlier boom. Thus, SPACs are unlikely to
+ regain their past scale, but they will persist as one option within a diversiﬁed
+ menu of listing routes.
+
+ M&A: Strategic but constrained
+ M&A activity slowed in 2024–25, reﬂecting higher interest rates, market
+ uncertainty and regulatory pushback. In 2026, conditions appear somewhat
+ more supportive. Corporates face strategic imperatives to transform business
+ Action for investors: models, secure supply chains, and invest in digital and green transitions.
+ ▪ Look for opportunities in key sectors These pressures create demand for consolidation and bolt-on acquisitions.
+ including biotech, IT and robotics. Private equity, holding substantial dry powder, is also poised to re-enter the
+ ▪ We favour investment banks who are set to market.
+
+ benefit from the dealmaking activity.
+ Cross-border M&A could regain momentum as companies reposition for
+ supply-chain resilience and market access. However, geopolitical tensions,
+ sanctions regimes and investment-screening frameworks will complicate
+ global dealmaking. Regulatory scrutiny, particularly in technology, healthcare,
+ and infrastructure, remains a signiﬁcant headwind. Financing costs, while
+ lower than the peak, will still constrain highly leveraged transactions. As a
+ result, dealmakers in 2026 will likely prioritise quality over volume, focusing
+ on strategic alignment rather than opportunistic expansion.
+
+39 EFG | Outlook 2026
+
+## Page 40
+
+Themes 2026 How we did in 2025 Publications
+
+ 1 Correct
+
+ The global economy remains resilient
+ despite headwinds
+
+ The three headwinds we saw to global growth – continued
+ problems in China (the housing market, high private and
+ public debt levels); high government debt and deﬁcits in
+ many advanced economies; and trade disruption were
+ clearly evident. But growth in the main advanced
+ economies was only slightly lower than in 2024 (1.6%
+ compared with 1.8%); and the emerging economies grew at
+ a similar rate to the previous year (4.2% compared to
+ 4.3%). 1
+ How we 2 Correct
+
+ BRICS grow in importance
+
+ Membership of the BRICS expanded, with Indonesia
+ di d in 2 0 2 5 becoming the tenth member of the group in January 2025.
+ This came after the 2024 additions of Egypt, Ethiopia, Iran,
+ and the UAE. These 10 economies represent almost half of
+ Each year we review the predictions the world’s population. Because of their generally faster
+ rate of growth, they accounted for more than half of the
+ made in the previous year. world’s GDP growth in 2025. Ten ‘partner countries’ also
+ joined the group in 2025. In addition, Emerging market
+ equities signiﬁcantly outperformed developed markets
+ Overall score * for our 2025 predictions: in 2025.
+ 3 Correct
+
+ Focus of policy shifts from inﬂation to
+ employment
+
+ Seven central banks (Australia, UK, US, Turkey, Canada,
+ 8/10 Mexico and Indonesia) cut interest rates as the
+ employment situation showed signs of deterioration,
+ even though underlying inﬂation remained sticky.
+
+ * Scoring as at 31 October 2025. 1 Source: IMF World Economic Outlook; October 2025.
+
+40 EFG | Outlook 2026
+
+## Page 41
+
+Themes 2026 How we did in 2025 Publications
+
+ 4 Correct 8 Incorrect
+
+ Government deﬁcits remain a problem Market concentration: a relative danger
+
+ Concern about ﬁscal trends was seen in most Total returns from the largest US technology-related
+ advanced economies, notably France, the UK and the equities (the ‘Magniﬁcent 7’) were 25.4% in the year to
+ US. In the US, however, there was some optimism that 31 October, higher than the 14.5% returns from the
+ high deﬁcits could be tackled by faster growth and other 493 stocks in the S&P500 index during the same
+ increased tariff revenue. IMF forecasts see budget period. The result was an overall total return from the
+ deﬁcits in France and the UK persisting/uni00A0– with a S&P500 index of 17.5%. Although that meant the largest
+ consequent rise in their debt stocks/uni00A0– in the coming tech stocks continued to produce higher returns (as
+ ﬁve years. 2 they had done in 2024), they were much more volatile
+ in their price return than the other 493 stocks.
+ 5 Correct
+ AI goes mainstream 9 Incorrect
+
+ The number of weekly active users of ChatGPT more Consumer discretionary is our
+ than doubled in 2025: from around 300m to 800m. favoured sector
+ Other AI assistants also saw increased use. For The consumer discretionary sector produced total
+ businesses, AI assistance has become more widespread. returns of 7.8% in the year to 31 October 2025. That
+ Use is not conﬁned to big companies. A survey of US meant it ranked 6th of the 11 S&P500 sectors in the
+ small businesses found that 40% use AI in the period. The main reasons for the relative weakness
+ workplace. 3 It is clear that China is also making great were disappointment about the slow pace of interest
+ progress in the use of AI. rate reductions and the uncertainty created by US
+ tariff announcements and the impact on consumer
+ sentiment. 5
+ 6 Correct
+ Nuclear power renaissance
+ 10 Correct
+ In the US, four Executive orders set out plans to
+ increase US nuclear power capacity from 100GW to Yield curve steepening
+ 400GW by 2050. China, meanwhile, plans to add 100GW The US yield curve steepness (measured as the
+ of capacity (the same as the US’s current capacity) and difference between 10-year yields and 3 month interest
+ surpass US capacity by 2030. Development of Small rates) was little changed during the year, with both
+ Modular Reactors (SMRs) has progressed quickly falling by similar amounts. However, other parts of the
+ although how soon they can come online remains an curve did steepen - notably the 30 year-10 year spread
+ issue. The need to add more nuclear electricity and the 10 year-2 year spread. In the UK, France and
+ production is now widely recognised. Japan, yield curves steepened.
+ 7 Correct
+
+ Corporate earnings supported
+
+ In the US, aggregate corporate earnings per share
+ were 11% higher in the ﬁrst ten months of 2025 than in
+ the equivalent period of 2024. Earnings growth was
+ stronger in the US than the rest of the world: world
+ corporate earnings were 6% higher than a year earlier. 4
+ Company earnings proved resilient in the face of the
+ global uncertainties, particularly the impact of tariffs.
+
+ 2 Source: IMF World Economic Outlook; October 2025.
+
+ 3 https://www.uschamber.com/assets/documents/
+ Impact-of-Technology-on-Small-Business-Report-2024.pdf
+ 4 Source: Datastream Total Market Indices via LSEG; data are
+ totals for the year to 31 October compared with the equivalent 5 Source: LSEG data for the year to 31 October 2025.
+ period of 2024.
+
+41 EFG | Outlook 2026
+
+## Page 42
+
+## Page 43
+
+Themes 2026 How we did in 2025 Publications
+
+ Important disclaimers
+
+ This document has been produced by EFG Asset Management (UK) Limited for use by the EFG International ("EFG R.C.S. Luxembourg no. B113375. Registered address: EFG Bank (Luxembourg) S.A. - 56, Grand-Rue, L-1660
+ Group" or "EFG") worldwide subsidiaries and afﬁliates within the EFG Group. EFG Asset Management (UK) Limited is Luxembourg.
+ authorised and regulated by the UK Financial Conduct Authority, registered no. 07389736. Registered address: EFG Monaco: EFG Bank (Monaco) SAM is a Monegasque Limited Company with a company registration no. 90 S 02647
+ Asset Management (UK) Limited, Park House, 116 Park Street, London W1K 6AP, United Kingdom, telephone +44 (Répertoire du Commerce et de l’Industrie de Monaco). EFG Bank (Monaco) SAM is a bank with ﬁnancial activities
+ (0)20 7491 9111. authorised and regulated by the “Autorité de Contrôle Prudentiel et de Résolution” (French Prudential Supervision
+ This document has been prepared solely for information purposes. The information contained herein constitutes and Resolution Authority and by the “Commission de Contrôle de Activités Financières” (Monegasque Commission
+ a marketing communication and should not be construed as ﬁnancial research or analysis, an offer, a public offer, for the Control of Financial Activities)./uni00A0 Registered address: EFG Bank (Monaco) SAM, Villa les Aigles, 15, avenue
+ an investment advice, a recommendation or solicitation to buy, sell or subscribe to ﬁnancial instruments and/or d’Ostende – BP 37 – 98001 Monaco (Principauté de Monaco), telephone: +377 93 15 11 11. The recipient of this
+ to the provision of a ﬁnancial service. It is not intended to be a ﬁnal representation of the terms and conditions of document is perfectly ﬂuent in English and waives the possibility to obtain a French version of this publication.
+ any investment, security, other ﬁnancial instrument or other product or service. The content of this document is Pa n a m a : EFG Asesores (Panama), S.A. in an entity supervised by the Superintendence of the Securities Market of
+ intended only for persons who understand and are capable of assuming all risks involved. Further, this document Panama. License to operate as an Investment Advisor – Resolution No. SMV-316-23. Registered address: EFG
+ is not intended to provide any ﬁnancial, legal, accounting or tax advice and should not be relied upon in this Asesores (Panama) S.A., Torre Argos, 2nd Floor, Santa Maria Business District , Panama City.
+ regard. The information in this document does not take into account the speciﬁc investment objectives, ﬁnancial Portugal : EFG Bank (Luxembourg) S.A. - Sucursal em Portugal is authorised and supervised by Banco de Portugal
+ situation or particular needs of the recipient. You should seek your own professional advice (including tax advice) (register 280) and the CMVM, the Portuguese securities market commission, (register 393) for the provision of
+ suitable to your particular circumstances prior to making any investment or if you are in doubt as to the ﬁnancial advisory and reception and transmission of orders. EFG Bank (Luxembourg) S.A. - Sucursal em Portugal is
+ information in this document. a non-booking branch of EFG Bank (Luxembourg) S.A., a public limited liability company incorporated under the
+ The information provided in this document is not the result of ﬁnancial research conducted by EFGAM’s research laws of the Grand Duchy of Luxembourg, authorised and supervised by the CSSF (Commission de Surveillance du
+ department. Therefore, it does not constitute investment or independent research as deﬁned in EU regulation Secteur Financier). Lisbon Head Ofﬁce: Avenida da Liberdade n.° 131 - 6° Dto., 1250 - 140 Lisboa. Porto agency:
+ (such as “MIFID II” or “MIFIR”) nor under the Swiss “Directive on the Independence of Financial Research” issued Avenida da Boavista, n.° 1837 - Escritório 6.2, 4100-133 Porto. Companies Registry Number: 980649439.
+ by the Swiss Banking Association or any other equivalent local rules. People’s Republic of China (“PRC”): EFG Bank AG Shanghai Representative Ofﬁce is approved by China Banking
+ The value of investments and the income derived from them can fall as well as rise, and you may not get back the Regulatory Commission and registered with the Shanghai Administration for Industry and Commerce in
+ amount originally invested. Past performance is no indicator of future performance. Investment products may be accordance with the Regulations of the People’s Republic of China for the Administration of Foreign-invested
+ subject to investment risks, involving but not limited to, currency exchange and market risks, ﬂuctuations in value, Banks and the related implementing rules. Registration No: 310000500424509. Registered address: Room 65T10, 65
+ liquidity risk and, where applicable, possible loss of principal invested. F, Shanghai World Financial Center, No. 100, Century Avenue, Pudong New Area, Shanghai. The business scope of
+ Although information in this document has been obtained from sources believed to be reliable, no member of the EFG Bank AG Shanghai Representative Ofﬁce is limited to non-proﬁt making activities only including liaison,
+ EFG group represents or warrants its accuracy, and such information may be incomplete or condensed. Any market research and consultancy.
+ opinions in this document are subject to change without notice. This document may contain personal opinions Singapore: EFG Bank AG, Singapore branch (UEN No. T03FC6371J) is licensed as a wholesale bank by the Monetary
+ which do not necessarily reﬂect the position of any member of the EFG group. To the fullest extent permissible by Authority of Singapore pursuant to the Banking Act 1970, an Exempt Financial Adviser as deﬁned in the Financial
+ law, no member of the EFG group shall be responsible for the consequences of any errors or omissions herein, or Advisers Act 2001 and an Exempt Capital Markets Services Entity under the Securities and Futures Act 2001. This
+ reliance upon any opinion or statement contained herein, and each member of the EFG group expressly disclaims advertisement has not been reviewed by the Monetary Authority of Singapore. Registered address: EFG Bank AG
+ any liability, including (without limitation) liability for incidental or consequential damages, arising from the same Singapore Branch, 79 Robinson Road, #18-01, Singapore 068897. This document does not have regard to the
+ or resulting from any action or inaction on the part of the recipient in reliance on this document. speciﬁc investment objectives, ﬁnancial situation or particular needs of any speciﬁc person. This document shall
+ EFG and its employees may engage in securities transactions, on a proprietary basis or otherwise and hold long or not constitute investment advice or a solicitation or recommendation to invest in this investment or any products
+ short positions with regard to the instruments identiﬁed herein; such transactions or positions may be mentioned herein. EFG Singapore and its respective ofﬁcers, employees or agents make no representation or
+ inconsistent with the views expressed in this document. warranty or guarantee, express or implied, as to, and shall not be responsible for, the accuracy, reliability or
+ The availability of this document in any jurisdiction or country may be contrary to local law or regulation and completeness of this document, and it should not be relied upon as such. EFG Singapore expressly disclaims any
+ persons who come into possession of this document should inform themselves of and observe any restrictions. liability, including (without limitation) liability for incidental or consequential damages, arising from the same or
+ This document may not be reproduced, disclosed or distributed (in whole or in part) to any other person without resulting from any action or inaction on the part of the recipient in reliance on this document. You should
+ prior written permission from an authorised member of the EFG group. carefully consider, the merits and the risk inherent in this investment and based on your own judgement or the
+ Financial intermediaries/independent asset managers who may be receiving this document conﬁrm that they will advice from such independent advisors whom you have chosen to consult, evaluate whether the investment is
+ need to make their own independent decisions and in addition shall ensure that, where provided to end clients/ suitable for you in view of your risk appetite, investment experience, objectives, ﬁnancial resources and
+ investors with the permission from the EFG Group, the content is in line with their own clients’ circumstances with circumstances, and make such other investigation as you consider necessary and without relying in any way on
+ regard to any investment, legal, regulatory, tax or other considerations. No liability is accepted by the EFG Group EFG Singapore. This material is intended for Accredited and Institutional Investors only.
+ for any damages, losses or costs (whether direct, indirect or consequential) that may arise from any use of this Switzerland: EFG Bank AG, Zurich, including its Geneva and Lugano branches, is authorised and regulated by the
+ document by the ﬁnancial intermediaries/independent asset managers, their clients or any third parties. FINMA. Registered Ofﬁce: EFG Bank AG, Bleicherweg 8, 8001 Zurich, Switzerland. Registered Swiss Branches: EFG
+ Comparisons to indexes or benchmarks in this material are being provided for illustrative purposes only and have Bank SA, 24 quai du Seujet, 1211 Geneva 2, and EFG Bank SA, Via Magatti 2, 6900 Lugano./uni00A0
+ limitations because indexes and benchmarks have material characteristics that may differ from the particular United Kingdom: EFG Private Bank Limited is authorised by the Prudential Regulation Authority and regulated by
+ investment strategies that are being pursued by EFG and securities in which it invests. the Financial Conduct Authority and the Prudential Regulation Authority. EFG Private Bank Limited is a member of
+ The information and views expressed herein at the time of writing are subject to change at any time without the London Stock Exchange. Registered company no. 02321802. Registered address: EFG Private Bank Limited, Park
+ notice and there is no obligation to update or remove outdated information. House, 116 Park Street, London W1K 6AP, United Kingdom, telephone +44 (0)20 7491 9111.
+ Independent Asset Managers: in case this document is provided to Independent Asset Managers ("IAMs"), it is USA: EFG Asset Management (Americas) Corp (“EFGAM Americas”) is a U.S. Securities and Exchange Commission
+ strictly forbidden to be reproduced, disclosed or distributed (in whole or in part) by IAMs and made available to (“SEC”) registered investment adviser providing investment advisory services. Registration with the SEC or any
+ their clients and/or third parties. By receiving this document IAMs conﬁrm that they will need to make their own state securities authority does not imply any level of skill or training. EFGAM Americas may only transact business
+ decisions/judgements about how to proceed and it is the responsibility of IAMs to ensure that the information or render personalized investment advice in those states and international jurisdictions where it is registered, has
+ provided is in line with their own clients’ circumstances with regard to any investment, legal, regulatory, tax or notice ﬁled, or is otherwise excluded or exempted from registration requirements. An investor should consider his
+ other consequences. No liability is accepted by EFG for any damages, losses or costs (whether direct, indirect or or her investment objectives, risks, charges and expenses carefully before investing. For more information on
+ consequential) that may arise from any use of this document by the IAMs, their clients or any third parties. EFGAM Americas, its business practices, background, conﬂict of interests, fees charged for services and other
+ If you have received this document from any afﬁliate or branch referred to below, please note the following: relevant information, please visit the SEC's public investor information site at: https://www.investor.gov./uni00A0 Also, you
+ Bahamas: EFG Bank & Trust (Bahamas) Ltd is licensed by the Securities Commission of The Bahamas pursuant to may visit: https://adviserinfo.sec.gov/ﬁrm/summary/158905./uni00A0 In both of these sites you may obtain copies of
+ the Securities Industry Act, 2024 and Securities Industry Regulations, 2012 and is authorized to conduct securities EFGAM Americas’s most recent Form ADV Part 1, Part 2 and Form CRS./uni00A0EFGAM Americas Registered address: 701
+ business in and from The Bahamas including dealing in securities, arranging deals in securities, managing Brickell Avenue, Suite 1350 – Miami, FL 33131.
+ securities and advising on securities. EFG Bank & Trust (Bahamas) Ltd is also licensed by the Central Bank of The EFG Capital International Corp. (“EFG Capital”) is a U.S. Securities and Exchange Commission (“SEC”) registered
+ Bahamas pursuant to the Banks and Trust Companies Regulation Act, 2000 as a Bank and Trust company. broker-dealer and member of the Financial Industry Regulatory Authority (“FINRA”) and the Securities Investor
+ Bahrain: EFG AG Bahrain is a branch of EFG Bank AG as licensed by the Central Bank of Bahrain (CBB) as Protection Corporation (“SIPC”). Securities products and brokerage services are provided by EFG Capital. None of
+ Investment Business Firm Category 2 and is authorised to carry out the following activities: a) Dealing in ﬁnancial the SEC, FINRA or SIPC, have endorsed this document or the services and products provided by EFG Capital and its
+ instruments as agents; b) Arranging deals in ﬁnancial instruments; c) Managing ﬁnancial instruments; d) Advising U.S. based afﬁliates. Registered address: 701 Brickell Avenue, Ninth Floor & Suite 1350 – Miami, FL 33131.
+ on ﬁnancial Instruments; e) Operating a Collective Investment Undertaking; and f ) Arranging Credit and Advising EFG Capital and EFGAM Americas are afﬁliated by common ownership under EFGI and maintain mutually
+ on Credit. Registered address: EFG AG Bahrain Branch, Manama / Front Sea / Block 346 / Road 4626 / Building associated personnel. The products and services described herein have not been authorized by any regulator or
+ 1459 / Ofﬁce 1401 / P O Box 11321 Manama -- Kingdom of Bahrain. supervisory authority, and further are not subject to supervision by any regulatory authority outside of the United
+ Cayman Islands: EFG Bank AG, Cayman Branch (‘the Branch”) is a Registered Person under the Cayman Islands States. Please note the content herein was produced and created by EFG Bank AG/EFG Asset Management (UK)
+ Monetary Authority (CIMA) Securities Investment Business Act (as revised) (“the Securities Act”) and its Limited (as applicable). This material is not to be construed as created or otherwise originated from EFG Capital or
+ accompanying regulations. The Branch is permitted to provide securities investment services to high net worth EFGAM Americas. Neither EFGAM Americas nor EFG Capital represent themselves as the underlying manager or
+ and sophisticated persons, as deﬁned in Schedule 4 of the Securities Act, in and from within the Cayman Islands investment adviser of this Fund/ product or strategy.
+ including dealing in securities, arranging dealing in securities, managing securities, and advising on securities. The EFG Asset Management (North America) Corp. ("EFGAM NA") is a US Securities and Exchange Commission (SEC)
+ Branch is also licensed by CIMA pursuant to the Banks and Trust Companies Act (as revised) (“the Banking Act”) as Registered Investment Adviser For more information on EFGAM NA Corp, its business, afﬁliations, fees, disciplinary
+ a Category B Bank to provide banking services in accordance with Section 6 (6) of the Banking Act. Registered events, and possible conﬂicts of interests please visit the SEC Investment Advisor Public Disclosure website
+ Ofﬁce: Suite 3208, 9 Forum Lane, Camana Bay, Grand Cayman KY1-1003, Cayman Islands. (https://adviserinfo.sec.gov/) and review its Form ADV. /uni00A0
+ Cy p r u s : EFG Cyprus Limited is an investment ﬁrm established in Cyprus with company No. HE408062, having its Information for investors in Australia:
+ registered address at Kennedy 23, Globe House, 6th Floor, 1075, Nicosia, Cyprus. EFG Cyprus Limited is authorised For Professional, Institutional and Wholesale Investors Only.
+ and regulated by the Cyprus Securities and Exchange Commission (CySEC). This document has been prepared and issued by EFG Asset Management (UK) Limited, a private limited company
+ Dubai: EFG (Middle East) Limited is a subsidiary of EFG International AG. EFG (Middle East) Limited is regulated by with registered number 7389736 and with its registered ofﬁce address at Park House, Park Street, London W1K 6AP
+ the DFSA. This material is intended “for professional clients only”. Registered address: EFG (Middle East) Limited (telephone number +44 (0)20 7491 9111). EFG Asset Management (UK) Limited is regulated and authorized by the
+ DIFC, Gate Precinct 5, 5th Floor PO Box 507245 - Dubai, UAE. Financial Conduct Authority No. 536771.
+ Greece: EFG Bank (Luxembourg) S.A., Athens Branch is an non-booking establishment of EFG Bank (Luxembourg) EFG Asset Management (UK) Limited is exempt from the requirement to hold an Australian ﬁnancial services
+ S.A. which is authorised to promote EFG Bank (Luxembourg) S.A.’s products and services based on the EU freedom licence in respect of the ﬁnancial services it provides to wholesale clients in Australia and is authorised and
+ of establishment pursuant to a license granted by the Luxembourg ﬁnancial supervisory authority “CSSF”. regulated by the Financial Conduct Authority of the United Kingdom (FCA Registration No. 536771) under the laws
+ Registered address: 342 Kiﬁsias Ave. & Ethnikis Antistaseos Str. - 154 51 N. Psychiko, General Commercial Registry of the United Kingdom which differ from Australian laws.
+ no. 143057760001. This document is personal and intended solely for the use of the person to whom it is given or sent and may not
+ Hong Kong: EFG Bank AG, Hong Kong branch (CE Number: AFV863) ("EFG Hong Kong") is authorized as a licensed be reproduced, in whole or in part, to any other person.
+ bank by the Hong Kong Monetary Authority pursuant to the Banking Ordinance (Cap. 155, Laws of Hong Kong) and ASIC Class Order CO 03/1099
+ is authorized to carry out Type 1 (dealing in securities), Type 4 (advising on securities) and Type 9 (asset EFG Asset Management (UK) Limited notiﬁes you that it is relying on the Australian Securities & Investments
+ management) regulated activities in Hong Kong. Registered address: EFG Bank AG Hong Kong branch, 18th ﬂoor, Commission (ASIC) Class Order CO 03/1099 (Class Order) exemption (as extended in operation by ASIC
+ International Commerce Centre, 1 Austin Road West, Kowloon, Hong Kong. To the fullest extent permissible by law Corporations (Repeal and Transitional Instrument 2016/396) for UK Financial Conduct Authority (FCA) regulated
+ and the applicable requirements to EFG Hong Kong under the Code of Conduct for Persons Licensed by or ﬁrms which exempts it from the requirement to hold an Australian ﬁnancial services licence (AFSL) under the
+ Registered with the Securities and Futures Commission, EFG Hong Kong shall not be responsible for the Corporations Act 2001 (Cth) (Corporations Act) in respect of the ﬁnancial services we provide to you.
+ consequences of any errors or omissions herein, or of any information or statement contained herein. EFG Hong UK Regulatory Requirements
+ Kong expressly disclaims any liability, including (without limitation) liability for incidental or consequential The ﬁnancial services that we provide to you are regulated by the FCA under the laws and regulatory requirements
+ damages, arising from the same or resulting from any action or inaction on the part of the recipient in reliance on of the United Kingdom which are different to Australia. Consequently any offer or other documentation that you
+ this document. receive from us in the course of us providing ﬁnancial services to you will be prepared in accordance with those
+ Israel: EFG Wealth Management (Israel) Ltd. Registered Ofﬁce: 3 Rothschild Blv., Tel Aviv 6688106, Israel. laws and regulatory requirements. The UK regulatory requirements refer to legislation, rules enacted pursuant to
+ Jersey: EFG Private Bank Limited, Jersey Branch having its principal place of business at 5th Floor, 44 Esplanade, the legislation and any other relevant policies or documents issued by the FCA.
+ Jersey, JE1 3FG is regulated by the Jersey Financial Services Commission (JFSC registration number: RBN32518) and Your Status as a Wholesale Client
+ is a branch of EFG Private Bank Limited. EFG Private Bank Limited is authorised by the Prudential Regulation In order that we may provide ﬁnancial services to you, and for us to comply with the Class Order, you must be a
+ Authority and regulated by the Financial Conduct Authority (UK FCA registered no 144036) and Prudential 'wholesale client' within the meaning given by section 761G of the Corporations Act. Accordingly, by accepting any
+ Regulation Authority. EFG Private Bank Limited is registered in England and Wales no 2321802. UK registered ofﬁce: documentation from us prior to the commencement of or in the course of us providing ﬁnancial services to you,
+ Park House, 116 Park Street London W1K 6AP, United Kingdom, telephone +44 (0)20 7491 9111. The services of EFG you:
+ Private Bank Limitied , Jersey Branch are carried out under and in accordance with the rules of the Jersey Financial – warrant to us that you are a ‘wholesale client’;
+ Services Commission and where appropriate the rules of the Financial Conduct Authority and Prudential – agree to provide such information or evidence that we may request from time to time to conﬁrm your status as
+ Regulation Authority. a wholesale client;
+ Liechtenstein: EFG Bank von Ernst AG is regulated by the Financial Market Authority Liechtenstein. Registered – agree that we may cease providing ﬁnancial services to you if you are no longer a wholesale client or do not
+ address: EFG Bank von Ernst AG Egertastrasse 10 - 9490 Vaduz, Liechtenstein. provide us with information or evidence satisfactory to us to conﬁrm your status as a wholesale client;
+ Luxembourg: EFG Bank (Luxembourg) S.A. is authorised by the Ministry of Finance Luxembourg and supervised by – and agree to notify us in writing within 5 business days if you cease to be a 'wholesale client' for the purposes of
+ the Commission de Surveillance du Secteur Financier (CSSF). EFG Bank (Luxembourg) S.A. is Member of the Deposit the ﬁnancial services that we provide to you.
+ Guarantee Fund Luxembourg (F.G.D.L. - Fonds de Garantie des Dépôts Luxembourg) and Member of the /uni00A0© EFG. All rights reserved
+ Luxembourg Investor Compensation Scheme (S.I.I.L. - Système d’Indemnisation des Investisseurs Luxembourg).
+
+43 EFG | Outlook 2026

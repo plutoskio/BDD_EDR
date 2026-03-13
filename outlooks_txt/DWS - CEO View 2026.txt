@@ -1,0 +1,142 @@
+Source file: DWS - CEO View 2026.pdf
+Source path: outlooks/DWS - CEO View 2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:55.827574+00:00
+Page count: 2
+
+---
+
+## Page 1
+
+MARKETING MATERIAL
+CIO View
+CIO View Quar terly | Quar terly Market Outlook – Q1 2026
+
+ March 05, 2026
+Cruising altitude reached despite turbulence
+Solid economic growth, supported by neutral monetary policy and supportive fiscal policy, has underpinned the capital markets. A
+vast array of risks makes diversification a top priority in our view.
+
+ Despite all the risks, most asset classes should continue to be strong this year, provided the economic cycle
+ “ ”
+ remains intact.
+
+Vincenzo Vedda
+Chief Investment Officer
+
+ we see greater idiosyncratic risks.
+There are many risks at present in the global picture and yet we remain
+optimistic and expect solid returns in the vast majority of asset classes Meanwhile, equity markets appear to be benefiting not only from
+in the coming twelve months. We assume that the strikes against Iran economic growth and moderate interest rates – we see only a very low
+do not escalate into a broader conflagration that could drive oil prices risk that 10-year U.S. Treasury yields could become entrenched above
+to levels of $90 per barrel or more over the longer term. We also have a 4.5% and instead expect a rate of about 4.0% over a 12-month horizon
+constructive view of the AI boom though AI’s ability to surprise, negatively -- but above all from earnings. We expect vigorous earnings growth: 6
+or positively, was once again demonstrated at the start of the year, when to 12% in developed markets and up to 20% in emerging markets. The
+concerns about the new technology’s potential became the driver of strength of equity markets has recently broadened and is no longer
+the largest sector rotations in equities since the Great Financial Crisis of predominantly dependent on the technology sector alone. So long as the
+2007/08.1 Indeed, because of the uncertainty that is attached to AI, we economic cycle remains intact, the positive momentum in equity markets
+are favoring the less technology-heavy European and Japanese equity should, in our view, continue. Setbacks triggered by nervousness about
+markets over the U.S. market. Their valuation discount relative to the U.S. AI or by the consequences of military conflicts nevertheless remain very
+should narrow from current levels, not least given that we expect more likely.
+institutional investors seeking greater geographic diversification.2 While geopolitics could weigh on equity markets, it should boost gold
+We do not expect a classical global upswing in 2026 and 2027 but we and oil. For oil, however, we currently continue to anticipate structural
+believe economic growth should provide a sufficiently solid foundation oversupply, into which rising demand will only gradually make a dent
+for the capital markets. We are also calm about inflation. In Europe, the over the course of the year. However, keeping open the Strait of Hormuz,
+inflation rate should fall to an annual average of 2% in 2026; we expect the through which one fifth of daily oil demand flows, is the assumption
+U.S. to come down to that level only in 2027. U.S. policy interest rates are underpinning our oil price forecast of $66 per barrel in March 2027. Still,
+therefore higher in the U.S. than in Europe at present and we expect the there is cer tainly a danger that Iran will block the Strait for a longer period
+U.S. Federal Reserve (the Fed) to deliver two further rate cuts by March – or that vessels voluntarily avoid it given the risks to crew and cargo. In
+2027, while the European Central Bank (ECB) is likely to remain on hold. our view, the U.S. dollar has partially lost its status as a safe haven3 and is
+The Bank of Japan is on a quite different course: Its attempts at monetary likely to weaken over time.
+policy “normalization” may imply two further rate hikes. We see three major risks: AI, sovereign debt sustainability and geopolitics.
+This ‘not too hot, not too cold’ environment for growth, inflation and With regard to AI, we see risks both to the upside and the downside.
+policy rates, known as the Goldilocks scenario, is one in which stocks Sovereign debt sustainability, for its part, could become an issue at
+and bonds can perform well, as price losses from interest rate hikes any time, but just when is impossible to predict. Where geopolitics is
+appear unlikely. In most bond categories we expect sideways movement. concerned, the rule is that politics usually only has a lasting impact on
+Corporate bonds remain attractive in our view, despite very low credit markets when its consequences are reflected in companies’ bottom line.
+spreads, thanks to the supportive macro environment and high demand, Our core scenario remains positive on the coming twelve months, as
+though we favor a selective approach in the high-yield segment, where rising corporate earnings and accommodative monetary policy should be
+ helping the markets along.
+
+1 “Markets Brief: The Big 2026 Sector Rotation as AI Disrupts the Disruptors,” Morningstar as of 2/9/26
+
+2 “Global Investor Insights Survey 2025,” Schroders as of July 2025
+3 Financial safe havens are investments or assets that are expected to retain or increase in value during times of market turbulence.
+
+This information is subject to change at any time, based upon economic, market and other considerations and should not be construed as a recommendation. Past per-
+formance is not indicative of future returns. Forecasts are based on assumptions, estimates, opinions and hypo-thetical models that may prove to be incorrect. Alternative
+investments may be speculative and involve significant risks including illiquidi-ty, heightened potential for loss and lack of transparency. Alternatives are not suitable for all
+clients. Source: DWS Investment GmbH.
+
+## Page 2
+
+CIO View Quar terly | Quar terly Market Outlook – Q1 2026 March 05, 2026
+
+Glossary
+
+The Bank of Japan (BoJ) is the central bank of Japan. services is rising and, subsequently, purchasing power is falling.
+
+Diversification refers to the dispersal of investments across asset types, Monetary policy focuses on controlling the supply of money with the
+geographies and so on with the aim of reducing risk or boosting risk- ulterior motive of price stability, reducing unemployment, boosting
+adjusted returns. growth, etc. (depending on the central bank’s mandate).
+
+Emerging markets (EM) are economies not yet fully developed in terms of, The spread is the difference between the quoted rates of return on two
+amongst others, market efficiency and liquidity. different investments, usually of different credit quality.
+
+The European Central Bank (ECB) is the central bank for the Eurozone. Treasuries are fixed-interest U.S. government debt securities with different
+The term Goldilocks economy refers to a state of the economy, where maturities: Treasury bills (1 year maximum), Treasury notes (2 to 10
+there is neither a threat of inflation due to an overheating economy, nor a years), Treasury bonds (20 to 30 years) and Treasury Inflation Protected
+threat of a recession. Securities (TIPS) (5, 10 and 30 years).
+
+Inflation is the rate at which the general level of prices for goods and The U.S. Federal Reserve, often referred to as “the Fed,” is the central
+ bank of the United States.
+
+Important information
+
+DWS is the brand name of DWS Group GmbH & Co. KGaA and its such jurisdiction. Persons into whose possession this document may come
+subsidiaries under which they do business. The DWS legal entities offer- are required to inform themselves of, and to observe, such restrictions.
+ing products or services are specified in the relevant documentation. © 2026 DWS Investment GmbH
+DWS, through DWS Group GmbH & Co. KGaA, its affiliated companies and
+its officers and employees (collectively “DWS”) are communicating this Issued in the UK by DWS Investments UK Limited which is authorised and
+document in good faith and on the following basis. regulated in the UK by the Financial Conduct Authority.
+This document is for information/discussion purposes only and does © 2026 DWS Investments UK Limited
+not constitute an offer, recommendation or solicitation to conclude a
+transaction and should not be treated as investment advice. In Hong Kong, this document is issued by DWS Investments Hong Kong
+This document is intended to be a marketing communication, not a Limited. The content of this document has not been reviewed by the
+ Securities and Futures Commission.
+financial analysis. Accordingly, it may not comply with legal obligations
+requiring the impartiality of financial analysis or prohibiting trading prior © 2026 DWS Investments Hong Kong Limited
+to the publication of a financial analysis. In Singapore, this document is issued by DWS Investments Singapore
+This document contains forward looking statements. Forward looking Limited. The content of this document has not been reviewed by the
+statements include, but are not limited to assumptions, estimates, Monetary Authority of Singapore.
+projections, opinions, models and hypothetical performance analysis. No © 2026 DWS Investments Singapore Limited
+representation or warranty is made by DWS as to the reasonable-ness or
+completeness of such forward looking statements. Past per formance is no In Australia, this document is issued by DWS Investments Australia Limited
+guarantee of future results. (ABN: 52 074 599 401) (AFSL 499640). The content of this document
+The information contained in this document is obtained from sources has not been reviewed by the Australian Securities and Investments
+believed to be reliable. DWS does not guarantee the accuracy, com- Commission.
+pleteness or fairness of such information. All third par ty data is copyrighted © 2026 DWS Investments Australia Limited
+by and proprietary to the provider. DWS has no obligation to update, For institutional / professional investors in Taiwan:
+modify or amend this document or to otherwise notify the recipient in the
+event that any matter stated herein, or any opinion, pro-jection, forecast or This document is distributed to professional investors only and not others.
+estimate set for th herein, changes or subsequently becomes inaccurate. Investing involves risk. The value of an investment and the in-come from it
+Investments are subject to various risks. Detailed information on risks is will fluctuate and investors may not get back the principal invested. Past
+contained in the relevant offering documents. performance is not indicative of future performance. This is a marketing
+ communication. It is for informational purposes only. This document does
+No liability for any error or omission is accepted by DWS. Opinions and not constitute investment advice or a recom-mendation to buy, sell or hold
+estimates may be changed without notice and involve a number of any security and shall not be deemed an offer to sell or a solicitation of an
+assumptions which may not prove valid. offer to buy any security. The views and opinions expressed herein, which
+DWS does not give taxation or legal advice. are subject to change without notice, are those of the issuer or its affiliated
+ companies at the time of publication. Certain data used are derived from
+This document may not be reproduced or circulated without DWS’s various sources believed to be reliable, but the accuracy or completeness
+written authority. of the data is not guaranteed and no liability is assumed for any direct or
+This document is not directed to, or intended for distribution to or use consequential losses arising from their use. The duplication, publication,
+ extraction or transmission of the contents, irrespective of the form, is not
+by, any person or entity who is a citizen or resident of or located in any permitted.
+locality, state, country or other jurisdiction, including the United States,
+where such distribution, publication, availability or use would be contrary as of 3/3/26; RBA0087_102646_8 (03/2026)
+to law or regulation or which would subject DWS to any registration or
+licensing requirement within such jurisdiction not cur-rently met within
+
+ / 02

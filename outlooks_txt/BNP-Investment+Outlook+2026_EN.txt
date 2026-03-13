@@ -1,0 +1,1500 @@
+Source file: BNP-Investment+Outlook+2026_EN.pdf
+Source path: outlooks/BNP-Investment+Outlook+2026_EN.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:52.338866+00:00
+Page count: 42
+
+---
+
+## Page 1
+
+Marketing communication - For professional investors
+THE SHIFTING
+INVESTMENT
+LANDSCAPE
+
+ THE INVESTMENT OUTLOOK FOR 2026
+
+## Page 2
+
+INVESTMENT OUTLOOK FOR 2026 - 2 -
+
+ TABLE OF CONTENTS
+
+ Letter to investors 4
+ Executive summary 6
+
+ MACROECONOMICS & MARKETS
+ Macroeconomic outlook: Surprisingly resilient 8
+ Market outlook
+ Fixed income: Monetary policy should bolster markets 11
+ Global equities: The great divide 14
+
+ FIXED INCOME
+ Why flexibility will be key for fixed income investors in 2026 18
+
+ PRIVATE ASSETS
+ Alternative credit outlook: Stability amid global shifts 23
+ Real assets outlook: Widening investment opportunities 26
+
+ SUSTAINABILITY
+ Sustainable investing in 2026: The continuing path to a more resilient future 28
+
+ EQUITIES
+ US equities 33
+ Artificial intelligence: Not a bubble…yet 33
+ European equities
+ European strategic autonomy: A long-term investment opportunity 37
+
+ This paper has been produced for ease of reading on a screen, please do not print unless absolutely
+ necessary. If you have any feedback on this document, please do not hesitate to share it with us at:
+ am.investmentinsights@bnpparibas.com
+
+## Page 3
+
+INVESTMENT OUTLOOK FOR 2026 - 3 - - 3 -
+
+ THE AUTHORS
+
+ SANDRO PIERRI
+ Chief Executive Officer
+
+ RICHARD BARWELL CHRIS IGGO DANIEL MORRIS
+ Head of Macroeconomic Research Chief Investment Officer, Chief Market Strategist
+ and Investment Strateg y Core Investments, AXA IM
+
+ JAMES MCALEVEY BOUTAINA DEIXONNE MICHAEL GRAHAM JACK STEPHENSON
+ Head of Global Aggregate Head of Euro Investment Grade Head of US High Yield, US Fixed Income
+ and Absolute Return and High Yield Credit, AXA IM AXA IM Investment Specialist, AXA IM
+
+ CHRISTOPHE FRITSCH JUSTIN CURLOW JANE AMBACHTSHEER JANE WADIA
+ Global Head of Global Head of Global Head Head of Sustainability,
+ Alternative Credit, AXA IM Research & Strateg y of Sustainability Core Products & Clients,
+ Real Assets, AXA IM AXA IM
+
+ PAMELA HEGARTY DEREK GLYNN
+ Senior Portfolio Manager, Portfolio Manager
+ ESG Champion
+
+ LAZARE HOUNHOUAYENOU MATHIEU JOURDE SEBASTIEN TALDIR
+ Lead Portfolio Manager Portfolio Manager Solutions Investment Specialist,
+ Dedicated Equities and Dedicated Equities Dedicated Equities
+
+## Page 4
+
+- 4 -
+
+ SANDRO PIERRI
+ Chief Executive Officer, BNP Paribas A sset Management, AXA IM
+
+Letter to investors
+
+The coming year marks the beginning of a new chapter for BNP Paribas Asset
+Management.
+
+By combining the expertise of BNP Paribas Asset Management with AXA Investment
+Managers and BNP Paribas Real Estate Investment Management, we will have created
+one of Europe’s leading asset managers. It will be an organisation with breadth,
+expertise, and the ambition to serve our clients across every asset class and at every
+stage of their investment journey.
+
+With total assets-under-management (AuM) of €1.6trn as at 30 September 2025, we
+are a European leader in long-term savings with €850bn of AuM – as well as Europe’s
+number one alternatives asset manager, with AuM of €300bn.
+
+Together, this gives us a vital and powerful differentiating factor, offering significant
+growth potential, underpinned by our highly skilled and renowned teams.
+
+This merger brings together complementary strengths: deep investment capabilities, a
+strong track record across liquid and alternative strategies, and a shared commitment
+to delivering sustainable value. It expands our reach and sharpens our focus, positioning
+us to meet client needs with greater agility, expertise and insight.
+
+New challenges, new opportunities
+
+The environment in which we begin this new chapter is complex and fast-moving.
+Familiar debates on growth, inflation, and monetary policy remain central, yet other
+drivers of change are exerting influence on the investment landscape.
+
+Four themes stand out as having the potential to shape the decade ahead: geopolitics,
+innovation, demographics, and environment. Strategic competition and industrial
+policy are redesigning the world of global trade and supply chains.
+
+Declining birthrates in developed countries and China are coming to the fore and
+highlighting the retirement systems’ funding gaps. In addition, the rapid adoption of
+artificial intelligence is transforming productivity, investment, and energy use.
+
+## Page 5
+
+- 5 -
+
+Longer-term sustainability themes – climate change, biodiversity loss, and rising
+inequality – will continue to redefine risk in capital markets, placing long-term
+investment resilience under scrutiny.
+
+Our commitment to meeting both societal and sustainability challenges is unwavering
+– be it in the transition to cleaner energy or the management of natural resources and
+social capital. These issues will redefine how economies grow and where investors
+find opportunity.
+
+Looking to the future
+
+For investors, these shifts bring both disruption and potential. Distinguishing what
+will endure from what will fade requires depth of analysis, active judgment, and the
+courage to think ahead of the consensus.
+
+Our investment teams have remained focused on that mission. Throughout the
+integration process, they have continued to do what they do best: translate complex
+global trends into conviction-led views designed to deliver sustainable, long-term
+investment performance for our clients.
+
+Our Investment Outlook 2026 captures that perspective. It explores how these global
+forces are reshaping markets, and where new sources of value – and risk – may
+emerge. Our goal is not only to interpret change, but to help investors navigate it
+with clarity, resilience, and purpose.
+
+As we look to the year ahead, we do so with renewed scale, broader expertise, and a
+single ambition – to turn insights into sustainable performance for those who place
+their trust in us.
+
+## Page 6
+
+- 6 -
+
+Executive summary
+
+A resilient global economy
+
+The global economy enters 2026 with surprising resilience. Growth forecasts have
+been revised upward – the International Monetary Fund now projects 3.2% global
+expansion in 2025, buoyed by a rebound in activity, despite ongoing trade frictions.
+Across regions, the outlook is marked by diverging paths. Europe is regaining
+momentum; reduced policy uncertainty and a major fiscal reset in Germany are set
+to accelerate growth, supported by increased infrastructure and defence spending.
+
+The US is navigating policy crosscurrents – it faces a complex macroeconomic
+environment shaped by new policy directions, including tariffs and a looser fiscal
+stance. These are likely to fan inflationary pressures that will not necessarily be
+countered by the Federal Reserve, which is now more focused on labour market risks.
+
+In Asia, China’s growth is expected to moderate further, with authorities relying
+on targeted stimulus and investment in advanced manufacturing rather than
+consumption.
+
+Market outlook: Opportunities and risks in transition
+Asset allocation in 2026 will be shaped by the interplay of monetary policy, fiscal
+dynamics, and evolving market structures.
+
+Fixed income markets are poised to benefit from continued central bank easing, with
+lower interest rates anticipated in both the US and Europe.
+
+While sovereign debt yields may face upward pressure from fiscal concerns,
+especially in advanced economies, the overall environment remains supportive for
+credit markets, with their attractive yields and solid corporate fundamentals.
+Equity markets continue to be technology driven, with US technology company
+earnings expected to grow robustly as artificial intelligence (AI) fuels capital
+expenditure and productivity gains.
+
+## Page 7
+
+- 7 -
+
+European equities offer compelling value, particularly as the region pursues greater
+strategic autonomy, potentially offering a broadening set of opportunities for forward-
+looking investors.
+
+In emerging markets, nations with strong technology sectors stand to benefit from
+lower US yields and a weaker dollar, though export-oriented economies may face
+headwinds.
+
+Investment themes: Flexibility, sustainability, and structural change
+Key themes for 2026 include the need for flexibility in fixed income strategies, as
+investors navigate economic growth challenges and an uncertain inflation outlook.
+We believe opportunities exist across defensive sectors, real estate, and high yield,
+but a nimble approach is required.
+
+Private assets, particularly alternative credit and real assets, continue to attract
+capital, supported by resilient fundamentals and policy tailwinds, though selectivity
+and rigorous credit analysis are increasingly important.
+
+Sustainability remains a central focus – as regulatory frameworks evolve, European
+and Asian investors are leading the charge on green bonds, decarbonisation, and
+climate solutions, even as political headwinds emerge in some regions.
+AI’s transformative potential persists, with robust fundamentals supporting
+valuations and innovation driving new opportunities across sectors, while in Europe,
+the commitment to strategic autonomy signals a long-term trend toward greater
+resilience and diversification.
+
+Ultimately, in 2026, flexibility and selectivity will be essential for investors as markets
+adapt to greater fragmentation across the global economy.
+
+## Page 8
+
+- 8 -
+ MACROECONOMIC OUTLOOK
+
+ RICHARD BARWELL
+ Head of Macroeconomic Research and Investment Strateg y,
+ BNP Paribas Asset Management
+Surprisingly resilient
+
+The global economy has proved surprisingly resilient in 2025. In the immediate
+aftermath of Liberation Day, the IMF forecast that the global economy would grow
+by 2.8% in 2025. It now expects global growth of 3.2% this year.1
+
+The bellwether of economic activity that the market typically relies upon to gauge
+the current cyclical position of the economy – Purchasing Managers’ Indices (PMI) –
+points to a recovery in activity that began in early summer and has persisted beyond
+what could plausibly be attributed to a temporary burst of activity as companies
+tried to bring forward production and trade to avoid the tariffs. So, we move into
+2026 with markets in a much more positive frame of mind about the growth outlook
+than was the case at the start of April.
+
+The Eurozone economy is likely to accelerate in 2026. The headwind to growth from
+increased uncertainty over trade policy should fade. Companies are likely to have put
+capital expenditure on pause back in the spring, but now that there is greater clarity
+over future trading arrangements, investment should recover. Meanwhile, a new
+tailwind from fiscal policy should emerge, lifting growth.
+
+1. IMF – Global Economic Outlook Shows Modest Change Amid Policy Shifts and Complex Forces
+
+## Page 9
+
+- 9 -
+
+The structural shift in the fiscal stance in Germany is the single most important
+piece of macroeconomic news in Europe this year. The increase in spending on
+infrastructure and defence should filter through into higher activity in 2026, lifting
+the German economy and to some extent the rest of the Eurozone too. The fiscal
+reset also includes other measures, like a permanently lower VAT rate on restaurant
+bills and subsidies on energy bills, which might have a more immediate impact on
+consumer spending.
+
+But when it comes to prices, we see scope for further disinflation over the next couple
+of years, where rising global trade frictions could potentially play a meaningful role.
+The recycling of cheap Chinese exports into European markets could represent a new
+disinflationary impulse that we suspect has been largely ignored by the consensus.
+We expect inflation to fall below target in 2027, which will prompt the European
+Central Bank to deliver a couple more interest rate cuts by the end of 2026 – more
+than is currently factored into market pricing.
+
+ “Expect the Fed to cut US rates
+ further over the next few years than
+ the market currently anticipates”
+
+US President Donald Trump’s policy agenda dominates the US macroeconomic
+outlook. There is room for debate about the quantitative impact of each strand of that
+policy agenda, but we believe the direction of travel is clear. An increase in tariffs, a
+looser fiscal stance and tighter immigration policy are all likely to add to inflationary
+pressure in the economy, even if the net impact on activity is less clear-cut. The
+Federal Reserve (Fed) is currently talking about a one-off increase in the price level
+(or what used to be known as transitory inflation), but we believe that inflation is
+likely to remain persistently above target over the next couple of years.
+
+More importantly, we believe the Fed’s reaction function is evolving. Going forward,
+we expect the Fed to place more weight on outcomes in the labour market and
+correspondingly less weight on inflation data. In our view, this shift will lead the Fed
+to cut a little further over the next couple of years than the market currently expects,
+against a backdrop of financial conditions that are already easy by historical experience.
+
+## Page 10
+
+- 10 -
+
+We expect China’s pace of economic growth to slow over the coming years, to below
+4% by the end of 2027, even with the benefit of additional policy stimulus. We do not
+expect a bazooka package from the authorities, but we do anticipate front-loading
+of bond issuance quotas, further policy rate cuts – 10 basis points (bp) per quarter
+from the fourth quarter (Q4) of 2025 to Q2 2026 – and additional targeted support
+for strategic sectors.
+
+The reality is that China cannot rely on net exports and property investment to
+sustain growth at the pace required to meet President Xi Jinping’s target of doubling
+per capita GDP between 2020 and 2035. We do not share the confidence of most
+China-watchers that consumption will pick up the slack. Instead, we think officials
+will continue to rely on an investment-heavy growth strategy, focused on the “new
+productive forces”, namely advanced manufacturing and technology.
+
+To conclude, the story for 2026 varies from place to place. In Europe, having weathered
+the storm, the economy looks set to regather momentum. In the United States, there
+is genuine uncertainty about how the Fed will navigate the economic crosscurrents
+and political backdrop under new leadership. And in China, the focus will remain
+on medium-term growth prospects and the extent of any rebalancing away from
+investment-driven growth.
+
+ “Expect Europe to regain momentum,
+ the US to face uncertainty,
+ and China to focus on medium-term growth”
+
+## Page 11
+
+- 11 -
+ MARKET OUTLOOK
+
+ CHRIS IGGO
+ Chief Investment Officer, Core Investments,
+ AXA IM
+
+Fixed income: Monetary policy should bolster markets
+
+• Bond markets should potentially enjoy solid central bank support in 2026
+• Sovereign markets will remain at risk of increased investor concern on the
+ fiscal side
+• High yield and emerging market bonds continue to be interesting from
+ a total return perspective
+
+Fixed income markets should benefit from continued central bank easing in 2026.
+We expect lower interest rates in the US as policymakers respond to weaker labour
+market trends, and lower rates in Europe because of further declines in inflation. A
+resilient global economy and policy measures should keep fiscal concerns in check,
+allowing yields across the curve to reflect the growth and inflation outlook. The core
+scenario is positive for credit markets notwithstanding tight credit spreads and signs
+of increased leverage.
+
+Central bank policy, as always, remains key to the bond market outlook in 2026. Major
+central banks are forecast to take short-term interest rates to or below estimated
+neutral levels in response to growth risks and falling inflation expectations. The
+International Monetary Fund’s recent growth forecasts were better than those made
+earlier in 2025 but still suggest advanced economies will struggle to meet long-term
+average growth rates in the years ahead.
+
+## Page 12
+
+- 12 -
+
+That implies a more supportive stance from central banks as long as inflation remains
+close to targets. For 2026, this suggests substantial reductions in US interest rates
+to below 3%. Additional US Treasury market yield curve steepening is likely to result.
+However, demand for yield remains strong, not least from the US insurance sector
+which has become a significant source of structural demand. Long-term yields are
+unlikely to significantly deviate from the trading range established in 2025.
+
+Europe’s potential
+The European Central Bank lowered its deposit rate to 2.0% in June 20251. Further
+cuts are possible should inflation undershoot the official target. This limits the
+potential for higher yields in European government bonds. However, once Germany’s
+ambitious spending programme gets underway there will be more supply of debt
+in the Eurozone’s biggest bond market, which could pressure markets at times. A
+steeper rate curve in the Eurozone is likely.
+
+Outside of the bloc, the UK offers potential for attractive returns as markets only
+expect limited Bank of England easing. Lower inflation and tighter fiscal policy should
+drive UK gilt yields lower in 2026.
+
+Despite this benign rate outlook, sovereign markets will remain at risk of increased
+investor concern on the fiscal side. The last year has seen government bond yields
+rise relative to equivalent maturity interest rate swap rates – a sign of increased risk
+premiums. Despite rate cuts, long-term yields have moved higher than their end-
+2024 levels.
+
+The long-term trend for government debt levels is not encouraging in advanced
+economies, posing further scope for risk premiums to rise. However, the benign
+outlook for nominal growth and government attempts to take policy steps to appease
+bond market investors should limit any cases of ‘fiscal panic’. Steeper yield curves
+will at least offer investors potentially higher carry-driven returns in longer-duration
+strategies than has been the case for a while.
+
+Credit bounce
+Credit market activity has remained buoyant in 2025 with credit spreads narrowing
+over the course of the year despite elevated levels of issuance. Excess returns have
+been positive and underlying corporate fundamentals remain solid. Looking forward
+what will determine credit market performance is whether investors continue to value
+diversified exposure to corporate risk more highly than balance sheet-challenged
+sovereign debt. In which case, prevailing yields in credit markets are attractive and
+should deliver attractive income-driven total returns.
+
+1. European Central Bank, Key ECB interest rates, November 2025
+
+## Page 13
+
+- 13 -
+
+However, from a credit spread point of view, current valuations are tight, and the
+key risk is credit markets will experience periods of underperformance relative to
+government bonds. Catalysts for this are weaker economic data, equity market
+volatility or evidence of growing credit stresses in either private or public markets.
+
+Geographically, US markets are most at risk from any deviation from the benign
+core scenario. Tariffs and the impact of immigration controls on labour supply could
+combine to keep inflation higher for longer. This not only complicates the Federal
+Reserve’s decision-making but also reduces expected real returns from US fixed
+income. It could also negatively impact the dollar. Any sense of increased politicisation
+of monetary policy (fiscal dominance) will tend to increase inflation expectations,
+steepening the US yield curve further and underpinning inflation break-even levels.
+If growth also turns out to be weaker, investors could also focus on the US fiscal
+outlook, again widening spreads in the US rates and credit markets.
+
+In the absence of a growth or credit shock, carry will be a major theme for bond
+investors, delivering most of the total return. As such, high yield and emerging
+market bonds continue to be interesting from a total return perspective. Again,
+after a robust performance in 2025, investors need to be mindful of valuations but
+improved credit quality in high yield and better macroeconomic performance in
+emerging markets are positives for those markets. Significant drawdowns in fixed
+income markets tend to only occur in response to a growth or credit shock. Neither
+is in our core scenario for 2026 which means investors should be able to benefit
+from solid bond income returns.
+
+Exhibit 1: Income returns from bonds for selected fixed income indices
+
+ 5 .5 0
+ 5 .0 0
+ 4 .5 0
+ 4 .0 0
+ 3 .5 0
+ 3 .0 0
+ 2 .5 0
+ 2 .0 0
+ 1 .5 0
+ 1 .0 0
+ s e p t - 2 1 mar- 2 2 s e p t - 2 2 m a r - 2 3 s e p t - 2 3 m a r - 2 4 s e p t - 2 4 m a r - 2 5 s e p t - 2 5
+ Euro Investment Grade (EUR) Euro High Yield (EUR) Global Credit (USD)
+
+Data as at 30 September 2025. Source: ICE Bond Indices; Bloomberg
+
+## Page 14
+
+- 14 -
+ MARKET OUTLOOK
+
+ DANIEL MORRIS
+ Chief Market Strategist,
+ BNP Paribas Asset Management
+Global equities: The great divide
+
+• We believe technology company earnings can continue to appreciate in 2026
+ as AI drives ongoing capital expenditure
+• Europe is becoming more autonomous after the US-led disruption to the
+ international order, while its equity market offers value
+• The greatest potential for profit growth in China is centred in its technology
+ sector as the domestic economy continues to face challenges
+
+US equity market returns are likely to continue diverging along the lines of technology
+and the rest of the market: the Nasdaq 100 index delivered a 50% return from the
+post-Liberation Day lows to the end of October while the Russell 1000 Value index
+rose by less than half that. That outperformance continues a long-running trend (see
+Exhibit 1).
+
+We believe technology company earnings can continue to appreciate at a robust,
+albeit slower, pace in 2026 as the artificial intelligence (AI) revolution continues to
+drive heavy capital expenditure — and eventually profits across all sectors.
+
+AI’s greatest impact will ultimately be in the other parts of the economy as companies
+implement the technology to drive earnings growth. This will partly come from
+reducing labour costs; and the US labour market’s flexibility suggests AI will be
+integrated more fully, and more quickly, in the US than elsewhere.
+
+## Page 15
+
+- 15 -
+
+The Nasdaq’s strong 2025 gains have been roughly in line with earnings growth,
+meaning that valuations, while high, have not meaningfully increased. By contrast,
+the Russell index’s gains have outpaced earnings, leading to an atypically high price-
+earnings (P/E) multiple (see Exhibit 2).
+
+If AI is indeed a bubble set to burst, valuations will quickly fall, but interest rates
+should not prompt a downturn like they did in 2022 as the Federal Reserve is looking
+to lower the policy rate in 2026 instead of increasing it.
+
+A benign way that the index multiple could revert towards its mean would be for
+the index price to appreciate less than the gain in earnings. With forecasts of 15%
+earnings growth for the Nasdaq in 2026, there is still room for potentially good
+investment returns even as multiples compress.
+
+This dynamic of prices rising at a slower rate than earnings would also reduce the
+high multiple for the US small cap index. The Russell 2000 forward P/E is quite
+elevated, but earnings growth is also very strong, forecast to advance by over 20%
+in 2026.
+
+Given the US’s positive macroeconomic backdrop — deregulation, more mergers and
+acquisitions activity, rising business investment, wage growth, falling policy rates,
+and low energy prices — we are optimistic these earnings expectations can mostly
+be realised.
+
+Exhibit 1: Tech is the factor driving outperformance in both the US and emerging markets
+Relative performance; log scale
+
+ Em e r g ing mar k e t s t e c h* vs no n- t e c h
+ 500 500NA S D A Q vs Ru s s e l l V al ue
+ 400 400EM A s ia vs EM e x - A s ia
+
+ 300 300A C W I Gr o wt h vs V al ue
+ 250 250W o r l d e x - US t e c h* v s no n- t e c h
+ 200 200
+
+ 150 150
+
+ 100 100
+
+ 2008 2010 2012 2014 2016 2018 2020 2022 2024
+
+Data as at 11 November 2025. *Technology, Broadline Retail, Interactive Media & Services.
+Sources: FactSet, BNP Paribas Asset Management.
+
+## Page 16
+
+- 16 -
+
+ US small-cap stocks are nonetheless unlikely to sustainably best the S&P 500 due to
+ the weight, and long-term superior performance, of the technology sector. But small
+ caps offer another way to access US economic growth without increasing exposure
+ to the tech sector.
+
+ Europe’s autonomy
+ European corporates have struggled in the face of US tariffs, a stronger euro, and
+ increased Chinese imports. The disruption to the international political and economic
+ order unleashed by the new US administration has spurred Europe to try and reduce
+ its dependence on the US, for example by increasing its capabilities in defence — an
+ initiative called Strategic Autonomy.
+
+ Many investors are looking for fiscal stimulus directed to infrastructure and defence
+ to boost corporate profits. Indeed, earnings for the MSCI Europe Aerospace & Defense
+ index are forecast to advance by over 25% in 2026. We believe this initiative will help
+ the region to offset the US tariff drag and assist the reorientation towards a less
+ export-dependent economic model.
+
+ To balance growth exposure in portfolios, investors have the choice of the US Russell
+ 1000 Value index, MSCI Europe or MSCI Japan, which all have a similar sector
+ composition. Expectations for earnings growth are also similar for 2026 at 8%, 12%
+ and 13%, respectively.
+
+ While there is little difference in the growth rates, Exhibit 2 shows there is a
+ significant gap in valuations. Both US value stocks and Japan have P/E ratios well
+ above average, while Europe seems to offer the best value.
+
+ Exhibit 2: Forward price-earnings ratio z-scores
+
+Market United Developed US Small EM ex-
+ States Japan* Russell ValueMarketsCap NASDAQ EM Broad Tech**Broad Tech Europe
+
+ P/ E 1.6 1.5 1.5 1.4 1.2 0.5 0.5 0.3 0.2
+
+ Data as at 11 November 2025. *Calculated from 2010; for all other indices calculated from inception.
+ ** Technology, Broadline Retail, Interactive Media & Services. Sources: IBES, Bloomberg, BNP Paribas Asset Management.
+
+## Page 17
+
+- 17 -
+
+Emerging markets potential
+Low US Treasury yields, and a weaker US dollar, are typically positive factors for
+emerging market equities. Export-oriented countries, however, may struggle compared
+to those that can rely on a large, growing domestic market to generate profits.
+
+As in the US, however, it is primarily the technology sector which is generating
+superior returns within emerging markets. As Exhibit 1 illustrates, the sector has
+outperformed the rest of the market by an even greater degree than the Nasdaq has
+outperformed the Russell Value index.
+
+Of the three countries with the largest technology sectors — South Korea, Taiwan, and
+China — the latter offers greater diversity than the semiconductor-focused markets
+of Taiwan and South Korea. We believe China’s technology sector has the additional
+advantage of being somewhat protected from the current trade tensions between
+the US and China. Technology companies derive a greater share of their revenues
+from services rather than goods and so are less affected by tariffs. Given the size
+of China’s domestic market, its high level of engineering talent (for example, the
+developers of DeepSeek), and desire to develop its own technological ecosystem, we
+believe technology companies can generate meaningful future profit growth, despite
+the challenges facing the domestic economy.
+
+ “The tech sector has been generating
+ superior returns in emerging markets”
+
+## Page 18
+
+- 18 -
+ FIXED INCOME
+
+ JAMES MCALEVEY BOUTAINA DEIXONNE
+ Head of Global Aggregate and Absolute Return, Head of Euro Investment Grade
+ BNP Paribas Asset Management and High Yield Credit, AXA IM
+
+ MICHAEL GRAHAM JACK STEPHENSON
+ Head of US High Yield, US Fixed Income
+ AXA IM Investment Specialist, AXA IM
+Why flexibility will be key for
+fixed income investors in 2026
+
+• Fixed income returns were largely positive in 2025, though the asset class
+ faces potential headwinds in the coming year
+• There is much uncertainty over monetary policy, inflation and growth –
+ therefore a flexible approach to bond investing will be essential
+• We continue to see potential investment opportunities across a wide range
+ of industries and sectors
+
+Despite no shortage of challenges and obstacles, returns across fixed income asset
+classes have been largely positive in 2025, with income levels a major contributing factor.
+
+However, as we enter the coming year, markets face potentially slower economic
+growth, alongside questions over the direction of monetary policy and inflation, as
+trade policy uncertainty dominates the discourse.
+
+What is certainly clear is that investors will need to be more malleable in their
+investment approach going forward – flexibility will be paramount to ensure they
+can steer through the market unpredictability.
+
+Four fixed income experts share their views on what to look out for in markets in 2026.
+
+## Page 19
+
+- 19 -
+
+By BNP Paribas Asset Management, Head of Global Aggregate and Absolute Return,
+James McAlevey
+
+Over recent years investors have had to navigate a plethora of challenges – geopolitical
+uncertainty, central bank resetting and more recently a spate of US trade tariffs.
+
+However, we are amid a very different setting to the interest rate recalibration period
+of 2022-2024, and the environment continues to evolve at pace. Many central banks
+are now cutting interest rates – good news for traditional bond strategies – but
+uncertainty remains ever-present.
+
+The depth and speed of future interest rate cuts remains in question. Inflation is
+proving more stubborn than anticipated in many economies – and US tariff policies
+could push prices higher in 2026. We may be entering a new era of structurally
+higher inflation, meaning that interest rates may not fall as far in the current cycle
+as many hope. This, combined with a weaker outlook for economic growth, puts
+central banks in a difficult position.
+
+And while fixed income has become much more attractive now that yields have risen
+from their ultra-low levels of five years ago, the outlook is far from straightforward.
+But as we move into 2026, what is more certain is that a flexible, diversified and
+dynamic investment approach to bond investing will be key.
+
+And while markets can always be turbulent, volatility brings with it opportunities
+– and right now we are seeing investment potential across global bond markets.
+For example, the trend towards a weaker US dollar is particularly favourable for
+some issuers in the local emerging market universe where relatively high yields
+offer compensation commensurate with the associated risk. In developed markets,
+current coupon US agency mortgage-backed securities currently offer a pickup in
+yield relative to US investment-grade corporate debt with lower credit risk.
+
+Looking ahead, given the complications surrounding cross-border trade, alongside
+the high levels of government debt – plus ongoing geopolitical tensions, it seems
+logical that investors will require additional compensation for holding longer maturity
+government debt. That would mean steeper yield curves. The unconstrained nature
+of our absolute return opportunity set enables us to position portfolios to benefit
+from steeper yield curves, another example of the advantages of being able to both
+overweight and underweight fixed income assets.
+
+This economic uncertainty continues to cloud the fixed income market outlook.
+Fundamentally, we believe that significant risks remain for investors pursuing
+traditional, less flexible, fixed income strategies. Higher volatility has widened the
+gap between the best- and worst-performing areas of the fixed income universe. In
+today’s shifting and uncertain economic landscape, something which will no doubt
+spill into 2026, a global, flexible approach will be as essential as it ever has been.
+
+## Page 20
+
+- 20 -
+
+By AXA IM, Head of Euro Investment Grade and High Yield Credit, Boutaina Deixonne
+
+European markets have been far from immune to the numerous volatility spikes of
+recent years, but despite a challenging environment, corporates have been able to
+adapt – even flourish.
+
+But as we head into 2026, there are few issues to consider – the two most pertinent
+being potentially softer GDP growth and the possible implications for monetary policy.
+
+Central banks may likely continue to cut interest rates, and inflation may trend lower,
+but it may still be a more challenging period, especially considering the potential
+impact of US trade tariffs. Investors will need to take a flexible, unconstrained
+approach and adopt strategies which aim to help them manage credit spread and
+duration risk.
+
+Despite the numerous headwinds – either already present or potentially on the
+horizon – we see plenty of opportunities across a wide variety of industries including
+more defensive sectors such as utilities and telecommunications as well as real
+estate, which enjoys inflation-beating rental growth projections.
+
+These sectors remain robust and tend to demonstrate strong balance sheets, while
+valuations are very attractive compared to more cyclical areas. In addition, the
+banking and financial sector is also very attractive. Banks, due to strict regulatory
+requirements, are already in strong health and boast good margins, and robust
+capitalisation. Indeed, banks’ profitability is likely to continue to be supported by
+asset-gathering fees.
+
+Flows into European credit have been very buoyant as the search for yield shows no
+signs of easing. And with European investment grade bonds boasting yields of circa
+3% to 3.5% and high yield around 5%, we anticipate this trend will continue well into
+2026, as the attraction of cash instruments and money markets will likely be lower.
+
+Fundamentally, European bond markets are offering decent income levels and
+demand is likely to rise as investors look to lock in attractive yields. European
+issuers’ credit quality remains in good health, which should help buffer them
+against a potential economic slowdown. But given the plethora of macroeconomic
+uncertainties concerning growth, government deficits, inflation and monetary policy,
+we believe going forward it will be essential that investors adopt a nimble, flexible
+approach to asset selection when navigating the current climate.
+
+## Page 21
+
+- 21 -
+
+ By AXA IM, Head of US High Yield, Michael Graham, and US Fixed Income Investment
+ Specialist Jack Stephenson
+
+ For the best part of three years, the US economy has defied expectations for a
+ recession and has continued to outperform other developed market economies.
+
+ For US high yield, despite bouts of volatility related to interest rates, regional banks
+ and tariffs, this period has been defined by strong investment returns reflecting
+ fundamental strength, very low defaults and an abundant supply of capital to issuers
+ underpinning a strong technical across all leveraged finance.
+
+ Reflecting this healthy backdrop, spreads have continued to tighten, leading to
+ questions about how much more room to run there may be in 2026. It is worth
+ remembering that, whilst spreads appear low in a historical context, they are much
+ less so when adjusted for today’s US high yield market composition. Current spread
+ levels are supported by a near record high percentage of BBs; a near record low
+ percentage of CCCs; a record high percentage of secured bonds (35%); and record low
+ duration and low bid/ask spreads (i.e. better liquidity).1
+
+ Still, the abundant supply of capital has led to increased corporate leverage in pockets
+ of the global leveraged finance universe, particularly the lower end of the credit
+ spectrum in the broadly syndicated loan and private debt markets. Recently, there
+ has been greater attention to some notable default stories and investor concern
+ regarding contagion risk across credit markets.
+
+ 1 Bank of America September 2025
+
+ Exhibit 1: Composition of the US high yield bond market by selected ratings
+100 %
+ 90% 15, 9 10. 5
+
+ 80%
+ 70% 34. 3
+ 60% 46, 2
+ 50%
+ 40%
+ 30% 55. 2
+ 20% 37, 9
+ 10%
+ 0%
+ 200 7 200 9 201 1 201 3 201 5 201 7 201 9 202 1 202 3 202 5
+ BB B CCCo r l ower
+
+ Data as at 30 September 2025. Source: Bank of America, HY Research
+
+## Page 22
+
+- 22 -
+
+Although we expect the theme of liability management exercises to remain prevalent
+in 2026, overall default activity in high yield should remain modest and will likely
+continue to be driven by idiosyncratic credit stories. In that context, an active and
+disciplined approach to investing within lower credit quality markets may be warranted.
+
+Despite macroeconomic uncertainty, we expect high yield spreads to remain in a
+relatively tight range, supported by continued investor demand from yield buyers
+focused on the overall total return potential on offer as cash rates decline. We believe
+that short duration securities will remain attractive given the ability to mitigate
+both interest rate and spread volatility, whilst offering access to the most liquid
+part of the market. For investors seeking higher total returns within US high yield,
+any market weakness like we saw in April 2025, could provide potentially attractive
+buying opportunities further up the risk spectrum.
+
+To benefit from the full range of opportunities, in 2026 investors may want to consider
+a flexible and targeted approach to investing in the high yield market, harnessing its
+unique diversification benefits to complement an overall asset allocation.
+
+ “We expect high yield spreads
+ to remain supported by investor demand
+ as cash rates decline”
+
+## Page 23
+
+- 23 -
+ PRIVATE ASSETS
+
+ CHRISTOPHE FRITSCH
+ Global Head of Alternative Credit, AXA IM
+
+Alternative credit outlook: Stability amid global shifts
+
+• Credit remains strong, underpinned by economic growth and accommodative
+ monetary policy
+• Corporate fundamentals remain solid, though investors should pay attention
+ to emerging risks
+• A selective approach is key, while we expect strategies emphasising downside
+ protection and stable income to perform well
+
+Resilience amid global shifts
+Global markets have shown remarkable resilience despite persistent geopolitical
+tensions and evolving trade dynamics. Since the implementation of the ‘Liberation
+Day’ tariff measures, risk assets – particularly credit – have remained strong,
+supported by resilient economic growth and increasingly accommodative
+monetary conditions.
+
+While tariffs have weighed on global trade, recession fears have yet to materialise. The
+US economy has decelerated to a more sustainable pace, supporting global demand
+without reigniting inflation pressures. In Europe, fiscal stimulus tied to infrastructure
+and defence investment has helped counterbalance external headwinds. The
+new transatlantic trade framework has also bolstered investor sentiment toward
+European assets.
+
+## Page 24
+
+- 24 -
+
+Credit dynamics
+The global economy has continued to benefit from lower benchmark interest rates.
+Meanwhile, persistent investor demand for credit assets has driven a tightening
+trend in credit spreads throughout 2025. These conditions have eased refinancing
+pressures and improved capital access for corporates.
+
+Merger and acquisition (M&A) activity has remained dynamic, with global deal
+value reaching US$2trn in the first half of 2025, up 15% year on year 1. The US
+market is characterised by larger deal sizes, while Europe has seen a higher
+volume of transactions, supported by accommodative monetary conditions and
+attractive valuations.
+
+We anticipate increased private credit financing to accompany this M&A momentum.
+Corporate fundamentals remain solid. Companies have effectively adapted to
+elevated input costs through operational efficiency, faster inventory turnover, and
+diversified supply chains. On the consumer side, balance sheets – particularly in
+Europe – remain healthy.
+
+Private credit continues to expand, though investor inflows are beginning to outpace
+investable opportunities in certain segments. As a result, manager selection and
+origination capabilities are becoming increasingly critical. Identifying asset managers
+with strong sourcing and underwriting expertise is essential for effective capital
+deployment. Additionally, we expect further consolidation in the private credit space
+through acquisitions and strategic partnerships.
+
+ “Identifying asset managers
+ with strong sourcing and underwriting expertise
+ is essential in private credit”
+
+Risks and differentiation
+Despite strong performance, emerging risks warrant attention in light of the recent
+corporate defaults of US auto parts company First Brands and sub-prime car finance
+lender Tricolor. These events underscore the importance of selectivity and rigorous
+credit analysis. Credit spreads remain tight, and signs of stress are surfacing in
+sectors vulnerable to tariffs and fiscal tightening. Loan downgrades are outpacing
+upgrades, highlighting growing dispersion between sectors and issuers.
+
+1. PitchBook, June 2025.
+
+## Page 25
+
+- 25 -
+
+Investment implications
+We remain constructive on alternative credit but stress the importance of selectivity.
+Strategies emphasising downside protection, stable income, and disciplined
+underwriting are likely to be the best positioned in the current environment.
+
+We see potential attractive opportunities in areas including commercial real estate
+debt and specialty finance, such as Significant Risk Transfer (SRT), and Asset-Backed
+Finance (ABF). Europe is benefiting from renewed capital inflows and policy support
+and offers opportunities for diversification and potential long-term value. Retail
+participation in investing is also rising, driven by the launch of evergreen semi-liquid
+funds – flexible, open-ended investment vehicles – under the European Union’s Long-
+Term Investment Funds 2.0 framework. However, private wealth remains under-
+allocated to private credit, presenting further growth potential.
+
+ “We see attractive opportunities
+ in areas including commercial real estate debt
+ and specialty finance”
+
+## Page 26
+
+- 26 -
+ PRIVATE ASSETS
+
+ JUSTIN CURLOW
+ Global Head of Research & Strateg y Real Assets,
+ AXA IM
+
+Real assets outlook: Widening investment opportunities
+
+• High-quality offices and residential real estate remain in demand
+• US rent growth has slowed and Europe is facing age of stock issues
+• We expect income growth to drive outperformance, while diversification is key
+
+Real asset values have stabilised
+The logistics sector continues to lead the way within the real assets universe, in
+both the US and Europe. High-quality offices are seeing an improvement in pricing
+as the ‘return to office’ mandate gathers pace. The resilience of the living sector is
+also continuing to garner investor interest in markets where investors have limited
+exposure. Meanwhile, the valuation swings that we have seen were more muted in
+the infrastructure market. Values have stabilised and even started to recover in the
+renewable energy and digitalisation segments.
+
+Europe more resilient than the US
+The US’s new supply pump was well primed before the pandemic and while it has
+slowed recently, the wave of development completions in the past five years has
+slowed rent growth. Europe continues to suffer from its age of stock issues and tight
+fundamentals at the prime end of the occupier market.
+
+## Page 27
+
+- 27 -
+
+Prime rental value growth continues to eclipse inflation with most European markets
+now boasting record nominal rental levels. In these top performing markets, occupiers
+are widening their locational focus beyond key city centres and into well-established
+fringe locations to take advantage of the price gaps. However, there remains a key
+focus on building quality where no compromise is being made.
+
+Diversification will be key
+While the divergence in rates provides some scope for inward yield movements
+in Europe the ultimate quantum will likely remain muted in a historical context.
+Income growth prospects will likely remain the key driver of outperformance for the
+foreseeable future. Considering this dynamic alongside heightened macroeconomic
+and policy uncertainty it is reasonable to expect that wider diversification will likely
+prove a good level of ‘vintage’ insurance should adverse scenarios take hold.
+
+Transaction activity starting to show signs of life
+In volume terms, activity remains greatest in the residential and logistics segments
+but there is a return of interest for high quality office buildings and larger lot sizes/
+portfolios, which are both starting to see a resurgence in activity. This growth in
+transactions is being supported by a more diverse base of investors beyond high net
+worth and private buyers to now include listed players, sovereign wealth funds and
+insurance and pension funds.
+
+Renewed equity investment activity widens investment opportunities
+The denominator effect, where investors become over allocated to assets like real
+estate and infrastructure, is abating – which has brought institutional investors back
+as they once again find themselves under allocated, especially in the infrastructure
+space. The rise in equity investment activity will widen the investable debt universe
+by adding fresh origination opportunities to lenders that have been focused on the
+refinancing needs of their borrowers.
+
+In the US, there has been a rise in short-term extensions and loan modifications in
+the office and multi-family space where there are growing signs of defaults and
+delinquencies, but an absence of completed distressed asset sales. The wider range
+of equity investors is broadening the sales market to include high-quality core
+assets through to higher-yielding and challenged asset management-intensive
+options. In Europe, development opportunities are becoming attractive given the
+strength of the occupier market and limited availability for the top-quality assets
+that occupiers demand.
+
+## Page 28
+
+- 28 -
+SUSTAINABILITY THEMATICS
+
+ JANE AMBACHTSHEER JANE WADIA
+ Global Head of Sustainability, Head of Sustainability,
+ BNP Paribas Asset Management Core Products & Clients, AXA IM
+Sustainable investing in 2026:
+The continuing path to a more resilient future
+
+• Despite a turbulent period of sustainable investing, commitment to sustainability
+ remains strong across Europe and Asia
+• Understanding the trends shaping 2026 is critical – not only for managing risk,
+ but also for identifying new areas of growth and opportunity
+• Climate and net zero remain investors’ priority, so we expect the primary
+ investment focus in 2026 to be on green bonds, decarbonisation and climate and
+ nature solutions
+
+Recent years have seen investors operate in an environment shaped by conflicts,
+inflationary pressures, extreme weather events, and growing digital disruption.
+These events, coupled with the longer-term sustainability themes shaping our
+decade – climate change, biodiversity loss, and rising inequality – are redefining
+risks in capital markets and placing long-term investment resilience under scrutiny.
+
+Meanwhile, sustainability-related regulations are evolving, such as the EU Omnibus
+Directive – which seeks to streamline the Corporate Sustainability Reporting Directive
+(CSRD) – the Corporate Sustainability Due Diligence Directive (CSDDD), and the
+Sustainable Finance Disclosure Regulation (SFDR).
+
+## Page 29
+
+- 29 -
+
+Simplifications are broadly a response to regulatory fatigue and offer the opportunity
+for streamlining, which we support provided ambition is maintained. In the US, there
+is significant push back against what is perceived as a ‘woke’ sustainability agenda.
+But this is not the case worldwide.
+
+ “Understanding the trends shaping 2026
+ is critical for managing risk
+ and identifying opportunities”
+
+New opportunities
+Amid this shifting landscape, our duty as an asset manager is to make well-informed
+investment decisions, carefully considering sustainability risks and opportunities.
+Understanding the trends shaping 2026 is critical – not only for managing risk,
+but also for identifying new areas of growth and opportunity, in terms of capital
+allocation and aligning stewardship activity with the aim of addressing systemic
+risks in portfolios and markets.
+
+In 2026, investors will look to address the societal and sustainability challenges
+shaping markets and economies in an interconnected manner. Our global thematic
+framework supports this, helping to identify related risks and opportunities – and
+there are significant elements to consider, as highlighted below.
+
+ DEMOGRAPHICS ENVIRONMENT
+
+ INNOVATION GEOPOLITICS
+
+Source: BNP Paribas Asset Management, October 2025
+
+## Page 30
+
+- 30 -
+
+Demographics
+Demographic shifts, inequality, pressure on human capital, human rights and public
+health are driving demand for more inclusive and resilient systems. While complex,
+such issues can lead to innovative solutions and new investment opportunities.
+
+Innovation
+Technological advancement also brings risks and opportunities. While responsible
+development of artificial intelligence (AI) and stronger cyber resilience are important,
+AI can be a powerful enabler of sustainability-related solutions, offering scalable
+tools to tackle environmental challenges. It can also help investors and companies
+embed environmental, social and governance (ESG) insights into their decision
+making, enhance transparency and identify long-term sustainable value.
+
+The environment and geopolitics
+As the physical impacts of climate change become more apparent, the urgency to act
+will increase. While the transition to a low carbon economy faces some political and
+regulatory headwinds, the technological and societal shifts underlying the transition
+will persist and continue to demand investors’ attention. The Asia-Pacific region
+is a leader in driving the global energy transition, creating potentially significant
+investment opportunities.
+
+Within a shifting geopolitical landscape, strong corporate governance and business
+ethics, as well as progress in integrating sustainability in emerging markets could
+unlock sustainable growth.
+
+Investors, notably institutional clients, staying the course
+It has been a turbulent period for ESG portfolios, which endured net outflows early in
+2025. However, the second quarter (Q2) enjoyed a strong rebound, with $4.9bn in net
+inflows globally, driven by European investors who added $8.6bn after redeeming
+$7.3bn the previous quarter. Despite some outflows in Q3, total sustainable fund
+assets climbed to $3.7trn, an increase of around 4%, supported by stock market
+appreciation.1
+
+European investors remain firmly committed to sustainability, and climate remains
+their top priority. Institutional investors – pension funds, insurers, sovereign wealth
+funds – are not only maintaining climate commitments but scaling them. One recent
+survey shows 58% of UK and European asset managers plan to increase impact
+allocations in the next year, with none intending to reduce them.2
+
+1. Source: Morningstar Global Sustainable Fund Flows: Q2 2025 in Review / Global Sustainable Fund
+ Flows: Q3 2025 in Review | Morningstar
+2. Pensions for Purpose / Nearly all (93%) of UK and European institutional investors "concerned"
+ about sustainability under a Trump presidency – press release | Pensions For Purpose
+
+## Page 31
+
+- 31 -
+
+In Asia Pacific, we have seen continued progress on several sustainability priorities –
+for example, the region is set for a record year for sustainable debt issuance in 2025.
+In addition, 80% of asset owners in the region expect assets under management in
+sustainable funds to grow over the next two years.3
+
+For us three climate-related investment strategies stood out in 2025, which we
+expect to remain in focus in 2026.
+
+ “Along with climate and nature solutions,
+ green bonds and decarbonisation
+ will remain in focus in 2026”
+
+1. Green bonds
+ Green bonds finance projects like renewable energy, green buildings, and low
+ carbon transport, offering similar risk profiles to conventional bonds but with added
+ transparency and impact reporting. The market has grown from €30bn a decade
+ ago to €1.9trn today. It has grown into a global universe, with breadth and depth
+ in terms of sectors and issuers. Although 2025 issuance may be slightly lower than
+ 2024’s record of some €420bn, innovation continues, notably with European green
+ bonds gaining traction. The broader green, social, and sustainability (GSS) bond
+ market now rivals the euro investment-grade credit sector at €3trn, with green
+ bonds as its cornerstone.4 The state of the market should come as little surprise
+ given that today, green bonds are entrenched in the mainstream – and have been
+ for some time – typically offering a comparable yield to conventional bonds.
+
+2.Decarbonisation
+ Asset owners are moving from pledges to action, adopting frameworks like the
+ Net Zero Investment Framework and the Task Force on Climate-related Financial
+ Disclosures (TCFD). Decarbonisation strategies focus on seeking opportunities
+ associated with the transition to a low-carbon economy and reducing exposure
+ to carbon emissions and are gaining traction across equities and fixed income.
+ Climate and Paris-Aligned Benchmark exchange-traded funds are also seeing
+ increased interest.
+
+3. Morgan Stanley, July 2025
+4. All Green Bond / GSS data source: Bloomberg as of 6 October 2025
+
+## Page 32
+
+- 32 -
+
+3. Climate and nature solutions
+ Investors are allocating capital to solutions that address climate and biodiversity
+ challenges. These include clean energy, sustainable agriculture, resilient
+ infrastructure and water management. The goal is to invest in financially sound
+ and scalable companies delivering measurable environmental outcomes – such
+ as carbon emissions avoided – or restoring ecosystems. Climate change and
+ biodiversity loss are a systemic issue and addressing them demands solutions
+ that match their considerable scale. These environmental strategies not only
+ help manage physical climate risks but also open new investment opportunities
+ in underserved markets.
+
+Looking ahead
+Despite policy shifts in the US, Europe continues to lead in sustainable investing,
+offering a strong pipeline of opportunities with attractive risk-return profiles –
+and European governments, corporates, and investors are staying the course. For
+European investors, sustainability is not a trend—it’s a strategic imperative. And
+with Asia’s growing role in driving the energy transition, we have two clear regions
+driving this focus.
+
+## Page 33
+
+- 33 -
+ US EQUITIES
+
+ PAMELA HEGARTY DEREK GLYNN
+ Senior Portfolio Manager, ESG Champion, Portfolio Manager,
+ BNP Paribas Asset Management BNP Paribas Asset Management
+Artificial intelligence: Not a bubble… yet
+
+Artificial intelligence (AI) is the most impactful digital transformation theme since
+the development of the Internet. The public launch of ChatGPT in November 2022
+catalysed a wave of investment and innovation that continues to build momentum.
+As excitement about the potential for this new technology builds toward very high
+expectations, investors and industry participants are questioning if we are entering a
+bubble. Our current conclusion is that AI is not a bubble… yet. We are carefully monitoring
+risks and similarities to the Internet and telecom bubble (the 'dotcom era').
+
+Risks and similarities include:
+
+• The desire to be first to market with leading AI models is creating an arms race that
+ may result in an overbuilding of infrastructure, as not all players will be successful.
+
+• Massive up-front investment is required for training and running AI models, with
+ revenues and earnings expected at some future date. This creates uncertainty
+ about the return on invested capital (ROIC) for many AI initiatives.
+
+## Page 34
+
+- 34 -
+
+• The emergence of debt financing including the use of private credit and off-
+ balance sheet structures (joint ventures and special purpose vehicles), and the
+ reported use of Graphics Processing Units (or GPUs, these are fast-depreciating
+ assets) as collateral in some cases, introduces significant risk.
+
+• The existence of circular relationships among suppliers and customers is a red
+ flag. We are concerned about the systemic risk associated with the interrelated
+ financial dependencies.
+
+On the positive side, there are several mitigating factors that
+make us confident we are not yet in bubble territory.
+
+• The leading cloud service providers (CSPs) are large, rational companies with
+ strong balance sheets and positive free cash flow generation. To date, they have
+ self-funded their AI capex primarily through operating cash flows. During the
+ Internet and telecom bubble of the late 1990s, the companies bearing the brunt
+ of the infrastructure investment were primarily debt-funded and did not have
+ stable cash-generating business segments to support them through the cycle.
+
+Exhibit 1: Valuations of the MSCI World Information Technology (IT) Index
+are far from dotcom bubble levels
+
+70
+ P/E Next Year - MSCI World IT
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+ 0
+
+Data as at 30 September 2025. Source: MSCI, Bloomberg
+
+## Page 35
+
+- 35 -
+
+• It is still very early in terms of the adoption of AI, and potential use cases are
+ expanding. A recent survey found that while 78% of enterprises are using AI in at
+ least one department, only 16% have deployed it across five or more1. Agentic AI
+ holds the promise of enabling new use cases where autonomous agents, powered
+ by AI, will reason, plan, and act across IT systems and data, and thus automate
+ many tasks. Physical AI is also on the horizon as AI converges with robotics and
+ other consumer devices. In technology adoption cycles, it is not unusual for steep
+ investments to occur ahead of widespread monetisation.
+
+• The infrastructure exists (in the form of high-speed Internet access, smartphones,
+ and other connected devices) to immediately deliver AI-based applications to
+ end users. That was not true during the Internet and telecom bubble, as the
+ fibre buildout occurred well ahead of the existence of the “last mile” networks
+ that provide broadband access, and well before the availability of smartphones.
+ This enables innovators to achieve faster time to revenues and returns. For
+ example, ChatGPT has already reached 800 million weekly active users in less
+ than three years, as of October 2025, compared to 13 years for Internet adoption.
+
+1. Source: McKinsey & Company, March 2025. The state of AI: How organizations are rewiring to cap-
+ ture value
+
+Exhibit 2: Tech sector Initial Public Offerings (IPOs), median price/sales multiple by year
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+ 0
+ 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+
+Data as at 29 September 2025. Source: Initial Public Offerings: Updated Statistics, Jay R. Ritter, University of Florida, table 4a.
+
+## Page 36
+
+- 36 -
+
+• Valuations of publicly traded technology stocks are not nearly as stretched as in
+ the late 1990s. While expectations are high now as they were then, the valuations
+ are still reasonable for many leaders in AI. In a bubble, valuations become
+ untethered from reality, with investors paying high multiples on heightened
+ forecasts. We believe some of the more speculative valuations in AI today are
+ concentrated in the private markets, with most AI companies staying private for
+ longer, thus insulating the public equity market.
+
+Today we have reasonable multiples on high expectations. Higher multiples compared
+to 10 years ago reflect higher profit margins and returns on equity (ROE) of growth
+companies.
+
+During the Internet/ telecom bubble, high multiples were placed on high expectations.
+For example, the median price to sales multiples of tech sector initial public offerings
+(IPOs) spiked to 43x in 1999 and 49.5x in 2000.
+
+In conclusion, we believe the AI theme is not yet in bubble territory. Expectations for
+the leaders of AI are high, but valuations remain reasonable. However, we are aware
+of and monitoring several risk factors going forward and are watching for signs of
+a digestion period in the spending cycle. It is possible that industry consolidation
+and disruption will occur over time as winners emerge from the arms race. We
+remain intensely focused on bottom-up fundamental research at the company level
+to identify winners and avoid losers, and on monitoring developments closely as the
+adoption of AI progresses.
+
+## Page 37
+
+- 37 -
+ EUROPEAN EQUITIES
+
+ LAZARE HOUNHOUAYENOU MATHIEU JOURDE SEBASTIEN TALDIR
+Lead Portfolio Manager Dedicated Equities Portfolio Manager Solutions Investment Specialist,
+ BNP Paribas Asset Management and Dedicated Equities, Dedicated Equities
+ BNP Paribas Asset Management BNP Paribas Asset Management
+ European strategic autonomy:
+ A long-term investment opportunity
+
+ • Europe is allocating billions of euros to defence with investments expected to
+ continue to grow
+ • The sector’s valuation is attractive and growth is well above that of other areas
+ • Industrial and technological resilience remain a key policy focus and boast
+ multiple potential long-term investment opportunities
+
+ Europe is deepening its quest for strategic autonomy. What began as a post-pandemic
+ policy slogan has evolved into a financial reality, with tangible investment implications
+ – Europe now allocates billions annually to defence, industrial resilience, and key
+ technology sectors.
+
+ Once an afterthought, now a priority, the money being put into European defence has
+ significantly increased since 2022, amid the Russia/Ukraine conflict and more recently
+ because of US President Donald Trump’s pressure on NATO members.1
+
+ 1. Defence Expenditure of Nato Countries def-exp-2025-en.pdf
+
+## Page 38
+
+- 38 -
+
+ But this is only the beginning. At the June 2025 NATO Summit in The Hague, allies
+ made a commitment to investing 3.5% of GDP annually on core defence requirements
+ and 1.5% of GDP on defence- and security-related spending by 2035.2
+
+ These ambitious targets were met with some prudence by the market, with some
+ countries more reluctant than others to spend so much while already struggling with
+ high public spending. However, the path is clear: several plans exist to help with this
+ target, notably the European Union’s (EU) €800bn ReArm Europe Plan/Readiness
+ 2030.3 Security spending will rise for years to come, which could create potential new
+ opportunities for investors.
+
+ Investable market
+ The total addressable market for European defense companies should grow 29% per
+ year until 2030, according to Oddo BHF. Its study uses a hypothesis of 3% of GDP
+ spending on defence by 2030 (versus the 3.5% agreed by NATO members4,5 , and 2%
+ previously), taking progressively into account the 65% target of components from
+ European companies, adjusting slightly higher also the proportion of spending on
+ equipment versus staff.
+
+ The sector has significantly re-rated since 2022, but its valuation is still below that
+ of US peers and its growth is well above that of the other European sectors:
+
+ 2. NATO – Topic: Defence expenditures and NATO’s 5% commitment
+ 3. EU defence funding | Epthinktank | European Parliament
+ 4. European Defence Agency Report, Defence Data 2024 – 2025.
+ 5. SAFE | Security Action for Europe – European Commission
+
+ Exhibit 1: Valuation ratios for selected equity indices
+
+ Valuation ratios by FactSet consensus, PEG P/E FCF Yield P/Sales
+ data as of 21/10/2025 – NTM – NTM – NTM – NTM
+
+MSCI Europe 1.695 14.64 4.81% 1.66
+
+MSCI Europe Aerospace & Defence 1.545 30.77 3.19% 2.67
+
+MSCI World Aerospace & Defence 1.97 32.26 3.16% 2.81
+
+MSCI World 1.934 20.39 3.71% 2.65
+
+ NTM: Next Twelve Months, PEG: Price Earnings Growth Ratio, P/E: Price-to-Earnings Ratio, FCF: Free Cash Flow, P/Sales:
+ Price to Sales. Data as at 21 October 2025. Source: FactSet
+
+## Page 39
+
+- 39 -
+
+When looking at the subsector’s valuation ratio, accounting for its growth, the sector
+is still cheaper than the rest of the market.
+
+In the short term, investors should be prepared for potential volatility, due to
+contradictory news on the probability of a ceasefire between Ukraine and Russia. But
+recent financial reports and order books have reassured the market; for example, TKMS
+(the recent marine spin-off from ThyssenKrupp) boasts backlogs extending to 2040.6
+
+At the same time, the reorganisation of the European defence landscape is underway,
+evidenced by several changes: TKMS’ spin-off, Rheinmetall’s acquisition of Naval
+Vessels Lürssen, the Bromo satellite project combining the space businesses of Airbus,
+Thales and Leonardo – which all create potential additional opportunities to invest
+in the sector.
+
+Industry, IT, utilities and basic resources: The long way to sovereignty
+The industry, information technology, utilities and basic resources sectors are pillars
+to address vulnerabilities in supply chains, notably in chips, energy and critical raw
+materials essential for the green and digital transitions. Several policies and plans
+exist to support this:
+• The EU’s REPowerEU programme which aims to divest from Russian energy imports
+ before 20307: supported by €300bn of funding, notably through the Recovery and
+ Resilience Facility8
+
+• Approximately €100bn to be mobilised by 2030 to support decarbonation of energy
+ -intensive industries9
+
+• Germany’s "Schuldenbremse" (debt brake) reform, approved by parliament
+ in March 2025, enabling the creation of a special €500bn fund to be deployed
+ over several years (€83bn for 2026) dedicated to investments in infrastructure
+ (transportation, energy, digital networks) and the green transition10
+• The EU’s Critical Raw Materials Act which establishes benchmarks for EU extraction
+ (10%), processing (40%), and recycling (25%) by 2030. It does not have a dedicated
+ budget but aims to soften the administrative burden and timeline for permits.11
+ This initiative becomes more and more important with the Chinese government
+ restricting rare earth material exports
+
+• At the European level, the Chips Act is mobilising over €43bn in public-private
+ commitments through 203012
+
+6. Major order of € 800 million for submarine modernization – TKMS Group Website
+7. RE PowerEU
+8. Recovery and Resilience Facility – European Commission
+9. Clean Industrial Deal – European Commission
+10. Federal Ministry of Finance – Fiscal foundations for the coming years: German government adopts 2025
+ federal budget, benchmark figures to 2029 and implementation of the €500bn investment package
+11. Critical Raw Materials Act – Internal Market, Industry, Entrepreneurship and SMEs
+12. European Chips Act – European Commission
+
+## Page 40
+
+- 40 -
+
+On an even longer-term note, the Multiannual Financial Framework proposed by
+the European Commission in July 2025, covering 2028–2034, provides for a budget
+of €2trn aimed at strengthening the EU’s strategic autonomy and resilience. This
+is equivalent to 1.26% of EU GDP over the seven-year period, doubling the €1trn of
+the previous 2021-2027 budget.13 The plan establishes a European Competitiveness
+Fund of €409bn, intended to support strategic technologies in clean energy, digital
+transition, biotechnology, and defence.
+
+In addition, €175bn is allocated to Horizon Europe, the EU’s flagship research
+programme, which aims to support innovation from conception to scale-up. This
+additional spending will likely open up new investment opportunities across these
+industries and potentially beyond.
+
+A long-term investment trend
+Europe’s strategic autonomy could solidify by 2030, with defence spending representing
+a significant 3.5% of the region’s GDP, not even taking into account the indirect 1.5%
+of GDP spending from the NATO commitment. Even if the full NATO engagement is
+not met, we believe this is a structural trend that is here to stay. Defence clearly
+dominates Europe’s balance sheet, while industrial and technological resilience remain
+smaller but fast-growing components as well. Sustained efforts are essential for a
+robust Europe, improving visibility for European companies, while creating potential
+long-term opportunities for investors.
+
+13. EU budget 2028-2034
+
+## Page 41
+
+- 41 -
+FOR INVESTOR
+ESSENTIALS
+ON THE GO
+
+ Download the app
+ or visit our website
+
+## Page 42
+
+- 42 -
+
+Please note that articles may contain technical language. For this reason, they may not be suitable for readers without professional
+investment experience. Any views expressed here are those of the author as of the date of publication, are based on available information,
+and are subject to change without notice. Individual portfolio management teams may hold different views and may take different
+investment decisions for different clients. This document does not constitute investment advice. The value of investments and the
+income they generate may go down as well as up and it is possible that investors will not recover their initial outlay. Past performance
+is no guarantee for future returns. Investing in emerging markets, or specialised or restricted sectors is likely to be subject to a higher-
+than average volatility due to a high degree of concentration, greater uncertainty because less information is available, there is less
+liquidity or due to greater sensitivity to changes in market conditions (social, political and economic conditions). Some emerging markets
+offer less security than the majority of international developed markets. For this reason, services for portfolio transactions, liquidation
+and conservation on behalf of funds invested in emerging markets may carry greater risk. Environmental, social and governance (ESG)
+investment risk: The lack of common or harmonised definitions and labels integrating ESG and sustainability criteria at EU level may
+result in different approaches by managers when setting ESG objectives. This also means that it may be difficult to compare strategies
+integrating ESG and sustainability criteria to the extent that the selection and weightings applied to select investments may be based
+on metrics that may share the same name but have different underlying meanings. In evaluating a security based on the ESG and
+sustainability criteria, the Investment Manager may also use data sources provided by external ESG research providers. Given the
+evolving nature of ESG, these data sources may for the time being be incomplete, inaccurate or unavailable. Applying responsible
+business conduct standards in the investment process may lead to the exclusion of securities of certain issuers. Consequently, (the
+Sub-Fund’s) performance may at times be better or worse than the performance of relatable funds that do not apply such standards.
+
+BNP PARIBAS ASSET MANAGEMENT Europe, “the investment management company”, is a simplified joint stock company with its registered
+office at 1 boulevard Haussmann 75009 Paris, France, RCS Paris 319 378 832, registered with the “Autorité des marchés financiers” under
+number GP 96002. This material is issued and has been prepared by the investment management company. This material is produced for
+information purposes only and does not constitute: 1. an offer to buy nor a solicitation to sell, nor shall it form the basis of or be relied
+upon in connection with any contract or commitment whatsoever or 2. investment advice. Opinions included in this material constitute
+the judgement of the investment management company at the time specified and may be subject to change without notice. The
+investment management company is not obliged to update or alter the information or opinions contained within this material. Investors
+should consult their own legal and tax advisors in respect of legal, accounting, domicile and tax advice prior to investing in the financial
+instrument(s) in order to make an independent determination of the suitability and consequences of an investment therein, if permitted.
+Please note that different types of investments, if contained within this material, involve varying degrees of risk and there can be no
+assurance that any specific investment may either be suitable, appropriate or profitable for an investor’s investment portfolio. Given
+the economic and market risks, there can be no assurance that the financial instrument(s) will achieve its/their investment objectives.
+Returns may be affected by, amongst other things, investment strategies or objectives of the financial instrument(s) and material market
+and economic conditions, including interest rates, market terms and general market conditions. The different strategies applied to the
+financial instruments may have a significant effect on the results portrayed in this material. All information referred to in the present
+document is available on www.bnpparibas-am

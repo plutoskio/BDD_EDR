@@ -63,7 +63,7 @@ Teams that capture conviction levels, scenario probabilities, or contrarian call
 
 A structured, visual dashboard aggregating the macroeconomic forecasts and investment positioning of all analysed competitors. The dashboard must allow side-by-side reading across competitors and indicators. It should be immediately usable by an EdRAM analyst without further processing.
 
-*The detailed evaluation grid for this deliverable will be shared in the dedicated assignment guidelines later in the BDD.*
+*The detailed evaluation grid for this deliverable will be share-d in the dedicated assignment guidelines later in the BDD.*
 
 **Deliverable 2 — 10 Strategic Insights** * Due: Friday, March 13th at 12:00 PM (noon)*
 

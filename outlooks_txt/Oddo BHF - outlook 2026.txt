@@ -1,0 +1,121 @@
+Source file: Oddo BHF - outlook 2026.pdf
+Source path: outlooks/Oddo BHF - outlook 2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:07.100002+00:00
+Page count: 2
+
+---
+
+## Page 1
+
+MACROECONOMIC view
+
+January 17th, 2026
+
+ Bruno Cavalier
+ Chief Economist ODDO BHF
+
+2026 Outlook - The world according to Trump, Year II
+
+ KEY HIGHLIGHTS
+
+ • Last year, the global economy demonstrated remarkable resilience
+ in adapting to shocks.
+ • Trump initially sparked panic with his tariff threats but later
+ softened his stance.
+ • This easing, combined with fiscal stimulus in several countries, is
+ expected to support growth.
+ • However, multiple geopolitical tensions could weigh on market
+ sentiment.
+ • Europe faces triple pressure—from the United States (Trump),
+ Russia, and China (competition).
+
+Before marketing a new product, its designers It is somewhat surprising that the general mood is
+always subject it to unusual conditions of use in one of optimism. The latest reports from the IMF,
+order to assess whether it will break or at least the OECD, and other institutions are quick to point
+identify any weak points that need to be reinforced. out weaknesses in the economy (trade friction) and
+Last year, the whole world underwent a high- the financial sphere (risk of an AI bubble bursting),
+intensity stress test under Donald Trump's but they all agree on the incredible resilience of the
+leadership. The result was conclusive: the economy global economy. This leads to an extrapolation of a
+was shaken up, but there was no apparent growth rate of just over 3%. This is the central
+breakage. Global growth remained slightly above trajectory. Let's see how it breaks down by major
+3%, and the major stock markets saw double-digit region.
+gains. United States - Neither the tariff war, nor trade
+
+The year has barely begun and the 2025 stress test friction with the entire world, allies and adversaries
+already looks like a walk in the park. Dictators have alike, nor repeated attacks on the Fed, nor the
+been deposed (Venezuela), others have been longest government shutdown in history, have
+weakened (Iran), decades-old military alliances are brought the economy to its knees. Fears of
+on the verge of breaking down (NATO over the recession last spring quickly evaporated. The labor
+issue of Greenland), the Fed chairman is being market weakened significantly, but AI spending
+prosecuted in a criminal case... We are writing this in continued to boom. Long-term rates fluctuated
+mid-January. Other events of major importance are between 4% and 4.5% due to opposing forces: the
+looming: the appointment of a new Fed chairman to Fed's rate cuts on the one hand (-75 basis points in
+take office in May, the US midterm elections in 2025) and the maintenance of a large budget deficit
+November, the Supreme Court's rulings on the on the other (more than 6% of GDP). For 2026, real
+legality of certain tariffs, the outcome of GDP growth is projected to be around 2%. Demand
+negotiations for a ceasefire in Ukraine after four should benefit from the tax cuts passed last year
+years of war, and the ongoing rivalry between the and, if inflation eases, from a little more monetary
+US and China, with the key issue being whether to easing.
+maintain or break the tariff truce that was so
+difficult to negotiate last year.
+ MACROECONOMIC VIEW 1
+
+## Page 2
+
+MACROECONOMIC view
+ JANUARY2026
+
+ Europe - European countries were also badly China - The Chinese economy remains paradoxical.
+ shaken in 2025 by rising US tariffs, competition Industrially, its dominance in many sectors is
+ from China, and the threat of US military becoming increasingly apparent. At the macro level,
+ disengagement. Ultimately, growth was decent but however, internal weaknesses are becoming more
+ weak, and still uneven among the major countries. pronounced: weak consumption, the ongoing real
+ The modest recovery is expected to continue in estate crisis, price deflation, and demographic
+ 2026, based on the dual assumptions of a) a decline winter. This “model” can only be sustained by
+ in household savings rates and b) an acceleration in gaining market share in the rest of the world, so that
+ the German economy thanks to Merz's stimulus excess production can be absorbed by foreign
+ plan. In this context, inflation is expected to remain demand, particularly in Europe. In turn, this can only
+ just below the 2% target. The ECB completed its reinforce protectionist measures in the rest of the
+ cycle of rate cuts in June 2025 and is not expected world. In 2026, China is set to unveil a new five-year
+ to lower its key rates further in this context. plan consolidating its ambitions for leadership in the
+ Germany - Two opposing forces will influence technological fields.
+
+ business conditions. On the positive side, after a Compared to the central trajectory, which is fairly
+ year of announcements and preparations, the positive overall, there are several risks of deviation
+ infrastructure and defense investment plan should to consider. The risk of a US recession has been so
+ take shape. However, many observers fear delays in overestimated in recent years that it seems to have
+ implementation. The business climate remains disappeared for good. In fact, this risk remains in
+ uncertain. On the negative side, China's industrial two forms. First, a retreat by consumers pressured
+ juggernaut is now a major competitor in all areas, by job shortages and a cost-of-living crisis. Second, a
+ which will weaken the export engine. Overall, the financial shock affecting households whose wealth
+ effect of fiscal stimulus should prevail. has never been so heavily invested in the stock
+ France - The country is in total denial about its fiscal markets. On the other hand, we must mention the
+ problems, which are the most acute in the entire most troubling scenario, which would be a
+ eurozone, under the complacent eye of the markets. resurgence of inflation under the combined effect of
+ The political world already has its eyes fixed on the various fiscal stimulus plans, global monetary
+ 2027 presidential election, while the French are easing, and a Fed perceived as less impervious to
+ oversaving and companies, faced with political pressure from Donald Trump.
+
+ unprecedented fiscal uncertainty, are holding back
+ on investment and hiring. Nothing new to expect.
+
+Past performance is not a reliable indicator of future returns and is subject to fluctuation over time. Performance may rise or fall for
+investments with foreign currency exposure due to exchange rate fluctuations. Emerging markets may be subject to more political,
+economic or structural challenges than developed markets, which may result in a higher risk
+
+Disclaimer
+
+This document has been prepared by ODDO BHF for information purposes only. It does not create any obligations on the part of
+ODDO BHF. The opinions expressed in this document correspond to the market expectations of ODDO BHF at the time of
+publication. They may change according to market conditions and ODDO BHF cannot be held contractually responsible for them. Any
+references to single stocks have been included for illustrative purposes only. Before investing in any asset class, it is strongly
+recommended that potential investors make detailed enquiries about the risks to which these asset classes are exposed, in particular
+the risk of capital loss.
+ODDO BHF
+12, boulevard de la Madeleine - 75440 Paris Cedex 09 France -Phone: 33(0)1 44 51 85 00 -Fax: 33(0)1 44 51 85 10 –
+www.oddo-bhf.com ODDO BHF SCA, a limited partnership limited by shares with a capital of €73,193,472 - RCS 652 027 384 Paris –
+approved as a credit institution by the Autorité de Contrôle Prudentiel et de Résolution (ACPR) and registered with ORIAS as an
+insurance broker under number 08046444. -www.oddo-bhf.com
+ MACROECONOMIC VIEW 2

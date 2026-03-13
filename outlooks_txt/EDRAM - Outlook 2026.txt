@@ -1,0 +1,1112 @@
+Source file: EDRAM - Outlook 2026.pdf
+Source path: outlooks/EDRAM - Outlook 2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:56.869007+00:00
+Page count: 28
+
+---
+
+## Page 1
+
+Perspectives
+& Convictions
+
+Asset Management | 1er semestre 2026
+
+## Page 2
+
+## Page 3
+
+Perspectives
+& Convictions
+
+Asset Management | 1er semestre 2026
+
+## Page 4
+
+SOMMAIRE
+
+ Les cinq flèches Edmond de Rothschild, Château Clarke, Listrac-Médoc.
+
+## Page 5
+
+A lloc at ions d'act ifs 6
+
+par Benjamin Melman
+Investir au milieu d’une bulle
+Oblig at ions 12
+
+par Alain Krief
+L’année 2026 s’annonce favorable aux marchés de crédit !
+Act ions européennes 16
+
+par Caroline Gauthier
+Actions européennes : la valse à 3 temps
+Act ions internat ionales et thémat iques 20
+
+par Jacques-Aurélien Marcireau
+2026, une année structurante pour les actions, « la fin du prologue »
+Souveraineté européenne 22
+
+par Anthony Penel
+Défense européenne : un investissement décorrélant
+
+## Page 6
+
+ALLOCATION D’ACTIFS
+
+Invest ir au milieu d’une bulle
+
+ Benjamin Melman
+ Global Chief Investment Officer
+
+Un manque évident de repères outre-Atlantique
+La visibilité sur l’économie américaine est aujourd’hui particu-
+lièrement réduite. Nous n’avions, par le passé, jamais observé un
+tassement des créations d’emplois sans ralentissement concomi -
+tant de la croissance, ce qui soulève de nombreuses interrogations .
+Le shutdown le plus long de l’histoire a, de surcroît, interrompu la
+publication d'indicateurs clés, tout en générant une série d’effets
+techniques ponctuels – d’abord négatifs, puis positifs – qui
+invitent à interpréter les prochaines statistiques avec davantage
+de prudence.
+
+Par ailleurs, si les tarifs douaniers ont eu des effets récessifs nette -
+ment moins marqués qu’anticipé, leur diffusion dans l’économie a
+été plus lente que prévu. Il convient donc d’attendre encore avant
+de se prononcer de manière définitive. D’autant que la Cour consti-
+tutionnelle pourrait prochainement décider d’annuler ces tarifs.
+En revanche, le relâchement budgétaire prévu pour l’an prochain
+demeure à l’ordre du jour, mais son ampleur reste incertaine :
+au-delà du Big & Beautiful Bill , M. Trump évoque la possibilité de
+restituer aux ménages une partie des recettes douanières au moyen
+d ’un chèque de 2 000 dollars, ce qui représenterait entre 1 % du PIB
+(si la mesure est réservée aux ménages gagnant moins de 100 000
+dollars par an) et 2 % .
+
+6
+
+## Page 7
+
+Malgré ce brouillard, l’environnement américain n’apparaît pas plus
+inquiétant que d'habitude : ni les bilans des agents privés ni la dyna-
+mique des marges des entreprises ne signalent de risque de récession .
+Le principal danger réside plutôt dans un éventuel retournement des
+investissements massifs dans l’intelligence artificielle - investisse-
+ments dont les effets sur la croissance sont estimés à environ 1 point
+de PIB - qui provoquerait sans doute un repli marqué des marchés
+actions, des effets richesse négatifs et une consommation plus faible.
+
+L’IA et la bulle
+Les analogies entre la flambée actuelle des valeurs liées à l’IA et la
+bulle internet ne manquent pas : rôle central du momentum, valo -
+risations excessives, participation élevée des particuliers dans les
+flux boursiers, apparition de méga-deals circulaires entre OpenAI,
+Nvidia et Oracle, où le fournisseur prête à son client pour qu’il passe
+commande (ce qui n’est pas sans rappeler la fin des années 90 où
+Cisco, Lucent et Nortel avaient prêté à leurs clients telecoms, ce qui
+avait conduit à des infrastructures surdimensionnées). La principale
+question est donc la capacité des acteurs américains à monétiser
+leurs investissements, alors que la concurrence est rude entre hyper -
+scalers1 américains et avec les acteurs chinois, d’autant plus que de
+nombreuses enquêtes auprès d’utilisateurs d’IA soulignent fréquem-
+ment l’absence de résultats tangibles de leurs investissements.
+
+Deux obstacles supplémentaires émergent quant au développe -
+ment de l’IA aux États-Unis : une insuffisance de l’offre d’énergie
+face à une demande en forte hausse, provoquant une flambée
+des prix de l’électricité, et l’apparition d’incidents dans la sphère
+du private credit, dont l’essor a été explosif ces dernières années.
+Rappelons que selon certaines projections, le private credit est
+supposé financer autour de la moitié de la création des data centers
+d’ici 2030.
+
+Aucun élément ne permet de prévoir quand cette bulle éclatera.
+Cer tains indicateurs suggèrent même que les excès de 20 0 0 n’ont pas
+encore été atteints. Si la bulle a été nourrie par l’excès de liquidités,
+l’annonce de la fin du quantitative tightening par la Fed ne constitue
+pas pour autant une menace. On notera toutefois que cer tains grands
+acteurs (Sof tBank ou encore Macro LLC de Peter Thiel) ayant accom-
+pagné cette bulle IA ont récemment vendu leurs actions Nvidia.
+L’investisseur de long terme est toutefois averti du caractère haute-
+ment spéculatif de ce segment de marché. Dans ce contexte, nous 1 Un hyperscaler est un fournisseur de
+restons très sous-pondérés sur les Magnificent 7 (MAG7). Les résul -services informatiques, qui exploite
+tats du troisième trimestre des entreprises américaines montrent des centres de données à très grande
+ échelle pour proposer des services
+d’ailleurs une inflexion intéressante : la croissance bénéficiaire n’est de cloud computing et de gestion de
+plus tirée principalement par les MAG7, ce qui renforce l’intérêt d ’une données. Il s’agit des géants du Cloud
+ tels que Amazon, Google, Microsoft,
+diversification des thématiques au-delà de l’IA . Alibaba, etc.
+
+ 7
+
+## Page 8
+
+ALLOCATION D’ACTIFS
+
+Évolution des indices S&P 500 et S&P 500 Momentum2 depuis 1997
+
+1 400
+
+ 1 200
+
+1 000
+
+ 800  S&P 500 Momentum
+
+  S&P 500
+ 600
+ Surperformance +112%
+ (22/ 12/ 1997 - 24/03/2000)
+ 400
+
+ 200
+ Surperformance +45%
+ (depuis le 16/ 10/2023)
+ 0
+ 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+Source : Factset. Données au 27/ 11/2025 .
+Les performances passées ne préjugent pas des performances futures et ne sont pas constantes dans le temps et peuvent être
+indépendamment affectées par l’évolution des taux de change.
+Les performances indiquées ne prennent pas en compte les coûts et commissions supportés lors de l’émission et du rachat des
+parts, mais incluent les frais courants, les frais d ’intermédiation ainsi que les éventuelles commissions de performance prélevées.
+
+L a Chine : un modèle d ’ IA différent , plus pragmatique et moins risqué
+La Chine a développé un modèle d ’ IA très différent de celui des États-
+Unis et, sur certains aspects, plus pragmatique et moins risqué. Déjà,
+les LLM sont en architecture ouverte et non en modèles proprié-
+taires, ce qui facilite leur diffusion. Par ailleurs, les investissements
+des hyperscalers ont été bien plus mesurés (de l’ordre d’un dixième
+du montant américain), limitant a priori drastiquement le risque de
+surinvestissement . Ensuite, l’adoption de la technologie est favorisée
+par les autorités, notamment dans l’industrie, dans le cadre d’une
+vision plus globale de la politique industrielle, ce qui réduit l’incer-
+titude quant à son utilisation. Enfin, la Chine dispose d’une capacité
+de production électrique massive à coûts très bas, un atout majeur
+dans un contexte de hausse des coûts de l’énergie. Les valeurs liées à
+l’IA en Chine se négocient à des niveaux nettement inférieurs à ceux
+obser vés aux États-Unis. Autrement dit, même en tenant compte des
+ 2 Le S&P 500 ® Momentum est
+faiblesses structurelles du marché chinois (pressions déflationnistes, un indice conçu pour mesurer la
+faiblesse de la gouvernance, etc .) qui ont conduit de nombreux inves- performance des titres de l'univers
+tisseurs à s’en détourner, il apparaît difficile d’ignorer totalement ce S&P 500 qui affichent une certaine
+ constance dans leur performance
+marché dans une allocation. relative.
+
+8
+
+## Page 9
+
+Évolution de la production électrique sur 40 ans (en terawattheures)
+
+10 000
+
+ 8 000
+
+ 6 000
+  Chine
+
+ 4 000  USA
+
+ 2 000
+
+ 0
+ 1985 1990 1995 2000 2005 2010 2015 2020 2025
+
+Source : Ember (2025); Energy Institute - Statistical Review of World Energy (2025). Données au 27/ 11/2025 .
+Les chiffres concernent les années passées et ne préjugent pas des résultats futurs.
+
+L’Europe peut encore surprendre
+La France demeure dans une situation fragile sur les plans budgé-
+taire et politique, mais le risque de crise reste pour l’instant contenu.
+L’ Europe du Sud demeure relativement dynamique, por tée par le plan
+NextGen EU et par le regain de compétitivité de ces pays . C ’e s t to u te -
+fois l’Allemagne qui opère un changement de doctrine significatif,
+susceptible d ’entraîner toute l ’ Europe : plan de relance dont les effets
+se matérialiseront en 2026, volonté de M . Merz de lancer l’ Union des
+marchés de capitaux (que l’Allemagne bloquait jusqu’ici), soutien
+aux mesures protectionnistes européennes contre le dumping
+chinois sur l’acier. Il s’agit d ’une véritable rupture, destinée à relancer
+l’offre comme la demande en Europe.
+
+Selon le think tank EPIC , seulement 11, 2 % des mesures du rapport
+Draghi ont été mises en œuvre un an après sa publication, et 20,1 %
+partiellement. Il reste donc beaucoup à faire, mais la volonté poli -
+tique est désormais présente. Tant que M. Merz est au pouvoir,
+et dans l’attente d’autres relais politiques, il y a des raisons d’être
+optimistes.
+
+ 9
+
+## Page 10
+
+ALLOCATION D’ACTIFS
+
+Changement à la Fed
+En mai 2026, le mandat de Jerome Powell prendra fin. Si le nom de
+son successeur n’est pas encore connu, la tentative d ’éviction de Lisa
+Cook et les attaques répétées de M. Trump à l’encontre de Jerome
+Powell laissent clairement transparaître la volonté de la Maison
+Blanche d’influer davantage sur la politique monétaire. Nul ne sait
+dans quelle mesure l’indépendance de la Fed sera préservée, mais il
+paraît raisonnable d’envisager une banque centrale plus accommo-
+dante, ne serait-ce qu’en raison des rotations internes au Board déjà
+planifiées après le départ de Powell.
+
+“The only thing Scott is blowing it on is the Fed because the Fed, the rates
+ are too high, Scott. If you don’t get it fixed fast, I’m going to fire your ass”
+
+ President Donald Trump, CNN (20/11)
+
+Compte tenu de la perte de compétitivité européenne, prise en
+étau entre dumping chinois et tarifs américains, la BCE pourrait être
+contrainte d’assouplir sa politique si la Fed engage une nouvelle
+baisse de taux, afin de contenir l’appréciation de l’euro. Alors que les
+politiques budgétaires seront expansionnistes l’an prochain dans les
+trois plus grands pays du G7 (États-Unis, Japon, Allemagne), et que
+les déficits publics se creuseront, nous ne privilégions pas les obliga-
+tions à maturité longue : la reconstitution de la prime de terme semble
+incomplète au regard de l’historique, surtout si la Fed devait devenir
+trop laxiste sous pression politique.
+
+Politique d’investissement
+Au total, les marchés restent chers, tandis que la probabilité d’un
+éclatement de la bulle IA augmente : plus les investissements
+flambent, plus les doutes sur leur monétisation s’intensifient. Toute-
+fois, nous n’identifions pas dans l’environnement économique actuel
+de raisons fondamentales justifiant un retournement des marchés .
+Nous abordons donc l’année avec une allocation relativement équili-
+brée entre actions et obligations, tout en conser vant un biais prudent
+au début, dans l’attente d’une meilleure visibilité concernant les
+évolutions à la Fed, et sans préférence géographique marquée sur
+les actions.
+
+Sur les marchés actions, nous restons prudents sur les grandes capi-
+talisations liées à l’IA (notamment les MAG7) et privilégions plutôt
+le thème du Big Data (en particulier les entreprises utilisatrices, qui
+pourront le mieux tirer parti de l’IA). Nous privilégions également
+les entreprises qui bénéficieront du thème de la résilience et de la
+souveraineté, aussi bien au niveau mondial qu’européen, la mise en
+œuvre du rapport Draghi étant l’un des objectifs prioritaires de la
+Commission européenne.
+
+10
+
+## Page 11
+
+Au regard de la puissance du momentum ces deux dernières années,
+la meilleure manière de se préparer à un changement de régime de
+marché tout en investissant à long terme est d’augmenter le poids
+des actifs sous-détenus par les investisseurs, décotés et de préfé -
+rence déjà engagés dans un mouvement de reprise, notamment
+les petites capitalisations européennes , qui devraient bénéficier
+du recentrage vers une croissance plus domestique, de l’union des
+marchés de capitaux mais aussi d’éventuelles baisses de taux de la
+BCE. Le secteur de la santé répond également à ces caractéristiques .
+Longtemps pénalisé par des obstacles d ’ordre politique, il voit désor-
+mais son horizon s’éclaircir et commence à reprendre des couleurs.
+Il pourrait même bénéficier d’un redressement significatif en cas de
+ralentissement économique plus marqué. Parallèlement, les valeurs
+américaines Value ont également leur place dans cette recherche
+de diversification. Elles pourraient tirer parti d’un possible retour à
+une politique économique très expansionniste aux États-Unis (si le
+Congrès adopte les chèques aux ménages et/ou si la Fed devient plus
+accommodante). Enfin, les valeurs aurifères, qui ont déjà largement
+progressé, pourraient à nouveau tirer leur épingle du jeu si la recom-
+position au sein de la Réserve Fédérale devait se traduire par une
+empreinte politique plus marquée.
+
+Dans l’univers obligataire, il devient difficile d’envisager davantage
+de resserrement des spreads tant ils se sont contractés mais cela
+reste possible, puisque les signatures des États se dégradent. Nous
+privilégions ainsi les dettes hybrides financières et d’entreprises,
+essentiellement dans un univers d’émetteurs Investment Grade , ainsi
+que la dette émergente, qui devrait profiter de l’assouplissement
+monétaire de la Fed, et enfin les stratégies de portage.
+
+Points clés
+— L’économie américaine reste incertaine, marquée essentiellement par un tassement de l’emploi sans
+ ralentissement de la croissance ainsi qu’une bulle IA qui risque d ’éclater.
+— La Chine et l’Europe offrent des opportunités différenciées : l’IA chinoise est plus pragmatique et
+ moins chère, tandis que l ’ Europe bénéficie d ’une relance por tée par l ’Allemagne et le plan NextGen EU.
+— Notre stratégie d’investissement reste prudente et équilibrée entre actions et obligations. Elle
+ privilégie les petites valeurs européennes au détriment des grandes capitalisations américaines liées
+ notamment à l'IA , ainsi que les thématiques de la résilience, la souveraineté européenne, la santé et
+ le Big Data.
+
+ 11
+
+## Page 12
+
+OBLIGATIONS
+
+L’an née 2026 s’an nonce favorable
+au x marchés de crédit !
+
+ Alain Krief
+ Responsable de la Gestion
+ Obligataire
+
+Les marchés évoluent rarement en ligne droite ascendante ou descen-
+dante. Sur de courtes périodes, cette impression peut sembler vraie,
+mais elle est souvent trompeuse.
+
+Ainsi, au début de l’année 2025, le dollar s’est nettement déprécié :
+beaucoup anticipaient un taux de 1, 20 puis de 1,40 contre l’euro. Il a
+finalement atteint 1,19 en séance, mais évolue depuis le mois de juillet
+autour de 1,16. Parallèlement, le pétrole, qui semblait suivre une trajec-
+toire baissière, s’est stabilisé autour de 60 dollars le baril ces derniers
+mois. Quant à l’or, après un rallye exceptionnel, son cours a fléchi à la
+mi-octobre. Ces exemples illustrent bien la volatilité et la complexité
+des marchés financiers.
+
+En 2026, les marchés de crédit pourraient pourtant faire figure d’ex-
+ception. Le portage obligataire, c’est-à- dire le provisionnement et le
+paiement du coupon associé, permet de délivrer une performance qui
+suit une trajectoire relativement linéaire. Une tendance déjà obser vée
+au cours des trois dernières années sur ces marchés, malgré quelques
+épisodes de volatilité, comme en avril dernier lors des annonces de
+droits de douane par Donald Trump.
+
+Concrètement, la dynamique du crédit s’explique les éléments qui le
+composent et les facteurs qui agissent sur chacun d ’eux.
+
+12
+
+## Page 13
+
+Prenons l’exemple du marché High Yield européen : son rendement
+annualisé correspond simplement à la somme du taux d ’ État moyen et
+de la prime de risque crédit moyenne (les spreads ) des émetteurs qui
+le composent.
+
+Évolution du « Yield to Worst » sur 10 ans
+ 9
+
+ 8
+
+ 7
+ 6  Spread to Worst
+  Rate Component
+ 5  Yield to Worst
+
+ 4
+ Le graphique illustre
+ 3 le rendement pour l’ensemble
+ des titres High Yield
+ 2 (notation BB-B), toutes
+ maturités supérieures à un an
+ 1 et tous secteurs confondus.
+ ( Yield to Worst = Rendement
+ 0 annualisé à maturité ou au
+ prochain call plus probable)
+ -1
+ 12.14 15 12.1516 12.1617 12.1718 12.1819 12.1944
+ 06. 06. 06. 06. 06. 06.20 12.20 06.21 12.21 06.22 12.22 06.23 12.23 06.212.206.25
+
+Source : Factset, données au 31/ 10/2025 .
+
+Pour pouvoir se projeter en 2026, il est donc essentiel d’analyser à la
+fois les taux souverains (partie bleue de la courbe) et les primes de
+risque de crédit (par tie jaune), sans oublier la corrélation entre les deux.
+
+En zone euro, après une forte augmentation des taux souverains
+en 2022 visant à lutter contre l'inflation, la BCE a progressivement
+assoupli sa politique monétaire, l'inflation atteignant désormais l'ob-
+jectif de 2 % . Il ne reste probablement qu’une ou deux baisses à venir
+avant d ’atteindre le « terminal rate » (taux d ’équilibre). Cette situation
+a conduit à une normalisation de la courbe des taux, soutenue égale-
+ment par les récentes politiques fiscales (baisse des taux courts et
+hausse des taux longs). Seule la partie 3-5 ans est restée stable (voir
+graphique page suivante).
+
+Les spreads de crédit suivent une logique comparable pour un même
+émetteur.
+
+Cette pentification de la courbe permet non seulement de dégager
+davantage de rendement (avec plus de risque) sur les maturités
+longues , mais également de changer le profil de per formance d ’un titre
+grâce au phénomène de « descente dans la courbe » (« rolldown ») ,
+délivrant plus de performance en début de vie du titre, et moins à
+l’approche de la maturité.
+
+ 13
+
+## Page 14
+
+OBLIGATIONS
+
+Courbe de taux EUR
+
+3,30
+
+ 3,10
+
+2,90
+
+ 2,70
+
+2,50  31/12/2024
+  30/ 1 0/2025
+2,30
+
+ 2,10
+
+ 1,90
+
+ 1,70
+ 3M 6M 1Y 2Y 3Y 4Y 5Y 6Y 7Y 8Y 9Y 10Y 15Y 25Y 30Y20Y
+
+Source : Factset, données au 31/ 10/2025 .
+
+Quand on analyse le profil de performance de l’indice High Yield BB-B
+sur plusieurs années, on observe que celui-ci dépend essentiellement
+du portage lorsque les taux souverains varient peu. Le resserrement des
+primes de risque de crédit vient éventuellement rajouter ou enlever de
+la performance. Cette logique s’applique aussi à d’autres segments obli-
+gataires à spreads élevés à l’instar de la dette subordonnée financière
+(AT1, Tier 2), la dette corporate hybride ou encore les marchés émer-
+gents souverains et crédit. Tous affichent des spreads élevés par rapport
+aux taux sans risque. À l’inverse, le segment Investment Grade, doté
+d’un spread plus faible, reste très sensible aux mouvements des taux
+souverains, qui peuvent rapidement effacer les gains liés au portage.
+
+En pratique, même dans un environnement technique favorable
+(portage important, flux positifs sur la classe d ’actifs…), il est indispen-
+sable de prendre en compte la santé financière des entreprises et son
+évolution potentielle en 2026 car les mouvements de spreads au nom à
+nom peuvent être très importants. Et les disparités au sein du segment
+High Yield sont actuellement nombreuses, selon les secteurs et les
+notations. Les émetteurs « single B » ont vu leurs spreads s’écarter ces
+derniers mois, mais cette tendance devrait progressivement se norma-
+liser dans un contexte de bonne tenue de la croissance mondiale.
+
+Selon nous, l’économie évolue en « K », illustrant une phase de tran -
+sition entre le milieu et la fin du cycle : la croissance est atone et
+incer taine aux États- Unis , tandis que l ’ Europe, plus en amont du cycle,
+devrait bénéficier des dépenses budgétaires allemandes en 2026.
+Cette divergence se reflète notamment dans les performances des
+différents secteurs : certains sont encore en début de cycle, tandis
+que d'autres approchent de la fin.
+
+14
+
+## Page 15
+
+Les entreprises au sein des secteurs liés à l'IA , tels que les hypersca -
+lers et les entreprises de services publics, semblent en effet en fin de
+cycle. Au cours du dernier trimestre, les hyperscalers (Meta, Oracle,
+Alphabet, etc.) ont émis, à eux seuls, près de 118 milliards de dollars.
+Si ce rythme continue, ces acteurs pourraient se réendetter signi-
+ficativement, exerçant une pression sur les spreads de la catégorie
+Investment Grade car ces émetteurs encore au début de leurs appels
+à la dette sont très bien notés, ce qui limite le risque immédiat de
+défaut et de propagation à d ’autres segments du marché du crédit.
+
+Sur les autres secteurs , cer tes plus sensibles aux taux d 'intérêt, tels que
+les ressources de base, les matériaux de construction, les prêts auto-
+mobiles , l'immobilier commercial (CRE), la construction résidentielle et
+les consommateurs à faible revenu, évoluent dans un environnement
+plus contraignant. Leur demande dépend fortement du crédit, des
+investissements et de la construction. Ils ont également été affectés
+par les droits de douane, entraînant le marché de l ’emploi le plus faible
+depuis cinq ans. Malgré ces difficultés, leur position dans le milieu du
+cycle leur permet encore de générer des rendements positifs.
+
+C’est dans ce contexte que le segment High Yield se révèle particu -
+lièrement attractif. Il regroupe de nombreux secteurs cycliques tout
+en étant moins exposé aux secteurs capitalistiques et aux hypersca -
+lers. Nous identifions sur ce marché de nombreuses opportunités et
+privilégions le risque de notation au risque de duration. De plus, le
+portage élevé du High Yield et sa courte duration offrent une marge
+de sécurité intéressante, même face à une peu probable vague de
+défauts, qui, selon nous, ne devrait pas se matérialiser en 2026.
+
+C’est pourquoi, en examinant de près ces disparités au sein des
+marchés de crédit, il apparaît que les segments à forts spreads, et
+notamment le High Yield, ont le potentiel de délivrer « une perfor-
+mance en ligne droite », proche de ce que la théorie suggère,
+offrant ainsi un terrain favorable aux investisseurs à la recherche de
+rendements.
+
+Points clés
+— Depuis fin 2022, les marchés de crédit évoluent dans une tendance haussière. Leur dynamique s’ex-
+ plique principalement par un portage élevé et des facteurs positifs qui agissent sur sa composition :
+ taux et spreads .
+— La performance d’un indice High Yield BB-B repose essentiellement sur le « total yield » et pour
+ 2026, nous privilégions le risque de crédit au risque de duration.
+— Le segment High Yield se révèle attractif car il comprend de nombreux secteurs cycliques corrélés
+ à la croissance tout en étant moins exposé aux secteurs capitalistiques et aux hyperscalers.
+
+ 15
+
+## Page 16
+
+ACTIONS EUROPÉENNES
+
+Ac t ion s eu ropéen ne s :
+la valse à 3 temps
+
+ Caroline Gauthier
+ Co-Responsable de la Gestion
+ Actions
+
+L’année 2025 aura été l’illustration parfaite d’un marché capable de
+changer de régime bien plus vite que la réalité économique. C ’est ce
+qu’on appelle la phase d’Espoir du cycle, celle qui précède la phase
+d’Expansion et qui est traditionnellement propice à une hausse des
+marchés actions. C’est le moment où les investisseurs peuvent saisir
+les meilleures opportunités : les marchés restent abordables, les
+valorisations repartent et les marges de progression demeurent
+importantes, les profits devant encore se redresser. Tant que cette
+anticipation de reprise perdure, nous estimons que les actions euro-
+péennes conser vent un potentiel de hausse impor tant. Il faut toutefois
+rester patient car une reprise suit rarement une trajectoire linéaire. En
+l’occurrence, celle que nous vivons se déroule en trois temps.
+
+Le temps boursier et le temps politique
+Les annonces quasi simultanées d’un plan de réarmement européen
+et du « Bazooka » budgétaire allemand ont fait naître un vent puissant
+d’optimisme sur l’Europe début 2025. La bourse a réagi instantané-
+ment : en quelques semaines, les actions de la zone euro se sont
+envolées de près de 20 % , soutenues par des flux entrants à un plus
+haut de dix ans. Or le temps boursier n’est pas celui du politique.
+
+Après ce temps des annonces, une forme d’essoufflement s’est
+installée. Le contraste entre l’enthousiasme des investisseurs et le
+rythme réel de l’économie s’est fait sentir. Reconnaissant que les
+
+16
+
+## Page 17
+
+résultats des entreprises ne croîtraient pas en 2025 impactés par
+le dollar faible et les perturbations liées aux droits de douane, les
+marchés ont continué de progresser mais en montrant des signes
+d’impatience face aux effets encore limités des plans pluriannuels
+annoncés.
+
+Nous entrons désormais dans le temps long du politique. Si nous ne
+pouvons maîtriser l’agenda, chaque nouvelle étape d’implémenta-
+tion sera accueillie positivement.
+
+Les premières avancées de la reprise en main de l’Europe sont déjà
+visibles. La réduction de 50 % des quotas d’importation d’acier,
+assortie de droits de douane additionnels, devrait soutenir la sidé-
+rurgie européenne dès 2026 . Les discussions sur le report de la fin du
+moteur thermique allègeraient la pression sur l’industrie automobile.
+Les travaux sur le SIU1 pourraient devenir un catalyseur puissant pour
+l’écosystème financier européen.
+
+En Allemagne, le plan budgétaire de près de 1000 Mds€ dans la
+défense et les infrastructures constitue un changement de paradigme.
+Mais après des décennies de sous-investissement, les administrations
+sont sous-dimensionnées : les premiers effets viendront en 2026 pour
+la défense mais sans doute pas avant 2027 pour les infrastructures.
+
+En attendant, le plan de relance de l’offre pourra aussi compter sur
+le secteur privé : dans le mouvement « Made for Germany », 105
+sociétés ont annoncé 735 Mds€ d’investissement sur 3 ans profitant
+du « boost » fiscal annoncé par le gouvernement (amortissements
+accélérés déjà en place et baisse d ’impôts à partir de 2028).
+
+Il était donc logique que 2025 ne reflète pas encore ce renouveau. La
+performance des marchés actions zone euro de l’ordre de +20 % en
+2025 (après +30 % en cumulé sur 2023 et 2024) reposait avant tout
+sur le rerating . Celle de 2026 dépendra du redémarrage des profits.
+
+2026 : le temps de l’entrepreneur
+L a hausse des bénéfices , combinée à un retour aux ac tionnaires (divi-
+dendes et rachats d’actions) autour de 4/5 % devrait permettre aux
+marchés actions de poursuivre leur progression en 2026. Plusieurs
+moteurs nourriront le redressement des profits.
+
+Le moteur budgétaire (essentiellement allemand) ne sera pas selon
+nous le premier contributeur mais pourrait redevenir un catalyseur
+en cas de nouvelles réformes. Certains secteurs comme la défense,
+les services informatiques (qui bénéficient de budgets publics pour la
+digitalisation) ou l ’acier, devraient déjà profiter des mesures de soutien
+en 2026, mais l’essentiel des effets est attendu à partir de 2027.
+
+Le moteur macroéconomique sera plus déterminant en zone euro.
+Les surprises économiques sont positives, les PMI se rapprochent 1 Savings and Investments Union
+
+ 17
+
+## Page 18
+
+ACTIONS EUROPÉENNES
+
+de la zone d’expansion et les conditions financières s’assouplissent
+avec la transmission progressive des baisses de taux de la BCE . À ce
+titre, plusieurs marchés européens de la construction montrent déjà
+un début d ’inflexion.
+
+Après trois ans de stagnation des bénéfices, le consensus anticipe
++11 % de croissance des résultats en Europe et +14 % dans la zone
+euro. Même si l’ampleur de la hausse sera in fine sans doute plus
+modérée, ce scénario de croissance nous parait réaliste tant les
+leviers sont nombreux. Tous les secteurs devraient voir leurs profits
+progresser, ce qui est peu commun.
+
+Les secteurs liés à l’électrification (industrielles, utilities , services
+et ingénierie) conserveront leur dynamique portée par le besoin
+de modernisation des réseaux. La hausse des dépenses de défense
+profitera non seulement aux acteurs spécialisés mais aussi à leurs
+sous-traitants plus diversifiés (acier, moteurs, infrastructures).
+
+Plusieurs secteurs verront un rebond des volumes grâce à des bases
+de comparaison plus favorables et/ou à la fin du déstockage lié à la
+reprise post- Covid (santé, semi-conducteurs). L’effet de levier opéra-
+tionnel sera significatif, notamment dans l’industrie, la construction
+et les matériaux. Par ailleurs, l’impact négatif de la baisse du dollar et
+des droits de douane devrait progressivement s’atténuer et aider les
+valeurs exportatrices.
+
+Enfin, les profits du secteur financier resteront bien orientés dans un
+environnement de taux stabilisés et de volumes de crédit en hausse.
+
+Un tempo décalé à mettre à profit
+La zone euro bénéficie aujourd’hui d’un double soutien monétaire
+et budgétaire, mais l’implémentation progressive des plans crée un
+décalage temporel que les investisseurs doivent exploiter par une
+sélection rigoureuse. Sous la surface des indices, la dispersion est
+importante et il s’agira i/ d’identifier des valeurs aux perspectives
+solides et aux valorisations raisonnables (l’aéronautique dispose
+par exemple de carnets très longs, de chaînes d’approvisionnement
+en amélioration et ne prévoit pas de nouveaux programmes lourds
+d’investissements), ii/ de tirer parti des vagues d’accélération des
+volumes quand elles se présenteront dans les secteurs cycliques et
+iii/ de repérer les anomalies actuelles de valorisation.
+
+Nous identifions des excès flagrants de sous-valorisation sur les
+valeurs de qualité, délaissées au profit des valeurs value à fort
+beta. Leur valorisation relative au marché est désormais au plus bas
+depuis 15 ans et dépasse même le seuil des deux écarts-types sous
+la tendance historique (souvent un signal de retour à la moyenne).
+Parmi elles figurent des titres dans la santé ou bien dans les logi-
+ciels, les services informatiques ou les agences de publicité, souvent
+présentés de manière indiscriminée comme les perdants de l’IA.
+
+18
+
+## Page 19
+
+À mesure que leurs résultats confirmeront leur solidité, une revalori -
+sation est probable.
+
+Les Small Caps de la zone euro restent enfin un réservoir d’oppor -
+tunités majeur : leurs résultats progressent plus vite que ceux des
+grandes valeurs, leur décote relative atteint 15 % (contre une prime
+historique de 22 %) et elles sont les premières bénéficiaires d’une
+reprise domestique. Historiquement, les phases de redémarrage de
+l’économie européenne riment avec surperformance des Small Caps.
+Par ailleurs, la diversité sectorielle de cet univers d’acteurs de niche,
+permet de s’exposer à des thématiques domestiques et souveraines
+soutenues par des vents porteurs, ainsi qu’à des acteurs innovants à
+por tée internationale.
+
+Conclusion
+Après le temps des annonces puis celui de la lassitude, nous entrons
+dans le temps long de l ’exécution. Quel que soit son r ythme, la trajec-
+toire vers une reprise économique est déjà en marche et devrait se
+refléter dans les résultats des entreprises dès 2026 avant d’accélérer
+en 2027.
+
+Un scénario encore plus optimiste émergerait en cas de résolu-
+tion de la guerre en Ukraine (baisse des prix de l’énergie et de la
+prime de risque, plan de reconstruction). Toutefois, des incertitudes
+demeurent : échéances politiques (États-Unis, France...), dynamique
+chinoise, dollar, droits de douane et bien sûr poursuite du cycle IA
+aux États-Unis. Un éventuel retournement de ce dernier conduirait
+à une dépolarisation et un rééquilibrage des allocations globales
+qui jouerait aussi en faveur de l’Europe, dont les fondamentaux se
+renforcent et dont la valorisation relative reste attractive.
+
+En synthèse, l’Europe s’est mise en mouvement et il serait dommage
+de ne pas rester dans la danse avant que le tempo ne s’accélère.
+
+Points clés
+— Après le temps des annonces, puis celui du doute, nous sommes entrés dans le temps de
+ l’implémentation.
+— En 2026 les marchés seront portés par le retour à la croissance des résultats.
+— Des poches de sous valorisation comme sur les valeurs de qualité ou les Small Caps doivent être
+ exploitées.
+
+ 19
+
+## Page 20
+
+ACTIONS INTERNATIONALES
+
+2026, une année
+st r uc t u ra nt e p ou r le s ac t ion s ,
+« La fin du prolog ue »
+
+ Jacques-Aurélien Marcireau
+ Co-Responsable de la Gestion
+ Actions
+
+2025 restera dans les annales comme une année incroyable au sens
+littérale. L’action anti-immigration de l’administration Trump, l’érec-
+tion de barrières douanières sans précédent ou encore les progrès de
+Deepseek – « algorithme chinois » - n’ont pas eu les effets escomptés :
+Ni inflation , ni récession , ni décélération des dépenses d ’investissement
+en IA . Les marchés ont quant à eux surmonté les obstacles pour afficher
+de franches hausses, (presque) toutes géographies confondues.
+
+En parlant de géographie, 2026 promet d’être une année où de
+nouvelles tendances séculaires s'enclencheront, ce qui devrait
+permettre aux investisseurs de se positionner avec conviction pour
+la fin de la décennie.
+
+En effet, concernant les États-Unis, post mid-terms le rapport de
+force politique sera clarifié, l’impact des tarifs sera définitivement
+annualisé et quant à la thématique de l’IA , principale force motrice
+de la première puissance mondiale, elle aura donné suffisamment
+d’indications sur sa monétisation pour calibrer le niveau soutenable
+d’investissement de manière plus fine.
+
+En Europe, les effets du plan de relance allemand seront plus
+tangibles, tout comme la capacité du bloc à s’unir ou se disloquer
+face aux coups de boutoirs de la Chine et des États- Unis. Les attentes
+restent faibles, mais si l’Europe gagne en vélocité et en capacité à
+
+20
+
+## Page 21
+
+défendre son espace économique et ses intérêts, alors elle sera une
+grande gagnante non seulement politiquement, mais boursièrement.
+Récompense à la clé : un retour continu des flux d ’investissement sur
+la zone, qui à bien des égards pourrait être une nouvelle Florence, que
+ce soit pour les chercheurs, les entrepreneurs ou les investisseurs.
+
+Quant à la Chine, les intentions vis-à-vis de Taiwan auront gagné en
+clarté fin 2026, tout comme sa façon d’être au monde : lancera-t-
+elle une stratégie d ’isolement des États-Unis et de conciliation avec le
+reste du monde ou s’enfoncera-t- elle dans une confrontation (presque)
+seule contre tous. Une nouvelle fois, la destinée des marchés est entre
+les mains de son leader Xi Jinping, ce qui continue de conférer à la
+Chine un statut unique parmi les grandes zones d ’investissement. Son
+risque est d’une nature idiosyncratique et politique, car du côté de
+la qualité de l’entrepreneuriat chinois et de ses champions technolo-
+giques, il n’y a plus de débat depuis longtemps sur la scène mondiale.
+
+Les autres pays émergents, à l’exception peut-être de l’Inde qui
+dispose d ’une dynamique unique et attractive, sont dans une fonction
+de réaction aux blocs évoqués précédemment.
+
+Pour ces trois grandes zones, le résultat sera binaire : un contrepied
+à l’un de ces tournants se traduira dans la zone concernée par une
+contreperformance significative et durable. Plutôt que de prendre
+un risque difficile à contrôler, cela peut donner envie d’équipon-
+dérer ses investissements.
+
+Une autre solution peut simplement être de trouver une position d ’at-
+tente pour 2026 et au-delà sur laquelle on pourrait bénéficier d’un
+risk reward asymétrique. C’est dans ce contexte que des approches
+thématiques ou de spécialité prennent tout leur sens. Nous restons
+convaincus de l’asymétrie sur le secteur de la santé, ou encore sur
+la thématique de la résilience au niveau global. La seule constante
+est que le changement et la préparation de l’avenir seront des sujets
+structurants et des thématiques porteuses.
+
+Points clés
+— Malgré de nombreux obstacles, les marchés actions ont affiché de franches hausses en 2025
+ (presque) toutes géographies confondues.
+— Les États-Unis, l'Europe, et la Chine sont à des points de bascule stratégiques, chacun avec des enjeux
+ pouvant affecter leurs perspectives économiques et présenter des opportunités (ou des risques) pour
+ les investisseurs.
+— Plutôt que de prendre un risque difficile à contrôler, les investisseurs peuvent équipondérer leurs
+ investissements et se concentrer sur des thématiques porteuses comme la santé et la résilience, qui
+ offrent des opportunités de risk reward asymétrique.
+
+ 21
+
+## Page 22
+
+SOUVERAINETÉ EUROPÉENNE
+
+Défense européenne :
+un invest issement décor rélant
+
+ Anthony Penel
+ Gérant actions européennes
+
+Dans un marché européen dominé par des secteurs sensibles au cycle
+économique, la construction de portefeuille repose non seulement
+sur la recherche de performance, mais aussi sur la diversification. La
+corrélation entre actifs devient alors un paramètre clé pour mieux
+répartir le risque et préserver la stabilité du portefeuille dans des
+environnements macroéconomiques changeants.
+
+Selon la théorie moderne du portefeuille de Harr y Markowitz (Prix de
+la Banque de Suède 1990), la performance ne dépend pas seulement
+des rendements individuels, mais surtout de la corrélation entre les
+actifs . Ajouter des titres faiblement corrélés permet de réduire la vola-
+tilité globale grâce à la diversification des sources de risque. Même si
+un actif est plus volatil isolément, son comportement différencié lisse
+les variations du portefeuille et améliore le couple rendement-risque
+pour l ’investisseur.
+
+Depuis l ’invasion de l ’ Ukraine, le sec teur de la défense en Europe s ’est
+progressivement découplé du comportement global des marchés
+actions. Contrairement aux secteurs classiques du MSCI Europe,
+trib utaires des anticipations de croissance , des taux et de la consomma-
+tion, les valeurs de défense répondent à des moteurs propres : hausse
+des budgets militaires nationaux, réarmement stratégique, renou-
+vellement des capacités industrielles et commandes pluriannuelles
+étatiques. Ces dynamiques sont davantage liées à la géopolitique,
+aux alliances internationales et à l’évolution des doctrines de sécurité
+
+22
+
+## Page 23
+
+qu’aux cycles économiques traditionnels. De plus, la remise en cause
+du paradigme “dividende de la paix” a entraîné une revalorisation
+structurelle du secteur après plusieurs décennies d’atonie. Résultat :
+les fluctuations du secteur reflètent davantage les tensions géopoli -
+tiques et les annonces gouvernementales que les mouvements liés à
+la macroéconomie, et à la valorisation des marchés (discussions sur
+la bulle IA, choix de politique monétaire, …). Même la soutenabilité
+de certaines dettes souveraines européennes n’a, à ce stade, pas de
+prise sur la trajectoire des valeurs de défense.
+
+Sans surprise, depuis l’été 2025, de nombreux fonds de souveraineté
+européenne sont apparus, mettant souvent en œuvre les recomman -
+dations du rapport de Mario Draghi publié en Septembre 2024 (« The
+Future of European Competitiveness »), parmi lesquelles le renforce -
+ment de la capacité de défense de l’ UE.
+
+Nous pouvons tirer les premiers enseignements statistiques de ce
+thème désormais incontournable dans une gestion actions active.
+Nous utiliserons les données de l’indice Bloomberg Europe Defense
+Select Net Return (BSHIELDN Index), et les comparerons avec l ’indice
+général MSCI Europe Net Return (M7EU Index) ou ses composantes
+sectorielles GIC S de niveau 2, notamment le secteur des Biens d ’ Équi-
+pement (« Capital Goods ») auquel la plupart des valeurs de défense
+appartiennent.
+
+Sur 52 semaines, depuis novembre 2024, les volatilités montrent que
+la défense européenne se situe parmi les secteurs les plus volatils de
+l’indice, au même niveau que les secteurs les plus cycliques, comme
+l’automobile, et bien au- dessus des Capital Goods .
+
+Volatilité - hebdomadaire nov 24/nov 25
+
+ 30%
+
+ 25%
+
+ 20% 19%
+
+ 15% 14% 14%
+
+ 10%
+
+ 0
+
+ ense Energy Banks Retail Value
+ Def dware Transport. e InsuranceMSCI EUUtilities
+ Auto & parts ech Tech HarCap Goods Real Estate Telecoms Materials Growthobacco
+ Semiconductors Soft & ServicesPharma & BiotCom & Prof Serv. Healthcarers. Prod.
+ Durables & Apparels Diversiﬁed Financials Consumer ServicesFood & Staple RetailFood, Bev., THouse. & P
+ Media & Entertainment
+
+Source : Calculs d ’ Edmond de Rothschild AM (France), basés sur des données de Bloomberg à fin novembre 2025 .
+Les performances et la volatilité passées ne sont pas indicatives des performances et de la volatilité futures. Elles ne sont pas
+constantes dans le temps et peuvent être affectées indépendamment par les variations des taux de change.
+
+ 23
+
+## Page 24
+
+SOUVERAINETÉ EUROPÉENNE
+
+Si la volatilité tend à repousser l’investisseur, il doit pourtant
+considérer l’effet décorrélant d’un secteur dans son allocation :
+ainsi, un secteur volatil, mais peu corrélé, permettra de réduire la
+volatilité globale d’un portefeuille.
+
+Corrélation (ρ )* avec MSCI Europe - hebdomadaire nov 24/nov 25
+
+ 1 1,0 1,0
+ 0,9
+
+ 0,75
+
+ 0,5 0,5
+ *La corrélation (ρ) est la mesure
+ non paramétrique qui évalue dans
+ 0,25 quelle mesure la relation entre
+ deux variables peut être décrite
+ par une fonction monotone.
+ 0
+
+ Growth Value Banks Retail Energy ense Utilities
+ MaterialsCap Goods Transport.Healthcare Insurance of Serv.es Telecoms DefReal Estate
+ Auto & partses ech onductors
+ Tech Hardware Com & PrSoft & Servicels Semictaple Retailers. Prod.
+ Diversiﬁed Financials Consumer Servicertainment Pharma & BiotDurables & ApparFood, Bev., Tobacco Food & SHouse. & P
+ Media & Ent
+
+Source : Calculs d ’ Edmond de Rothschild AM (France), basés sur des données de Bloomberg à fin novembre 2025 .
+Les performances et la volatilité passées ne sont pas indicatives des performances et de la volatilité futures. Elles ne sont pas
+constantes dans le temps et peuvent être affectées indépendamment par les variations des taux de change.
+
+La défense s’affiche comme l'un des secteurs les moins corrélés, au
+même niveau que l’immobilier ou les télécoms, et le secteur le plus
+décorrélé parmi les secteurs industriels/volatils.
+
+Pour autant, les conditions de marché sont désormais très différentes ,
+et l’invasion russe en Ukraine, le 22 février 2022, a créé un environne-
+ment distinct de la période pré-guerre.
+
+En définissant plusieurs périodes d’observation, on remarque une
+évolution significative du comportement statistique de la défense :
+
+ Conflit
+
+ 1ère année
+ 5 années du Enlisement N ouvel Discussions
+ Pré-guerre conflit du conflit Admin. US Cessez-le-feu
+
+ 02 . 2017 02 . 2022 02 . 2023 06. 202502 . 2025
+
+24
+
+## Page 25
+
+La volatilité du secteur est à comparer à celle de l’indice général sur
+chaque période, et pour comparaison, établira également le rapport
+de volatilité entre les Capital Goods et l’indice général.
+
+Si la volatilité relative des biens d’équipement à l’indice général est
+toujours restée assez stable, on note que la défense a vu sa volatilité
+relative augmenter, sans pour autant « exploser ».
+
+L’analyse du coefficient de corrélation sur les mêmes périodes est
+bien plus intéressante :
+
+Corrélation (ρ ) avec MSCI Europe - hebdomadaire nov 24/nov 25
+
+ 0,93 0,93 0,93
+ 0,83 0,86
+ 0,81
+
+ 0,58 0,57
+
+  Corrélation Défense
+
+ 0,32  Corrélation Cap Goods
+ 0,28
+
+ Pré-guerre Année 1 Enlisement Nouvel Discussions
+ Conﬂit Conﬂit Admin. US Cessez-le-feu
+
+Source : Calculs d ’ Edmond de Rothschild AM (France), basés sur des données de Bloomberg à fin novembre 2025 .
+Les performances et la volatilité passées ne sont pas indicatives des performances et de la volatilité futures. Elles ne sont pas
+constantes dans le temps et peuvent être affectées indépendamment par les variations des taux de change.
+
+Les valeurs de défense, dans les années précédant la guerre en
+Ukraine, présentaient une bonne corrélation avec le MSCI Europe,
+proche de celle de leur indice d ’appartenance, les Capital Goods .
+
+Le déclenchement du conflit a totalement modifié le comportement
+sectoriel, l’amenant à des niveaux de décorrélation extrême (0,28,
+soit un R² de 8 %). Après une remontée du coefficient durant 2 ans,
+la période récente, dominée par les discussions autour d’un cessez-
+le-feu, montre une décorrélation à nouveau très forte de la défense
+avec l’indice général, au prix d ’une volatilité relative plus élevée.
+ R² : en statistique, le coefficient de
+En observant une liste de 7 fonds « souveraineté », investis en zone détermination linéaire de Pearson
+ est une mesure de la qualité de la
+euro, Union Européenne, ou Europe, depuis le lancement du plus prédiction d'une régression linéaire.
+
+ 25
+
+## Page 26
+
+SOUVERAINETÉ EUROPÉENNE
+
+récent d ’entre eux, le 1er août dernier, on peut analyser les coefficients
+de corrélation basés sur les valeurs liquidatives quotidiennes.
+
+La corrélation à l’indice MSCI Europe général est d ’autant plus faible,
+que la corrélation au thème défense (approximation du poids de la
+défense dans le fonds) est élevée.
+
+Bien entendu, la volatilité des fonds sera liée à ce poids de la défense,
+mais les niveaux résultants restent très acceptables, entre 10 % et 15 %
+de volatilité annualisée.
+
+Intégrer une poche Défense, dont les moteurs sont davantage
+géopolitiques qu ’économiques , peut permettre de réduire la corréla-
+tion du portefeuille avec le marché. Malgré une volatilité plus élevée,
+ce compartiment thématique renforce la stabilité globale, amortit les
+phases de stress et améliore le couple rendement-risque. Pour l ’inves-
+tisseur, cela constitue une source complémentaire de performance et
+de résilience dans la durée.
+
+Points clés
+— Depuis l'invasion de l'Ukraine, le secteur de la défense en Europe s'est découplé des mouvements
+ traditionnels des marchés actions, influencé par des facteurs géopolitiques plutôt que par des cycles
+ économiques classiques. Cette décorrélation en fait une option stratégique pour diversifier les
+ risques de portefeuille et amortir les fluctuations du marché.
+— Bien que le secteur de la défense soit parmi les plus volatils, sa faible corrélation avec les autres
+ secteurs permet de réduire la volatilité globale d'un portefeuille.
+— Intégrer des actifs de défense dans un por tefeuille pourrait contribuer à renforcer la stabilité globale,
+ amortir les phases de stress et améliorer le couple rendement-risque.
+
+26
+
+## Page 27
+
+Avertissement
+
+Communication publicitaire : Ceci est une communication marketing.
+Décembre 2025. Le présent support est émis par le groupe Edmond de Rothschild. Il n’a pas de valeur contractuelle, il est conçu
+exclusivement à des fins d ’information.
+Les informations sur les sociétés ne sauraient être assimilées à une opinion d’Edmond de Rothschild Asset Management (France)
+sur l’évolution prévisible desdites valeurs et, le cas échéant, sur l’évolution prévisible du prix des instruments financiers qu’elles
+émettent. Ces informations ne sont pas assimilables à des recommandations d ’acheter ou de vendre des actions de ces sociétés.
+Ce support ne peut être communiqué aux personnes situées dans les juridictions dans lesquelles il serait constitutif d’une recom-
+mandation, d’une offre de produits ou de services ou d’une sollicitation et dont la communication pourrait, de ce fait, contrevenir
+aux dispositions légales et réglementaires applicables. Ce suppor t n’a pas été revu ou approuvé par un régulateur d ’une quelconque
+juridiction.
+Les données chiffrées, commentaires, opinions et/ou analyses figurant dans ce support reflètent le sentiment du groupe Edmond
+de Rothschild quant à l’évolution des marchés compte tenu de son expertise, des analyses économiques et des informations en sa
+possession à la date d ’élaboration de ce support et sont susceptibles d ’évoluer à tout moment sans préavis. Ils peuvent ne plus être
+exacts ou per tinents au moment où il en est pris connaissance, notamment eu égard à la date d ’élaboration de ce suppor t ou encore
+en raison de l’évolution des marchés.
+Ce suppor t a vocation uniquement à fournir des informations générales et préliminaires aux personnes qui le consultent et ne saurait
+notamment servir de base à une quelconque décision d’investissement, de désinvestissement ou de conservation. En aucun cas, la
+responsabilité du groupe Edmond de Rothschild ne saurait être engagée par une décision d’investissement, de désinvestissement
+ou de conservation prise sur la base desdits commentaires et analyses.
+Le groupe Edmond de Rothschild recommande dès lors à chaque investisseur de se procurer les différents descriptifs réglemen-
+taires de chaque produit financier avant tout investissement, pour analyser les risques qui sont associés et forger sa propre opinion
+indépendamment du groupe Edmond de Rothschild. Il est recommandé d’obtenir des conseils indépendants de professionnels spé-
+cialisés avant de conclure une éventuelle transaction basée sur des informations mentionnées dans ce support cela afin de s’assurer
+notamment de l’adéquation de cet investissement à sa situation financière et fiscale.
+Les performances et les volatilités passées ne préjugent pas des performances et des volatilités futures et ne sont pas constantes
+dans le temps et peuvent être indépendamment affectées par l’évolution des taux de change.
+Source d’informations : à défaut d’indication contraire, les sources utilisées dans le présent support sont celles du groupe Edmond
+de Rothschild.
+Le présent support ainsi que son contenu ne peuvent être reproduits ni utilisés en tout ou partie sans l’autorisation du groupe Ed-
+mond de Rothschild.
+Copyright © groupe Edmond de Rothschild – Tous droits réservés.
+
+Edmond de Rothschild Asset Management (France)
+47, rue du Faubourg Saint-Honoré, 75401 Paris Cedex 08
+Société anonyme à Directoire et Conseil de Surveillance au capital de 11.033.769 euros - Numéro d’agrément AMF GP 04000015 -
+332.652. 536 R .C . S . Paris
+
+www.edmond-de-rothschild.com
+
+## Page 28
+
+www.edmond-de-rothschild.com

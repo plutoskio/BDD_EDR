@@ -1,0 +1,474 @@
+Source file: AllianzGI_Outlook_2026_EN.pdf
+Source path: outlooks/AllianzGI_Outlook_2026_EN.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:48.784902+00:00
+Page count: 11
+
+---
+
+## Page 1
+
+Navigate
+n ew p a t hwa y s
+
+Outlook 2026
+
+ ALLIANZGI.COM
+
+## Page 2
+
+Fo r ewo r d Content s
+
+ A s we enter a new year, an investment landscape is emerging that requires a MACRO VIE W
+ combination of vigilance and ambition. The US – long a crucial engine of global
+ grow th – faces institutional challenges and potentially stretched asset valuations. Trade war echoes
+ While AI-related stock s remain an essential par t of por t folios, investors should be
+ selec tive to mitigate the risk s of any fallout. In this environment, Europe, China and
+ India may offer broader, more diversified and at trac tively priced oppor tunities.
+ Diverging inflation trends – rising in the US but subdued elsewhere – and contrasting
+ monetar y policies underscore the impor tance of regional diversification, especially EQUIT Y STR ATEGY
+ for those seeking resilient income in a more volatile world. Emerging market
+ central bank s have greater polic y flexibilit y, which, combined with potential fur ther Strategic autonomy in ac tion
+ weakness in the US dollar, could suppor t emerging market debt.
+
+ Private markets are no longer merely “alternative” – they have become
+ foundational to long-term por t folio construc tion. Within this space, private credit
+ and infrastruc ture stand out as power ful drivers of long-term value creation, FIXED INCOME STR ATEGY
+ financing the real economy, bridging infrastruc ture gaps, and enabling struc tural
+ transformations such as deglobalisation, decarbonisation and digitalisation. Success Diversified and ac tive for resilience
+ will hinge on careful manager selec tion and disciplined under writing.
+
+ We think char ting a course through 2026 will require a variet y of tools across a
+ range of asset classes, public and private. We are pleased to share the insights of our
+ exper ts, who outline their key ideas and oppor tunities for 2026 – designed to help
+ guide you towards new pathways in a rapidly evolving investment landscape. MULTI ASSET STR ATEGY
+ A tale of t wo realities
+
+ Michael Edouard Jozan
+ Krautzberger Head of Private
+ CIO Public Markets M arket s PRIVATE MARKETS STR ATEGY
+ Zeroing in on opp or tunities
+
+2 3
+
+## Page 3
+
+OUTLOOK 2026 MACRO VIEW
+ Naviga te new Tr a d e w a r echoes
+ pathways
+
+ Geopolitical risk s remain elevated, par ticularly
+ around Russia and East A sia. Tentative de -
+ Christian Schulz escalation in the Middle East offers a rare bright
+ Chief Economist spot. The US and China continue to lead the
+ Ke y t a ke a w a y s AI revolution, with spillovers to other regions
+
+ accelerating from low bases.
+ • Global grow th is proving resilient, with the • Stagflationar y risk s and a potentially weaker
+ boom in AI helping to offset problems stemming dollar may prompt global investors to rethink Valuations in tech and pockets of under-regulated
+ from tariffs and trade wars. Yet valuations in high exposures to US assets. While it is finance warrant vigilance, but lower interest rates
+ US tech stock s are richly priced with ex treme premature to forecast the dollar ’s demise, and moderate private sec tor leverage reduce the
+ levels of concentration – careful selec tion will there is potential upside for fixed income risk of systemic financial instabilit y.
+ be critical. issued in Europe and A sia, as well as for gold. The global economy enters 2026 navigating
+ • A broadening of tech spend outside the US • Problems in US non-bank lending have shone the lingering af tershock s of the trade wars. US economy: bending not breaking
+ could sustain grow th and usher in a truly global a light on private credit. While recognising While tariff escalation has largely plateaued,
+ AI revolution. We believe European equities are that credit spreads are historically tight, we do additional sec tor-specific measures may The US economy is expec ted to remain resilient,
+ currently more at trac tively priced than many US not see systemic risk s and continue to forecast continue to disrupt supply chains. The result is though grow th will slow to around 1. 5 -2% , slightly
+ counterpar t s. strong grow th driven by higher interest rates fragmentation of trade and capital flows as below potential. The AI investment boom and a
+ • Though dynamics var y across regions, inflation and investor demand. a smaller supply of foreign goods and rising modest fiscal stimulus – likely front-loaded ahead
+ is generally under control in key markets. Most • Funding the energy transition and digital prices weigh on grow th in the US (supply shock), of the November 2026 mid-terms – will par tially
+ central bank s are normalising interest rates, infrastruc ture will create oppor tunities across while less US demand for impor ts leads to offset the drag from tariffs on real incomes and
+ with room for more accommodation. This benign asset classes, including for investors with the overcapacit y across much of the rest of the conventional business investment.
+ outlook remains suppor tive of carr y and could abilit y to hold long-term and illiquid assets. world (demand shock).
+ favour well- diversified por t folios. Inflation is forecast to remain stick y, averaging
+ Despite these headwinds, global GDP grow th is above 3% , with upside risk s stemming from tariffs.
+ expec ted to slow only moderately. We forecast The US Federal Reser ve (Fed), under political
+ grow th of around 2 .7%1 suppor ted by the ongoing scrutiny, is expec ted to continue cut ting rates in
+ AI- driven investment c ycle and proac tive polic y 2026, bringing the federal funds target range
+ responses in key regions. Inflation dynamics will to 3. 25 -3. 50% . The Fed’s reaction function has
+ diverge: US inflation is set to rise above 3% , while become more dovish – meaning it is more likely to
+ Europe and A sia will see more subdued price cut rates even in the face of above -target inflation
+ pressures, allowing for a lowering in interest rates – but its institutional independence may be tested
+ (see E xhibit 1, page 7 ). by legal challenges and political pressure.
+
+4 1) In purchasing power parit y-weighted terms 5
+
+## Page 4
+
+Exhibit 1: Inflation contrasts – US too high, Europe and China too low
+
+In our view, tail risk s are significant: But the improved macro stabilit y should pave
+ the way for Bank of England (BoE ) rate cuts to
+• Upside risks include AI break throughs 3% . The ECB and BoE are major central bank s
+ that could broaden the investment boom, not under the yoke of heav y political pressure,
+ raise produc tivit y, and allow rate cuts in strengthening the euro and sterling relative to
+ a goldilock s scenario where economic their peers.
+ conditions are “just right ”.
+• Downside risk s include labour market With no major elec tions scheduled in the region,
+ weakness spilling over to consumer Europe can press on with a decisive response
+ spending, foreshadowing a recession, with to geoeconomic challenges – Russia’s war in
+ stagflationar y dynamics amplified by tariff Ukraine and the fragmentation of global supply
+ af tershock s. chains due to tariffs, to name just t wo. However,
+• Key event risk s include Supreme Cour t political gridlock in France ahead of the 2027
+ rulings on Donald Trump’s at tempt to presidential elec tion casts a large shadow over Sources: Bloomberg, US Federal Reser ve Board (Fed), European Central Bank (ECB) and AllianzGI Economics & Strategy team (data as at 23
+ dismiss Fed Governor Lisa Cook (expec ted the continent ’s abilit y to ac t. Oc tober 2025). HICP = harmonised index of consumer prices. PCE = personal consumption expenditures. CPI = consumer price index.
+ in Januar y) and on reciprocal tariffs. The US
+ mid-term elec tions are another impor tant Grow th in Europe may prove stronger than
+ event to watch. To bolster political suppor t, expected if households star t spending rather
+ the administration may seek to cut taxes than saving. Other upside risk s include a
+ or boost spending (or both). This could be potentially bigger-than- anticipated lif t to grow th will encourage consumer spending, but high- A sia – shaping a landscape of asynchronous
+ accompanied by intensified at tack s on from government spending and produc tivit y tech manufac turing will still be prioritised as the monetar y polic y. The year ahead will test
+ democratic institutions, weighing on investor gains if the tech wave reaches European shores. key grow th driver. institutional resilience, polic y flexibilit y, and the
+ confidence. global economy ’s abilit y to adapt to a more
+ A sia: divergent dynamics Japan continues its path of orderly reflation, fragmented world.
+Europe: boring is beautiful whereby it seek s to bolster grow th through
+ In A sia, both grow th and inflation remain government stimulus. But headline inflation
+Europe is poised for a moderate c yclical under pressure. Conventional trade is facing is likely to ease towards 2% as temporar y
+recover y, with GDP grow th expec ted at headwinds from US tariffs, but the tech c ycle is fac tors fade. The Bank of Japan will likely face
+1-1. 5% in 2026. Rising real incomes and low suppor ting investment and intra-regional trade. political pressure not to raise interest rates too
+unemployment should suppor t consumer Inflation may rise modestly, but driven by base much to risk choking off the recover y. We think
+spending, offset ting industrial weakness linked effec ts only rather than by demand. one or t wo hikes may be sufficient. However,
+to global trade tensions. Abenomics-like fiscal expansion under Prime WHAT IS THE ONE THING
+ Many central bank s have already eased polic y, Minister Sanae Takaichi could add to medium-
+Inflation is projec ted to remain below 2% , and fur ther limited rate cuts are expec ted term price pressures. INVESTORS SHOULD LOOK
+enabling the European Central Bank (ECB) in the first half of 2026, including in China. OUT FOR IN 2026?
+to cut rates by 25 basis points to 1.75% in the Fur ther suppor t could come from targeted fiscal Resilience in a more fragmented
+first half of the year. Fiscal polic y will provide a stimulus. Rapid technological advances could spread
+modest boost, lif ting grow th by 0.4 - 0. 5% , led by world investment from the tech sec tor in the US and
+G e r m a n y. China’s grow th is likely to moderate under par ts of A sia to other industries and economies.
+ pressure from US tariffs and still-subdued Despite the disruptive legac y of trade wars, This boost, alongside monetar y and fiscal
+The UK faces a more challenging path. The domestic demand. Anti-involution policies – global grow th in 2026 should remain resilient, easing in many places, should help sustain the
+likelihood of higher taxes and lower spending designed to address excessive and damaging suppor ted by the AI revolution and proac tive global economy ’s resilience amid sustained
+– amounting to a fiscal consolidation of just up competition – may help alleviate deflation, but policy responses. Inflation will diverge – rising challenges to its key pillars, such as central bank
+to 1% of GDP – may depress grow th below 1% . overall price pressure is muted. The government in the US, while staying subdued in Europe and independence and liberal trade.
+
+6 7
+
+## Page 5
+
+EQUIT Y STR ATEGY Indian equities: diverse and liquid China: hope for stability
+
+ In A sia, India currently stands out as a market In China, the equit y outlook is being shaped
+Strategic autonomy with high potential due to multiple tailwinds. by a complex mix of head- and tailwinds. On
+ Alongside ex tremely favourable demographics, the one hand, we are seeing foreign capital
+ India’s digital infrastruc ture is burgeoning – the out flows as the future trade relationship
+ countr y accounted for 4 6% of global real-time with the US remains unclear, alongside some
+ digital payments in 20232 – and it is the world’s regulator y uncer taint y in tech and proper t y, as
+in ac t ion largest supplier of vaccines and generics, with well as demographic pressures from a rapidly
+ the US accounting for approximately a third of ageing population. However, the Chinese
+ its pharmaceutical expor ts.3 It is also per fec tly government is responding to these challenges
+ situated to continue to benefit from “China + 1” with targeted stimulus, including rate cuts,
+ currently offers a broader and more diversified strategies as global companies seek to diversif y government-backed purchases of exchange-
+ Michael set of investment oppor tunities. Alongside their supply chains and manufac turing bases. traded funds (E TFs), and suppor tive liquidit y
+ Heldmann this, we believe European equities are, across measures. With these initiatives, we will
+ CIO Equit y sec tors, currently more at trac tively priced than India’s equity market is highly diverse hopefully see a return of consumer confidence,
+ many US counterpar ts, giving them appeal in and liquid, sharing many traits with more unlocking high household savings and greater
+ terms of both value and grow th. developed economies. With over 20 0 stock s stabilit y in the economy.
+ exceeding market caps of USD 5 billion,
+With Europe undergoing notable transformation While US equities have rebounded significantly valuations are al so low compared to global China’s equit y market remains deep and
+as it seek s to reasser t itself in the wake of since the sharp declines in the wake of benchmark s. Consensus estimates for GDP and attractively priced, as well as under- owned
+geopolitical shif ts, its equit y market is once “Liberation Day ”, underlying economic data earnings-per-share grow th place India ahead by foreign investors, presenting contrarian
+again positioning itself as a key par t of the suggests a more fragile economic environment. of other emerging markets, reflec ting its strong oppor tunities for long-term capital flows.
+global landscape. In its quest for increased Indeed, with inflation likely to rise due to the fundamental s, polic y stabilit y and vibrant The countr y ’s innovation power, par ticularly
+strategic autonomy, the region is embracing continued effec ts of elevated tariffs, alongside entrepreneurial scene. Despite some potential in the AI field, remains underappreciated,
+a more expansive fiscal polic y, and significant a subdued grow th forecast, the US faces bumps in the road due to ongoing tensions while the potential for large pension reforms
+spending initiatives – especially in Germany – stagflationar y risk s going into 2026. And while with the US, we thus expec t India to remain an and significant strategic alliances away from
+are ac ting as a stimulus that is not just about the US Federal Reser ve is expec ted to continue attrac tive destination for ac tive management the US also contribute to the countr y ’s current
+defence and militar y hardware, but also cutting rates, concerns around political for some time to come. Recent setback s due appeal to investors. While per formance
+revitalising the continent ’s industrial base, pressure on monetar y polic y decisions still have to US tariffs are also contributing to at trac tive has been volatile – and fur ther news- driven
+infrastruc ture, and capacit y for innovation. the potential to undermine market confidence. entr y point s. volatilit y is to be expec ted – local Chinese
+Alongside fiscal developments, monetar y polic y
+also continues to be suppor tive. With inflation In terms of valuations, we currently view 2) Source: The Hindu, 4 March 2024
+under control, we are expec ting dovish stances US equities as richly priced. Combined 3) Source: Reuters, 4 September 2025
+from both the Bank of England and European with near record levels of concentration, a
+Central Bank to continue, fur ther suppor ting selec tive investment approach is required,
+valuations and positive sentiment. focusing on companies that justif y their
+ premium while reducing exposure to those
+Europe favoured over US that lack fundamental suppor t. While the
+ US cer tainly retains long-term strengths – in
+Looking at market struc ture, we currently see par ticular in AI, a space that still offers ample
+a more favourable situation in Europe than the oppor tunities for investors while also still
+US, primarily due to lower concentration risks. dominating stock market related news flow –
+Unlike the US, where relatively few mega- cap its current equit y landscape demands caution
+stock s dominate the main indices, Europe and selec tivit y.
+
+8 9
+
+## Page 6
+
+equities have per formed well in 2025, and the the US facing valuation and polic y headwinds, FIXED INCOME STRATEGY
+
+long-term trajec tor y remains positive, especially Europe, China and India offer diversified,
+for investors focused on innovation, domestic resilient, and for ward-looking investment
+consumption and strategic sec tors (see E xhibit 2). oppor tunities. Diver si fied and ac t ive
+
+Three regions offer compelling
+framework
+ WHAT IS THE ONE THING for re silien ce
+Taking a comparative outlook, Europe offers
+a struc tural revaluation oppor tunit y, driven INVESTORS SHOULD LOOK
+by fiscal expansion, defence spending and OUT FOR IN 2026?
+suppor tive monetar y polic y; India represents
+a long-term grow th engine, combining The complexities of the Chinese market should
+demographics, digital expansion and fur ther not detrac t from the long-term oppor tunities Nonetheless, volatilit y is likely to rise amid tight
+integration into global supply chains; and China presented by this energetic, dynamic and valuations. We think institutional resilience and
+represents a long-term oppor tunit y, with deep innovation-led economy. Deep and at trac tively Jenny Zeng polic y flexibilit y will continue to be tested – as
+ CIO Fixed Income
+market potential, leadership in innovation and priced equit y markets, alongside significant will the global economy ’s abilit y to adapt to a
+polic y suppor t. Together, these three regions polic y suppor t, mean the countr y remains a more fragmented world. This calls for vigilance,
+form a compelling equit y allocation framework compelling par t of any for ward-looking equit y not indulgence, qualit y over imbalances, ac tive
+for navigating the shif ting global order. With allocation framework. over passive, and liquid over illiquid.
+
+ Global grow th in 2026 should remain resilient, Polic y suppor t counters grow th
+ underpinned by largely pro - grow th polic y pressure
+ set tings in the major economies. Central
+Exhibit 2: Chinese equities have per formed strongly since mid-2024 bank s in developed markets are likely to Grow th remains under pressure, but targeted
+(USD, rebased to 10 0) have normalised polic y rates towards neutral fiscal and monetar y polic y and investments
+
+ level s, following the aggressive tightening in technology provide suppor t. Developed
+ c ycle of prior years. Fiscal polic y continues to economies are expec ted to grow close to their
+ lean towards an accommodative stance, with trend pace, while emerging markets maintain
+ governments prioritising infrastruc ture and a clear grow th premium, led by India and par ts
+ strategic investment to counter lingering trade of South East A sia. This divergence creates
+ and geopolitical uncer tainties. We think inflation oppor tunities for selec tive duration and credit
+ will continue to be asynchronous – likely to rise positioning across regions.
+ in the US, remain moderate in the euro area, and
+ be subdued in A sia and major emerging market In monetar y polic y, we also see divergence,
+ countries. especially bet ween developed and emerging
+ markets.
+ This grow th and inflation combination
+ underpins an overall benign environment for • Developed markets: Polic y rates are
+ fixed income. We expec t some divergence in expec ted to fall fur ther, with the US Federal
+ grow th and inflation dynamics, as well as polic y Reser ve cut ting towards 3% and the European
+ trajec tories, which will create oppor tunities Central Bank below 2% . We think the Bank of
+Source: L SEG Datastream, Wind, Allianz Global Investors, as at 31 July 2025 for selec tive duration and credit positioning in England may cut more than currently priced
+ ac tive por tfolios. against a ver y tight fiscal stance. In Japan,
+
+10 11
+
+## Page 7
+
+Meanwhile, investors should also consider
+ diversif ying por t folios using different
+ instruments. For example, we see a good case to
+ selec tively add floating rate notes, high- qualit y
+ securitised credits and conver tible bonds as
+ diversifiers to multi-sec tor, income - generating
+ por t folios. A s corporate credit spreads compress,
+ securitised credits remain relatively more
+ at trac tive on a duration and rating- adjusted
+ basis. In general, we believe a truly globalised,
+ diversified and high- qualit y por t folio with ac tive
+ meanwhile, pressure to normalise polic y At this point, we believe the systemic risk is • Ac tive management is critical. Tight spreads duration management is strongly positioned to
+ continues to grow given heightened inflation small. Bank s’ exposure to these kinds of sec tors and asymmetric risk s demand rigorous credit generate income with resilience in today ’s macro
+ risk s. – in terms of total loans and capital – seems selec tion and dynamic allocation. b a c kdro p.
+• Emerging markets: Despite the disinflation manageable and across the banking system • Diversification across regions. Developed
+ momentum slowing, several central bank s we see broadly solid fundamentals. In general, markets duration offers resilience, while
+ retain room for more easing, given positive real public credit remains in good shape. While emerging market debt can provide yield
+ rates. A number of countries, including Brazil, fundamentals are moderating from high levels, enhancement and diversification.
+ Mexico, India and South Africa, are positioned and dispersion is rising across sec tors, leverage • Liquidit y and risk controls. We think it ’s
+ for incremental cuts, which should suppor t the is lower than in prior c ycles, interest coverage impor tant to maintain flexibilit y and liquidit y
+ per formance of local currenc y debt. is healthier and the high-yield index qualit y to navigate potential dislocations from polic y WHAT IS THE ONE THING
+ has improved as weaker issuers are taken out surprises or geopolitical shock s.
+ (par tially by private markets). INVESTORS SHOULD LOOK
+Tight credit spreads call for Looking ahead into 2026, our key insight is OUT FOR IN 2026?
+vigilance Nonetheless, valuations leave lit tle cushion that the environment offers a suppor tive yet
+ against macro shock s. This is an environment nuanced backdrop for fixed income investors. We continue to monitor credit event
+In credit, spreads remain historically tight, that calls for vigilance, but we think it is too early While global polic y remains accommodative developments in major credit markets, both
+reflec ting resilient fundamental s and strong to give up on carr y. and grow th expec tations tilt in a positive in public and private markets, par ticularly in
+technicals amid increasing investor demand. direc tion, tight valuations and emerging credit the US. That said, at this point, while it is highly
+However, we see crack s emerging given late - Ac tive, diversified, risk- controlled stresses underscore the need for vigilance, likely we will see increasing signs of stress,
+c ycle dynamics, and these warrant caution. diversification, selec tivit y and ac tive risk any broader shakeout in the system seems
+There are signs of stress in sectors that are In this complex environment, we believe there management. likely to be contained thank s to bank s’ solid
+highly interest-rate sensitive, with lower- are several tangible takeaways for fixed income fundamentals, which allow them to absorb hits.
+qualit y issuers that are more aggressive, inves tor s . A s far as diversification goes, we continue to We need to watch whether such blowups will
+more stretched and (potentially) fraudulent see emerging markets and A sia as excellent make lenders more cautious, which may then
+star ting to fail . mid- to long-term investment destinations given lead to tightening overall credit conditions in the
+ struc turally improving macro fundamental s. system.
+
+12 13
+
+## Page 8
+
+MULTI ASSET STR ATEGY
+A tale of t wo re ali t ie s
+
+ remain subdued, but technology and AI continue
+ to be power ful engines of expansion. However,
+ Gregor MA Hir t the question is how long this momentum can be
+ CIO Multi A sset
+ sustained.
+
+ Especially in an environment like this, an agile
+ approach can be an effective way to negotiate
+ the uncer tainty. That means drawing on the
+ strengths of a well-diversified investment
+A s we look ahead to 2026, the global investment mix and placing greater emphasis on active pic ture becomes more nuanced. We do not Strategically, we remain a touch more cautious
+landscape continues to be shaped by a complex portfolio management. foresee a “Minsk y moment ” driven by financial on US equities due to market concentration, high
+interplay of geopolitical tensions, economic overleverage – a key difference from 20 08. Still, valuations and underestimated stagflation risk s
+readjustments and technological disruption. The Monetar y polic y is already ac ting as a tailwind there is a growing risk of a correc tion if earnings – par ticularly in the lat ter half of 2026. Europe
+year promises to be one of contrasts – where for global liquidit y. We anticipate fur ther rate were to disappoint. present s a more favourable outlook. Earnings
+optimism and caution coexist, and where cuts from both the US Federal Reser ve (Fed) and momentum is improving, and Germany ’s fiscal
+markets may dance bet ween resilience and the European Central Bank (ECB), par ticularly in A s markets begin to recognise that valuations suppor t should provide a meaningful boost.
+recalibration. the first quar ter. In Europe, inflation data could of AI and related technologies may already However, France is likely to remain in a holding
+ surprise to the downside, prompting an even reflec t their true earnings potential , pat tern until the 2027 presidential elec tions –
+The geopolitical environment remains fraught more dovish stance from the ECB. Meanwhile, a normalisation phase could follow. a source of uncer taint y to watch closely in the
+with uncer taint y. But markets have grown fiscal polic y in the US is expec ted to be most coming quar ters.
+accustomed to the rhy thm of confrontation and impac t ful in the early par t of the year, though its To prepare for any potential swings in stock
+compromise – par ticularly in the ongoing tango long-term effectiveness remains less clear. prices, we will continue to take a robust Emerging market debt set to benefit
+bet ween President Donald Trump and his global approach to stock selec tion and overall AI
+counterpar ts. The balance of power, especially Correction risks amid US stock market exposure – built on the combined strength of In fixed income, we favour euro zone bonds –
+in trade and strategic resources like rare ear ths, our fundamental and quantitative analysis. especially German Bunds – where inflation is
+has shif ted. China, having this time anticipated strength under control and fiscal stimulus is set to expand
+and prepared for renewed tensions, has forced We maintain a construc tive view on emerging market breadth. Our top pick remains emerging
+a reassessment of US polic y, leading to a more US equit y valuations remain elevated, but markets as a complex. Despite significant market debt, which benefits from a weaker
+balanced global dynamic. strong earnings grow th, especially in the tech differences bet ween countries, the asset class dollar, growing domestic demand, and relatively
+ sec tor, provides a rationale for continued market remains under- owned, at trac tively valued, and disciplined fiscal and monetar y policies
+Surprising resilience – for now strength. Impor tantly, investor positioning is not suppor ted by a weaker dollar. China continues compared to developed markets.
+ yet overstretched, suggesting room for fur ther to stimulate its economy and favour the AI/tech
+But despite the tax burdens and protec tionist upside. We expec t many market par ticipants segment, adding to the appeal of the world’s We continue to like investment grade credits and
+policies of the Trump administration, the global to take advantage of shor t-term pullback s to second-biggest economy. crossovers (bonds rated bet ween investment
+economy has shown surprising resilience. re - enter the market, par ticularly over the nex t grade and high yield), but see limited potential
+Traditional industrial grow th metrics in the US three to six months. Looking fur ther ahead, the in fur ther spread tightening, so it becomes
+
+14 15
+
+## Page 9
+
+pret t y much a carr y stor y. High yield spreads are Elevated single -securit y volatilit y PRIVATE MARKETS STR ATEGY
+
+expensively priced in our view, though absolute
+yield may remain at trac tive for retail clients. But Volatilit y remains a central theme in our
+we stay neutral and, as multi asset investors, prefer investment strategy – we consider it as a Zeroing in on
+equities, which are easier to exit in times of crisis. separate asset class. Indeed, the past t wo
+ years have seen below- average index volatilit y
+Oppor tunity to reconsider US dollar punc tuated by sharp spikes during market
+ correc tions. This environment has allowed us
+exposure in por t folios to stay invested in equities even af ter phases opp or t unit ie s
+ of strong upside swings, while tac tically taking
+Currenc y markets are set to play a pivotal role profits during periods of disruption. However,
+again in 2026. We expec t renewed weakness beneath the sur face, single -securit y volatilit y
+in the US dollar – though likely on a more is elevated, and low correlations bet ween profits and improve por t folios. In the current
+moderate trajec tor y than in 2025 – driven by securities are masking broader risk s. This fragile environment, secondaries trading of existing
+inflation differentials favouring Europe and dynamic could ac t as a catalyst for a more Marta Perez investment fund shares and continuation
+political pressure on the Fed. This environment sustained correc tion if market breadth narrows CIO Infrastructure vehicles (that ex tend the holding period
+calls for a reassessment of large US dollar or macro shock s emerge. of assets) are evolving from emergenc y
+exposures in por t folios. In equities, investors liquidit y tools into core por t folio management
+rarely hedge their dollar positions, even though instruments.
+US -listed stock s t ypically represent more than
+70% of major indices. Similarly, bond allocations Investors increasingly use secondaries to
+of ten lean heavily towards US issuers, with Sebastian Schroff rebalance vintages, manage concentration
+ CIO Private Credit &
+some indices exhibiting significant dollar Private Equit y risk, and gain access to seasoned por t folios.
+concentration. For general par tners (GPs), continuation funds
+ allow ex tended ownership of key assets and
+We think a more measured level of US give liquidit y to early investors. The secondaries
+exposure may be warranted, complemented market now plays a crucial role in adding
+by the benefits offered by other currencies and flexibilit y to private markets. Private equit y
+regional bonds. The Japanese yen, for instance, A s we move into 2026, private markets continue remains the most scalable and established par t
+could fur ther consolidate its safe -haven WHAT IS THE ONE THING to drive long-term por tfolio per formance. Global of the secondaries market. Looking ahead to
+status – suppor ted by political stabilit y and the alternative assets are expec ted to reach USD 2026, secondaries, especially in private debt
+Bank of Japan’s shif t in response to higher core INVESTORS SHOULD LOOK 30 trillion by 2029, up from USD 18 trillion in and infrastruc ture, present strong investment
+inflation – especially if confidence in the dollar OUT FOR IN 2026? 2024, making private markets a mainstream potential .
+erodes fur ther. par t of diversified por t folios.4 The nex t phase
+ The dollar ’s correlation with US equities of the development of private markets will 2 . Diversification across strategies and regions
+Gold remains a key diversification tool for us, has shif ted. In past correc tions, it t ypically be shaped by slower exits, evolving liquidit y Allocators are expanding beyond traditional
+though it may have reached near-term peak moved opposite to stock s, ac ting as a hedge. dynamics, broader investor par ticipation and buyout strategies to include infrastruc ture,
+levels. We continue to hold positions but are However, since Donald Trump’s second term, new investment oppor tunities. private credit, trade finance and real assets.
+also exploring alternatives such as silver and that relationship has weakened, reducing its Each of these asset classes is expec ted to
+gold miners. The latter remain attrac tively reliabilit y during market downturns. If the trend We see five key trends driving markets in 2026: grow at a high single - digit pace through the
+priced relative to the rise in the yellow metal and continues into 2026, some investors – especially decade. Geographical diversification is also
+benefit from lower interest rates, which ease the the more risk-based ones – may begin to reduce 1 . Secondaries mature into a core allocation accelerating as A sia captures a larger share of
+burden of their capital-intensive operations. US exposure. With limited options available to exit markets inflows, suppor ted by stronger local markets
+ and a lagging in the payment of returns, and maturing regulation. At trac tive investment
+ investors are looking for other ways to realise oppor tunities are emerging in A sian private
+
+16 4) Source: AllianzGI, Preqin (Private Markets in 2030 | Preqin) 17
+
+## Page 10
+
+credit as traditional lenders withdraw and Infrastruc ture: energy and digital of digitalisation – drives significant elec tricit y LPs increasingly seek lower fees and greater
+
+demand for tailored non- dilutive capital rises. trends demand, reinforcing the need for clean, resilient control over their investment decisions.
+ energy sources. Co -investments enable LPs to invest direc tly,
+Specialist funds in sec tors such as climate Infrastruc ture remains a cornerstone of institutional offering enhanced transparenc y, influence
+technology, energy transition and digital por tfolios, providing long-term contrac ted Private credit: at trac tive yields and and potential for higher returns – of ten with
+infrastruc ture are gaining trac tion as investors cashflows, inflation protec tion, low correlation minimal fees and bet ter IRR than traditional
+seek targeted exper tise and differentiated return to traditional asset classes and strong polic y diligent under writing fund investments. In the current challenging
+drivers . suppor t globally. Europe, in par ticular, is set to environment, GPs offering co -investments can
+ capture a leading share of global grow th as Global private credit is projec ted to more build stronger LP relationships and position
+3. Managing volatility takes disciplined governments mobilise public and private capital than double to USD 4. 5 trillion in assets under themselves for market recover y.
+under writing to advance decarbonisation, energy securit y and management by 2030, up from USD 2.1 trillion
+In uncer tain markets, stric t under writing competitiveness. in 2024, driven by higher interest rates, investor We expec t a progressive rebound in exits in the
+and thorough due diligence are essential demand and capital market shif ts.5 Nor th coming years, which will allow private equit y
+to mitigate risk and capture oppor tunities. In 2026, t wo themes dominate: America is expec ted to remain dominant while fundraising to restar t. This could be suppor ted
+Outper formance depends on rigorous analysis, Europe and A sia continue to expand their by fur ther retail investor demand through
+transparenc y, disciplined under writing • Energy transition. Huge demand for capital private credit markets. evergreen or semi-liquid funds.
+and alignment with long-term objec tives to fund projec ts may create more investment
+– principles that should guide allocation oppor tunities for private investors to step Despite macro headwinds, direc t lending
+decisions and remain core to our strategies. in. Strong polic y suppor t in Europe, and remains compelling thank s to at trac tive yields
+ environmental, social and governance (ESG) and the critical role of disciplined under writing.
+4. Private wealth participation accelerates targets in the private sec tor, continue to drive We expec t its grow th to continue as private
+We see an acceleration in par ticipation by the energy transition. Energy infrastruc ture credit fur ther replaces bank s in financing
+individual investors as the asset class becomes assets usually have long-term, inflation- companies.
+more accessible thank s to semi-liquid fund indexed contrac t s, making them appealing in
+struc tures and regulations like the European today ’s market. Additionally, energy transition A s investors diversify beyond direct lending,
+Long-Term Investment Fund (ELTIF ) 2.0 in infrastruc ture has lit tle correlation with we see increasing interest in infrastructure
+Europe. By the end of the decade, individuals traditional assets, helping bring diversification debt, liquidit y solutions such as credit
+may account for a quar ter of private markets to por t folios. secondaries and trade finance, offering
+assets under management. This shif t brings • Digital infrastructure. Data centres, fibre differentiated returns and low correlation.
+managers more long-term capital and new net work s and 5G connec tivit y form the WHAT IS THE ONE THING
+demands for liquidit y, repor ting and produc t backbone of Europe’s digital sovereignt y, Impac t investing and blended finance – which
+innovation. suppor ted by national and EU funding mobilise capital for underser ved projec ts and INVESTORS SHOULD LOOK
+ initiatives, as well as the digitalisation ensure measurable, transparent and lasting OUT FOR IN 2026?
+5. Macroeconomic and geopolitical megatrend, including the push to provide societal and environmental outcomes –
+realignment reliable, fast ser vices in the cloud. We continue remain in focus for many investors. A s we enter 2026, private markets are no longer
+Reshoring, energy security and the to see oppor tunities, both within equit y and niche – they are foundational. From secondaries
+regionalisation of produc tion are shif ting debt, going into 2026. Private equity: rebound in exits? offering flexible por t folio management to the
+capital flows. By 2030, infrastruc ture and real rise of private wealth par ticipation and regional
+asset strategies could double in size as private Energy transition and digital infrastruc ture are The slowdown in mergers and acquisitions diversification, 2026 mark s a turning point.
+capital finances the energy transition, digital increasingly inter t wined. The rise of decentralised and initial public offerings has reduced exit Private credit and infrastruc ture stand out as
+independence and logistics. Private markets renewable energy systems depends on smar t oppor tunities and distributions to limited par tners power ful drivers of long-term value. These asset
+are increasingly suppor ting companies as they grids and real-time data management, while the (LPs), shif ting the focus to secondaries and classes are not just diversif ying por t folios –
+grow – as traditional bank lending declines. rapid expansion of data centres – key enablers continuation funds to address liquidit y issues. they ’re financing the future.
+
+18 5) Ibid. 19
+
+## Page 11
+
+Investing involves risk. The value of an investment and the income from it may fall as well as rise and investors might not get back the full
+amount invested.
+
+Past performance does not predict future returns. If the currency in which the past performance is displayed differs from the currency of the
+countr y in which the investor resides, then the investor should be aware that due to the exchange rate fluc tuations the per formance shown
+may be higher or lower if conver ted into the investor ’s local currenc y.
+
+This is for information only and not to be construed as a solicitation or an invitation to make an offer to buy or sell any securities. The views
+and opinions expressed herein, which are subjec t to change without notice, are those of the issuer or its affiliated companies at the time of
+publication. The data used is derived from various sources and assumed to be accurate and reliable at the time of publication. but it has not
+been independently verified; its accurac y or completeness is not guaranteed and no liabilit y is assumed for any direc t or consequential losses
+arising from its use, unless caused by gross negligence or willful misconduct. The duplication, publication, extraction or transmission of the
+contents, irrespec tive of the form, is not permitted, except for the case of explicit permission by Allianz Global Investors.
+
+This material has not been reviewed by any regulator y authorities.
+
+This document is being distributed by the following Allianz Global Investors companies: In Australia, this material is presented by Allianz Global
+Investors A sia Pacific Limited (“AllianzGI AP ” ) and is intended for the use of investment consultants and other institutional/professional investors only,
+and is not direc ted to the public or individual retail investors. AllianzGI AP is not licensed to provide financial ser vices to retail clients in Australia.
+AllianzGI AP is exempt from the requirement to hold an Australian Foreign Financial Ser vice License under the Corporations Ac t 20 01 (Cth) pursuant
+to A SIC Class Order (CO 03/1103) with respec t to the provision of financial ser vices to wholesale clients only. AllianzGI AP is licensed and regulated
+by Hong Kong Securities and Futures Commission under Hong Kong laws, which differ from Australian laws; in the European Union, by Allianz
+Global Investors GmbH, an investment company in Germany, authorized by the German Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)
+and is authorized and regulated in South Africa by the Financial Sec tor Conduc t Authorit y; in the UK , by Allianz Global Investors (UK ) Ltd. company
+number 11516839, authorised and regulated by the Financial Conduc t Authorit y (FC A); in Switzerland, by Allianz Global Investors (Schweiz) AG,
+authorised by the Swiss financial markets regulator (FINMA); in HK , by Allianz Global Investors A sia Pacific Ltd., licensed by the Hong Kong Securities
+and Futures Commission; in Singapore, by Allianz Global Investors Singapore Ltd., regulated by the Monetar y Authorit y of Singapore [Company
+Registration No. 199907169Z]; in Japan, by Allianz Global Investors Japan Co., Ltd., registered in Japan as a Financial Instruments Business Operator
+[Registered No. The Director of Kanto Local Finance Bureau (Financial Instruments Business Operator), No. 424], Member of Japan Investment
+Advisers A ssociation, the Investment Trust A ssociation, Japan and Type II Financial Instruments Firms A ssociation; In mainland China, it is for
+Qualified Domestic Institutional Investors scheme pursuant to applicable rules and regulations and is for information purpose only. in Taiwan, by
+Allianz Global Investors Taiwan Ltd., licensed by Financial Super visor y Commission in Taiwan; and in Indonesia, by PT. Allianz Global Investors A sset
+Management Indonesia licensed by Indonesia Financial Ser vices Authority (OJK ).
+
+November 2025 DG - C A

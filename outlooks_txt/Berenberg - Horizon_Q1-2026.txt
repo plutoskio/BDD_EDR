@@ -1,0 +1,828 @@
+Source file: Berenberg - Horizon_Q1-2026.pdf
+Source path: outlooks/Berenberg - Horizon_Q1-2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:53.746655+00:00
+Page count: 16
+
+---
+
+## Page 1
+
+Horizon
+
+ The Berenberg Capital Market Outlook
+ Wealth and Asset Management
+
+Less upside potential in 2026
+Global economic growth is likely to be roughly on par
+with last year’s level. Capital markets remain supported
+by fiscal and monetary policy. However, high valuations
+and (geo)political risks suggest less upside potential
+than in 2025.
+
+Diversification more sensible than ever
+While the US is likely to lose some momentum, low
+positioning outside the US and regional growth drivers,
+such as the fiscal package in this country, argue in
+favour of a broad, balanced positioning to exploit
+all diversification advantages.
+
+Real assets structurally supported
+Fiscal dominance, financial repression and rising
+budget deficits will continue to favour of a focus
+on real assets in 2026. In addition, the dollar is
+likely to continue to depreciate, albeit less than
+this year. Q1 2026
+
+## Page 2
+
+Foreword
+
+ expect share prices to follow a similar pattern to the historical
+ trend – a strong start to the year, fluctuations from
+ spring/summer onwards and a recovery towards the end of
+ the year. Structural factors such as fiscal dominance, financial
+ Dejan Djukic repression and budget def icits support real assets such as
+ Head of Portfolio Management gold and equities against the dollar and government bonds. As
+ long as there is no threat of tightening by the Fed and no re-
+Dear readers, cession, we remain optimistic on equities – despite high valu-
+ ations and likely setbacks. A bond crisis scenario remains pos-
+2026 is likely to be a year of solid growth, with the global econ- sible in the long term, but is unlikely for 2026, so the stock
+omy maintaining roughly the same pace as in 2025 and capital market bull run is likely to continue with solid gains.
+markets continuing to benefit from monetary policy and fiscal
+support. At the same time, (geo)political risks are likely to In the Insights interview on p14, Susette Mantzel, Head of Pri-
+remain elevated and volatility spikes are likely to recur. We vate Markets Solutions, discusses Berenberg ’s private market
+therefore recommend a cautious but not overly pessimistic investments in more detail. We hope you enjoy reading this is-
+positioning. The European economy is likely to receive a slight sue and wish you a happy end to the year surrounded by your
+boost from higher investment in defence and infrastructure, loved ones.
+while the US econ omy is losing some momentum. Asian mar-
+
+kets are expected to prove resilient overall, supported in part
+by Beijing's new five-year plan focusing on AI, high tech and
+productivity.
+
+Massive investments in data centres and energy infrastructure
+will ensure that artificial intelligence remains a key growth
+driver in 2026. In the run-up to the US-midterm elections , US- Contents
+politics will focus on curbing tariff -driven inflation, for example
+through selective easing of trade agreements. With a new Fed
+chair from May and a tendency towards pro -cyclical stimulus Multi-asset strategy Page 3
+measures, the environment for risk assets is improving. Mar- Monetary policy and inflation decisive for 2026
+kets can thus detach themselves more strongly from the major
+macro issues of 2025 and refocus on sector - and company- Economics Page 6
+specific stories that are likely to drive returns over the next 12 Europe robust, US benefiting from AI boom
+months. If the Fed's policy becomes more expansionary in the Equities Page 8
+long term, market breadth is likely to increase again. This Less upside potential than in previous years
+should benefit sectors and small caps that have suffered from
+the rise in interest rates in recent years. Bonds Page 10
+ Outlook remains bright to cloudy
+The independence of central banks remains an important
+anchor, but has recently become less politically uncontrover- Commodities Page 12
+sial than in the past. As long as inflation expectations and thus Real assets likely to remain in demand
+US interest rates remain anchored and no political interfer- Currencies Page 13
+ence massively damages the credibility of monetary policy, the Central banks drive exchange rates
+liquidity environment can support valuation levels in the mar-
+kets. Berenberg Insights Page 14
+ Interview with Susette Mantzel
+2026 is shaping up to be a positive year for capital markets,
+with a more moderate upside potential for equities and gold Publishing information Page 16
+
+compared to 2025. The US midterm elections in November are
+likely to cause uncertainty in the run-up to the vote, so we can
+
+2 Horizon Q1 2026
+
+## Page 3
+
+Multi-asset strategy
+Monetary policy and inflation are decisive for 2026
+
+ In a nutshell our portfolios thanks to a broad diversification. At the turn of
+ ▪ The global economy is likely to grow at a similar pace in 2026 the year, we are maintaining our overweight position in equi-
+ as in 2025, but regional dynamics will shift. Europe will catch ties, without any major regional preferences. We are optimistic
+ up somewhat thanks to fiscal investment programmes. thanks to favourable corporate outlooks, low investor posi-
+ ▪ Monetary policy, inflation and the US midterm elections will tioning and support from share buyba ck programmes. If the
+ be the focus of attention next year. However, macroeco- outlook remains unch anged, we believe that a setback would
+ nomic uncertainty is likely to ease somewhat and markets even present a buying opportunity. However, we are very vig-
+ are likely to be driven more idiosyncratically than in 2025. ilant with regard to economic and valuation risks.
+ ▪ We continue to favour equities and precious metals, sup-
+ ported by solid nominal corporate earnings and financial Our view that, in an environment of exploding government
+ repression. Without tighter monetary policy from the Fed- debt and structurally higher inflation, real assets should be
+ eral Reserve or a recession, investors should not under- preferred over nominal government bonds is clearly reflected
+ weight equities. in the portfolio. Accordingly, our largest overweight position
+ remains in precious metals. Bonds, especially government
+ bonds, are underweighted. In bonds, we prefer covered
+Portfolio positioning at a glance bonds, high-yield bonds and niche segments such as local cur-
+Thanks to our constructive view on equities and precious met- rency bonds from frontier markets or catastrophe bonds.
+als, our multi-asset portfolios performed very well in the fourth
+quarter. The minor sell-off in November had little impact on
+
+ Q1 2026 Horizon 3
+
+## Page 4
+
+Multi-asset strategy
+
+Review of the fourth quarter – healthy correction We believe further easing of some trade agreements and
+The fourth quarter was characterised by greater volatility. measures to cap food prices are possible. Ultimately, the
+After gold and other precious metals had staged a phenomenal development of US inflation in the new year is likely to have a
+rally from September to mid-October, there was a significant major impact on the outcome of the elections – and Donald
+profit-taking phase. Gold fell by almost 10% from its all-time Trump has some ground to make up in this area. His approval
+high, but then recovered significantly and is now up more than ratings have plummeted this year, particularly on the issue of
+40% in euro terms YTD. Global equity markets declined subse- inflation (middle figure, p5). Higher tariffs, looser fiscal policy
+quently from mid-November onwards due to growing concerns and more restrictive immigration rules are likely to fuel infla-
+about tech valuations and the temporary pricing out of Fed in- tion, even if the net economic effect is less clear. Deregulation
+terest rate cuts. They then recovered once it became clear that and AI productivity gains are likely to counteract this. In addi-
+the Fed would most likely cut interest rates in December after tion, Trump is likely to do everything he can to keep energy
+all. All three equity regions gained more than 3% in the fourth prices low. So far, inflation expectations have remained
+quarter. Overall, the fourth quarter was positive for our struc- anchored thanks to the credibility that central banks have built
+tural overweight positions, equities and gold, but was charac- up over decades. However, the independence of monetary
+terised by increased volatility. Bonds, on the other hand, re- policy can no longer be taken for granted – in a world where
+mained flat. even politicians in major industrialised countries such as the US
+ are increasingly taking unorthodox positions.
+Economic outlook – slight regional shifts
+The global economy is expected to grow at a similar rate in 2026 is likely to be more micro-driven
+2026 as in 2025, but regional dynamics will shift (upper figure, US monetary policy under a new Fed chair from May onwards
+p5). The US economy is likely to lose some momentum due to and pro-cyclical stimulus measures should create a favourable
+a weakening labour market and declining domestic demand. environment for capital markets: markets can turn away from
+Europe is likely to experience a slight recovery thanks to in- global macro issues in 2025 and instead focus on sector-spe-
+vestments in defence and infrastructure. China and Asia are cific idiosyncrasies that are likely to drive returns over the next
+likely to remain resilient overall, supported by China's 15th 12 months. In contrast to 2025, when trade conflicts and polit-
+Five-Year Plan, to be announced in spring 2026, which will fo- ical uncertainty dominated events, especially in the first half of
+cus on AI, high tech and productivity. Artificial intelligence the year, markets are likely to follow their own rules more
+remains a global growth driver thanks to massive capital closely in 2026.
+investments in data centres and energy infrastructure. In the
+run-up to the midterm elections in November, the White
+House is likely to focus on curbing tariff-related inflation.
+
+YTD winners continued to gain ground in Q4: Precious metals and equities ahead, oil behind, US dollar recovered somewhat
+
+Total return YTD and in Q4 25 (in %, in EUR) 12-month periods of the last five years (in %, in EUR) CAGR* Std. Dev.*
+ YTD (31/12/24–08/12/25) 08/12/24 08/12/23 08/12/22 08/12/21 08/12/20 08/12/20 08/12/20
+ Q4 25 (30/09/25–08/12/25) 08/12/25 08/12/24 08/12/23 08/12/22 08/12/21 08/12/25 08/12/25
+
+Gold 44.5 33.7 10.0 7.8 1.7 18.4 13.7
+DAX 18.0 21.6 17.5 -9.1 18.1 12.6 16.4
+MSCI EM 16.3 18.3 1.2 -13.5 7.9 5.4 15.3
+Stoxx Europe 50 12.0 11.6 11.1 3.5 23.7 12.2 13.2
+S&P 500 3.2 36.7 15.8 -7.8 37.5 15.7 16.9
+EUR Corporates 2.1 7.3 3.3 -12.1 -0.7 -0.2 3.5
+Euro Overnight Deposit 2.3 3.8 3.1 -0.2 -0.6 1.7 0.1
+EUR Sovereigns 1.1 4.8 0.9 -9.4 -1.2 -0.9 3.6
+EM Sovereigns -0.1 13.9 3.4 -9.0 6.6 2.7 7.6
+US Sovereigns -5.8 1.5 -2.5 -4.4 4.3 -0.3 7.0
+USDEUR -9.2 1.9 -1.9 7.4 6.7 0.8 7.5
+Brent -9.0 7.3 7.4 39.6 82.3 21.7 32.2
+
+Time period: 08/12/2020–08/12/2025.
+Source: Bloomberg * CAGR = annualised return (in %, in EUR); Std. dev. = Annualised standard deviation (in %, in EUR).
+
+4 Horizon Q1 2026
+
+## Page 5
+
+We expect market breadth to pick up again next year if the Hardly any impetus from growth changes for the markets
+Fed continues to ease monetary policy. This would give many The consensus growth expectations (%) of economists have been fairly
+sectors that have been weak in recent years due to high inter- stable recently; growth in 2026 is expected to be at a similar level to 2025.
+est rates the potential to catch up, especially small caps.
+
+Equities and gold preferred, but with less potential in 2026
+We expect 2026 to be a positive year for capital markets, al-
+beit with more moderate upside potential for equities and gold
+than this year. Volatility is likely to increase, not least
+because of the US midterm elections in November, which his-
+torically caused some market turmoil. In fact, the last two mid-
+term election years, 2018 and 2022, were anything but positive
+for equity investors (lower figure, p5). Nevertheless, several
+factors favour risky assets: fiscal dominance,
+financial repression and high budget deficits should continue Time period: 30/06/2025–28/11/2025
+to support real and scarce assets over the US dollar and gov- Source: Bloomberg, own calculations
+ernment bonds. The dollar should continue to weaken in the Trump has to deliver on inflation
+medium term, but at a much more moderate pace than this Net approval by political issue (%)
+year. As long as no financial crisis with sharply rising bond
+yields forces a fiscal correction in the US or parts of Europe –
+a long-term risk that we do not expect in the short term – the
+bull market in equities and precious metals is likely to continue
+in 2026. As we have argued in the past: Without tighter mon-
+etary policy from the Federal Reserve or a recession, investors
+should not underweight equities. Without one of these scenar-
+ios, it still makes sense to hold equities at least neutral to the
+benchmark. Although setbacks are more likely after the strong
+recovery since April and in view of high valuations, President
+Trump is likely to act in a supportive manner for the economy
+and markets in view of the midterm elections. We would there-
+fore be sceptical of overly pessimistic positions on risk assets.
+Historically, equities perform well in midterm election years As of: 17/11/2025
+ Source: The Economist
+until March/April. After that, volatility increases, and it is only
+after the elections that the market picks up again. We can im- Upward potential likely to be limited next year
+agine this pattern repeating itself in 2026. US mid-term election years tend to be associated with lower stock mar-
+ ket returns; total return per calendar year since 2000
+For government bonds, we expect the interplay between
+growth concerns and inflation fears to keep bond yields within
+a certain range, as was the case this year. An M&A renaissance
+and increased credit-financed AI investments are also likely to
+lead to further IG spreads and greater heterogeneity in cor-
+porate bonds.
+ Ulrich Urbahn, Head of Multi Asset Strategy & Research
+
+ Time period: 01/01/2000–31/12/2024
+
+ Source: Bloomberg, own calculations
+
+ Q1 2026 Horizon 5
+
+## Page 6
+
+Europe remains robust, US benefits from AI boom
+
+ In a nutshell provide further tailwinds in 2026. Meanwhile, the greatest
+ threat to the eurozone comes from political instability and high
+ ▪ Following a robust third quarter, the eurozone is debt levels in France.
+ expected to continue growing steadily in the coming
+ year. Germany's economic power continues to
+ ▪ Fiscal stimulus will boost the German economy in 2026, stagnate at the same level as before
+ but further reforms are necessary. the pandemic.
+ ▪ Trump’s policies are weighing on the economy, so the
+ current AI boom is coming at just the right time for the Germany: Reforms must accompany the fiscal package
+ president. The German economy did not grow in the third quarter.
+ Exports had a negative impact, declining compared with the
+Uneven growth in the eurozone previous quarter. Capital expenditure, on the other hand,
+Despite Trump’s tariff chaos and the Chinese export glut, the increased, possibly indicating the first effects of additional
+eurozone economy grew by 0.3% in the third quarter com- government spending, particularly in the defence sector.
+pared to the previous quarter. Growth was particularly strong The mood in the German economy is currently mixed. In the
+in Spain, at 0.6%. While the former problem children of the service sector, companies assess the situation as signifi-
+eurozone continue to grow robustly, it is now the large econ- cantly better than in the manufacturing sector. Here, high
+omies of Western Europe that are bringing up the rear in terms energy prices, the shortage of skilled workers, increasing
+of growth. Economic output in Spain and Greece is now 10% Chinese competition and ongoing uncertainties in global
+higher than before the coronavirus pandemic. In France, the trade continue to weigh on sentiment. German companies'
+figure is only 6%. Germany continues to stagnate at pre-pan- assessment of the current situation has hardly improved
+demic levels. recently. Expectations for the next six months, on the other
+Overall, however, the eurozone economy surprised slightly on hand, have risen significantly. This optimism is mainly due
+the upside in the third quarter and could even gain momentum to the relaxation of the debt brake and the associated sig-
+next year. Supportive factors include the fact that the labour nificant expansion of government spending. However, the
+market in the eurozone remains stable despite subdued government must continue to push ahead with reforms so
+growth, uncertainty in the trade dispute with the US has eased, that the additional spending does not just lead to a flash in
+and the European Central Bank’s (ECB) interest rate cuts are the pan, but increases Germany’s potential growth. In this
+increasingly having an impact on the real economy. In addition, context, it is worrying that the coalition is shifting at least
+rising fiscal spending, particularly in Germany, is expected to some of the investments from the core budget to special
+
+Eurozone: The south-north divide Germany: Waiting for fiscal stimulus
+Post-pandemic recovery: Germany brings up the rear Ifo Business Climate Index: Expectations support the overall index
+
+Real GDP. Q4 2019 = 100. Quarterly data. Period: 01/2017–12/2027. Index (2015 = 100); expectations: for the next six months; seasonally adjusted. Monthly data.
+Sources: Eurostat, Berenberg Period: 01/2017–11/2025, source: Ifo
+
+6 Horizon Q1 2026
+
+## Page 7
+
+| Economics | Equities | Bonds | Commodities | Currencies | Insights
+
+funds in order to close financing gaps. From an economic Fed with little room for interest rate cuts, ECB in twilight mode
+perspective, however, expanding debt only makes sense if the The negative effects of Trump’s economic policy have so far
+additional funds are channelled into additional investments to been most noticeable in the labour market. The unemploy-
+increase potential growth. Some minor reforms by the govern- ment rate rose to 4.4% in September. This presents the Fed-
+ment, such as the investment booster, the construction turbo eral Reserve (Fed) with a difficult situation: on the one hand,
+and the planned reduction in electricity tax are a step in the the cooling labour market calls for interest rate cuts to support
+right direction. However, the rest of the pension package is the economy, while on the other hand, US tariffs and Trump ’s
+currently not only causing frictions within the coalition, but restrictive migration policy are causing inflation to rise, which
+also incomprehension among economists. Pensions must be would actually require a strict monetary policy. In addition,
+put on a sustainable footing through radical reforms, and the although the budget deadlock in the US ended on 12 Novem-
+rise in non-wage labour costs must be limited. This would not ber after 43 days, the economic data for October will be pub-
+only improve intergenerational justice, but also strengthen lished late or not at all due to the shutdown. This comes at an
+Germany as a business location. unfortunate time, as the Fed is currently particularly depend-
+ ent on an accurate picture of the situation in order to fine-
+AI boom in the US comes at the right time for Trump tune its monetary policy. The labour market currently seems
+Supported by the boom in artificial intelligence, the US econ- to be causing the Fed more concern than inflation. However,
+omy continues to show its robust side. The major US tech com- the ongoing price pressure leaves little room for interest rate
+panies are expected to invest around 1% of gross domestic cuts. We expect the Fed’s target range to be lowered to 3.25-
+product this year. A significant portion of this will go into arti- 3.5% by summer 2026.
+ficial intelligence. This economic boost is very welcomed by
+President Trump. As he continues his determined restructur- In contrast to its US counterpart, the ECB is in a much more
+ing of the country, his policies are increasingly having a nega- comfortable position. The inflation rate has been close to the
+tive impact on the economy. Tariff and migration policies are 2% target for some time, while the eurozone economy is show-
+slowing labour growth and driving inflation. The US govern- ing its robust side and is expected to gain further momentum
+ment's increasing undermining of institutions will also erode in 2026. Thus, there is currently no reason for the ECB to lower
+the attractiveness of the US as a business location over time. its key interest rate further. The next interest rate move could
+In the medium term, we therefore expect trend growth to fall even be an increase. However, it is likely to take until mid-2027
+to 1.5%. before rising inflation prompts the ECB to slowly raise its policy
+ rate back towards 3%.
+ Dr. Felix Schmidt, Senior Economist
+
+Growth and inflation forecasts
+
+ GDP Growth (in %) Inflation (in %)
+
+ 2025 2026 2027 2025 2026 2027
+
+ Ø** Ø** Ø** Ø** Ø** Ø**
+
+USA 2.0 2.0 1.8 2.0 1.5 2.0 2.8 2.8 3.0 2.9 2.5 2.5
+Eurozone 1.4 1.4 1.2 1.1 1.5 1.4 2.1 2.1 2.0 1.8 2.2 2.0
+ Germany 0.3 0.3 0.8 1.0 1.3 1.5 2.3 2.2 2.1 2.0 2.2 2.0
+ France 0.8 0.8 0.8 1.0 1.1 1.2 1.0 1.0 1.4 1.4 2.1 1.8
+ Italy 0.6 0.5 0.7 0.7 0.9 0.9 1.7 1.7 1.8 1.4 2.1 1.8
+ Spain 2.8 2.9 2.2 2.1 2.4 1.8 2.7 2.6 2.3 2.0 2.4 2.0
+UK 1.4 1.4 0.8 1.1 1.6 1.4 3.4 3.4 2.4 2.5 2.0 2.1
+Japan 1.2 1.3 0.6 0.7 1.0 0.8 3.2 3.1 2.1 1.9 1.9 2.0
+China 4.9 4.9 4.3 4.5 4.1 4.3 0.0 0.0 0.9 0.8 1.4 1.0
+World* 2.5 - 2.4 - 2.3 - - - - - - -
+
+* Berenberg data at actual exchange rates, not purchasing power parities (PPPs). PPPs lend more weight to the fast-growing emerging-market countries.
+** Average, Bloomberg consensus as of 11/12/2025.
+
+ Q1 2026 Horizon 7
+
+## Page 8
+
+Less upside potential for equities than in previous years
+
+ In a nutshell US equities are likely to continue their rally in 2026
+ Analysts have once again significantly raised their earnings
+ ▪ Global benchmarks posted further gains after a vola- expectations for US equities over the past 3 months. The mar-
+ tile fourth quarter. The DAX underperformed other ket now forecasts an earnings growth rate of 14% for S&P 500
+ stock indices. companies in 2026, following already 12% in 2025. You can’t
+ ▪ Earnings forecasts for US equities were revised really blame equity analysts for this. At least on paper, there is
+ upwards again. The market seems to be forecasting no reason to believe that the earnings growth frenzy in US
+ another strong year for US stocks in 2026. stocks will take a breather next year. The combination of lower
+ ▪ We expect the equity bull market to continue next interest rates, a Trump administration that is likely to pull out
+ year. Nevertheless, elevated valuations and US macro all the policy stops to ensure a good result in the upcoming
+ risks suggest that the equity rally could very well be midterm elections, as well as solid US profit margins that could
+ weaker and more volatile than in previous years. expand further thanks to AI -driven savings paint a positive
+ picture for US equities in 2026 .
+German stocks trail their peers in the fourth quarter
+Despite several setbacks, global equity benchmarks posted But already high expectations limit the upside potential
+further gains in the fourth quarter. However, German stocks However, the market backdrop for US equities is not quite as
+underperformed other indices. A stronger euro, softer eco- upbeat as it may seem. Very expensive US valuations and
+nomic data and, above all, a significant correction among de- structurally higher equity positioning from individual investors
+fence companies weighed on the performance of the DAX. suggest that at least some of the positive drivers mentioned
+Nevertheless, pan-European stock indices rose by almost 4% above are already in the price. A more sluggish US economy or
+in this quarter, also because defensive sectors such as fewer interest rate cuts by the Fed, as our economists expect,
+healthcare gained some ground. Concerns about excessive could ultimately cause the rally in US equities to be weaker
+valuations in the technology sector, combined with somewhat than the very bullish market consensus currently seems to ex-
+more hawkish expectations regarding the Federal Reserve pect. There is also the risk of a second Deepseek moment –
+(Fed), led to a short-lived market correction in US stocks in i.e. the emergence of even more high -quality AI competition
+November. For euro investors, this was somewhat cushioned in China. Given these risks, it’s more important than ever for us
+by an appreciation of the dollar. Emerging market equities to maintain broad regional and sector diversification in the
+proved to be a good portfolio diversifier and generated solid coming year.
+returns over the last three months .
+
+Although the DAX has been lagging peers, in a common currency European equities have still outpaced US equities in 2025
+
+Total return YTD and in Q4 25 (in %, in EUR) 12-month periods of the last 5 years (in %, in EUR) P/B* Div.* P/E*
+ YTD (31/12/24–08/12/25) 08/12/24 08/12/23 08/12/22 08/12/21 08/12/20 08/12/20 08/12/20 08/12/20
+ Q4 25 (30/09/25–08/12/25) 08/12/25 08/12/24 08/12/23 08/12/22 08/12/21
+MSCI EM Latin America 28.9 -13.8 19.6 17.9 1.1 1.8 5.2 10.6
+Stoxx Europe Cyclicals 25.0 20.6 16.6 -10.2 25.8
+DAX 18.0 21.6 17.5 -9.1 18.1 1.9 2.5 15.6
+Euro Stoxx 50 17.8 12.8 18.3 -5.0 22.4 2.3 2.8 15.9
+MSCI EM Asia 15.7 22.4 -0.7 -14.5 5.5 2.2 1.9 14.2
+MSCI UK 14.2 17.9 5.4 7.4 23.5 2.2 3.3 13.1
+Stoxx Europe 50 12.0 11.6 11.1 3.5 23.7 2.8 3.1 15.5
+Stoxx Europe Small 200 10.5 11.1 6.6 -21.2 25.1 1.5 3.4 13.7
+MSCI Japan 10.4 18.2 13.2 -11.8 14.3 1.7 2.1 16.6
+Stoxx Europe Defensives 7.6 9.5 7.4 4.9 18.6
+S&P 500 3.2 36.7 15.8 -7.8 37.5 5.3 1.2 22.3
+MSCI USA Small Caps -5.4 31.3 4.6 -8.9 31.1 1.8 1.8 18.9
+
+Time period: 08/12/2020–08/12/2025.
+Source: Bloomberg * PBV = Price/book value ratio; Div. = Dividend yield (%); PER = Price/earnings ratio. Values based on estimates for the next 12 months.
+
+8 Horizon Q1 2026
+
+## Page 9
+
+| Economics | Equities | Bonds | Commodities | Currencies | Insights
+
+High US valuations make diversification more attractive What is on companies’ minds?
+Indeed, European and EM equities are valued much more fa-
+vourably than their US counterparts and also in comparison to S igns of recovery
+their own history. Earnings revisions, which have recently con- The economy and AI continue to dominate our discus-
+tinued to rise for US equities, were also significantly weaker in sions with companies. There are now positive signs from
+Europe. Such lower expectations, combined with regional industry, but also from the healthcare sector. The global
+growth drivers such as the economic stimulus package being software sector is struggling with continued outflows as
+rolled out in Germany, the peace negotiations in Ukraine, Bei- investors gradually increase their exposure to semicon-
+jing's new five-year plan, and the increasingly dominant role ductor stocks in order to benefit from the AI boom.
+that Asian economies are playing in the ‘AI boom’ make both Media companies have also continued to lose ground
+EM and European stock markets interesting as regional diver- despite stable quarterly results, as fears of disruption
+sifiers in 2026 as well. On a sector level, pharmaceutical and from automated agents remain high. This contrasts with
+commodity stocks are likely to play a much greater role in positive developments in the healthcare sector, particu-
+2026 than in previous years. Both segments have more attrac- larly in biotech. However, sentiment in the pharmaceuti-
+tive valuations and lower positioning levels compared to the cal sector has also gradually improved in recent months.
+overall market. At the same time, they could offer investors a Companies have been able to conclude initial deals on
+degree of diversification should the market consensus proves drug prices with the US government, thereby averting
+to be wrong and rising inflation momentum prompt central worst-case scenarios. At the same time, industrial de-
+banks to adopt a less expansionary monetary policy. mand in the US has shown initial positive trends. Accord-
+ ingly, companies are reporting that orders have bot-
+Although 2026 is likely to be another positive year for equities, tomed out, while the topic of reindustrialisation in the US
+the already very high market expectations are limiting the up- is gaining slight momentum. Financial stocks have re-
+side potential for the coming year. We therefore expect the cently maintained their strength. The latest reports of a
+equity bull market to continue in 2026, but to be less pro- possible peace in Ukraine have also given a b oost to Eu-
+nounced than in previous years. In the long term, high valua- ropean infrastructure companies , especially cement pro-
+tions are likely to weigh on the return potential of US equities . ducers, which would benefit from reconstruction efforts .
+ Fabian Birli, Analyst Multi Asset Strategy & Research Peter Kraus, Head of Portfolio Management Equities
+
+Valuations limit upside potential in the long term Forecast summary: Rally continuous , but weaker than before
+One-year and five-year forward returns of the S&P 500 ( y-axis) when Berenberg and consensus forecasts compared , figures for mid and end
+the S&P 500 has reached a certain P/E ratio (Shiller CAPE) ( x-axis) of 2026
+
+ 08/12/2025 30/06/2026 31/12/2026 In 12 months
+
+ Index forecasts Currently Ø*
+ S&P 500 6,847 7,250 7,400 7,901
+ DAX 24,046 25,500 26,000 28,360
+ Euro Stoxx 50 5,726 5,900 6,100 6,388
+ MSCI UK 2,750 2,950 3,000 3,075
+
+ Index potential (in %)
+ S&P 500 - 5.9 8.1 15.1
+ DAX - 6.0 8.1 17.9
+ Euro Stoxx 50 - 3.0 6.5 11.6
+ MSCI UK - 7.3 9.1 11.8
+
+Time period: 01/01/1989–30/11/2025. * Average, consensus bottom-up as of 08/12/2025.
+Source: Bloomberg, Berenberg Source: Bloomberg, FactSet, Berenberg.
+
+ Q1 2026 Horizon 9
+
+## Page 10
+
+Bonds: Outlook remains bright to cloudy
+
+ In a nutshell steepen further, because unlike at the short end, the economic
+ recovery and public debt will c ause yields on ten-year German
+ ▪ Safe government bonds only promise significant nominal government bonds to rise moderately (fig. below right ). We
+ returns in the UK. Still, from a euro perspective , this asset expect yields on US Treasuries to rise somewhat more sharply.
+ class remains unattractive. As a result, neither German nor American government bonds
+ ▪ Corrections in European corporate bonds could offer en- are likely to generate attractive returns. Moving from main-
+ try opportunities , particularly in the high-yield segment. land Europe to the British Isles, the picture is different. The
+ Bank of England is likely to lower its policy rates. Despite
+New year with some familiar themes slightly rising capital market yields, UK gilts offer the prospect
+At the political level, familiar issues remain virulent. For exam- of an attractive nominal return due to the relatively high level
+ple, rising government debt on both sides of the Atlantic, tar- of current interest rates (fig. below left). However, risk s around
+iff-related inflation risks in the US and the end of Fed Chair the exchange rate and inflation must both be taken into ac-
+Powell’s term of office in May will continue to be topics of dis- count. For euro investors, safe government bonds therefore
+cussion on the government bond markets in 2026. The corpo- remain unattractive across the board and are at best suitable
+rate bond segment, on the other hand, is facing the question as a hedging instrument for temporary market upsets.
+of where opportunities can be found despite low credit
+spreads following a strong performance. We are therefore at Corporate bonds: cautiously optimistic
+the beginning of a challenging year for bonds – where do we Both in the last quarter and for 2025 as a whole, corporate
+see opportunities in this demanding environment? bonds in the investment-grade and high-yield segments once
+ again held their own. However, risk premiums rose slightly in
+Safe government bonds: steeper curves in the eurozone and US the wake of the recent stock market correction. At the same
+After the Fed followed up its September 2025 interest rate cut time, the market had to absorb a high volume of new issues,
+with another two 25bps, we now anticipate only one more in- but this did not prove to be a burden as invest ment funds in
+terest rate cut in 2026 in view of an expected US inflation rate the credit segment continued to record inflows. This trend is
+of just under 3%. In the eurozone the ECB should also see no likely to continue in the future, as returns on fixed -term
+need for an interest rate cut in the coming months. Although deposits are now unattractiv e following the ECB ’s interest rate
+prices in this region are not rising faster than the ECB ’s target, cuts and investors are increasingly looking for higher -yielding
+positive economic surprises and an economic recovery sup- alternatives. Many are focusing on absolute returns, while risk
+ported by German fiscal spent suggest that there is no urgent premiums (“credit spreads”) remain unattractive and call for
+need for monetary support. Rather , the yield curve is likely to caution.
+
+Safe government bonds: ripe for the island? Forecasts: base interest rates and government bond yields (in %)
+Performance of 10-year government bonds, total effect of price/yield Berenberg and consensus forecasts compared , figures for mid and end
+changes, coupon income and roll -down effect of 2026
+
+ 11/12/2025 30/06/2026 31/12/2026
+
+ USA Currently Ø* Ø*
+ Base interest rate 3.50-3.75 3.25-3.50 3.43 3.25-3.50 3.25
+ 10Y US yield 4.15 4.30 4.04 4.60 4.06
+ Eurozone
+
+ Base interest rate** 2.00 2.00 1.95 2.00 1.97
+ 10Y Bund yield 2.87 2.90 2.83 3.00 2.93
+ UK
+
+ Base interest rate 4.00 3.25 3.43 3.00 3.31
+ 10Y Gilt yield 4.50 4.20 4.43 4.00 4.34
+
+Time period: 10/12/2020–10/12/2025, returns in local currency * Average, consensus as of 11/12/2025. **Deposit rate
+Source: Bloomberg, own calculations, ICE BofA Government Bond Indices (7–10 years, TR) Source: Bloomberg.
+
+10 Horizon Q1 2026
+
+## Page 11
+
+| Economics | Equities | Bonds | Commodities | Currencies | Insights
+
+On the other hand, several factors point to structurally lower Overall, we are therefore cautiously positive about the corpo-
+credit spreads for euro high-yield bonds, including a higher rate bond markets for 2026. This is particularly true relative to
+proportion of secured bonds and a historically low government bonds, whose credit quality could come under
+interest rate risk (fig. below left). In the investment-grade seg- further structural pressure due to rising public debt, weak
+ment, AI was the dominant theme. The three AA-rated issuers trend growth and a lack of political will to reform. In the credit
+Meta, Google and Amazon alone raised more than USD100bn segment, on the other hand, we view temporary corrections as
+through bonds and private placements in the course of the opportunities to selectively increase risk exposure.
+year. The maturities of up to 40 years were critically ques-
+tioned in relation to technological life cycles. However, inves- Conclusion: Moderate confidence beyond government bonds
+tors reacted calmly to the increase in debt due to the issuers’ Despite unattractive risk premiums, corporate bonds offer
+good credit ratings, with the result that the bonds last issued interesting returns, and the high-yield segment has also seen
+in November were in high demand. Given the continuing high structural improvements in terms of collateralisation and
+level of investment demand, AI-related financing activities on interest rate sensitivity. Here, we see selective opportunities
+the bond market are likely to remain at a high level in 2026. similar to those offered by financial bonds. More cautious
+We remain positive about financial bonds. The ECB has investors may also want to consider covered bonds, which
+recently emphasised that banks should prepare for financial offer a number of advantages over government bonds. The
+shocks, with geopolitical tensions, changing trade policies and latter should prove their resilience in turbulent market phases,
+climate and natural crises playing a particularly important role but beyond that, they remain unattractive when inflation and
+as challenges. In this respect, a stress test planned for the exchange rate risks are taken into account.
+coming months could lead to higher capital requirements for Martin Mayer, Senior Portfolio Manager Multi Asset
+ Felix Stern, Senior Portfolio Manager Fixed Income Euro
+banks, which would, however, be beneficial for creditors in the
+long term. For more defensive investors, we also consider
+mortgage bonds and covered bonds to be attractive. Com-
+pared to government bonds, they offer lower volatility in neg-
+ative market phases despite low-risk premiums and, in many
+cases, a strong credit rating with a yield advantage over high-
+quality government bonds.
+
+High-yield euro segment has improved structurally AI investments drive new issues in the technology sector
+The proportion of secured bonds has risen steadily, whereas the modi- Huge investments in AI infrastructure lead to record-breaking new issu-
+fied duration and thus interest rate sensitivity has fallen ance volume among hyperscalers
+
+Time period: 01/01/2000–30/11/2025. Time period: 01/01/2020–30/11/2025. Source: Bloomberg. *Issuers: Amazon, Apple, Alibaba,
+Source: ICE. Index: ICE BofA Euro High Yield Index (HE00) Meta, Booking, Electronic Arts, HP Enterprises, Microsoft, Netflix, Roper, Tencent, Uber
+
+ Q1 2026 Horizon 11
+
+## Page 12
+
+Real assets likely to remain in demand
+
+Oil market remains oversupplied despite robust demand Seaborne oil stocks rise significantly due to US sanctions
+The price of crude oil (Brent) continued its downward trend, This year’s global seaborne oil stocks (in million barrels) as well as the
+which has persisted since the beginning of the year, in the final five-year average and its first standard deviation
+months of the year. Although demand remained robust, par-
+ticularly from China, and further US sanctions against Russian
+oil companies were announced, concerns about rising over-
+supply due to the ongoing reduction of production cuts by
+OPEC+ prevailed on the oil market. Although the cartel has no
+plans to increase production in the first three months of the
+new year, it is likely to continue striving to gain further market
+share. However, the significant increase in seaborne oil stocks
+as a result of US sanctions is likely to make it difficult for OPEC+
+to regain market share quickly. Nevertheless, the continuing
+negative expectations of some market participants and
+stronger than expected demand could open the door for some Time period: 01/01/2020–06/12/2025.
+positive surprises. Source: Bloomberg, own calculations
+
+Gold still an important portfolio component in the medium term Share of foreign gold reserves rises significantly
+After the gold price initially continued its exceptionally strong Officially reported foreign gold and treasury holdings as a percentage of
+performance in the fourth quarter, the precious metal wit- total reserves
+nessed a brief sell-off at the end of October due to technically
+overheated indicators and a resulting positioning flush out.
+Recently, however, the gold price has stabilised above the
+USD4,000/ounce mark despite a stronger USD. Looking ahead
+to the coming year, the precious metal is likely to remain an
+important component of portfolios in an environment of on-
+going geopolitical uncertai nty, increased inflation volatility,
+fiscal dominance and continued central bank purchases, even
+though the biggest price increases are likely to be behind us.
+Smaller than expected interest rate cuts and already positive
+sentiment could at least raise the bar for further, significant,
+price increases next year . Time period: 01/01/2001–30/11/2025.
+ Source: IMF, US-Treasury, Bloomberg, own calculations
+
+A tight supply is likely to continue to support industrial metals Mixed picture on industrial metals since the start of the year
+Industrial metal prices have developed positively overall in Development of zinc , nickel, aluminium, copper, tin and lead indexed to
+recent months, but under the hood, they have shown some id- 100 on 1 January 2025
+iosyncrasies. While increasing production losses have led to a
+shortage in copper supply and rising prices, the nickel price
+has suffered from an oversupply. While copper
+demand was boosted this year from China’s solar industry, it is
+likely going to be significantly lower next year . Incremental
+purchases from Europe and a recovery in demand from the US
+are nevertheless likely to lead to a growing supply deficit for
+copper in 2026. The same applies to aluminium, where Chinese
+production capacity has already been maxed out for some
+time.
+ Mirko Schmidt, Analyst Multi Asset Strategy & Research
+ Time period: 01/01/2025–05/12/2025.
+ Source: Bloomberg, own calculations
+
+12 Horizon Q1 2026
+
+## Page 13
+
+| Economics | Equities | Bonds | Commodities | Currencies | Insights
+
+Central banks drive exchange rates
+
+The less the Fed does, the better for the dollar Fed to ease monetary policy further in 2026
+At the beginning of November, it seemed as if the Federal The more interest rate cuts, the worse for the dollar
+Reserve (Fed) was more concerned about inflation than the
+labour market and thus might refrain from easing monetary
+policy further. The market subsequently priced out interest
+rate cuts, which gave the dollar some tailwind in the meantime.
+Recently, however, sentiment has shifted again. Weaker US
+economic data is raising hopes on the markets that US mone-
+tary policy will be loosened further after all. We expect the
+Feds target interest rate range to be lowered to 3.25-3.5 % by
+summer 2026. The market currently considers this to be the
+most likely scenario. However, if further interest rate cuts are
+priced in, the USD could weaken further. In addition, other fac-
+tors also suggest that the greenback will remain under pres-
+sure in the medium term. Trump’s attacks on the independ- Time period: 01/06/2025–08/12/2025. Daily data.
+ence of the Fed are undermining the US as a financial centre. Source: CME Group, Federal Reserve Board.
+The sharp rise in government debt comes on top. We also ex-
+pect economic momentum in the US to slow in the coming Japanese yen under pressure
+months, while the eurozone economy is likely to pick up BoJ expected to support yen with interest rate hike this time
+slightly. We therefore anticipate that the EUR/USD exchange
+rate will move toward the 1.20 handle in 2026. Meanwhile, the
+euro’s Achilles heel remains rising debt in Europe and the po-
+litical risks in France.
+
+The weak yen is causing concern for the Bank of Japan
+In the third quarter, the Japanese economy contracted for the
+first time in five quarters compared with the previous quarter.
+Gross domestic product fell by 0.6%. However, this is attribut-
+able to the now resolved trade dispute with the US and new
+environmental regulations in the real estate sector. Domestic
+demand remains robust. In 2026, the economic stimulus pack-
+age announced by the new government, worth JPY21.3trn Time period: 01/2022–11/2025. Monthly data.
+(EUR117bn), will also have a supportive effect. However, the Source: Haver Analytics
+markets are concerned about the financial viability of the Exchange rate forecasts
+growing mountain of debt. JGB yields have risen recently, while Berenberg and consensus forecasts compared, figures for mid and end
+the yen has lost some of its value. of 2026
+ 11/12/2025 30/06/2026 31/12/2026
+The USD now costs almost JPY160. Last year, crossing this red Currently Ø* Ø*
+line prompted the Bank of Japan (BoJ) to buy yen on behalf of Exchange rate forecast
+the Ministry of Finance in order to support the domestic cur- EUR/USD 1.17 1.19 1.19 1.20 1.20
+rency. This time, however, the JPY is likely to be helped mainly EUR/GBP 0.88 0.89 0.88 0.91 0.88
+ EUR/CHF 0.93 0.93 0.94 0.93 0.95
+by the BoJ continuing its monetary tightening. While all other EUR/JPY 182 176 177 173 174
+major central banks are lowering interest rates or leaving them
+unchanged, further increases in the BoJ policy rate could help Change against the euro (in %)
+the JPY out of its current phase of weakness . USD - -1.7 -1.7 -2.5 -2.5
+ Dr. Felix Schmidt, Senior Economist GBP - -1.1 0.0 -3.3 0.0
+
+ CHF - 0.0 -1.1 0.0 -2.1
+ JPY - 3.7 3.1 5.5 4.9
+
+ * Average, consensus as of 11/12/2025.
+ Source: Bloomberg
+
+ Q1 2026 Horizon 13
+
+## Page 14
+
+Interview with Susette Mantzel
+
+Ms Mantzel, you are responsible for the Private Markets Solu-
+tions team at Berenberg. Can you explain what this entails and
+what exactly your team’s responsibilities are?
+Berenberg offers its wealth management clients access to-
+ward private markets investments. Our team is responsible for
+facilitating access to these investments. The term “private
+market investments” refers to non-publicly traded stakes in
+real estate and companies, both on the equity and debt sides.
+Furthermore, investments in infrastructure projects are also
+regularly included in this category. There are also a number of
+subcategories; for example, in the private equity segment, a
+distinction is made between buyout, growth and venture strat-
+egies, depending on the development phase of the company.
+
+The investment opportunities come from both our own com-
+pany and from cooperation partners. For example, our Corpo-
+rate Banking division sets up private debt funds in which pro-
+fessional and, in some cases, semi-professional investors can
+invest. We select and review the offers for our clients and sup-
+port our colleagues in Wealth Management with regard to the
+investment and the onboarding of clients.
+
+To what extent do private market investments differ from public shift in value creation away from the stock exchanges and to-
+market investments, and are they suitable for all investor groups? wards private markets. A s an investor, private market invest-
+When we talk about private equity, we are talking about equity ments give me access to this segment, which in turn has a pos-
+investments, i.e. investments in companies such as stocks. Un- itive effect on my portfolio .
+like public markets, however, the companies in which you in-
+vest are typically not listed on the stock exchange, meaning What is the reason for this positive portfolio effect ?
+that the equity investment is not publicly tradeable. This also Private market investments allow investors to further diversify
+applies to private debt. These are debt investments which, un- their portfolio, i.e. distribute risks more broadly and thus
+like traditional corporate or government bonds, are not pub- achieve a target return with lower risk or a higher return with
+licly tradeable. the same risk. The less frequent valuation of investments also
+ means that the hysteria we see from time to time on the stock
+Private market investments are generally suitable for long- market is not reflected in the prices of private market invest-
+term wealth accumulation for all investors. However, they are ments, or only to a lesser extent. In addition to illiquidity, this
+often only available to wealthy or institutional investors. This is can help investors hold on to their investments even in difficult
+because, as already explained, they are not easily tradeable phases. However, this should not give the im pression that the
+and are therefore illiquid. Private market investors should underlying economic risk is lower than that of publicly traded
+therefore have a long-term investment horizon and, above all, investments. An equity investment remains an equity invest-
+the financial resources to offset these liquidity risks. We there- ment, whether listed on the stock exchange or not .
+fore recommend seeking detailed advice on such investments.
+ In addition to diversification, private market investments can
+What added value do investments in private markets offer ? also offer investors additional return potential. In addition to
+Private market investments open up large parts of the econ- the illiquidity premium, i.e. a return premium for the fact that
+omy to investors that are not represented on public markets the investments cannot be liquidated at will, investors have the
+and stock exchanges. For many companies, the effort involved opportunity to generate a so -called economically explainable
+in listing on the stock exchange and complying with extensive excess return by investing in private equity funds, for example.
+disclosure requ irements is too high. This is particularly true
+given that there are attractive alternative financing opportu-
+nities on the private markets. In recent years, we have seen a
+
+14 Horizon Q1 2026
+
+## Page 15
+
+| Economics | Equities | Bonds | Commodities | Currencies | Insights
+
+In their role as strategic and financially strong partners, private I therefore expect ELTIFs to become increasingly popular in
+equity funds often implement ambitious growth strategies in Germany as well, and that their structuring standards will con-
+companies and can, in turn, distribute attractive returns to verge with those of mutual funds. In our view, ELTIFs offer
+their investors. many advantages for long-term wealth accumulation and the
+ development of individual retirement provisions. In a few
+Your team recently expanded its cooperation with BlackRock to years’ time, investors should be able to choose from a suffi-
+include private market investments. You now enable investments ciently large number of established and competing ELTIFs to
+via ELTIFs. What is this new vehicle for private market invest- build a diversified portfolio component.
+ments all about, and what advantages does it offer investors?
+ELTIFs aim to democratise access to private markets. With this Alternatively, they can also opt for a so-called multi-asset EL-
+fund structure, the European Union has created a regulatory TIF. These combine various segments such as private equity,
+framework that now enables more private investors to invest private debt, infrastructure and real estate in a single fund.
+in private assets. The main political aim was to make it easier Some such vehicles have recently been launched or are cur-
+for small and medium-sized enterprises to access financing, rently in the process of being established.
+but also to mobilise capital from smaller investors by lowering
+the minimum investment amount. In addition, we believe that
+ELTIFs offer a number of interesting features, which we like to
+refer to as convenience factors. Unlike traditional closed-end Brief biography
+funds, ELTIFs are booked in the custody account like a classic
+mutual fund. This means that there are no additional identifi- With around 30 years of experience in the financial sector,
+cation requirements, no deviating tax characteristics and, for Susette Mantzel now heads up the Private Market Solutions
+most of the funds offered, no irregular capital calls. Investors team at Berenberg. The team is responsible for the financial
+are therefore invested directly. In addition, the current trend instruments and products used in the wealth management
+is clearly towards semi-liquid funds, i.e. “Evergreens”. This advisory business for illiquid asset classes. Prior to this,
+means that, in contrast to closed-end funds, liquidity windows Susette Mantzel worked for more than 20 years in the equi-
+are offered on a regular basis and the fund does not usually ties segment for Berenberg’s institutional clients in the Ben-
+have a limited term. elux region and subsequently advised UHNWIs and HNWIs
+ within wealth management. Her experience is comple-
+Looking ahead: How might the market for private investments mented by her management of various projects, for exam-
+develop over the next few years? How do you assess the devel- ple in the area of product governance. Susette Mantzel has
+opment of the ELTIF market in Germany and Europe? a degree in banking and is a CFA charterholder.
+More than 230 funds in Europe are now authorised as ELTIFs,
+and many providers are still in the starting blocks. Some funds
+are in the development phase and are therefore still subject to
+longer-term sales restrictions. Furthermore, no uniform stand-
+ards have yet been established for the structuring of these
+funds, as is the case with traditional mutual funds. The pio-
+neers in the use of ELTIFs are Italy and France. These funds
+established themselves there at an early stage. In addition,
+digital platforms operating across Europe have recently inte-
+grated ELTIFs into their product range. By August 2025, the
+ESMA had already registered as many ELTIFs as in all of 2024.
+
+ Q1 2026 Horizon 15
+
+## Page 16
+
+Publishing information
+
+Publisher
+Ulrich Urbahn | Head of Multi Asset Strategy & Research
+
+Authors
+
+Fabian Birli | Analyst Multi Asset Strategy & Research Mirko Schmidt | Analyst Multi Asset Strategy & Research
+analyses financial markets, supports the multi-asset investment process and partici- analyses financial markets, supports the multi-asset investment process and partici-
+pates in capital market publications pates in capital market publications
+Martin Mayer, CEFA | Senior Portfolio Manager Multi Asset Felix Stern | Senior Portfolio Manager Fixed Income Euro
+manages multi asset mandates and analyses bond markets with a special emphasis is responsible for the investment strategy for euro bonds and manages the Beren-
+on defensive government bonds berg Euro Target 2028 and Berenberg Euro Bonds funds
+Dr Felix Schmidt | Senior Economist Ulrich Urbahn, CFA | Head of Multi Asset Strategy & Research
+analyses economic - especially macroeconomic – developments and is responsible focuses on the multi-asset investment process, the development of investment
+for the currency forecasts ideas and capital market communications
+
+Important notices
+This information is a marketing communication. This information and fluctuations. The purchase, holding, conversion or sale of a financial
+references to issuers, financial instruments or financial products do instrument, as well as the use or termination of an investment service,
+not constitute an investment strategy recommendation pursuant to may give rise to costs that affect the expected income. A fund invest-
+Article 3 (1) No. 34 Regulation (EU) No 596/2014 on market abuse (mar- ment involves the purchase of shares in an investment fund, but not a
+ket abuse regulation) nor an investment recommendations pursuant specific underlying asset (e.g. shares in a company) held by that fund.
+to Article 3 (1) No. 35 Regulation (EU) No 596/2014, both provisions in The statements contained in this document are based either on own
+connection with section 85 (1) of the German Securities Trading Act company sources or on publicly accessible third-party sources, and
+(WpHG). As a marketing communication this document does not meet reflect the status of information as of the date of preparation of the
+all legal requirements to warrant the objectivity of investment recom- presentation stated below. Subsequent changes cannot be taken into
+mendations and investment strategy recommendations and is not account in this document. The information given can become incor-
+subject to the ban on trading prior to the publication of investment rect due to the passage of time and/or as a result of legal, political,
+recommendations and investment strategy recommendations. This economic or other changes. We do not assume responsibility to indi-
+document is intended to give you an opportunity to form your own cate such changes and/or to publish an updated document. For im-
+view of an investment. However, it does not replace a legal, tax or in- portant disclosures and information on index- and market data, see
+dividual financial advice. Your investment objectives and your per- https://www.berenberg.de/en/legal-notice/license-notice/. Past per-
+sonal and financial circumstances were not taken into account. We formance, simulations and forecasts are not a reliable indicator of fu-
+therefore expressly point out that this information does not constitute ture performance and custody fees may occur which can reduce over-
+individual investment advice. Any products or securities described all performance. Please refer to the online glossary at
+may not be available for purchase in all countries or only in certain https://www.berenberg.de/en/glossary for definitions of the technical
+investor categories. This information may only be distributed within terms used in this document. The images used in this document are
+the framework of applicable law and in particular not to citizens of the for illustrative purposes only. They do not refer to specific products,
+USA or persons resident in the USA. The statements made herein have services, persons or actual situations and should not be used as a basis
+not been audited by any external party, particularly not by an inde- for decisions or actions. Date 12.12.2025
+pendent auditing firm. Any future returns on fund investments may be
+subject to taxation, which depends on the personal situation of the
+investor and may change in the future. Returns on investments in for-
+eign currencies may increase or decrease due to currency
+
+Joh. Berenberg, Gossler & Co. KG
+Überseering 28
+22297 Hamburg
+Phone +49 40 350 60-0
+www.berenberg.com
+multiasset@berenberg.com

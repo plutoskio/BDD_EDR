@@ -1,0 +1,2284 @@
+Source file: UBS Year Ahead.pdf
+Source path: outlooks/UBS Year Ahead.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:10.433638+00:00
+Page count: 68
+
+---
+
+## Page 1
+
+Year
+Ahead
+2026
+
+ Escape velocity?
+
+ Chief Investment Office
+ Investment Research
+
+## Page 2
+
+Year Ahead 2026 – UBS House View
+This report has been prepared by UBS AG, UBS AG London Branch,
+UBS Switzerland AG, UBS Financial Services Inc. (UBS FS),
+UBS AG Singapore Branch, UBS AG Hong Kong Branch, and
+UBS SuMi TRUST Wealth Management Co., Ltd.
+Please see important disclaimers at the end of the document.
+
+## Page 3
+
+## Page 4
+
+## Page 5
+
+Foreword
+
+Welcome to the Year Ahead 2026
+
+Dear reader,
+
+2025 was a year of innovation, political upheaval, and market surprises. For the first time in years, China and
+Europe outperformed US equity markets in dollar terms. Rates fell, and in Switzerland returned to zero, and
+gold soared to all-time highs. In the US, markets rebounded from trade-driven volatility with AI-linked
+innovation and spending as notable drivers.
+
+As we enter 2026, the world stands at a crossroads: Can momentum from AI and innovation help markets and
+economies achieve “escape velocity,” breaking free from the gravity of rising debt, political uncertainty, and
+lingering inflation? Or will these forces pull us back to earth?
+
+Our Year Ahead 2026 outlook, “Escape velocity?”, is designed to help you spot the signals that matter, cut
+through the noise, and act with confidence. We see stocks moving higher, driven by powerful trends in AI,
+power and resources, and longevity. As rates come down, it’s time to refocus on portfolio income.
+
+But risks remain. If AI progress slows, inflation picks up again, or debt problems resurface, markets could face
+new challenges. That’s where we come in. At UBS, our Chief Investment Office is your launchpad, providing
+the research, insights, and solutions to help you move forward, whatever comes next.
+
+Thank you for your trust. Let’s aim even higher in 2026, together.
+
+Warm regards,
+
+ Rob Karofsky Iqbal Khan
+ Co-President Global Wealth Management Co-President Global Wealth Management
+ and President UBS Americas and President UBS Asia Pacific
+
+ 5
+
+## Page 6
+
+Contents
+
+ 09 Escape velocity?
+
+ 13 Growth
+ 14 Can AI power the market even higher?
+
+ 17 Invest in transformational innovation
+
+ 22 The economic backdrop
+ 26 Add to equities
+ 31 Seek opportunities in China
+ 33 Favor commodities
+
+ 35 Income
+ 36 How will governments manage rising debt?
+ 39 Seek diversified income
+ 42 Our currency views for 2026
+
+6
+
+## Page 7
+
+45 Diversification
+
+ 46 How will politics shape markets in 2026?
+ 47 Key risks
+
+ 48 Scenarios
+ 49 Hedge market risks
+ 51 Diversify with alternatives
+
+ 53 Building a robust portfolio
+
+57 Looking back and looking ahead
+ 58 2025 in review
+ 59 Forecasts
+
+ 7
+
+## Page 8
+
+Escape velocity?
+
+8
+
+## Page 9
+
+Mark Haefele
+ Chief Investment Officer
+ Global Wealth Management
+
+In physics, “escape velocity” is the minimum speed AI is at the heart of the debate. The current boom
+an object needs to break free from the gravitational has the potential to deliver the necessary productivity
+pull of a massive body without further propulsion. improvements to overcome historical constraints and
+ help economies achieve their own type of escape
+As we enter 2026, investors are asking whether the velocity. Whether this potential is realized will depend
+powerful combination of AI innovation, fiscal on investors’ willingness to keep funding AI, tech
+spending, and easing monetary policy can help the leaders’ ability to monetize innovation, and the
+world economy break free from the gravitational pull world’s capacity to supply the energy needed to
+of traditional “end-of-cycle” dynamics and accelerate power it all.
+into a new era of growth.
+
+Figure 1
+Can AI power the market even higher?
+Nasdaq Composite Index (lhs) and weight of information technology sector in S&P 500, in % (rhs)
+
+25,000 40
+
+20,000 30
+
+15,000
+ 20
+10,000
+
+ 5,000 10
+
+ 0 0
+ 1990 1995 2000 2005 2010 2015 2020 2025
+
+ Nasdaq Composite (lhs) IT sector weight in S&P 500, in % (rhs)
+
+Sources: Bloomberg, UBS, as of 12 November 2025
+
+ 9
+
+## Page 10
+
+Debt is another critical factor in major developed the thawing of frozen conflicts—may fuel further
+markets. Fiscal spending is supporting growth, but in volatility in 2026. Whether new policy approaches
+many countries—especially those with aging can help us “escape” these age-old dynamics will be
+populations—government outlays are already at another defining question for investors.
+“escape velocity,” set to rise as a share of GDP unless
+decisive action is taken. Despite the uncertainty surrounding these questions,
+ we believe durable principles for investing in today’s
+Deglobalization also looms large. The interplay of world are coming into focus. In previous editions of
+trade policy, domestic politics, and geopolitics the Year Ahead, we discussed the “5Ds” of digi­
+continues to exert a powerful force. The gravity of talization, decarbonization, debt, demographics, and
+history—clashes between rising and established deglobalization. But these are no longer distant
+powers, cycles of integration and fragmentation, and trends. They are actively shaping the investment
+
+Figure 2 Figure 3
+How will governments manage rising debt? How will politics shape markets in 2026?
+US budget balance (lhs) and federal debt (rhs) as a % of GDP US effective tariff rate since 1915, in %
+
+ 4 140 20
+ 0 120 16
+ 100
+ –4 80 12
+
+ –8 60 8
+ 40
+ –12 20 4
+
+ –16 0 0
+
+ 1980 1995 2010 20251915 1965 1990 20151940
+
+ US government budget balance, % of GDP (lhs) US federal debt, % of GDP (rhs)
+ Sources: US International Trade Commission, Bloomberg, UBS, as of 12 November 2025
+
+Sources: Bloomberg, UBS, as of 12 November 2025
+
+10
+
+## Page 11
+
+the thawing of frozen conflicts—may fuel further landscape and remain central to our thinking as we and central bank funds into government bonds,
+volatility in 2026. Whether new policy approaches look at the year ahead. As I wrote in “The New Rules suppressing yields. Meanwhile, the intersection of
+can help us “escape” these age-old dynamics will be of Investing” and my “big problems, big money” trade policy, domestic politics, and geopolitics
+another defining question for investors. thesis: Understanding where capital is being strengthens the case for portfolio hedging and multi-
+ deployed at scale is critical for investors. asset diversification.
+Despite the uncertainty surrounding these questions,
+we believe durable principles for investing in today’s Accordingly, our focus is on sectors and ideas aligned Ultimately, while the future remains unpredictable,
+world are coming into focus. In previous editions of with these forces. AI, power and resources, longevity, we are confident that pairing our disciplined
+the Year Ahead, we discussed the “5Ds” of digi­ and commodities stand out as beneficiaries of both analytical framework and our timeless asset
+talization, decarbonization, debt, demographics, and structural change and policy support. Rising debt allocation principles will help investors navigate 2026
+deglobalization. But these are no longer distant points to a future of “financial repression”—a and beyond.
+trends. They are actively shaping the investment regulatory and policy regime that channels savings
+
+ Figure 3
+ How will politics shape markets in 2026?
+ US effective tariff rate since 1915, in %
+
+ 20
+
+ 16
+
+ 12
+
+ 8
+
+ 4
+
+ 0
+ 1915 1965 1990 20151940
+
+ Sources: US International Trade Commission, Bloomberg, UBS, as of 12 November 2025
+
+ 11
+
+## Page 12
+
+Our views
+
+* AI and technology have been key drivers of global * Income-seeking investors should diversify by blend-
+ equity markets. Strong capex and adoption should ing quality bonds and higher-yielding strategies
+ fuel further gains in 2026, though investors should with income-generating equities and structured
+ be mindful of bubble risks. investments, especially in low-yield regions.
+
+* Opportunities span AI’s enabling, intelligence, and * Currency strategy matters. We favor the euro and
+ application layers, as well as power and resources Australian dollar over the US dollar, as US rate cuts
+ and longevity. We recommend allocating up to may weigh on the greenback. Financial repression
+ 30% of equity portfolios to these structural growth could lead to greater currency volatility in future.
+ ideas.
+ * Key risks include AI setbacks, inflation, trade ten-
+* We expect global economic growth to stay resil- sions, and debt concerns. Holding adequate liquid-
+ ient, and accelerate through the year. In the US, ity, capital preservation structures to lock in gains,
+ we favor technology, utilities, and health care. In quality bonds, and gold can help hedge market
+ Europe, we like industrials, technology, and utili- risks.
+ ties. In Asia, we favor China (in particular tech),
+ Japan, Hong Kong, Singapore, and India. Globally, * Alternatives such as hedge funds and private mar-
+ we also like banks. kets can further diversify returns, though investors
+ should be aware of inherent risks such as illiquidity
+* China’s tech sector stands out as a top global and lower transparency.
+ opportunity. Strong liquidity, earnings, and retail
+ flows should sustain momentum for Chinese, * By building a clear plan, deploying cash, construct-
+ Asian, and emerging market equities. ing a strong core across equities, fixed income, and
+ alternatives, as well as selectively hedging risks and
+* Commodities look attractive for 2026. Supply con- seizing tactical opportunities, investors can position
+ straints and rising demand support energy, metals, themselves to thrive in 2026 and beyond.
+ and agriculture; precious metals remain effective
+ diversifiers.
+
+ To find out more about the
+ Year Ahead 2026, visit
+ ubs.com/yearahead
+
+12
+
+## Page 13
+
+Growth
+
+ 13
+
+## Page 14
+
+Can AI power the
+market even higher?
+
+AI-linked innovation has been the engine of the market’s ascent in recent
+years. Investors should remain mindful of the risks inherent in any invest-
+ment boom. Yet, we believe that powerful trends in capex and accelerat-
+ing adoption are likely to drive further gains for AI-linked stocks in the
+year ahead.
+
+A I mat ter s
+ Figure 4
+IT and communication services stocks—many driven Estimated compute demand for chatbot,
+by advances in AI—now account for 36% of the enterprise, and agentic AI
+MSCI AC World index. And the top nine US tech In exaFLOP/s
+stocks have driven 72% of the growth in the Russell
+3000 US equity index over the past 12 months, high- 2024 2030
+lighting their dominant role. 2 44
+
+Investment in AI infrastructure is having a growing di- 12 326
+rect impact on the economy, with the contribution to 250
+US real GDP growth from information processing
+equipment and software rising from 0.2ppt in 4Q19
+to 0.8ppt in 2Q25. 163 19,627
+
+The surge in AI­driven stocks is also influencing con-
+sumer sentiment, with US household wealth held in
+equity markets up by USD 24 trillion in the past five
+years.
+
+Looking ahead, we see two critical factors driving AI: Chatbot Enterprise AI Agentic AI
+the sustainability of capital expenditure (capex) trends
+and continued investor confidence in the long­term Source: UBS, as of 12 November 2025
+returns on these investments. Note: ExaFLOPS stands for one quintillion (10¹⁸) ﬂoating point operations
+ per second. It is a unit used to measure the processing speed of
+ supercomputers, indicating how many complex calculations the system
+ can perform every second. Enterprise AI here refers to simple Q&A
+ chatbots, such as customer support bots.
+
+14
+
+## Page 15
+
+Capex: Engine of near-term grow th Figure 5
+ The revenue potential from AI is vast
+Robust AI capex has powered market performance. CIO estimates, assuming a USD 117tr global economy
+The Nasdaq Composite is up 107% in three years,
+and semicon ductors (SOX index) have done even bet- Assuming labor accounts for around 50% of the world economy, ...
+ter (157%). Capex estimates have been exceeded
+threefold over the past two years. ... AI can automate a third of tasks, ...
+
+For momentum to continue, tech leaders and investors ... and vendors capture 10% of resulting value, ...
+
+must believe future demand justifies today’s signifi- ... we estimate
+cant investments. Recent data center expansion USD 1.5tr annual
+means installed chip capacity could support a 25-fold AI revenues from
+ end-users.
+increase in chatbot usage. But it is not just chatbots—
+anticipation of the next wave, including agentic AI
+(multiple specialized agents collaborating to replicate
+knowledge work), physical AI (robots, autonomous ve-
+hicles), and AI video, could drive further capex growth. Sources: IMF, UBS, as of 12 November 2025
+
+Businesses are rapidly becoming major AI users;
+agentic AI could drive compute demand to five times
+today’s installed base by 2030. Monetization: A crucial test
+
+Physical AI could push demand even higher. With mil- While investment is driving the current phase of
+lions of robots already deployed and projections for a growth, the success or failure of AI-linked investments
+million humanoid robots sold annually by 2030, the will ultimately hinge on whether companies can de-
+need for computing power could soar even further. liver attractive returns on those investments.
+
+Overall, we project a further cumulative USD 4.7tr in We believe the revenue potential is vast: If we as-
+global AI capex between 2026 and 2030, with sume that labor accounts for around 50% of the
+USD 2.4tr already planned based on more than 40 world economy, that AI can automate a third of
+announcements disclosed this year alone. tasks, and that vendors capture a 10% share of the
+ resulting value, longer-term annual AI revenues from
+We expect USD 571bn of this spending to come in end-users could reach USD 1.5tr.
+2026 (versus our previous estimate of USD 500bn,
+and compared to an estimated USD 423bn in 2025), Thus far, monetization is lagging capex. Capex as a
+and project capex to grow by a 25% CAGR in 2025- percentage of operating cash flows for the largest
+30 to reach USD 1.3tr annually by 2030. tech “hyperscalers” has risen from around 40% in
+ 2023 to close to 70% in 2025.
+
+ 15
+
+## Page 16
+
+Figure 6 daily time savings: Adecco found an average of one
+AI capex remains low in GDP terms hour saved per day, while Forbes reported 52 minutes.
+Historical investment impulses, % of global GDP
+ In turn, the accelerating cloud revenue growth and
+ even faster backlog growth across leading platforms,
+ UK railroads (1860s) as reported in the 3Q25 earnings season, reinforce our
+ US railroads (1880s) confidence in AI’s substantial monetization potential.
+ Looking ahead, we expect value will increasingly shift
+US auto infrastructure (1910s) from the enablers to the application layer.
+
+ US electric motor (1920s)
+
+ US ICT hardware (1990s)
+ Risks: Lessons from histor y
+ US telecom (1990s)
+
+ UBS CIO AI capex projection Can AI achieve escape velocity? Unlike in rocket sci-
+ 0 1 2 3 4 5ence, where reaching escape velocity follows precise
+ physical laws, the path for financial markets is rarely
+Sources: Goldman Sachs, Bureau of Economic Analysis, IMF, UBS, as of smooth or predictable.
+12 November 2025
+ No investment “lift­off” has occurred without turbu-
+ lence—fears about oversupply, bottlenecks, pricing
+Nevertheless, history shows it is common for new power, or obsolescence. If dealmaking among large
+technologies to launch at little or no cost to encour- firms becomes more circular, with repeated transac-
+age uptake, with pricing power—and profits— tions or cross­investments, financial vulnerabilities
+emerging once users become reliant. This was seen in may also emerge.
+social media, cloud storage, and enterprise software.
+ Still, the historical context is encouraging. Our AI ca-
+For now, we believe the critical trends to watch are pex projection of USD 1.3tr by 2030 would account
+the breadth and depth of AI adoption and early signs for around 1% of global GDP, below historical infra-
+of value creation. U.S. Census Bureau data show that structure investment impulses over the past 150 years
+around 10% of businesses are already using AI to (railroads, automotive, computers, telecom), which
+produce goods or services, a level expected to rise to ranged from 1.5% to 4.5% of global GDP annually.
+14% within the next six months. Our analysis sug-
+gests adoption typically accelerates further after this While investors should remain mindful of the risks,
+threshold. we believe that trends in capex and accelerating
+ adoption will be sufficient to push AI­linked stocks
+Early adopters already report tangible value creation even higher in 2026.
+and increasing reliance on AI. Multiple studies show
+
+16
+
+## Page 17
+
+Invest in transformational
+ innovation
+
+We expect transformational innovation to be a key driver of equity market returns in the years ahead. In artifi-
+cial intelligence, opportunities span the enabling, intelligence, and application layers. The surge in data center
+demand is fueling investment in power and grid infrastructure. And we expect companies pioneering treat-
+ments and technologies to extend healthy lifespans to emerge as market leaders. We believe investors should
+consider reallocating up to 30% of a diversified equity portfolio toward such structural trends.
+
+AI
+
+Our AI investment framework divides the artificial in- The enabling layer comprises the core infrastructure
+telligence (AI) ecosystem into three distinct layers: en- and foundational technologies that power AI, includ-
+abling, intelligence, and application. ing semiconductors, cloud computing, networking
+
+Figure 7
+Artificial intelligence: Where value accrues in the AI chain will shift over time
+
+We forecast USD 3.1tr in 2030 AI revenue; 30% six-year CAGR across the enabling, intelligence, and application layers
+
+ Enabling layer Intelligence layer Application layer
+
+ AI data centers
+
+ Infrastructure Cloud LLMs Applications
+ GPUs, memory, Public and private Text, image, and Co-pilot, assistants,
+ interconnects, cloud solutions video marketing,
+ SSD,other data customer service,
+ center capex R&D, humanoids
+2030E Revenue USD 1.3tr USD 990bn USD 346bn USD 495bn
+
+Source: UBS, as of 12 November 2025
+
+ 17
+
+## Page 18
+
+equipment, and specialized hardware. We expect de- Power and resources
+mand for advanced chips and high-performance
+computing to benefit such firms. Rapid AI adoption is driving US electricity demand
+ higher, with data centers projected to add as much
+The intelligence layer covers the software, algorithms, power demand as Sweden currently consumes per
+and data platforms that enable AI systems to learn, year by 2030. Data centers could account for up to
+reason, and generate insights. This includes AI model 9% of total US electricity use by 2035 (versus around
+developers, data management firms, and providers of 4% today), and the Energy Information Administra-
+machine-learning tools. Monetizing innovation re- tion expects wholesale power prices to be 23%
+mains a challenge for pure­play AI software firms; higher on average in 2025 than in 2024.
+however, we believe companies embedding AI into
+workflows or offering scalable platforms are well po- While AI is a key driver, significant grow th in the
+sitioned for growth. pipeline of megaprojects should also add to broader
+ electricity demand grow th in coming years.
+The application layer consists of end-user products and
+services that leverage AI to deliver value. We expect
+the broadest impact and fastest growth here over the Figure 8
+next three years, as AI shifts from experimentation to Data center electricity demands are surging
+deployment and as consumer adoption rises. We con- US data center electricity demand as % of total demand, including
+tinue to monitor companies that can demonstrate Bloomberg New Energy Finance (BNEF) forecasts for 2035
+clear productivity gains, cost savings, or new revenue
+streams from their tools.
+ 2035E
+Overall, we recommend investing in a balanced way
+across the enabling, intelligence, and application lay-
+ers to capture the full spectrum of growth opportuni- 8.6%
+ties and manage risks as the technology matures. 2024
+This diversified approach should allow investors to
+benefit from further investment in core infrastruc- 3.2%
+ture, as well as from software innovation and real­ 2015
+world adoption, while reducing exposure to any sin- 0.7%
+gle segment’s volatility.
+
+ Sources: BloombergNEF, Ember, UBS, as of 12 November 2025
+
+18
+
+## Page 19
+
+Policy support for clean energy remains robust in the clear reactors is expected to rise, though small modu-
+EU and China, with the EU Green Deal and China’s lar reactors are unlikely to be a material revenue
+Five Year Plan channeling hundreds of billions into driver before the mid-2030s.
+grid modernization. In the US, selected provisions of
+the Inflation Reduction Act remain in place, but the Meanwhile, a tightening supply of raw materials is
+Bipartisan Infrastructure Law and the One Big Beauti- both a challenge and an opportunity. For example,
+ful Bill (OBBB) Act have superseded many elements, we expect copper demand to rise by close to 3%,
+making policy support more mixed and subject to on- likely pushing prices above USD 13,000/mt in 2026
+going legislative changes. as the market deficit expands to 87,000 metric tons
+ (from 53,000 metric tons in 2025).
+The power and resources sector is attracting strate -
+gic investor focus as higher demand drives new cap - Our preferred investment approach emphasizes re-
+ital investment across the electricity value chain. gional and sectoral diversification. Each region offers
+Global grid investment is projected to reach around attractive opportunities in grid modernization, renew-
+USD 500bn in 2026. ables, and critical materials, while diversification can
+ reduce investor exposure to regional regulatory, sup-
+Over the long term, demand for new technologies ply, or idiosyncratic risks.
+such as AI-driven grid management and modular nu-
+
+Sustainable investing
+
+Many of the underlying drivers for the power and re- economy and recycling solutions is essential to miti-
+sources opportunity—electrification, resource effi- gate supply risks and capture growth opportunities.
+ciency, and policy developments—also speak to an Meanwhile, climate adaptation is gaining attention
+expanding opportunity set in sustainable investing. as financial losses rise, with insured catastrophe
+ losses reaching USD 150bn in 2025 (Swiss Re).
+Global investment in the energy transition reached a
+record USD 2.1tr in 2024 (+11% y/y), with China be- These trends, alongside ongoing policy support, are
+ing the largest market for investment, accounting for expanding the universe of investable asset classes—
+USD 818bn in spending alone. Resource efficiency is enabling multi-asset portfolios to capture growth and
+increasingly critical, as material use has more than tri- diversification opportunities, even as political debate
+pled over five decades, yet only 6.9% is recycled around sustainability continues.
+(“Circularity Gap Report 2024”). Scaling up circular
+
+ 19
+
+## Page 20
+
+Longevit y
+ Figure 9
+As technology and infrastructure reshape the way we Annual revenues set to grow
+live and work, we believe another powerful force is 2023-30 CAGR for the longevity opportunity
+emerging at the intersection of demographics and in-
+novation: the longevity opportunity that helps people
+live longer, healthier lives.
+
+By 2030, we estimate that annual revenues in the
+global longevity market could reach USD 8tr, up from Global diabetes and Oncology Medical
+USD 5.3tr in 2023, with health care alone represent- obesity drugs pharma devices
+ing a USD 2.2tr opportunity.
+ 12% 8% 5%
+We see particularly strong potential growth in the
+obesity, oncology, and medical device markets. Source: UBS, as of 12 November 2025
+
+For global obesity drugs (GLP-1s), we expect produc-
+ers to grow revenues at around 12% CAGR through growth in the mid- to high-single-digit percentage
+2030, driven by rapid adoption given clinical benefits rates. Advances in continuous glucose monitoring
+(with delivered 15-22% weight loss in trials and re- and minimally invasive surgery should support strong
+duced cardiovascular/kidney risks), expanding insur- demand.
+ance coverage, and the potential launches of oral
+GLP-1s from next year. We favor a diversified approach across sectors poised
+ to benefit from demographic shifts. Health care
+We expect oncology pharma to grow at an 8% stands out as a primary driver of longevity, given its
+CAGR by 2030. Aging demographics, the emergence essential role in serving an aging population. Other
+of new cancer modalities and earlier diagnoses un- segments—such as consumer markets, financial ser-
+derpin robust demand. vices, and real estate—also present opportunities,
+ though some are still adapting their business models
+We also anticipate strong overall medical device to address the needs of this expanding demographic.
+growth, with diabetes and surgical device annual
+
+20
+
+## Page 21
+
+Integrating transformational innovation into a portfolio
+
+Recent history has shown that exposure to gies to consider: investing in a range of struc-
+structural growth opportunities can improve the tural trends, focusing on a single structural
+performance of equity portfolios. We believe trend, or selecting single stocks linked to one or
+that this will remain a feature of global markets more trends.
+in the years to come.
+ In our report “Investing in structural trends
+Most investors’ equity portfolios will likely al- through equities,” we explore how reallocating
+ready have some exposure to structural trends, between 10% and 30% of a broadly diversi -
+intentionally or not. We estimate that a purely fied equity portfolio toward a blend of such
+passive portfolio invested in the MSCI AC World strategies, can raise the structural growth ex -
+already includes exposure of approximately posure of a passive equity portfolio from 39%
+40% to our TRIOs (as of end of October 2025). to between 45% and 58%. Practically, this
+ could include up to a 10% allocation to a di -
+For investors looking to increase their potential versified approach, alongside 2 ­5 single­trend
+for outperformance by investing more explicitly or single-stock strategies.
+in structural trends, we broadly see three strate-
+
+Figure 10
+Allocation to structural investment trends can complement portfolio exposures
+
+TRIO exposure in MSCI ACWI (in %) and resulting exposure (in %) in MSCI ACWI with additional 10-30% allocation to structural
+trends
+
+ Current TRIO exposure reallocating 10-30% to a diversiﬁed structural trend exposure of sample
+ in MSCI ACWI + =approach, alongside single-trend or portfolio as % of MSCI ACWI
+ single-stock strategies
+
+ Others OthersAI
+
+ Longevity
+ AI Power and
+ resources
+ Diversiﬁed
+ Longevity multi-structural
+ Power and resources trends
+ Single structural trends*
+
+*Diversiﬁed mix of TRIOs and other longer-term structural topics with a maximum 4-5% of total equity exposure per topic
+Sources: MSCI, UBS, as of 12 November 2025
+
+ 21
+
+## Page 22
+
+The economic
+backdrop
+
+We expect the economic backdrop to be supportive of stocks in 2026.
+Growth enters the year somewhat uneven, but as the year evolves, we
+expect business and consumer confidence to improve, fiscal stimulus in
+major advanced economies to gain traction, and tariff effects to fade.
+
+US Euro p e
+
+We expect real US GDP growth of close to 2% for We forecast Eurozone growth of just over 1% in
+2026, similar to 2025, though annual growth figures 2026, though also expect growth to accelerate
+obscure an underlying acceleration. throughout the year. Consumer sentiment remains
+ cautious, savings rates are high, and the region con-
+As we enter 2026, we could face a period of softness tinues to face headwinds from US trade policy. But Figure 11
+for the US economy as tariff­related pressures on Germany’s fiscal stimulus and infrastructure invest- US household finances remain solid, especially among middle­ and upper ­income groups
+prices and exports persist. Labor market conditions ment are expected to provide support, with domestic Total net worth across different income groups in US by percentile, in USD trillions
+are also likely to remain soft, reflecting reduced labor demand benefiting from rising real incomes and a ro-
+supply and more cautious hiring. However, into the bust labor market.
+second half of the year, we expect growth to acceler- 80 80-99th percentile
+ate. Business sentiment should benefit from a shift in While we think headline inflation will fall below the
+policy focus toward targeted tax cuts and deregula- European Central Bank’s (ECB) 2% target in 2026, 60
+tion as midterms approach, and we expect consumer we also expect medium-term expectations to remain
+demand to be underpinned by solid wage growth stable, allowing the ECB to keep rates steady. The 40 Top 1%
+and healthy household balance sheets among mid- Russia-Ukraine war remains a source of uncertainty,
+dle- and upper-income groups. but a ceasefire and reconstruction could lead to a 20 60-80th percentile
+ more favorable growth outlook. 40-60th percentile
+ 20-40th percentile
+We expect inflation to peak in the second quarter, at 0 Bottom 20%
+just over 3%. We expect the Federal Reserve to im- 1990 1995 2000 2005 2010 2015 2020 2025
+plement two additional rate cuts by the end of the
+first quarter, moving toward a neutral policy stance. Sources: US Federal Reserve, UBS, as of 12 November 2025
+While the appointment of a new Fed chair introduces
+some uncertainty, we expect monetary policy to re-
+main data dependent.
+
+22
+
+## Page 23
+
+A sia
+
+ We expect APAC ex-Japan growth to stay robust at upgrades and supply chain diversification should help
+ just under 5%, but with a soft start and a stronger support economic stability in the face of global un-
+ finish to 2026 as lower interest rates take effect. certainties.
+ China is expected to set a growth target of 4.5-
+ 5.0%, prioritizing technology innovation and indus- Key regional macro themes include the expanded
+ trial upgrades under its new Five Year Plan. build-out of tech supply chains, domestic consump-
+ tion upturn in Japan and India, and a revival in re-
+ On the policy front, the recent US­China trade truce gional credit growth, which should benefit banks and
+US is a positive development, though many details re- consumer-related investment opportunities across the
+ main unresolved—especially regarding semiconduc - region.
+We expect real US GDP growth of close to 2% for tors. Meanwhile, China’s ongoing focus on domestic
+2026, similar to 2025, though annual growth figures
+obscure an underlying acceleration.
+
+As we enter 2026, we could face a period of softness Figure 11
+for the US economy as tariff­related pressures on US household finances remain solid, especially among middle­ and upper­income groups
+prices and exports persist. Labor market conditions Total net worth across different income groups in US by percentile, in USD trillions
+are also likely to remain soft, reflecting reduced labor
+supply and more cautious hiring. However, into the
+second half of the year, we expect growth to acceler- 80 80-99th percentile
+ate. Business sentiment should benefit from a shift in
+policy focus toward targeted tax cuts and deregula- 60
+tion as midterms approach, and we expect consumer
+demand to be underpinned by solid wage growth 40 Top 1%
+and healthy household balance sheets among mid-
+dle- and upper-income groups. 20 60-80th percentile
+ 40-60th percentile
+ 20-40th percentile
+We expect inflation to peak in the second quarter, at 0 Bottom 20%
+just over 3%. We expect the Federal Reserve to im- 1990 1995 2000 2005 2010 2015 2020 2025
+plement two additional rate cuts by the end of the
+first quarter, moving toward a neutral policy stance. Sources: US Federal Reserve, UBS, as of 12 November 2025
+While the appointment of a new Fed chair introduces
+some uncertainty, we expect monetary policy to re-
+main data dependent.
+
+ 23
+
+## Page 24
+
+Postcards
+from around
+the world
+
+Europe is a continent rich in opportunities yet ripe with contradic-
+tions. Some of its 44 countries rank among the most innovative,
+successful economies in the world. It attracts more international
+tourists and students than any other region. Its quality of life and
+city-attractiveness rank high. Travel to Athens, Berne, Paris, Prague,
+Rome, Vienna, or Zurich and you will find historical heritage and
+good public infrastructure. Its prolific luxury goods industry sells
+more watches, handbags, high-end cars, and other pricey goods
+than any other continent.
+
+Yet, Europe is punching below its weight. Former German Chancel-
+lor Angela Merkel’s comment, “Europe represents 7% of the
+world’s population, 25% of the world’s GDP and 50% of the Europe
+world’s social spending” still resonates. While US workers clock
+around 1,800 hours/year, the Germans only work 1,335 hours/year Burkhard Varnholt
+—four months less. Europe’s GDP and stock market capitalization
+pale in comparison to the US “Magnificent 7”. Its politics, regula- Senior Financial Markets Advisor
+tion and bureaucracy are fiendishly complex. And yet. European
+leaders are feeling the heat. Change is in the air and markets like it.
+2025’s buoyant European stock markets could be a harbinger of
+more to come.
+
+24
+
+## Page 25
+
+America’s business landscape is a study in resilience and reinven-
+tion. From bustling city startups to family­run firms in small towns,
+optimism is returning after a year of uncertainty. The policy fog
+has begun to lift, and the OBBB Act offers fresh tax incentives, an
+encouraging tailwind for companies eager to invest and expand.
+Deregulation is back on the agenda. The Trump administration
+push, especially for banks, is opening doors for entrepreneurs and
+smaller firms, while financial conditions continue to loosen. M&A
+and IPO activity is stirring, hinting at a more vibrant exit environ-
+ment for owners ready to take the next step.
+
+Contradictions remain. Weak spending by lower-income consum-
+ers tempers the mood on Main Street. Labor shortages persist in US
+key industries, shaped by shifting demographics and immigration Jason Draho
+patterns. And the relentless march of AI and trade policy disrup-
+tion keeps even the most seasoned business leaders on their toes.
+Still, the spirit of American enterprise endures. If policy clarity Head of Asset Allocation, CIO Americas
+holds and innovation continues, 2026 could mark a year where
+opportunity outweighs challenge, and business owners find them-
+selves once again in the driver’s seat.
+
+China’s landscape in 2026 is defined by both challenge and op-
+portunity. Exports remain resilient, tech demand is robust, and tar-
+geted subsidies continue to support consumer spending. The 15th
+Five Year Plan puts innovation and industrial upgrades front and
+center. The government’s commitment to doubling GDP per cap-
+ita by 2035 signals a decade of ambitious growth, but also rising
+expectations for quality, security, and global competitiveness.
+
+Trade tensions with the US persist, but China’s strategy—upgrad -
+ing domestic industries, opening new markets, diversifying supply
+chains—means nimble businesses can find new footholds. For
+those able to navigate policy shifts and invest in technology, the
+rewards could be significant. A sia
+
+Across the region, confidence is building. Tech supply chains re- Yifan Hu
+main strong, and domestic revivals across the region are opening
+doors in sectors from energy to infrastructure and finance. Chief Investment Officer Greater China
+
+The region’s dynamism is real—but so is the need to adapt quickly
+and seize the opportunities that volatility brings.
+
+ 25
+
+## Page 26
+
+Add to equities
+
+We expect global equities to rise by around 15% by the end of 2026, as markets continue to build on the
+momentum established in recent years, and we think investors underallocated to stocks should add to equities.
+Our positive views on US tech and US equities are core drivers, but we also expect performance from the
+health care, utilities, and banking sectors, as well as in Europe, Japan, China, and emerging markets.
+
+US equities
+
+The US remains the core engine for global equities, pect new clarity on drug pricing and pharma tariffs to Figure 12
+with strong earnings growth, high profitability, and support improved performance. We see upside in se- Magnificent 7 companies remain key drivers of S&P 500 earnings growth
+the accelerating impact of AI, power and resources, lect companies with exposure to large and growing Contribution to S&P 500 EPS growth, %, actuals and CIO estimates
+and longevity expected to drive 2026 performance. markets such as obesity, while the sector’s less corre-
+Healthy consumer demand, supportive monetary pol- lated earnings profile could prove valuable if eco-
+icy, and fiscal support reinforce our positive outlook. nomic growth slows. 15
+
+ 10
+We forecast S&P 500 earnings per share to reach Utilities. We also favor US utilities, with the sector
+USD 305 in 2026—up 10% year over year—and see now benefiting from AI­driven power demand and 5
+the index advancing to 7,700 by year-end. The Mag- ongoing digital infrastructure buildout. Electricity de-
+nificent 7 will continue to be major contributors, con- mand growth—driven by AI data centers and indus - 0
+tributing to around half of our earnings growth ex- trial manufacturing—is accelerating, prompting in -
+pectations. creased capital investment in power infrastructure ₋5
+ and supporting robust earnings growth. With more
+Within US equities, we also see compelling opportu- than half the sector by market cap having significant ₋10
+ 1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23 1Q24 2Q24 3Q24 4Q24 1Q25 2Q25 3Q25E 4Q25E
+nities in health care, utilities, and banking, broaden- leverage to these trends, and utilities trading at a
+ing the foundation for further gains. 18% discount to the S&P 500 with a dividend yield Magniﬁcent 7 S&P 500 ex-Magniﬁcent 7
+ of 2.7%, we see a compelling combination of
+Health care. We see the US health care sector growth and defensive income potential. Sources: FactSet, UBS, as of 12 November 2025
+emerging from a period of policy uncertainty and ex-
+
+26
+
+## Page 27
+
+Banks. Banks—in the US and globally—are increas- Europe. We upgrade European equities to Attractive,
+ ingly well­capitalized and profitable, with return on with a particular focus on the Eurozone. After three
+ equity rising to 11.5% in 2025 and further gains ex- years of stagnant earnings, profit growth should ac-
+ pected. Supported by favorable net interest margin celerate to 7% in 2026 and 18% in 2027, driven by
+ trends, improving loan growth, strong capital markets recovering goods spending, disciplined cost control,
+ activity, and potential for deregulation in some mar- and supportive ECB policy—including 200bps in rate
+ kets, we think the sector offers both attractive valua- cuts already delivered. Germany’s plan to invest over
+ tions and potential for shareholder returns. 20% of GDP in infrastructure and defense strength-
+ ens the fiscal outlook and boosts capital investment.
+ Banks are healthier, with rising loan growth, asset re-
+ Opportunities beyond the US pricing, and fee income, while Eurozone equities of-
+ fer meaningful exposure to power and resources, and
+ Beyond the US, we also see opportunities in Europe, longevity. Valuations remain reasonable: Eurozone
+ Japan, and China. stocks trade at 15.2x forward price-to-earnings—a
+ 10% premium to the long-run average— and at a
+US equities
+
+The US remains the core engine for global equities, Figure 12
+with strong earnings growth, high profitability, and Magnificent 7 companies remain key drivers of S&P 500 earnings growth
+the accelerating impact of AI, power and resources, Contribution to S&P 500 EPS growth, %, actuals and CIO estimates
+and longevity expected to drive 2026 performance.
+Healthy consumer demand, supportive monetary pol-
+icy, and fiscal support reinforce our positive outlook. 15
+
+ 10
+We forecast S&P 500 earnings per share to reach
+USD 305 in 2026—up 10% year over year—and see 5
+the index advancing to 7,700 by year-end. The Mag-
+nificent 7 will continue to be major contributors, con- 0
+tributing to around half of our earnings growth ex-
+pectations. ₋5
+
+Within US equities, we also see compelling opportu- ₋10
+ 1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23 1Q24 2Q24 3Q24 4Q24 1Q25 2Q25 3Q25E 4Q25E
+nities in health care, utilities, and banking, broaden-
+ing the foundation for further gains. Magniﬁcent 7 S&P 500 ex-Magniﬁcent 7
+
+Health care. We see the US health care sector Sources: FactSet, UBS, as of 12 November 2025
+emerging from a period of policy uncertainty and ex-
+
+ 27
+
+## Page 28
+
+22% discount to global peers. With investor enthusi- Figure 13
+asm faded and the outlook improving, we see this as Valuations are elevated but not at the peak
+an opportune entry point. Within Europe, we favor yet
+industrials, technology, and utilities, as well as “Euro- S&P 500 12-month forward P/E, with average since 1985 and maxi-
+pean leaders” positioned to benefit from both policy mum highlighted
+and structural growth.
+
+Japan. While political uncertainty may contribute to 30
+volatility in the near term, we expect more accommo- 25
+dative policies under the new government to support 20
+the market over the medium term. An earlier-than-ex-
+pected recovery in corporate earnings, improvements 15
+in returns on equity, and valuations that are lower 10
+than in other regions should also prove supportive, in 5
+our view. Japanese companies’ efforts to improve
+capital efficiency and shareholder returns may also 0
+help the market sustain its upward trajectory. 1985 1995 2005 2015 2025
+
+ S&P 500 12m fwd P/E Average since 1985
+ Dotcom peak
+
+ Sources: Reﬁnitiv Datastream, UBS, as of 12 November 2025
+
+Figure 14
+We expect upside for equity markets
+
+Overview of CIO forecasts for select price targets, valuations (current price over our forecast), earnings, and dividend yields (consensus)
+
+ Spot Target 2026 P/E 2026 EPS growth 2026 dividend yield
+ (consensus)
+
+ S&P 500 6,851 7,700 22.5x 10% 1.2%
+ Euro Stoxx 50 5,787 6,200 17.0x 7% 3.0%
+ Topix 3,359 3,600 16.6x 7% 2.3%
+ MSCI China 88 102 12.4x 14% 2.1%
+ FTSE 100 9,911 10,000 14.5x 5% 3.5%
+ SMI 12,794 13,600 17.2x 5% 3.2%
+
+Source: Refinitiv DataStream, UBS, as of 12 November 2025
+
+28
+
+## Page 29
+
+Are stocks too expensive?
+
+Global equity valuations remain elevated. The History suggests that high valuations alone
+MSCI All Country World Index trades at over 19 times rarely end a rally. For example, warnings about “ir -
+12-month forward earnings—about 30% above its rational exuberance” in 1996 came years before the
+20-year average. This premium is largely driven by Nasdaq peak, and concerns about a “QE bubble” in
+the growth of highly valued sectors like IT, which 2013 were followed by further gains. Elevated valua-
+now represent over 28% of the index, up from just tions can point to more modest long-term returns,
+11% a decade ago. and the S&P 500 may struggle to match its 9.7% av-
+ erage annual return of the past two decades. How-
+Valuations are especially high in the US. The S&P ever, markets can continue to advance as long as
+500 trades at 23 times forward earnings, near the profit growth and liquidity remain strong.
+top of its historical range. While the Nasdaq’s 30×
+trailing P/E is well below the dotcom bubble peak, it Earnings growth will be key. We expect S&P 500
+still reflects significant optimism. Outside the US, val- earnings per share to rise 11% in 2025 and 10% in
+uations are more moderate: European and Chinese 2026, supporting near-term upside. Longer term, if
+equities are 10% and 7% above their 20-year aver- AI delivers on its promise, markets have the potential
+age valuations, respectively, and Japan’s index trades to “grow into” current valuations. An AI disappoint-
+at a discount to its long-term average. ment is a key risk.
+
+ 29
+
+## Page 30
+
+Building a strategic equity portfolio
+
+Building a strategic equity portfolio requires bal-
+ancing long-term growth objectives with risk Figure 15
+management and diversification. US equities account for nearly two-thirds of
+For most investors, equities should form the the global MSCI ACWI benchmark
+core of a growth-oriented portfolio, typically Country weights in MSCI ACWI, %
+comprising 30%–70% of total assets, depend-
+ing on risk tolerance, investment horizon, and Others 14.4%
+financial goals. Regular rebalancing back to- 64.7% US
+ward a long-term target is an important part of Switzerland 2.0%
+managing risk levels and maintaining discipline. China 3.2%
+ UK 3.2%
+Regional diversification is essential. The MSCI Japan 4.9%
+All Country World Index (ACWI) offers a bench- Eurozone 7.7%
+mark. As a rule of thumb, we think exposure to
+the US should typically account for at least half
+of a global equity portfolio, with at least 20%
+in other global markets. Sources: MSCI, UBS, as of 12 November 2025
+
+We believe that investors looking to bolster po-
+tential for outperformance can consider reallo-
+cating up to 30% of an existing broadly diversi-
+fied equity portfolio toward such strategies
+linked to structural growth (see page 21). To
+further enhance diversification, investors can
+also consider incorporating exposure to quanti-
+tative or factor-based strategies alongside tradi-
+tionally constructed allocations.
+
+30
+
+## Page 31
+
+Seek opportunities
+ in China
+
+AI innovation and spending are driving strong growth in China’s tech sector, with earnings expected to rise sig-
+nificantly in 2026. This is fueling Chinese equities more broadly, helped by healthy liquidity and reasonable valu-
+ations. For investors seeking diversification, we like broader exposure to Asia, with positive trends in technology
+investment, solid earnings, and attractive valuations across the region. In particular, India and Singapore stand
+out as beneficiaries as their business cycles and corporate profits improve.
+
+China tech Chinese equities
+
+China’s tech sector ramped up innovation in 2025, Beyond technology, the broader Chinese equity out-
+with notable advances across the AI value chain. New look has improved. Economic growth may stay
+Chinese AI models have shown tech leadership, and muted, but equities should be supported by stronger
+supportive policy is reinforcing ecosystem resilience. domestic liquidity, robust earnings, and rising retail
+Despite strong performance this year, valuations re- flows. Government stimulus has been modest, but
+main at a significant discount to global peers and be- new support for manufacturing and technology is
+low historical highs, suggesting potential for rerating. likely in the upcoming Five Year Plan. Current valua-
+We expect strong earnings growth in 2026 to drive tions are above historical averages but well below
+China’s tech stocks higher (see Fig. 16), and view the prior peaks. Dips arising from US-China tensions may
+sector as a high-conviction idea within global equities. offer opportunities to build positions.
+
+ 31
+
+## Page 32
+
+A sia ex-Japan Emerging market s
+
+Positive returns for China and its tech sector should Investing in emerging markets offers not only a diver-
+also support positive returns for Asia ex-Japan equity sified way to invest in China, but also diversified ex-
+indices, and we expect double-digit returns by the posure to global AI and tech innovation beyond the
+end of 2026. A benign regional macro outlook and a US, with tech-related sectors now accounting for
+weaker US dollar should provide additional support. over 40% of the MSCI EM Index. We expect high-
+Positive AI capex developments across Asia are a single-digit returns for EM equities by the end of
+growth tailwind, earnings growth is solid, and the 2026, supported by a constructive macro backdrop,
+breadth of revisions continues to improve. Regional Fed easing, and a softer US dollar—all of which im-
+valuations look appealing, trading at a discount to prove financial conditions and attract capital flows.
+global peers. Beyond mainland China, India should
+benefit from rising corporate profits, Singapore from
+shareholder value initiatives, and Hong Kong from
+lower interest rates.
+
+Figure 16
+China’s tech sector should rise amid strong earnings growth in 2026
+
+Hang Seng Tech 12­months trailing EPS (lhs) and price index (rhs), including CIO estimates
+
+600 10,000
+
+ 8,000
+400 6,000
+
+200 4,000
+
+ 2,000
+
+ 0 0
+ 1Q21 3Q21 1Q22 3Q22 1Q23 3Q23 1Q24 3Q24 1Q25 3Q254Q26E4Q27E
+
+ 12-month trailing EPS (lhs) Hang Seng Tech Index (rhs)
+
+ Sources: Bloomberg, UBS, as of 12 November 2025
+
+32
+
+## Page 33
+
+Favor
+ commodities
+
+Commodities are set to play a more prominent role in portfolios in 2026. Our forecasts point to attractive returns,
+supported by supply-demand imbalances, heightened geopolitical risks, and long-term trends like the global
+energy transition. Because commodities have historically shown low correlation with equities and bonds, they
+can help cushion portfolios during periods of market stress. Within the asset class, we see particular opportuni-
+ties in copper, aluminum, and agricultural commodities, while gold remains a valuable diversifier.
+
+Precious metals
+
+Precious metals have had an exceptionally strong run mains a valuable hedge, supported by central bank
+in 2025 as political and economic uncertainty drove buying, large fiscal deficits, and ongoing geopolitical
+“safe-haven” demand. A late-2025 consolidation risks. Silver also benefits from rising demand in elec-
+was unsurprising after such a rapid rally, but we see tronics and photovoltaics.
+further upside to gold and silver in 2026. Gold re-
+
+Figure 17
+Commodities performance was mixed in 2025
+
+Total returns index for select commodity classes, rebased since 2025
+
+ 180
+
+ 160
+ 140 Precious metals
+
+ 120
+
+ 110 Industrial metals
+
+ 100 Agriculture
+ Energy
+ 80
+ Jan 2025 Apr 2025 Jul 2025 Oct 2025
+
+Sources: Bloomberg, UBS, as of 12 November 2025
+
+ 33
+
+## Page 34
+
+Energ y minum are projected to encounter further supply
+ shortages that may push prices higher. The global
+Oil prices have lagged other commodities in 2025 transition to clean energy and electrification contin-
+amid slower-than-expected demand growth and am- ues to drive demand for these metals, making them a
+ple supply from the Americas. That said, we expect a key structural investment.
+combination of stalling supply growth in non­OPEC+,
+and a modest demand recovery to push prices mean-
+ingfully higher from mid-2026. Energy commodities Agriculture and livestock
+can also offer a hedge against geopolitical shocks,
+especially in the Middle East. After a year of poor performance, we believe agricul-
+ tural commodities offer a compelling entry point. On-
+ going tightness in cocoa and coffee, and emerging
+Industrial metals weather-related risks in grains could drive higher
+ prices over the year ahead. Investors should consider
+Industrial metals performed well in 2025, especially agriculture for its improving fundamentals and low
+copper, which benefited from supply disruptions correlation to economic cycles. For livestock, record-
+linked to operational, geopolitical, and environmental low female cattle numbers and shrinking hog mar-
+issues. Looking ahead to 2026, both copper and alu- gins in the US are supportive for prices.
+
+Building commodities into a portfolio
+
+Commodities can play a valuable role in portfo- Investors can access commodities through diver-
+lios, but they can face periodic volatility. Returns sified indices, ETFs, or structured investments,
+are strongest when supply-demand imbalances but should be aware of unique risks such as
+or macro risks—like inflation or geopolitical price swings and costs associated with futures
+events—are elevated. In such periods, broad or physical holdings. Commodities have also ex-
+commodity exposure can help diversify portfo- perienced long periods of strong out- and un-
+lios and protect against shocks. When the out- derperformance versus equities. Hence, we gen-
+look is favorable, we typically suggest an up to erally see them as a tactical, not permanent,
+5% allocation to a diversified commodity index. component of a long-term portfolio.
+
+34
+
+## Page 35
+
+Income
+
+ 35
+
+## Page 36
+
+How will gover nments
+manage rising debt?
+
+In some countries, current policies mean government spending is at
+“escape velocity” and will continue rising as a share of GDP unless deci-
+sive action is taken. We believe “financial repression”—a regime that
+channels savings and central bank funds into government bonds, sup-
+pressing yields—is likely to become more common in coming years.
+
+Rising government debt is one of the defining macro- cial crisis and COVID­19 pandemic, but we see the
+economic challenges of the decade. The International upward trend continuing. The IMF estimates debt lev-
+Monetary Fund (IMF) estimates G7’s gross govern- els could climb to 137% of GDP by 2030, driven by
+ment debt to reach around 126% of GDP this year, aging populations (which trigger higher spending and
+up from 85% two decades ago. This surge largely re- a smaller tax base) and increased defense spending.
+flects extraordinary shocks, including the 2008 finan-
+
+Figure 18
+Government debt is projected to keep rising
+
+G7 economies‘ gross government debt, % of GDP, including IMF projections
+
+150
+ IMF projections
+
+130
+
+110
+
+ 90
+
+ 70
+ 2001 2009 2017 2025E
+
+Sources: IMF, Bloomberg, UBS, as of 12 November 2025
+
+36
+
+## Page 37
+
+A risk is that debt could reach its own “escape veloc- Financial repression
+ity,” where persistent deficits and higher interest Rather than relying solely on politically difficult spend-
+costs make it hard to bring debt levels back to earth. ing cuts or tax hikes, we believe a more subtle, likely
+ pervasive approach is “financial repression,” which
+In this environment, the question is not whether gov- refers to policies that keep interest rates artificially
+ernments will act, but how—and what those choices low, making borrowing costs more manageable.
+mean for investors.
+ Financial repression is about managing demand for
+ government debt through mechanisms like bank,
+Potential polic y responses pension, and insurance rules, as well as central bank
+ purchases. By doing so, governments indirectly “tax”
+Fiscal consolidation cash savers by reducing real returns. As a result of
+The textbook solution is fiscal consolidation—raising such policies, central bank balance sheets have al-
+taxes or cutting spending to reduce deficits. Partisan ready grown substantially in the past 20 years, and
+divides make consensus difficult. France’s attempts at we expect them to remain high (see Fig. 19).
+modest deficit reduction in 2025 were blocked by a
+polarized parliament. In the US, deficit reduction has
+not been a priority for either major party, and Japan’s Market implications
+ruling LDP has chosen further fiscal stimulus instead
+of austerity. Meaningful fiscal consolidation is likely For investors, an immediate risk is that concerns over
+to remain the exception. debt sustainability and credit rating cuts could trigger
+ periodic volatility in bond yields. However, we believe
+Skewing the maturity profile that interventions will become more frequent to help
+Another tactic is to shift government borrowing to- stabilize or lower yields.
+ward shorter maturities. By issuing more short-term
+debt, governments avoid locking in high borrowing Over the medium term, more frequent interventions
+costs for decades, hoping that rates will fall or fiscal are likely to anchor interest rates and bond yields at
+conditions will improve. While this can buy time, it lower levels than debt fundamentals might suggest.
+also increases rollover risk and leaves governments Aggressive yield suppression may increase FX volatil-
+more exposed to future inflation and yield spikes. Ul- ity, as currencies absorb more of the adjustment. His-
+timately, this postpones rather than solves the under- torically, exchange rates were fixed and bond yields
+lying problem. floated. Today, both are market­determined, but we
+
+ 37
+
+## Page 38
+
+may be moving toward a regime of more fixed bor- * Diversify income and return sources: With public
+rowing costs, with currencies absorbing more of the debt potentially facing periods of volatility a diver-
+adjustment. sified approach to income generation is essential.
+ Greater central bank intervention could also in-
+ crease equity-bond correlations, increasing the im-
+What does it mean for investors? portance of alternatives in a portfolio.
+
+* Asset prices could rise initially: If governments and * Consider currency risk: If yields are increasingly
+ central banks increasingly intervene to manage fixed, currency markets may become the primary
+ yields, equities, government bonds, and commodi- shock absorbers for rising debt. For investors, a
+ ties could perform strongly (in local currency terms) strategic approach to currency exposure will be key
+ in the immediate aftermath, as real yields fall. to avoiding asset-liability mismatches.
+
+Figure 19
+Central bank balance sheets have grown substantially over the past two decades
+
+Fed, ECB, and Bank of Japan balance sheets, total assets in USD bn
+
+10,000
+
+ 8,000
+ ECB
+ 6,000 Fed
+
+ 4,000 BoJ
+
+ 2,000
+
+ 0
+ 2000 2005 2010 2015 2020 2025
+
+Sources: Bloomberg, UBS, as of 12 November 2025
+
+38
+
+## Page 39
+
+Seek diversified
+ income
+
+The mix of tight credit spreads, uncertainties about government debt, and emergent stresses in credit markets
+suggest investors need to take a nuanced and diversified approach to yield generation. We believe this should
+include a mix of high grade and investment grade bonds, equity income strategies, and yield generating struc-
+tured investments, as well as select exposure to private credit.
+
+Qualit y bonds
+
+We believe quality bonds—specifically high grade Figure 20
+government and investment grade corporate Quality bonds should deliver attractive
+bonds—have an important role as a source of yield returns in adverse scenarios
+and diversification in 2026. We expect medium­dura-
+tion quality bonds (four to seven years) to deliver CIO December 2026 forecasts for returns on 10­year US investment
+ grade by scenario
+mid-single-digit returns, from a mix of yield and capi-
+tal appreciation as the Fed cuts rates. We expect
+quality bond returns to exceed cash rates, especially
+in adverse scenarios where bond prices rise as rate
+expectations fall. Investors in economies with low or Tech boom Solid growth Disruption
+zero interest rates may not derive much income from
+quality bonds, but should remember their portfolio 3% 7%6%
+diversification benefits as a reason to hold them.
+
+ Source: UBS, as of 12 November 2025
+
+ 39
+
+## Page 40
+
+Diversified fixed income strategies Selec t direc t lending
+
+We are more cautious on riskier parts of fixed income Private credit has attracted significant inflows in re-
+like high yield given very tight spreads. Nonetheless, cent years as investors seek higher returns. We be-
+we see merit in diversified fixed income strategies for lieve the asset class offers strong long­term income
+investors looking to earn higher returns from fixed in- potential. However, tight spreads—where lenders
+come. By combining investment grade bonds and se- earn only modest compensation for the risks borne—
+lect high yield and emerging market debt in a risk- as well as pockets of financial stress necessitate care-
+controlled way, investors can enhance yield while ful selection. We recommend limiting excessive expo-
+managing credit and duration risks. sure in the lower middle-market segment (smaller
+ companies), where risks are rising. We like sponsor-
+ backed loans (to private equity­owned firms) and se-
+ nior loans (with repayment priority), and believe in-
+ vestors should focus on larger companies and sectors
+ that are less sensitive to economic swings and carry
+ less debt.
+
+Figure 21
+High yield bond spreads remain at historically tight levels
+
+ICE BofA US high yield bond index, spreads in bps
+
+ 1,200
+
+ 1,000
+
+ 800
+
+ 600
+
+ 400
+
+ 200
+ 2010 2015 2020 2025
+
+Source: ICE BofA, UBS, as of 12 November 2025
+
+40
+
+## Page 41
+
+Equit y income Yield­generating struc tured
+ inves tment s
+Income-seeking investors in markets where bond
+yields are low or credit spreads are tight may find bet- We believe investors should also consider yield-gen-
+ter income generation opportunities in equity strate- erating structured investments, especially as interest
+gies, including both dividends and options strategies. rates drop. These structures—such as equity-linked
+Our preferred markets for dividend strategies are notes—offer a yield in exchange for the obligation to
+Switzerland, where high-quality dividend stocks yield buy an instrument at a predefined lower price. Lower
+about 4%, well above local bonds; and Southeast rates make these structures relatively more attractive,
+Asia, where average dividend yields also stand north although low volatility can mean option premiums
+of 4%. Equity income strategies that combine divi- and yields are reduced. We recommend careful atten-
+dend strategies with systematic option-selling could tion to liquidity, issuer, and market risks within a di-
+generate even higher yields, enhance diversification of versified portfolio.
+returns, and offer a more resilient income stream
+across cycles.
+
+Building a fixed income portfolio
+
+A robust fixed income allocation provides stabil- Duration measures how sensitive bond prices
+ity and income while managing risk. Allocating are to interest rate changes. We believe an aver-
+between 15% and 50% of total assets to fixed age duration of five to seven years balances risk
+income is a typical benchmark, tailored to risk and return for long-term investors, especially
+tolerance, income needs, and investment hori- when rates are expected to change gradually.
+zon. Higher allocations suit those prioritizing
+stability; lower allocations fit growth­oriented We recommend diversifying across developed
+investors. Regular rebalancing is needed to keep market government bonds (for stability), corpo-
+allocations on target as markets, maturities, and rate and emerging market bonds (for higher in-
+coupon payments can shift portfolio weights. come), and, in low-yield environments, supple-
+ menting with equity income and yield-generating
+Currency risk can be a bigger contributor to re-structured investments—such as equity-linked
+turns in fixed income than in other asset classes.notes—to support portfolio income.
+We therefore recommend aligning holdings with
+an overall currency strategy, using a mix of cur-
+rency-hedged funds, local bonds, and interna-
+tional bonds to manage this risk.
+
+ 41
+
+## Page 42
+
+Our currency views for 2026
+
+Entering 2026, we see persistent US twin deficits and declining interest rates continuing to
+weigh on the dollar, especially as rates elsewhere remain stable. Against this backdrop, we
+favor long positions in the euro, Australian dollar, and Norwegian krone versus the USD. Our
+preference is for high­yielding currencies, which should benefit as risk appetite broadens in FX
+markets over the next year.
+
+USD EUR
+We expect US dollar weakness to persist into the first With the European Central Bank likely at its terminal
+half of 2026. As the Federal Reserve’s rate cuts pause rate, we expect policy to remain on hold for the com-
+and policy rates inch lower toward 3%, downward ing quarters. As France’s political uncertainty fades,
+pressure on the dollar should ease somewhat. How- the euro should regain ground against the dollar,
+ever, a strong USD recovery remains unlikely: The cur- with Germany’s fiscal stimulus and potential for pri-
+rency’s elevated valuation, persistent fiscal and cur- vate sector re-leveraging also providing support. That
+rent account deficits, and ongoing efforts by global said, EUR upside may be capped if Asian currencies
+institutions and private investors to diversify away remain closely tied to the USD, as a stronger euro
+from the dollar all present structural headwinds. could limit Europe’s competitiveness globally.
+
+ CHF
+ The Swiss National Bank has reaffirmed its stance on
+Figure 22 negative rates, and market expectations now align
+Institutions are reducing dollar exposure with our view of no further cuts. The SNB’s tone will
+Bloomberg Intelligence USD share of global foreign currency reser- likely be shaped more by global developments than
+ves, in % domestic factors. We expect EURCHF to remain sta-
+ ble or edge higher, suggesting the Swiss franc should
+65 underperform the euro and other higher-yielding cur-
+ rencies on a total return basis, given its strong yield
+60 disadvantage.
+
+55
+ GBP
+50 The pound remains sensitive to fiscal uncertainty but
+ offers attractive carry, in our view. We anticipate only
+45 two Bank of England rate cuts in 2026, meaning that
+
+40 UK yields are likely to stay above US and Eurozone
+ 2000 2005 2010 2015 2020 2025yields in the coming months. Accordingly, we expect
+ the GBP to deliver positive returns against the USD
+ and the UK’s fiscal challenges to keep the GBP steady
+Sources: Bloomberg, UBS, as of 12 November 2025 against the euro, which we believe will rise on fiscal
+ spending.
+
+42
+
+## Page 43
+
+JPY Figure 23
+Prime Minister Sanae Takaichi’s late-2025 election led USD is expected to underperform all G10
+to pressure on the yen due to expectations of loose currencies on a spot basis
+fiscal and monetary policies. With these expectations CIO estimates for spot appreciation of major currencies against the
+now largely priced in, we expect a gradual yen recov- USD by end-2026, %
+ery versus the USD in 2026 amid further narrowing in
+US­Japan yield differentials. 9
+
+ 8
+CNY 7
+The yuan strengthened against the dollar in 2025.
+We expect this to continue into 2026, supported by 6
+progress in US-China trade talks, the central bank 5
+guiding CNY fixings stronger, the ongoing conversion 4
+of elevated onshore FX deposits into local currencies, 3
+and a resilient current account. 2
+
+ 1
+AUD 0
+We believe the Australian dollar offers attractive carry NOK SEK AUD JPY NZD CAD EUR CNY GBP CHF
+and solid fundamentals in 2026. Resilient commodity
+exports and a neutral stance from the central bank Source: UBS, as of 12 November 2025
+should be supportive for the currency. Moreover, with
+Australia’s sound fiscal position and the cash rate
+now on hold, yield differentials should become more
+favorable, while we also see greater stability in Chi-
+nese growth. We rate the AUD as Attractive and ex-
+pect positive returns for the AUDUSD pair.
+
+Building the right currency exposure
+
+Currency markets have been volatile in 2025, ommend diversifying across major currencies to
+and with governments and central banks likely preserve long-term global purchasing power.
+to intervene more to manage yields and debt in This means not relying on a single reference
+the future, volatility may remain high. Aligning currency, but spreading exposure across curren-
+a portfolio’s currency mix with expected future cies with strong fundamentals. We suggest con-
+spending reduces the risk that currency swings sidering metrics such as long-term valuation
+will undermine financial goals. trends, safe-haven status, the issuing country’s
+ current account balance, the currency’s share of
+For globally oriented investors, or those with as- global trading, and reserve currency status.
+sets far exceeding future consumption, we rec-
+
+ 43
+
+## Page 44
+
+What about crypto?
+
+Crypto like Bitcoin has become more accessible, regu- tional investor adoption. For now, for those who be-
+latory recognition is rising, and the assets are viewed lieve in the long-term potential of crypto, a small,
+by some investors as long-term “buy-and-hold” op- buy-and-hold allocation may be appropriate, but it
+portunities, similar to gold or equities. While adding should only represent a modest portion of a portfo-
+crypto to a traditional portfolio has sometimes im- lio. With risks still significant, any crypto position
+proved returns in recent years, this comes with impor- should be sized so that even a total loss would not
+tant caveats. Crypto remains highly volatile, and a materially affect an investor’s overall investment plan
+short history makes extrapolation challenging. or risk profile.
+
+There is a path by which crypto could become a more
+established part of investor portfolios, including by
+becoming less volatile, with more stable correlations
+to other assets, and with more widespread institu-
+
+This report is for educational purposes only, as UBS does not provide any investment recommendations on digital assets. Digital
+assets can exhibit significant price volatility, face liquidity challenges, encounter uncertain regulations, and may be susceptible to
+bugs and fraud. Investors therefore face the risk of a significant or total loss of capital. Risk tolerance is therefore an important con-
+sideration for such assets.
+
+44
+
+## Page 45
+
+Diversification
+
+ 45
+
+## Page 46
+
+How will politics shape
+markets in 2026?
+
+Political headlines will remain front and center in 2026, but history sug-
+gests their impact on financial markets is often short­lived. While trade
+policy, domestic politics, and geopolitics contributed to volatility in 2025,
+investors have since refocused on solid economic fundamentals, falling
+interest rates, and structural growth trends like AI.
+
+Trade polic y will stay in the spotlight Senate seats up for grabs. While political rhetoric may
+ intensify, history suggests markets typically look past
+The US Supreme Court is set to rule on the adminis- election cycles. Current odds suggest a divided Con-
+tration’s use of IEEPA for tariffs, potentially affecting gress, which would likely result in legislative gridlock
+around 70% of tariff revenue. If current tariffs are and limit the scope for major policy changes on trade,
+overturned, new, more targeted tariffs are likely, in- fiscal stimulus, or financial regulation.
+creasing policy uncertainty and volatility, especially if
+trading partners retaliate. However, a divided US
+Congress—probable after the midterms—could limit Globally, political risks persist
+major shifts in trade policy.
+ In Europe, attention will center on political stability in
+ France and the UK, while the Russia-Ukraine war and
+Leadership changes are also in focus tensions in the Middle East are likely to persist. In
+ Latin America, elections in Chile, Colombia, Peru,
+The Fed will get a new chair in 2026, with challenges and Brazil could reinforce the region’s shift toward
+ahead given high inflation and debt, but we expect right-leaning governments. Asia’s political calendar is
+monetary policy to remain broadly supportive for mar- quieter, but Japan’s fiscal policy decisions and China’s
+kets. The US midterm elections in November will add new Five Year Plan—emphasizing growth, security,
+to headline risk, with all House seats and one-third of and technology—will be closely watched.
+
+46
+
+## Page 47
+
+Key risks
+
+What risks could bring markets back to earth in the year ahead? The most prominent in our
+view are: 1) a potential disappointment in AI progress or adoption, 2) a resurgence or persis-
+tence of inflation, 3) a more entrenched phase of US­China strategic rivalry, and 4) the (re)
+emergence of sovereign or private sector debt concerns.
+
+An AI disappointment US-China conflict
+We believe current investor enthusiasm for AI is justi- The US­China rivalry intensified in 2025. Ongoing
+fied by strong capital spending, innovation, and competition suggests further brinkmanship will re-
+adoption. But valuations are high, markets have ral- main a risk through 2026, especially around tariffs,
+lied strongly, and no investment boom has ever seen rare earth exports, and AI chip sales. So far, escala-
+capital spending perfectly match future demand. The tions have ended in negotiated agreements, reflect-
+AI rally may face periods in 2026 when investors fear ing incentives to avoid prolonged disruption.
+excess investment, bottlenecks, or obsolescence.
+Broader risks could emerge if refinancing dries up, Debt concerns
+triggering defaults or threatening financial stability. In 2025, global bond investors repeatedly flagged ris-
+ ing government debt, with episodes of higher yields
+A return of inflation in the US, France, Japan, and the UK. If governments
+The inflation impact of US tariffs has matched expec- fail to reassure markets on borrowing and inflation
+tations, though tariff evasion may be higher than an- risks, or pressure central banks to cut rates, yields or
+ticipated. A risk for 2026 is that second-round ef- currency volatility could rise. Rapid yield increases
+fects—US companies raising prices or profit­driven would pose risks to equity markets. Investors should
+inflation—could make inflation more persistent and also monitor both public and private credit markets,
+harder for the Fed to ignore, limiting its ability to re- where tight spreads and looser lending standards
+spond to risks and potentially keeping long-term may have created vulnerabilities.
+yields elevated.
+
+Figure 24
+Several factors could lead to market weakness
+
+Illustration of potential key market risks for 2026, with dotted lines depicting indirect influence
+
+ Economic
+ weakness Market weakness AI
+ disappointment
+
+ Debt US-China
+ concerns conﬂict
+
+ A return of
+ inﬂation
+
+Source: UBS, as of 12 November 2025
+
+ 47
+
+## Page 48
+
+Scenarios
+
+ Bull scenario (Tech boom) Base case (Solid growth) Bear scenario (Disruption)
+
+ AI Robust, broad-based AI spend- Solid AI investment continues, AI investment stalls or contracts
+ ing and rapid adoption. Moneti- with steady adoption and grad- due to disappointing monetiza-
+ zation exceeds expectations, ual monetization. Productivity tion, technical setbacks, or obso-
+ driving productivity and corpo- gains are incremental, support- lescence. Corporate caution
+ rate profits. “Agentic” and ing business sentiment but not leads to reduced capex and
+ physical AI applications acceler- transforming macro growth. slower adoption.
+ ate, fueling optimism and fur-
+ ther investment.
+
+ Economy US growth outpaces trend, led US grows at its 2% trend rate; US growth slows sharply—be -
+ by strong consumption and labor market softens but unem- low trend or even flat—due to
+ business investment. Unemploy- ployment stays below 5%. Con- lagged tariff impacts, weaker
+ ment remains low, wage growth sumption is resilient. Growth in consumption, and spillover ef-
+ is healthy. Other major econo- Europe and China is supported fects. Other major economies
+ mies benefit from global tech by targeted fiscal stimulus. also weaken; risk of recession
+ spillovers and easing trade ten- rises.
+ sions.
+
+ Policy US tariffs fall below 10%, reduc- Fed cuts rates toward 3-3.5% as Central banks respond aggres-
+ ing trade friction. Possible Rus- inflation stabilizes near targets. sively: Fed cuts 200–300bps.
+ sia­Ukraine ceasefire boosts US tariffs remain in the high Policy focus shifts to crisis man-
+ global sentiment. Central banks teens, but retaliation is limited. agement. Credit spreads widen.
+ maintain or tighten policy only Fiscal stimulus in Europe and Trade tensions and inflation risks
+ modestly; credit spreads tighten. China supports growth. persist.
+
+ Targets (December 2026)
+
+ MSCI AC World 1,450 1,350 830
+ S&P 500 8,400 7,700 4,500
+
+ EuroStoxx 50 6,800 6,200 4,400
+
+ SMI 14,600 13,600 10,500
+ MSCI EM 1,640 1,560 1,070
+
+ Fed funds rate (upper bound) 4.00 3.50 1.50
+ US 10y Treasury yield (%) 4.75 3.75 2.50
+
+ EURUSD 1.14 1.20 1.26
+
+ EURCHF 0.98 0.95 0.90
+ Gold* USD 3,700/oz USD 4,300/oz USD 4,900/oz
+
+* Gold is a safe-haven asset whose price tends to rise when risk assets, such as equities, fall, and vice versa.
+Note: asset class targets above refer to the respective macro scenarios. Individual asset prices can be influenced by factors not reflected in the macro scenarios.
+Source: UBS, as of 12 November 2025
+
+48
+
+## Page 49
+
+Hedge
+ market risks
+
+Investors should consider a diversified approach to hedging market risks. Holding sufficient liquidity can help
+investors avoid forced selling. Quality bonds offer attractive yields and can buffer portfolios. Gold’s diversifica-
+tion benefits remain important. Periods of low volatility can also provide an opportunity to lock in gains while
+maintaining upside potential through structured investments.
+
+Build a liquidit y strategy
+
+Holding cash or safe short-term instruments allows to seize opportunities and the confidence to invest
+investors to meet obligations without selling assets at for growth. We recommend holding enough liquidity
+depressed prices—critical if markets tilt toward our to cover up to five years’ expected withdrawals, given
+downside scenarios. Liquidity also provides flexibility that bear market recoveries can take time. Alterna-
+
+Figure 25
+Markets have historically tended to recover from bear markets within five years
+
+Number of years for recovery from bear market, illustrated on the S&P 500 index since May 1946, in log scale
+
+ 6.2
+
+ 4.4
+ 3.4 3.5
+ 2.3 2.0
+ 1.3 1.8
+ 0.6
+
+ 1946 1961 1968 1972 1987 2000 202020072022
+
+Sources: Bloomberg, UBS, as of 12 November 2025
+
+ 49
+
+## Page 50
+
+tively, investors may consider establishing a lending Substitute direct equity exposure for
+facility, which can provide access to funds without capital preser vation strategies
+the need to liquidate investments during periods of
+market stress. Capital preservation strategies can limit downside risk
+ while allowing some participation in upside. While
+ returns may be capped in strong markets, such strat-
+Get your asset allocation right, egies reduce drawdowns and support long-term
+including qualit y bonds and wealth preservation. Replacing some direct equity po-
+ sitions with these strategies can make portfolios
+alternatives more resilient to volatility and shocks.
+
+Strategic asset allocation is the most effective long­
+term hedge against market risk. Diversifying across Include an allocation to gold
+equities, fixed income, and alternatives can help re-
+duce portfolio volatility and limit the impact of Gold has historically been an effective portfolio hedge
+shocks—whether from AI disappointment, inflation, during market stress, inflation fears, or geopolitical
+or debt-driven yield spikes. We recommend adequate uncertainty. Its low correlation with equities and
+allocations to government bonds, which tend to rally bonds means it can appreciate when risk assets de-
+during periods of lower growth, and alternatives with cline, offsetting losses elsewhere. While gold does
+low correlation to equities for added stability. not generate income and its protective behavior is not
+ guaranteed in every downturn, we believe a modest
+ allocation—of up to 5% of total assets—can enhance
+ diversification and buffer against systemic risks.
+
+Figure 26
+Diversified portfolios can limit drawdowns
+
+Drawdown analysis for equities (MSCI ACWI), bonds (Bloomberg Global Aggregate IG index), and a 60/40 portfolio
+
+ 0
+
+ –20
+
+ –40
+
+ –60
+
+ 1990 2005 20101995 2000 2015 2020 2025
+
+ Stocks Bonds 60/40
+
+Sources: Bloomberg, UBS as of 12 November 2025
+
+50
+
+## Page 51
+
+Diversify with
+ alter natives
+
+Including alternatives can enhance diversification, provided investors understand their liquidity needs and the
+features of the asset class. We recommend a 20-40% allocation in endowment-style portfolios. For 2026, we see
+hedge funds benefiting from low stock correlation, high return dispersion, and increased M&A activity; in private
+equity, our focus is on middle-market buyouts, carveouts, and secondaries, while select direct lending and private
+real estate and infrastructure offer attractive income, diversification, and exposure to structural trends.
+
+Hedge funds Private equit y
+
+The environment of low stock correlation and high With central banks easing and fiscal policy remaining
+return dispersion—key drivers of hedge fund alpha— pro-growth, we expect increased distributions and
+remains in place and should support performance in exits, supporting private equity returns. In a world of
+2026. We believe that equity market neutral strate- lower rates and high public market valuations, we fo-
+gies can enhance portfolios due to their ability to cus on middle-market, value-based buyouts, complex
+generate returns in both rising and falling markets, carveouts, and secondary funds, with a preference
+while limiting directional exposure. We also see ap- for regional diversification in Europe and Asia to miti-
+peal in global macro and multi-strategy funds, given gate local risks. The supportive macro backdrop and
+their flexibility to benefit from economic trends and favorable liquidity conditions should help private eq-
+risks like persistent inflation, trade tensions, or debt uity managers navigate elevated valuations and con-
+sustainability concerns. Meanwhile, the resurgence in centrated market leadership.
+M&A activity is creating fresh opportunities for
+merger arbitrage strategies.
+
+ 51
+
+## Page 52
+
+Selec t direc t lending Private real estate and infrastruc ture
+
+Private credit headlines highlight the need for quality Reliable, inflation­linked cash flows and exposure to
+and selectivity. While tighter spreads and Fed rate structural trends make these appealing portfolio as-
+cuts have moderated returns, we believe direct lend- sets in our view. We favor digital infrastructure, re-
+ing still offers attractive income and diversification for newables, logistics, living sectors, and data centers,
+under-allocated investors. Risks are mainly contained with a preference for core and core-plus assets that
+to lower-middle-market borrowers; senior, sponsor- derive a greater share of returns from income rather
+backed loans to larger, less cyclical companies remain than capital appreciation.
+resilient, in our view. Careful sizing and manager se-
+lection are essential, and those with outsized alloca-
+tions should consider diversifying into other alterna-
+tive investments.
+
+Building an effective alter natives allocation
+
+Investors with a long-term horizon and an “en- investors can access varied sources of return
+dowment” investment style may benefit from and reduce potential downside risk. A balanced
+allocating up to 20-40% of their portfolios to approach ensures the portfolio remains resilient
+alternatives such as hedge funds, private mar- and adaptable to changing market conditions.
+kets, and infrastructure. The optimal allocation
+depends on individual risk tolerance, liquidity Manager selection is especially important in al-
+needs, and long-term objectives, but a well- ternatives. Investors should therefore prioritize
+structured alternatives allocation can enhance high-quality hedge funds with strong track re-
+diversification and improve risk­adjusted re- cords, private market funds with robust gover-
+turns. nance and expertise, and infrastructure assets
+ offering stable cash flows. Those making
+Effective diversification across alternative strate- smaller allocations may benefit from fund­of­
+gies is essential to maximize their benefits, in funds or evergreen solutions, while larger inves-
+our view. By investing in a mix of hedge funds, tors may prefer a diversified selection of single
+private equity, private credit, and infrastructure, managers.
+
+52
+
+## Page 53
+
+Building a
+robust portfolio
+
+ 53
+
+## Page 54
+
+Building a robust
+portfolio
+
+By building a clear plan, putting cash to work, building a strong portfolio
+core across equities, fixed income, and alternatives, and selectively hedg-
+ing against risks and seizing market opportunities, we believe investors
+can position themselves to thrive in 2026 and beyond.
+
+√ Get your plan right
+
+Having a clear plan, which aligns financial goals and * A Longevity strategy to deliver the required growth
+needs with portfolios, can help investors navigate and income to meet financial goals throughout an
+risks and capture opportunities with confidence. We investor’s lifetime.
+believe investors should segment portfolios into Li-
+quidity. Longevity. Legacy strategies. * A Legacy strategy to maximize wealth for future
+ generations, supporting philanthropic and family
+* A Liquidity strategy to ensure cash is available to goals.
+ meet short­term expenses and buffers against mar-
+ ket volatility. Annual portfolio reviews as part of a plan help ensure
+ investment strategies remain aligned with evolving
+
+Figure 27
+Building a plan can help navigate markets
+
+The Liquidity. Longevity. Legacy. framework
+
+ The next 5 years - Beyond your
+ 3-5 years lifetime lifetime
+
+ Liquidity Longevity Legacy
+
+ Cash ﬂow for For longer-term For needs that go
+ short-term expenses needs beyond your own
+
+* Time frames may vary. Strategies are subject to individual client goals, objectives and suitability. This approach is not a promise or guarantee that wealth,
+or any financial results, can or will be achieved.
+Source: UBS, as of 12 November 2025
+
+54
+
+## Page 55
+
+goals and risk profiles. Specialist engagement— Once investors have enough set aside in a Liquidity
+across investment advice, wealth planning, and leg- strategy, they can invest surplus funds for long-term
+acy strategies—can uncover new opportunities and growth. Holding too much cash can slow portfolio
+address complex needs. growth—historically, portfolios with 25% in cash
+ have lagged those with just 5% in cash by over 25
+ per centage points in the past 15 years.
+√ Put cash to work
+ Opening and/or utilizing borrowing capacity, may
+To get the most from one’s Liquidity strategy, inves- also help investors limit cash drag and/or avoid selling
+tors can divide it into three parts: everyday cash (for long-term assets.
+daily spending), core liquidity (for upcoming ex-
+penses), and investment cash (for longer-term needs).
+This can help investors retain flexibility while also √ Strengthen your core
+seeking higher returns in longer-term parts of the
+strategy. As investors deploy cash, we believe they should first
+ focus on building a core portfolio that delivers
+ growth, income, and diversification.
+Figure 28
+Excess cash exposure can diminish portfolio * Equities. We think investors should add to equities
+returns in 2026. A strategic equity portfolio typically allo-
+
+Relative underperformance of portfolio with 25% vs. 5% cash, remaining al- cates 30­70% of total assets, diversifies regionally
+location split 60/40 across global equity and bonds, % (at least half in US equities, at least 20% global),
+
+ 5 and is regularly rebalanced. Allocating up to 30%
+ to a diversified mix of structural growth strategies
+ 0 such as AI and power and resources could enhance
+
+ –5 return potential.
+
+–10
+ * Fixed income. Investors can complement their
+–15 equity allocation with a robust fixed income alloca-
+
+–20 tion by setting the right level (typically 15-50%),
+–25 aligning with one’s currency plan, and targeting a
+–30 five­ to seven­year duration. To diversify income
+ 2010 2015 2020 2025sources, investors should balance across govern-
+ ment bonds, credit, and private credit, and con-
+ sider alternative income strategies (including in
+Sources: Bloomberg, UBS, as of 12 November 2025 equities for investors in low yield regions).
+
+ 55
+
+## Page 56
+
+* Alternatives. We believe allocating to alternatives— √ Seek tactical opportunities
+ hedge funds, private markets, and infrastructure—
+ can enhance diversification and risk­adjusted With a strong core portfolio sufficient to meet life-
+ returns. style needs and effective hedging measures in place,
+ investors who wish to pursue additional growth can
+ confidently seek opportunities, in a risk­controlled
+√ Hedge market risks way.
+
+If desired, investors can further “protect their core” For 2026, we see attractive prospects for equity mar-
+by implementing individual hedging strategies. This kets; particularly in technology, banking, health care,
+could include substituting some of the direct equity and utilities sectors, as well as broad commodity indi-
+exposure with capital preservation strategies. ces and select currencies, including the Australian
+ dollar and euro.
+Additionally, a modest allocation to gold (for exam-
+ple, up to 5%) can help provide an additional hedge
+against market stress and systemic risks.
+
+Figure 29
+Strengthen your core
+Illustration of what to consider in a “core” investment approach
+
+Duration management Regular rebalancing
+
+ Align with currency plan Regional diversiﬁcation
+ Fixed income Equities
+
+ Credit diversiﬁcation Core Exposure to structural growth
+
+ Alternatives
+
+ Build an appropriate allocation Diversiﬁcation across strategies
+
+ Manager selection
+
+Source: UBS, as of 12 November 2025
+
+56
+
+## Page 57
+
+Looking back and
+looking ahead
+
+ 57
+
+## Page 58
+
+2025 in review
+
+ Economy Equities
+
+In our Year Ahead 2025 publication, we anticipated a We had forecast the S&P 500 would rise from 5,917
+moderate slowdown in economic growth for 2025. at the time of last year’s Year Ahead publication to
+Developed economies broadly have met our forecasts 6,600 by end-2025. Its gains have broadly met our
+(we now expect 1.6% growth for 2025), while expectations. European, emerging, and Asian mar-
+emerging and developing economies have modestly kets have outperformed the US, exceeding our pro-
+outperformed, on course to deliver 4.4% growth for jections, with MSCI Europe, China, and EM indices
+2025 versus our initial 4.0% expectation. Inflation posting year-to-date returns of 15%, 36%, and
+has also trended lower across regions, in line with 31%, respectively.
+our initial projections.
+
+ Rates US dollar
+
+We said rates would come down in 2025, and they We recommended selling further US dollar strength.
+have—albeit somewhat more gradually than ex- The dollar initially strengthened into late December
+pected. The Fed has delivered 50bps of cuts so far 2024 and January 2025, with EURUSD reaching a
+this year (versus our initial expectation of 100bps), low of 1.02, and the dollar subsequently saw its
+with scope for a further 50bps by end of the first weakest first half since 1973, depreciating even fur-
+quarter of 2026. US 10-year Treasury yields have ther than our expectations. At the time of writing,
+fallen from 4.6% (end 2024) to 4.1%, in line with EURUSD stands at 1.16 versus our initial end-2025
+our forecast (4.0%), although European yields have forecast of 1.12.
+risen amid fiscal and political uncertainty.
+
+ AI Gold
+
+We identified AI as the decade’s defining investment Gold traded at USD 2,675/oz at the time of our Year
+idea, recommending exposure to listed megacaps. Ahead publication last year. We expected gold to
+The US IT sector has since risen by 27% year-to-date, build on its gains, forecasting USD 2,900/oz by end-
+with capital expenditure forecasts exceeded by a fac- 2025. The metal has performed even more strongly
+tor of three over two years. We now expect global AI than projections, reaching an all-time high of
+capex to rise 88% year over year to USD 423bn in USD 4,336/oz.
+2025.
+
+58
+
+## Page 59
+
+Forecasts
+
+Economy
+
+GDP (%)
+n.a. 2025E 2026E 2027E 2028E
+US 1.9 1.7 1.9 2.4
+Canada 1.5 1.8 1.8 1.2
+Japan 0.8 0.7 1.0 0.8
+Eurozone 1.4 1.1 1.4 1.0
+UK 1.4 1.1 1.4 1.3
+Switzerland 1.3 1.3 1.3 1.9
+Australia 1.9 2.2 2.1 2.1
+China 4.9 4.5 4.6 4.2
+India 6.8 6.4 6.5 6.5
+EM 4.4 4.2 4.4 4.2
+World 3.2 3.1 3.3 3.2
+
+Inflation (%)
+n.a. 2025E 2026E 2027E 2028E
+US 2.8 3.0 2.4 2.2
+Canada 2.0 2.1 2.0 2.0
+Japan 3.1 1.6 2.2 2.1
+Eurozone 2.1 1.8 2.0 2.0
+UK 3.4 2.2 2.0 2.0
+Switzerland 0.2 0.6 0.9 0.9
+Australia 2.8 3.1 2.7 2.6
+China 0.0 0.4 0.8 1.0
+India 2.4 4.3 4.0 4.0
+EM 3.9 3.5 3.1 3.0
+World 3.3 3.0 2.7 2.6
+
+Source: Haver, CEIC, National Statistic, Bloomberg, UBS, as of 12 November 2025
+
+ 59
+
+## Page 60
+
+Asset classes
+
+ Spot June-26 Dec-26
+Equities
+ S&P 500 6,851 7,300 7,700
+ Eurostoxx 50 5,787 6,000 6,200
+ FTSE 100 9,911 9,800 10,000
+ SMI 12,794 13,200 13,600
+ MSCI Asia ex-Japan 921 985 1,021
+ MSCI China 88 100 102
+ Topix 3,359 3,500 3,600
+ MSCI EM 1,408 1,510 1,560
+ MSCI AC World 1,213 1,280 1,350
+
+Currencies
+ EURUSD 1.16 1.20 1.20
+ GBPUSD 1.31 1.36 1.35
+ USDCHF 0.80 0.79 0.79
+ USDCAD 1.40 1.36 1.35
+ AUDUSD 0.65 0.70 0.70
+ EURCHF 0.92 0.95 0.95
+ USDJPY 155 150 146
+ USDCNY 7.11 7.00 6.90
+
+Interest rates, in %
+ Fed 3.87 3.33 3.33
+ ECB 2.00 2.00 2.00
+ BoE 4.00 3.25 3.25
+ SNB 0.00 0.00 0.00
+ BoJ 0.50 0.75 1.00
+
+10-year benchmark yields, in %
+ USD 4.07 3.75 3.75
+ EUR (Germany) 2.64 2.25 2.25
+ GBP 4.40 4.25 4.25
+ CHF 0.14 0.50 0.50
+ JPY 1.68 1.70 1.80
+
+Commodities
+ Brent crude, USD/bbl 63 65 67
+ WTI crude, USD/bbl 58 62 64
+ Gold, USD/oz 4,214 4,500 4,300
+ Silver, USD/oz 53 60 57
+ Copper, USD/mt 10,944 12,000 13,000
+
+Source: SIX Financial Information, Bloomberg, UBS, as of 12 November 2025
+
+60
+
+## Page 61
+
+Impressum
+
+Year Ahead 2026 – UBS House View
+This report has been prepared by UBS AG, UBS AG London Branch,
+UBS Switzerland AG, UBS Financial Services Inc. (UBS FS),
+UBS AG Singapore Branch, UBS AG Hong Kong Branch, and
+UBS SuMi TRUST Wealth Management Co., Ltd.
+Please see important disclaimers at the end of the document.
+
+This report reflects the insights and perspective from the entire
+CIO team across the globe and demonstrates the intellectual
+leadership of UBS.
+
+Global Chief Investment Officer Design
+Mark Haefele CIO Content Design
+ UBS Switzerland AG
+Editor in Chief Cover image
+Kiran Ganesh CIO Content Design
+
+Project manager UBS Switzerland AG
+Sagar Khandelwal
+ Languages
+Supervisory analysts English, German, French, Italian, Spanish,
+Kat Van-Hoof Portuguese, Chinese (Simplified, Traditional),
+Jess Hoeffner Japanese
+
+Editorial deadline Contact
+17 November 2025 ubs.com/cio
+
+Publishing date
+20 November 2025 SAP-Nr. 82251E-2501
+
+This publication is printed on 100% recycled paper, certified by
+the Forest Stewardship Council (FSC).
+
+ 61
+
+## Page 62
+
+Global asset class preferences definitions
+The asset class preferences provide high­level guidance to make investment decisions. The preferences reflect
+the collective judgement of the members of the House View meeting, primarily based on assessments of ex-
+pected total returns on liquid, commonly known indexes, House View scenarios, and analyst convictions over
+the next 12 months. Note that the tactical asset allocation (TAA) positioning of our different investment strate-
+gies may differ from these views due to factors including portfolio construction, concentration, and borrowing
+constraints.
+
+Attractive: We consider this asset class to be attractive. Consider opportunities in this asset class.
+Neutral: We do not expect outsized returns or losses. Hold longer-term exposure.
+Unattractive: We consider this asset class to be unattractive. Consider alternative opportunities.
+
+Note: For equities, we have collapsed “Most Attractive” with “Attractive” and “Least Attractive” with “Unat-
+tractive” from the five­tier rating system that is found in the Equity Compass into 3 tiers.
+
+Cautionary statement regarding forward-looking statements
+This report contains statements that constitute “forward-looking statements,” including but not limited to
+statements relating to the current and expected state of the securities market and capital market assumptions.
+While these forward-looking statements represent our judgments and future expectations concerning the mat-
+ters discussed in this document, a number of risks, uncertainties, changes in the market, and other important
+factors could cause actual developments and results to differ materially from our expectations. These factors
+include, but are not limited to (1) the extent and nature of future developments in the US market and in other
+market segments; (2) other market and macroeconomic developments, including movements in local and in-
+ternational securities markets, credit spreads, currency exchange rates and interest rates, whether or not aris-
+ing directly or indirectly from the current market crisis; (3) the impact of these developments on other markets
+and asset classes. UBS is not under any obligation to (and expressly disclaims any such obligation to) update or
+alter its forward-looking statements whether as a result of new information, future events, or otherwise.
+
+Emerging Market Investments
+Investors should be aware that Emerging Market assets are subject to, among others, potential risks linked to
+currency volatility, abrupt changes in the cost of capital and the economic growth outlook, as well as regula-
+tory and sociopolitical risk, interest rate risk and higher credit risk. Assets can sometimes be very illiquid and li-
+quidity conditions can abruptly worsen. CIO GWM generally recommends only those securities it believes have
+been registered under Federal US registration rules (Section 12 of the Securities Exchange Act of 1934) and in-
+dividual State registration rules (commonly known as “Blue Sky” laws). Prospective investors should be aware
+that to the extent permitted under US law, CIO GWM may from time to time recommend bonds that are not
+registered under US or State securities laws. These bonds may be issued in jurisdictions where the level of re-
+quired disclosures to be made by issuers is not as frequent or complete as that required by US laws.
+
+Investors interested in holding bonds for a longer period are advised to select the bonds of those sovereigns
+with the highest credit ratings (in the investment-grade band). Such an approach should decrease the risk that
+an investor could end up holding bonds on which the sovereign has defaulted. Subinvestment-grade bonds are
+recommended only for clients with a higher risk tolerance and who seek to hold higher-yielding bonds for
+shorter periods only.
+
+62
+
+## Page 63
+
+Nontraditional Assets
+Non-traditional asset classes are alternative investments that include hedge funds, private equity,
+private credit, real estate, and managed futures (collectively, alternative investments). Interests of al-
+ternative investment funds are sold only to qualified investors, and only by means of offering documents that
+include information about the risks, performance and expenses of alternative investment funds, and which cli-
+ents are urged to read carefully before subscribing and retain. An investment in an alternative investment
+fund is speculative and involves significant risks.
+
+Specifically, these investments (1) are not mutual funds and are not subject to the same regulatory require-
+ments as mutual funds; (2) may have performance that is volatile, and investors may lose all or a substantial
+amount of their investment; (3) may engage in leverage and other speculative investment practices that may
+increase the risk of investment loss; (4) are long-term, illiquid investments, there is generally no secondary mar-
+ket for the interests of a fund, and none is expected to develop; (5) interests of alternative investment funds
+typically will be illiquid and subject to restrictions on transfer; (6) may not be required to provide periodic pric-
+ing or valuation information to investors; (7) generally involve complex tax strategies and there may be delays
+in distributing tax information to investors; (8) are subject to high fees, including management fees and other
+fees and expenses, all of which will reduce profits.
+
+Interests in alternative investment funds are not deposits or obligations of, or guaranteed or endorsed by, any
+bank or other insured depository institution, and are not federally insured by the Federal Deposit Insurance
+Corporation, the Federal Reserve Board, or any other governmental agency. Prospective investors should un-
+derstand these risks and have the financial ability and willingness to accept them for an extended period of
+time before making an investment in an alternative investment fund
+
+In addition to the risks that apply to alternative investments generally, the following are additional risks related
+to an investment in these strategies:
+
+• Hedge Fund Risk: There are risks specifically associated with investing in hedge funds, which may include
+ risks associated with investing in short sales, options, small-cap stocks, “junk bonds,” derivatives, distressed
+ securities, non-U.S. securities and illiquid investments.
+• Managed Futures: There are risks specifically associated with investing in managed futures programs. For
+ example, not all managers focus on all strategies at all times, and managed futures strategies may have
+ material directional elements.
+• Real Estate: There are risks specifically associated with investing in real estate products and real estate
+ investment trusts. They involve risks associated with debt, adverse changes in general economic or local mar-
+ ket conditions, changes in governmental, tax, real estate and zoning laws or regulations, risks associated
+ with capital calls and, for some real estate products, the risks associated with the ability to qualify for favor-
+ able treatment under the federal tax laws.
+• Private Equity: There are risks specifically associated with investing in private equity. Capital calls can be
+ made on short notice, and the failure to meet capital calls can result in significant adverse consequences
+ including, but not limited to, a total loss of investment.
+• Private Credit: There are risks specifically associated with investing in private credit. This could include
+ losses stemming from defaults on loans, which in significant adverse circumstances could result in a substan-
+ tial loss of investment.
+• Foreign Exchange/Currency Risk: Investors in securities of issuers located outside of the United States
+ should be aware that even for securities denominated in U.S. dollars, changes in the exchange rate between
+ the US dollar and the issuer’s “home” currency can have unexpected effects on the market value and liquid-
+ ity of those securities. Those securities may also be affected by other risks (such as political, economic or reg-
+ ulatory changes) that may not be readily known to a US investor.
+
+ 63
+
+## Page 64
+
+UBS Chief Investment Office’s (“CIO”) investment views are prepared and published by the Global Wealth
+Management business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates (“UBS”), part
+of UBS Group AG (“UBS Group”). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and
+affiliates. Additional disclaimer relevant to Credit Suisse Wealth Management follows at the end of this
+section.
+The investment views have been prepared in accordance with legal requirements designed to promote the inde-
+pendence of investment research.
+
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to
+buy or sell any investment or other specific product. The analysis contained herein does not constitute a personal
+recommendation or take into account the particular investment objectives, investment strategies, financial situ-
+ation and needs of any specific recipient. It is based on numerous assumptions. Different assumptions could
+result in materially different results. Certain services and products are subject to legal restrictions and cannot be
+offered worldwide on an unrestricted basis and/or may not be eligible for sale to all investors. All information
+and opinions expressed in this document were obtained from sources believed to be reliable and in good faith,
+but no representation or warranty, express or implied, is made as to its accuracy or completeness (other than
+disclosures relating to UBS). All information and opinions as well as any forecasts, estimates and market prices
+indicated are current as of the date of this report, and are subject to change without notice. Opinions expressed
+herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of using
+different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of
+this document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+
+In no circumstances may this document or any of the information (including any forecast, value, index or other
+calculated amount (“Values”)) be used for any of the following purposes (i) valuation or accounting purposes;
+(ii) to determine the amounts due or payable, the price or the value of any financial instrument or financial con-
+tract; or (iii) to measure the performance of any financial instrument including, without limitation, for the pur-
+pose of tracking the return or performance of any Value or of defining the asset allocation of portfolio or of
+computing performance fees. By receiving this document and the information you will be deemed to represent
+and warrant to UBS that you will not use this document or otherwise rely on any of the information for any of
+the above purposes. UBS and any of its directors or employees may be entitled at any time to hold long or short
+positions in investment instruments referred to herein, carry out transactions involving relevant investment
+instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or finan-
+cially affiliated to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities)
+made by UBS and its employees may differ from or be contrary to the opinions expressed in UBS research publi-
+cations. Some investments may not be readily realizable since the market in the securities is illiquid and therefore
+valuing the investment and identifying the risk to which you are exposed may be difficult to quantify. UBS relies
+on information barriers to control the flow of information contained in one or more areas within UBS, into other
+areas, units, divisions or affiliates of UBS. Futures and options trading is not suitable for every investor as there is
+a substantial risk of loss, and losses in excess of an initial investment may occur. Past performance of an invest-
+ment is no guarantee for its future performance. Additional information will be made available upon request.
+Some investments may be subject to sudden and large falls in value and on realization you may receive back less
+than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse
+
+64
+
+## Page 65
+
+effect on the price, value or income of an investment. The analyst(s) responsible for the preparation of this report
+may interact with trading desk personnel, sales personnel and other constituencies for the purpose of gathering,
+synthesizing and interpreting market information.
+
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research prod-
+ucts independently of each other. For example, research publications from CIO are produced by UBS Global
+Wealth Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies
+and rating systems of each separate research organization may differ, for example, in terms of invest -
+ment recommendations, investment horizon, model assumptions, and valuation methods. As a consequence,
+except for certain economic forecasts (for which UBS CIO and UBS Global Research may collaborate), investment
+recommendations, ratings, price targets, and valuations provided by each of the separate research organizations
+may be different, or inconsistent. You should refer to each relevant research product for the details as to their
+methodologies and rating system. Not all clients may have access to all products from every organization. Each
+research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management
+and senior management (not including investment banking). Analyst compensation is not based on investment
+banking, sales and trading or principal trading revenues, however, compensation may relate to the revenues of
+UBS Group as a whole, of which investment banking, sales and trading and principal trading are a part.
+
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does
+not provide legal or tax advice and makes no representations as to the tax treatment of assets or the investment
+returns thereon both in general or with reference to specific client’s circumstances and needs. We are of neces-
+sity unable to take into account the particular investment objectives, financial situation and needs of our individ-
+ual clients and we would recommend that you take financial and/or tax advice as to the implications (including
+tax) of investing in any of the products mentioned herein.
+
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise
+agreed in writing UBS expressly prohibits the distribution and transfer of this material to third parties for any
+reason. UBS accepts no liability whatsoever for any claims or lawsuits from any third parties arising from the use
+or distribution of this material. This report is for distribution only under such circumstances as may be permitted
+by applicable law. For information on the ways in which CIO manages conflicts and maintains independence of
+its investment views and publication offering, and research and rating methodologies, please visit
+www.ubs.com/research-methodology. Additional information on the relevant authors of this publication and
+other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are available upon
+request from your client advisor.
+
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to
+consider and incorporate environmental, social and governance (ESG) factors into investment process and port-
+folio construction. Strategies across geographies approach ESG analysis and incorporate the findings in a variety
+of ways. Incorporating ESG factors or Sustainable Investing considerations may inhibit UBS’s ability to participate
+in or to advise on certain investment opportunities that otherwise would be consistent with the Client’s invest-
+ment objectives. The returns on a portfolio incorporating ESG factors or Sustainable Investing considerations
+may be lower or higher than portfolios where ESG factors, exclusions, or other sustainability issues are not con-
+sidered by UBS, and the investment opportunities available to such portfolios may differ.
+
+ 65
+
+## Page 66
+
+External Asset Managers / External Financial Consultants: In case this research or publication is provided
+to an External Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed
+by the External Asset Manager or the External Financial Consultant and is made available to their clients and/or
+third parties.
+
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG.
+UBS Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS
+(Brasil) Corretora de Valores S.A., UBS Asesores Mexico, S.A. de C.V., UBS SuMi TRUST Wealth Management Co.,
+Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler AS are affiliates of UBS AG. UBS Financial
+Services Inc. accepts responsibility for the content of a report prepared by a non-US affiliate when it
+distributes reports to US persons. All transactions by a US person in the securities mentioned in this
+report should be effected through a US-registered broker dealer affiliated with UBS, and not through
+a non-US affiliate. The contents of this report have not been and will not be approved by any securi-
+ties or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting
+as a municipal advisor to any municipal entity or obligated person within the meaning of Section 15B
+of the Securities Exchange Act (the “Municipal Advisor Rule”) and the opinions or views contained
+herein are not intended to be, and do not constitute, advice within the meaning of the Municipal
+Advisor Rule.
+
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full
+disclaimer.
+
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data
+will be processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the
+official Credit Suisse website. In order to provide you with marketing materials concerning our products and
+services, UBS Group AG and its subsidiaries may process your basic personal data (i.e. contact details such as
+name, e­mail address) until you notify us that you no longer wish to receive them. You can optout from receiving
+these materials at any time by informing your Relationship Manager.
+
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are
+receiving this report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss
+Financial Market Supervisory Authority (FINMA).
+
+Version C/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights
+reserved.
+
+66
+
+## Page 67
+
+## Page 68

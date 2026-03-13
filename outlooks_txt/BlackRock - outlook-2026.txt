@@ -1,0 +1,868 @@
+Source file: BlackRock - outlook-2026.pdf
+Source path: outlooks/BlackRock - outlook-2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:54.997650+00:00
+Page count: 18
+
+---
+
+## Page 1
+
+2026
+Global
+Outlook
+
+Pushing limits
+
+ BlackRock
+ Investment
+ Institute
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER),
+ ISRAEL, SOUTH AFRICA, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-1/18
+
+## Page 2
+
+2026 Global Outlook Wei Li
+ Helpful hints Global Chief
+ Investment Strategist —
+ Introduction BlackRock Investment
+Guides Institute
+Go to View and check the “Guides” box to see page margins Twice a year, BlackRock’s senior portfolio managers and investment executives gather for two days to debate the outlook for the global Glenn Purves
+and columns. This feature will help align items on the page. economy and markets – and its implications for portfolios. The Global Outlook is the culmination of that debate and discussion at our Global Head of Macro —
+ latest Forum and informs our macro framing. What has become clear this year: our mega forces framework, launched a few years ago, is BlackRock Investment
+Text a critical way of understanding these drivers of economic transformation and the investment opportunities they create. This Outlook is Institute
+Adjust text sizes as needed. Bigger is better. Use only centered in reconciling the clashing orders of magnitude on investment and potential revenues in the AI buildout – and how it is
+BLACK or WHITE text. Use font size and/or the Extrabold,
+Bold, or Body font weights instead of color to differentiate. intersecting with other mega forces, such as the energy transition and future of finance.
+Body copy (minimum 9pt BLK Fort Rick Rieder
+Line Spacing Multiple 1.13 Authors Head of
+After Spacing 6pt) Fundamental Fixed
+Use Increase List Level tools in text placeholders to adjust Jean Boivin Income –
+the text formatting as listed in the reference below: Ed Fishwick Wei Li BlackRock
+ Head — BlackRock Head of Risk and Global Chief Jean Boivin
+Level One Investment Institute Quantitative Analysis – Investment Strategist — Head — BlackRock
+Level Two BlackRock BlackRock Investment Raffaele Savi
+ Institute Global Head of Investment Institute
+• Level Three Systematic –
+ - Level Four Vivek Paul Glenn Purves Rick Rieder BlackRock
+
+Level Five Global Head of Global Head of Macro — Head of Ed Fishwick
+ Portfolio Research – BlackRock Investment Fundamental Fixed Head of Risk and
+Layouts BlackRock Investment Institute Income – Quantitative Analysis
+Go to the Layout menu on the Home tab to access Institute BlackRock Rich Kushel – BlackRock
+additional page layout options. Cover options are provided Head – BlackRock
+with tabs in three primary brand colors: orange, yellow, and Raffaele Savi Portfolio
+pink. There is also a first page option with placeholders for Management
+content and author photos provided in the same three Global Head of Group
+primary brand colors. Both 1-column and 2-column Systematic –
+interior pages are provided in the Layout menu. BlackRock
+
+Tables Philipp Hildebrand
+Divider lines: .25pt black Executive sponsors Vice Chairman –
+Bottom border: 1pt black Rob Kapito Rich Kushel Raj Rao Scot French BlackRock
+Avoid vertical gridlines when possible. President – Head – BlackRock Founding Partner, Founding
+ BlackRock Portfolio President and Chief Partner and Co-
+Highlight key information by shading rows Management Group Operating Officer, President, HPS, a
+and columns with colors from the primary Global Infrastructure part of BlackRock
+brand color palette. Partners, a part of
+ BlackRock
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 2
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-2/18
+
+## Page 3
+
+Helpful hints Summary
+
+Guides The global economy and financial markets are being transformed by mega
+Go to View and check the “Guides” box to see page margins forces, especially AI. Technology is becoming capital-intensive, and the AI
+and columns. This feature will help align items on the page. Contents buildout could be unprecedented in both speed and scale. With a few mega
+ forces driving markets, it is hard to avoid making a big call on their direction –
+Text Introduction 2 and as such, there is no neutral stance, not even exposure to broad indexes. We
+Adjust text sizes as needed. Bigger is better. Use only remain pro-risk and see the AI theme still the main driver of U.S. equities. Yet this
+BLACK or WHITE text. Use font size and/or the Extrabold, Summary 3 environment is ripe for active investing – picking winners and losers from among
+Bold, or Body font weights instead of color to differentiate. the builders now and later as AI gains start to spread, in our view.
+Body copy (minimum 9pt BLK Fort Investment environment 4-5
+Line Spacing Multiple 1.13 We’ve long argued we’re in a world of structural The capital spending ambitions tied to the AI
+After Spacing 6pt) Clashing orders of magnitude 4 transformation shaped by a few mega forces, buildout are so large that the micro is macro – our
+Use Increase List Level tools in text placeholders to adjust Growth breakout: now 5 including geopolitical fragmentation, the future first theme. The overall revenues could justify the
+the text formatting as listed in the reference below: conceivable of finance and the energy transition. But the most spend – yet it’s unclear how much will accrue to
+Level One obvious now is AI, with a buildout of a potentially the tech companies building AI. That’s why they
+ Themes 6-8 unprecedented speed and scale. This shift to are not on autopilot and could adjust plans with
+Level Two Micro is macro 6 capital-intensive growth from capital-light is greater visibility on revenues and as stark energy
+• Level Three Leveraging up 7 profoundly changing the investment environment constraints bite. The latter could slow the buildout
+ Diversification mirage 8 and pushing limits on multiple fronts – physical, but create other opportunities. We stay pro-risk
+ - Level Four financial and socio-political. and overweight U.S. stocks on the AI theme. This
+Level Five Mega forces 9-14 A few big macro drivers implies a few big market is a great time for active investing for those with
+ drivers. Today’s market concentration reflects insights on who will capture the revenues.
+ AI buildout faces constraints 9
+Layouts Fragmentation: AI and defense 10 underlying economic concentration. That means The AI builders are leveraging up, our second
+Go to the Layout menu on the Home tab to access Future of finance evolving 11 investors can’t avoid making big calls, in our view. theme. We think that is needed: The spending is
+additional page layout options. Cover options are provided quickly AI is the dominant mega force right now, helping front-loaded – and unavoidable to realize the
+with tabs in three primary brand colors: orange, yellow, and Private credit enters new phase 12 propel U.S. stocks to all-time highs this year. In benefits – while revenues are back-loaded. Along
+pink. There is also a first page option with placeholders for recent months, investors have started to fret with highly indebted governments, this creates a
+content and author photos provided in the same three Infrastructure: a timely moment 13 more levered financial system vulnerable to
+primary brand colors. Both 1-column and 2-column Room to run for EM 14 about equity valuations and whether an AI bubble shocks – including bond yield spikes tied to policy
+interior pages are provided in the Layout menu. is forming. The Shiller price-to-earnings ratio tensions between inflation and debt
+ Big calls 15 shows U.S. stock valuations are the most sustainability. We see private credit and
+Tables Granular views 16 expensive since the dot-com and 1929 bubbles. infrastructure supporting this financing. We go
+ Market bubbles have arisen in all major historical underweight long-term U.S. Treasuries tactically.
+Divider lines: .25pt black transformations – and that could happen again.
+Bottom border: 1pt black But those bubbles also grew for some time and This environment also creates a diversification
+Avoid vertical gridlines when possible. only became obvious after they burst. That’s why mirage, our third theme. Allocations made under
+ we seek to reconcile the potential orders of the guise of diversification may now in fact be big
+Highlight key information by shading rows magnitude of investment and revenues. That’s active bets. We think portfolios instead require a
+and columns with colors from the primary our basis for tracking the AI transformation and is clear plan B and a readiness to pivot quickly. We
+brand color palette. what we do in this Outlook. prefer idiosyncratic exposures in private markets.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 3
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-3/18
+
+## Page 4
+
+Helpful hints Investment environment
+
+Guides A rapid transformation
+Go to View and check the “Guides” box to see page margins Clashing orders Length and capital deepening of notable innovations, 1760-2040
+and columns. This feature will help align items on the page. 25
+
+Text of magnitude Information and Communication
+Adjust text sizes as needed. Bigger is better. Use only 20 Technology (1974-2012)
+
+BLACK or WHITE text. Use font size and/or the Extrabold, The AI buildout could be faster and The gap in time between capex
+Bold, or Body font weights instead of color to differentiate. greater than all past technological needs and eventual revenues means Steam (1760-1910)
+Body copy (minimum 9pt BLK Fort 15
+ revolutions. See the chart. External AI builders have started using debt AI (2022-2040)
+Line Spacing Multiple 1.13 estimates of AI corporate capital to get over a financing “hump.” This
+After Spacing 6pt) spending ambitions range between frontloading of spending is 10
+Use Increase List Level tools in text placeholders to adjust U.S.$5-8 trillion globally through necessary to realize eventual gains.
+the text formatting as listed in the reference below: 2030, most of that in the U.S. The Private sector leverage will add to a
+Level One challengefor investors: reconciling heavily indebted public sector, 5
+ the huge capital spending plans creating financial system Electricity (1899-1941)
+Level Two with the potential AI revenues. Will vulnerabilities. Bond yield spikes
+• Level Three their orders of magnitude match? could pose a risk to this financing. 0
+ 0 20 40 60 80 100 120 140 160
+ - Level Four Based on the highest end of the All this creates a very different Length of transformation (years)
+Level Five spending range, the answer investment environment with some Chart takeaway: The AI transformation is unfolding fast and is
+ depends on whether U.S. growth core features. First, higher leverage Chart takeaway: Getting inflation all the way back down to
+ can break out from its long-term will result in greater credit issuance driving record investment target – the dotted green line — –we could reach a level close to the would require the Fed to deal
+Layouts 2% trend. This is a tall order, but AI across public and private markets. largest buildout in half the time.a significant blow to the economy.
+Go to the Layout menu on the Home tab to access makes it conceivable for the first Second, a broadly higher cost of Forward-looking estimates may not come to pass. Source: BlackRock Investment Institute with data from
+additional page layout options. Cover options are provided time. See next page. Even if capital as this big borrowing puts Crafts (2021), December 2025. Notes: The chart shows the average annual contribution of capital spending
+with tabs in three primary brand colors: orange, yellow, and spending and revenues reconcile at upward pressure on interest rates. to GDP growth for previous U.S. technologies (except “steam,” for the UK) against the length of time the
+pink. There is also a first page option with placeholders for the macro level, there is still a Third, before new pools of AI capital was spent. Estimates for steam, electricity and ICT are taken from Crafts (2021). The spend needed for
+content and author photos provided in the same three timing mismatch. The AI buildout revenues spread across the artificial intelligence (AI) is calculated using realized capital spending between 2022-2024, the upper end of
+primary brand colors. Both 1-column and 2-column the U.S.$5-8 trillion range of total capital spending intentions spanning the period 2025-2030, and an
+interior pages are provided in the Layout menu. requires front-loaded investment: economy, further concentrated assumption that capex intensity continues at a similar rate through 2030-2040.
+ compute, data centers and energy market gains within tech will require
+Tables infrastructure. The eventual big calls. And fourth, more room for
+Divider lines: .25pt black revenue from that investment alpha and active investing as those This investment environment has some
+Bottom border: 1pt black comes later. The buildout is just revenues spread beyond tech. All core features: higher leverage, a higher
+ starting and concentrated in the this means traditional approaches to
+Avoid vertical gridlines when possible. tech sector, for now, but we see portfolio construction need a cost of capital, concentrated gains
+ productivity and revenue gains rethink. requiring the need to make big calls, and
+Highlight key information by shading rows spreading across the economy. more opportunities for active views.
+and columns with colors from the primary
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 4
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-4/18
+
+## Page 5
+
+Helpful hints Investment environment
+
+Guides Never broken out
+Go to View and check the “Guides” box to see page margins Growth breakout: U.S. GDP per capita and long-term trend, 1870-2024
+and columns. This feature will help align items on the page. 10.5
+ Historic
+Text now conceivable 1.9% growth trend
+Adjust text sizes as needed. Bigger is better. Use only 10.0
+BLACK or WHITE text. Use font size and/or the Extrabold, We see AI capital spending still But the big question is whether it’s
+Bold, or Body font weights instead of color to differentiate. supporting growth in 2026, with possible for U.S. growth to eventually 9.5
+Body copy (minimum 9pt BLK Fort the contribution to U.S. growth break out of its long-term trend. The
+Line Spacing Multiple 1.13 from investment totaling three U.S. sits at the global economic 9.0
+After Spacing 6pt) times its historical average this frontier. But all major innovations of
+Use Increase List Level tools in text placeholders to adjust year. This capital-intensive boost is the last 150 years – including steam, 8.5
+the text formatting as listed in the reference below: likely to persist into next year, electricity and the digital revolution
+Level One allowing growth to hold up even as – were not enough for it to break out
+ the labor market keeps cooling. of its 2% growth trend. Doing so is a 8.0
+Level Two This “no hiring, no firing” stasis tall order.
+• Level Three gives the Federal Reserve room to Yet it is conceivable for the first time. 7.5
+ - Level Four keep trimming policy rates in 2026. Why? AI is not only an innovation 1870 1890 1910 1930 1950 1970 1990 2010
+Level Five Yet inflation could prove sticky itself but has the potential to
+ above the Fed’s 2% target. We see Chart takeaway:Chart takeaway: Over the past 150 years, U.S. growth has stayed Getting inflation all the way back down to
+ a favorable policy and regulatory innovate the process of innovation. remarkably close to a 2% trend even with past technological target – the dotted green line – would require the Fed to deal
+Layouts backdrop heading into the U.S. AI could begin to generate, test and revolutions. We think it’s conceivable that accelerating AIa significant blow to the economy.-driven
+ midterm elections. Any rebound in improve new concepts on its own. If innovation could boost growth above that trend.
+Go to the Layout menu on the Home tab to access that happens, the rate of discovery
+additional page layout options. Cover options are provided business confidence and hiring could accelerate, driving scientific
+with tabs in three primary brand colors: orange, yellow, and could reignite inflation, bringing breakthroughs such as in materials, Source: BlackRock Investment Institute, Bureau of Economic Analysis and Macrohistory Database, with data
+pink. There is also a first page option with placeholders for back policy tensions with debt drugs and technology. This self- from Haver Analytics, December 2025. Note: Historical data compiled by Òscar Jordà, Moritz Schularick, and
+content and author photos provided in the same three sustainability. reinforcing loop of accelerating Alan M. Taylor. 2017. Macrofinancial History and the New Business Cycle Facts. in NBER Macroeconomics
+primary brand colors. Both 1-column and 2-column Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of
+interior pages are provided in the Layout menu. Zooming out, AI will likely keep innovation is key to achieving the Chicago Press.
+ trumping tariffs and traditional breakout.
+Tables macro drivers as it has in 2025. In a While conceivable, we don’t know if it
+Divider lines: .25pt black world where U.S. trend growth will happen. We track evidence that For the U.S. to break out of a 2% growth
+Bottom border: 1pt black stays under 2%, absorbing that can serve as a leading indicator of trend, it will require innovation in how
+ capex will require big macro faster innovation – for example, a
+Avoid vertical gridlines when possible. adjustments – crowding out other we innovate - and that first requires
+ non-AI spending in the economy, surge in the number of new patents
+Highlight key information by shading rows and potentially resulting in much each year – before any benefits start massive upfront investment.
+and columns with colors from the primary higher inflation. to show up in broader activity data.
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 5
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-5/18
+
+## Page 6
+
+Helpful hints Theme 1
+
+Guides Doing the math
+Go to View and check the “Guides” box to see page margins Micro is macro Estimates of annual U.S. corporate revenue growth through 2030
+and columns. This feature will help align items on the page. New
+ $2.5T AI-driven
+Text $1.7-2.5T revenue
+ The AI buildout is dominated by a But even if the numbers might add $2.0T
+Adjust text sizes as needed. Bigger is better. Use only handful of companies whose up at the macro level, there is no
+BLACK or WHITE text. Use font size and/or the Extrabold, spending is so large that it has a guarantee those revenues will flow
+Bold, or Body font weights instead of color to differentiate. macro impact. Taking a view on to the AI builders. If the tech sector $1.5T
+Body copy (minimum 9pt BLK Fort these companies requires assessing grows its share of revenue from 25%
+Line Spacing Multiple 1.13 whether the macro math adds up. now, LSEG data show, to 35%, that’s $1.0T
+After Spacing 6pt) Take the upper end of the range of AI a $400 billion boost. See the right
+Use Increase List Level tools in text placeholders to adjust bar. Combining these new revenues $0.5T
+the text formatting as listed in the reference below: investment ambitions through 2030 with current analyst estimates
+Level One of $8 trillion. See page 4. Broker suggests this could deliver a $0.0T
+ analysts see total annual reasonable return on investment. Incremental revenues needed Bottom-up revenue growth
+Level Two hyperscaler revenue increasing by for a reasonable return forecast
+• Level Three $1.6 trillion. That would fall short of We see room for tech revenues to Cloud Ads Retail Platforms
+ the revenues needed to deliver a move in that direction as current AI Services Software Hardware
+ - Level Four reasonable rate of return of 9-12% builders eat into parts of the tech Chart takeaway: Getting inflation all the way back down to
+Level Five on that upper-end of AI investment. ecosystem, like software. AI’s ability Chart takeaway:target – the dotted green line We find that – would require the Fed to deal large tech firms will need to grow
+ See the chart. But that’s not the full to automate tasks, such as coding, revenue fastera significant blow to the economy.for AI-driven investment to pay off.
+ picture: the true potential of AI goes means it could replace other tech Forward-looking estimates may not come to pass.Source: BlackRock Investment Institute, Bloomberg and
+Layouts beyond existing business lines. As AI services. Yet revenue gains will others, December 2025. Notes: The left bar shows the necessary incremental revenues to be achieved 2025-
+Go to the Layout menu on the Home tab to access becomes embedded in the economy, increasingly spread across sectors 2030 to reach a 9-12% lifetime internal rate of return. This is based on data center deployment estimates
+additional page layout options. Cover options are provided (gigawatt terms) and capex per gigawatt assumptions reflecting cost inflation, GPU life, phasing and
+with tabs in three primary brand colors: orange, yellow, and we expect it to create entirely new and the economy. Entirely new AI- hyperscaler market share. We cross-referenced with other sources including McKinsey & Company, Boston
+pink. There is also a first page option with placeholders for pools of revenue in the tech sector created revenue streams are likely to Consulting Group, Lawrence Berkeley National Laboratory, International Energy Agency, U.S. Department of
+ and beyond. Where exactly is highly develop. How those revenues are Energy, BloombergNEF, Schneider Electric, Electric Power Research Institute and others. These calculations
+content and author photos provided in the same three include retail revenue growth (Amazon) and other non-data center revenues according to Bloomberg
+primary brand colors. Both 1-column and 2-column uncertain. But we can still try to shared is likely to evolve – and we consensus estimates. The right bar shows the Bloomberg consensus for the increase in annual revenues over
+interior pages are provided in the Layout menu. gauge the macro size. don’t yet know how. Finding winners 2025-2030 for U.S. hyperscalers including Microsoft, Meta and Google.
+ To do that, suppose we break out of will be an active investment story.
+Tables a 2% growth world and AI delivers a We stay overweight U.S. stocks and
+Divider lines: .25pt black 1.5% boost to growth through the AI theme, supported by robust Investment implications
+Bottom border: 1pt black productivity gains. We estimate that earnings expectations. The capex • We stay risk-on and overweight U.S. stocks on
+Avoid vertical gridlines when possible. this would expand economy-wide may pay off overall even if not for the AI theme.
+ revenues by $1.1 trillion per year – individual companies. The next • We believe the AI theme will become an active
+Highlight key information by shading rows more than enough to justify the phase may be more about energy
+and columns with colors from the primary upper-end of spending. and resolving bottlenecks. investment story of identifying new winners as
+brand color palette. AI revenues spread across the economy.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 6
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-6/18
+
+## Page 7
+
+Helpful hints Theme 2
+
+Guides Debt divergence
+Go to View and check the “Guides” box to see page margins Leveraging up U.S. government and corporate debt, 1950-2025
+and columns. This feature will help align items on the page. 120% 24x
+ U.S. government debt
+Text Getting over the AI buildout’s That’s why we expect companies to Corporate debt ex. financials (right) 20x
+Adjust text sizes as needed. Bigger is better. Use only financing hump between front- keep tapping public and private 100%
+BLACK or WHITE text. Use font size and/or the Extrabold, loaded investment and back-loaded credit markets, creating
+Bold, or Body font weights instead of color to differentiate. revenues needs long-term financing. opportunities for investors. 80% 16x
+Body copy (minimum 9pt BLK Fort That means greater leverage is Higher borrowing across public and
+Line Spacing Multiple 1.13 inevitable. This has already started private sectors is likely to keep 60% 12x
+After Spacing 6pt) as seen from recent bond sales from upward pressure on interest rates.
+Use Increase List Level tools in text placeholders to adjust large tech firms. Elevated debt servicing costs are
+the text formatting as listed in the reference below: 40% 8x
+ The good news: the starting point for one reason we see term premium –
+Level One private sector leverage is healthy, or compensation investors demand
+Level Two particularly listed tech. The largest to hold long-term bonds – rising and 20% 4x
+• Level Three cloud spenders sport an average pushing up yields. We turn
+ debt-to-equity ratio of 0.54 times as underweight long-term Treasuries. 0% 0x
+ - Level Four of Nov. 26, Bloomberg data show, AI could eventually deliver the Chart takeaway:19501960 1970Getting inflation all the way back down to 19801990200020102020
+Level Five pointing to room to lever up. New productivity gains needed to ease Chart takeaway:target – the dotted green line Public and private balance sheets have – would require the Fed to deal
+ issuance from major tech firms has public debt burdens, yet that will diverged sharply: government debt has surged to postwar highs a significant blow to the economy.
+ so far been well received by markets. take time. while corporate leverage has eased. This is why the corporate
+Layouts The financing needs tied to AI capex One risk: a structurally higher cost of sector has room to leverage up to fund the AI buildout.
+Go to the Layout menu on the Home tab to access far exceed what even the largest capital raises the cost of AI-related
+additional page layout options. Cover options are provided firms can meet internally. But this is investment and affects the broader
+with tabs in three primary brand colors: orange, yellow, and
+pink. There is also a first page option with placeholders for occurring against a backdrop of economy. A more leveraged system Source: BlackRock Investment Institute, Congressional Budget Office, Bureau of Economic Analysis, Federal
+content and author photos provided in the same three already highly leveraged public also creates vulnerabilities to shocks Reserve Board, with data from Haver Analytics and LSEG Datastream, December 2025. Notes: The chart
+primary brand colors. Both 1-column and 2-column sector balance sheets. See the chart. such as bond yield spikes tied to shows U.S. federal debt as a share of nominal GDP, and debt of U.S. nonfinancial corporations as a share of
+interior pages are provided in the Layout menu. Elevated debt and competing fiscal fiscal concerns or policy tensions pre-tax profits.
+ priorities - from Germany’s defense between managing inflation and
+Tables push, stretched U.S. and UK budget debt servicing costs. Indebted
+Divider lines: .25pt black deficits and Japan’s new spending governments have less capacity to Investment implications
+Bottom border: 1pt black pledges – limit the public sector’s cushion such shocks. This is where • We see rising AI exposure in public and private
+Avoid vertical gridlines when possible. role in financing the AI buildout. AI financing needs and government credit markets.
+ debt constraints intersect.
+ • We go tactically underweight long-term
+Highlight key information by shading rows Treasuries as we see investors demanding
+and columns with colors from the primary more term premium.
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 7
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-7/18
+
+## Page 8
+
+Helpful hints Theme 3
+
+Guides A powerful common driver
+Go to View and check the “Guides” box to see page margins Diversification Variance in S&P 500 returns explained by a dominant underlying factor
+and columns. This feature will help align items on the page. 13%
+
+Text mirage 12%
+Adjust text sizes as needed. Bigger is better. Use only 11%
+BLACK or WHITE text. Use font size and/or the Extrabold, Portfolio decisions taken under the Traditional diversifiers like long-term
+Bold, or Body font weights instead of color to differentiate. guise of “diversifying” away from the Treasuries do not offer the portfolio 10%
+Body copy (minimum 9pt BLK Fort handful of forces driving markets is ballast they once did. That’s why
+Line Spacing Multiple 1.13 now a bigger active call. Our analysis investors have been hunting for 9%
+After Spacing 6pt) shows that after accounting for other portfolio hedges – reviving
+Use Increase List Level tools in text placeholders to adjust common drivers of equity returns, interest in gold this year. We see it 8%
+the text formatting as listed in the reference below: like value and momentum, an ever more as a tactical play with distinct
+Level One larger share of U.S. equity returns return drivers and are skeptical of its 7%
+ reflects a single, common driver. See role as a long-term portfolio hedge. 6%
+Level Two the chart. Markets are more
+• Level Three concentrated, with less breadth. We think diversification means
+ shifting away from broad asset 5%
+ - Level Four Attempts to diversify away from the classes or regional views to more Chart takeaway:2015 2017 Getting inflation all the way back down to 201920212023
+Level Five U.S. or AI - toward other regions or granular, nimbler positioning and Chart takeaway:target – the dotted green line After controlling for equity style factors, the – would require the Fed to deal
+ equal-weighted indexes, for example themes that work across scenarios. share of daily S&P 500 returns explained by a single factor has a significant blow to the economy.
+ – amount to larger active calls than Portfolios need a clear plan B and a jumped since last year – a sign of a concentrated market.
+Layouts before. They have left portfolios less readiness to pivot quickly.
+Go to the Layout menu on the Home tab to access exposed to this year’s dominant We don’t see easy passive The figure shown relates to past performance. Past performance is not a reliable indicator of current or future
+additional page layout options. Cover options are provided driver of returns – a driver we have results. Index performance returns do not reflect any management fees, transaction costs or expenses. Indices
+with tabs in three primary brand colors: orange, yellow, and conviction in. The equal-weighted diversification options in this are unmanaged and one cannot invest directly in an index. Source: BlackRock Investment Institute, with data
+pink. There is also a first page option with placeholders for environment. We think investors from Bloomberg and Kenneth R. French, December 2025. Note: The line shows the variance of daily S&P 500
+content and author photos provided in the same three S&P 500 is up just 3% this year should focus less on spreading risk stock returns explained by a common driver after accounting for factors like stock value, size and momentum.
+ versus 11% for the market cap- This was calculated using first principal component (PC1) of a principal component analysis (PCA) over a
+primary brand colors. Both 1-column and 2-column weighted S&P, LSEG data show. We indiscriminately and more on rolling 252-day window. PC1 attempts to determine the common driver in a set of numbers that change often
+interior pages are provided in the Layout menu. don’t think this can be viewed as owning it more deliberately – in – like stock returns for example.
+ indiscriminately spreading out bets short, a more active approach. We
+Tables for diversification. They should be think high-conviction strategies like
+Divider lines: .25pt black recognized as big active calls that private markets and hedge funds Investment implications
+Bottom border: 1pt black need to be made with conviction. pair diversification with strong • Traditional diversifiers like long-dated bonds
+Avoid vertical gridlines when possible. Moreover, if the AI theme stumbles, return potential, in our view. And offer less potential portfolio ballast.
+ the impact will likely dwarf any much of their performance is
+ seeming diversification away from it. idiosyncratic, allowing manager skill • This environment calls for seeking truly
+Highlight key information by shading rows to show through. idiosyncratic return sources, such as private
+and columns with colors from the primary markets and hedge funds, and staying tactical.
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 8
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-8/18
+
+## Page 9
+
+Helpful hints Mega forces
+
+Guides Facing constraints
+Go to View and check the “Guides” box to see page margins AI buildout faces U.S. data center power demand as a share of total, 2024-30
+and columns. This feature will help align items on the page. 25%
+ Demand-based
+Text constraints Supply-based and other
+Adjust text sizes as needed. Bigger is better. Use only 20%
+BLACK or WHITE text. Use font size and/or the Extrabold, The AI buildout in the U.S. faces We believe that gives China a
+Bold, or Body font weights instead of color to differentiate. many constraints: political, number of advantages in deploying
+Body copy (minimum 9pt BLK Fort financial as we have noted, but AI infrastructure: power-intensive 15%
+Line Spacing Multiple 1.13 especially physical constraints data centers need cheap, stable and
+After Spacing 6pt) involving compute and energy – clean energy. The focus on 10%
+Use Increase List Level tools in text placeholders to adjust with energy the most binding now. DeepSeek this year, a seemingly
+the text formatting as listed in the reference below: AI data centers could use 15-20% more energy-efficient Chinese AI
+Level One of current U.S. electricity demand model, showed that greatly reducing 5%
+Level Two by 2030 – a scale sure to test the the energy needed for compute
+ limits of power grid, fossil and could partly ease energy constraints.
+• Level Three materials industries. See the chart. We see opportunities emerging 0%
+ - Level Four Some estimates even suggest data where constraints will likely bite the 2024 2025 2026 2027 2028 2029 2030
+Level Five centers could use a quarter of most: power systems, grids, critical Chart takeaway: The electricity needs of data centers could
+ current electricity demand. Rising minerals and potential beneficiaries make up a quarter of current U.S. electricity demand by 2030 —
+ power demand collides with a from permitting reform. Private with demand-based estimates exceeding those factoring in
+Layouts backlog of projects waiting to capital will be central to bridging the supply constraints. That underscores the scale of the challenge
+Go to the Layout menu on the Home tab to access connect with the electric grid and gap between the current supply of and the uncertainty around how the demand will be met.
+additional page layout options. Cover options are provided generally slow permitting in the energy and future demand as
+with tabs in three primary brand colors: orange, yellow, and West. Capex plans could be walked elevated debt limits government Forward looking estimates may not come to pass. Source: BlackRock Investment Institute, based on sources
+pink. There is also a first page option with placeholders for back if such limits bite, crimping spending, in our view. reviewed by BloombergNEF, December 2025. Note: Grey bars show the total range, while lines denote the
+content and author photos provided in the same three ambition around the AI buildout. median of data center power demand forecasts by method as a share of 2024 U.S. total power demand,
+primary brand colors. Both 1-column and 2-column including traditional data centers and artificial intelligence (AI) data centers and excluding cryptocurrency
+interior pages are provided in the Layout menu. China stands in contrast, building and data transmission networks demand.
+ power generation and transmission Companies haven’t struggled to
+Tables at pace. That includes on-time and get chips — the real constraint is
+ on-budget nuclear reactors plus land and energy.” Investment implications
+Divider lines: .25pt black • Major chokepoints – like power systems and
+Bottom border: 1pt black coal, hydropower and renewables. Alastair Bishop
+Avoid vertical gridlines when possible. China’s solar and battery Portfolio manager, the permitting of land – could constrain the AI
+ manufacturing is driving domestic BlackRock buildout.
+ solar and battery costs down. Fundamental Equities
+Highlight key information by shading rows • We see private capital playing a critical role in
+and columns with colors from the primary financing future energy projects.
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 9
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-9/18
+
+## Page 10
+
+Helpful hints Mega forces
+
+Guides Europe steps up spending
+Go to View and check the “Guides” box to see page margins Fragmentation: Defense spending, 1960-2027
+and columns. This feature will help align items on the page. 5%
+ Estimates
+Text AI and defense
+Adjust text sizes as needed. Bigger is better. Use only 4%
+BLACK or WHITE text. Use font size and/or the Extrabold, We have entered the third distinct In Europe, rising U.S. protectionism,
+Bold, or Body font weights instead of color to differentiate. world order since World War Two as weak competitiveness and Russia’s
+Body copy (minimum 9pt BLK Fort the U.S. fundamentally resets its invasion of Ukraine have restored 3%
+Line Spacing Multiple 1.13 economic and geopolitical urgency in addressing Europe’s
+After Spacing 6pt) relationships with the world. challenges, with the EU embracing 2%
+Use Increase List Level tools in text placeholders to adjust Transactional trade, industrial parts of the Draghi report to guide Previous 2% target
+the text formatting as listed in the reference below: policy and a resetting of alliances policy. NATO allies agreed to target
+Level One to advance a series of U.S. interests defense spending of 5% of GDP by 1%
+ mark a decisive break from the 2035. See the chart. And Germany
+Level Two post-Cold War order. suspended its “debt brake” to raise Germany NATO-EU
+• Level Three The U.S.-China rivalry is the defense and infrastructure spend. 0%
+ - Level Four defining feature of geopolitics. Urgency is driving progress in 1960 1980 2000 2020
+ Competition spans trade, energy, where elevated power prices
+Level Five technology, energy and defense. AI and reliance on imports make the Chart takeaway: This year’s commitment by NATO allies to
+ is at the center. Both see AI as the bloc vulnerable to geopolitical boost defense spending to 5% as a share of GDP by 2035 follows
+Layouts key technology determining future shocks. Looser fiscal rules are decades of lagging the previous 2% target. We think it highlights
+Go to the Layout menu on the Home tab to access economic and military advantage boosting energy investment, and how deepening geopolitical fragmentation is raising urgency.
+additional page layout options. Cover options are provided this century. And both are new regulation aims to promote
+with tabs in three primary brand colors: orange, yellow, and undertaking major efforts to curb competition and reduce permitting
+pink. There is also a first page option with placeholders for strategic dependencies that can be times for clean energy projects. Forward looking estimates may not come to pass. Source: BlackRock Investment Institute, NATO, World Bank
+content and author photos provided in the same three weaponized. and European Commission, July 2025. Note: The solid lines show defense spending as a share of GDP for
+primary brand colors. Both 1-column and 2-column Germany and European NATO countries. The dotted line estimates assume current plans to boost defense
+interior pages are provided in the Layout menu. Elsewhere, an ongoing war of The U.S. and China AI race will spending are realized.
+ attrition in Ukraine, an uncertain define both economic and military
+Tables peace in Gaza amid structural advantage this century.” Investment implications
+Divider lines: .25pt black regional change and the largest • Hefty defense spending could create medium-
+Bottom border: 1pt black U.S. build-up of forces in the Tom Donilon
+ Caribbean in decades show how Vice Chairman, term opportunities in European defense tech.
+Avoid vertical gridlines when possible. regional conflicts and crises can BlackRock
+ layer volatility atop a structurally • We see the political focus on energy as a
+Highlight key information by shading rows elevated risk environment. positive driver for European utilities.
+and columns with colors from the primary
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 10
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-10/18
+
+## Page 11
+
+Helpful hints Mega forces
+
+Guides The rise of stablecoins
+Go to View and check the “Guides” box to see page margins Future of finance Stablecoin market cap and share of total crypto market, 2020-25
+and columns. This feature will help align items on the page. $250 15%
+ Genius Act signed
+Text evolving quickly
+Adjust text sizes as needed. Bigger is better. Use only $200 12%
+BLACK or WHITE text. Use font size and/or the Extrabold, New asset classes, from crypto to What is clearer is that stablecoin
+Bold, or Body font weights instead of color to differentiate. private markets, and their broader adoption is widening, including
+Body copy (minimum 9pt BLK Fort access has implications for core integration into mainstream $150 9%
+Line Spacing Multiple 1.13 aspects of the financial system. payment systems. Beyond banking,
+After Spacing 6pt) Take stablecoins – digital tokens we see potential for adoption in
+Use Increase List Level tools in text placeholders to adjust cross-border payments. Additionally, $100 6%
+ pegged to a fiat currency, typically in EMs, stablecoins could be used
+the text formatting as listed in the reference below: the U.S. dollar, and backed by
+Level One reserve assets. They are evolving domestically as an alternative to $50 3%
+ from a tool native to crypto to a local currency, broadening dollar USDT & USDC combined market cap
+Level Two access but challenging monetary
+• Level Three bridge between digital and control if domestic currency use Share of crypto market (right)
+ traditional finance. A rising market declines, supporting the dollar. $0 0%
+ - Level Four value – now over $250 billion as of 2020 2021 2022 2023 2024 2025
+Level Five Nov. 27, per Coingecko – reflects These developments mark a modest Chart takeaway: Stablecoins have become a structural part of
+ wider use across payments, from but meaningful step toward a digital finance — their market cap has surged to record highs even
+ crypto trading and settlement to tokenized financial system that is as crypto prices fluctuated, underscoring their growing role as the
+Layouts cross-border transfers. See the evolving rapidly, where digital system’s primary source of dollar liquidity and on-chain stability.
+Go to the Layout menu on the Home tab to access chart. The 2025 Genius Act dollars coexist with – and reshape –
+additional page layout options. Cover options are provided established the first U.S. framework traditional channels of This information is not intended as a recommendation to invest in any particular asset class or strategy or as a
+with tabs in three primary brand colors: orange, yellow, and for payment stablecoins, placing intermediation and policy promise - or even estimate - of future performance. The figures shown relate to past performance. Past
+pink. There is also a first page option with placeholders for them under regulatory oversight. transmission. performance is no guarantee of current or future results. Source: Blackrock Investment Institute, with data
+content and author photos provided in the same three The law bars issuers from paying from Coingecko as of November 27, 2025. Note: The orange line shows the combined market cap of Tether
+primary brand colors. Both 1-column and 2-column interest but a “marketing-rewards” (USDT) and USD Coin (USDC), and the yellow line shows their combined market cap relative to the entire
+interior pages are provided in the Layout menu. cryptocurrency market.
+ provision enables yield-like Stablecoins are no longer niche
+Tables incentives. That allows competition — they’re becoming the bridge
+ with bank deposits or money between traditional finance and Investment implications
+Divider lines: .25pt black market funds, which, if it occurred • Stablecoin adoption is widening and is
+Bottom border: 1pt black at scale, could meaningfully affect digital liquidity. ”
+Avoid vertical gridlines when possible. how banks provide credit to the Samara Cohen increasingly integrated into mainstream
+ broader economy. The likely extent Global Head of Market payment systems.
+Highlight key information by shading rows of such shifts is highly uncertain. Development, • These developments mark a modest but
+ BlackRock
+and columns with colors from the primary meaningful step toward a tokenized financial
+brand color palette. system.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 11
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-11/18
+
+## Page 12
+
+Helpful hints Mega forces
+
+Guides Dispersion in defaults
+Go to View and check the “Guides” box to see page margins Private credit Covenant default rates by revenues, 2024-25
+and columns. This feature will help align items on the page. 30% 2024 2025
+
+Text enters new phase 25%
+Adjust text sizes as needed. Bigger is better. Use only
+BLACK or WHITE text. Use font size and/or the Extrabold, Private credit has entered a more Reported data may mask stress 20%
+Bold, or Body font weights instead of color to differentiate. uneven phase after years of rapid through restructurings or payments-
+Body copy (minimum 9pt BLK Fort growth. Larger, established lenders in-kind, but we think a shakeout will 15%
+Line Spacing Multiple 1.13 remain resilient, while some distinguish disciplined lenders from
+After Spacing 6pt) smaller and newer entrants are others. That now makes manager
+Use Increase List Level tools in text placeholders to adjust under pressure. Competition and selection, due diligence, workout 10%
+the text formatting as listed in the reference below: abundant capital amid lower capabilities and track records even
+Level One buyout and deal activity has more crucial. We think that gives 5%
+ compressed spreads and led established lenders with strong
+Level Two some lenders to compromise on documentation and proven expertise 0%
+• Level Three credit standards. an edge. <$10M $10-30M $30-50M $50-100M >$100M
+ - Level Four While pockets of stress are evident, Retail flows into semi-liquid private Annual EBITDA (US$)
+Level Five we think they are concentrated, not credit products are likely to be pro- Chart takeaway: Covenant default rates among smaller
+ contagious. See the chart. cyclical and may amplify volatility borrowers are much higher compared with larger counterparts.
+ Covenant defaults among smaller during periods of stress. Wider We think that illustrates the widening dispersion within private
+Layouts borrowers have risen more than dispersion creates more alpha credit – creating potential alpha for skilled investors.
+Go to the Layout menu on the Home tab to access among larger ones — an indication opportunities and highlights why
+additional page layout options. Cover options are provided of growing dispersion in private investment skill is key.
+with tabs in three primary brand colors: orange, yellow, and credit. We also expect dispersion
+pink. There is also a first page option with placeholders for by industry, with businesses The figures shown relate to past performance. Past performance is not a reliable indicator of current or future
+content and author photos provided in the same three heavily exposed to the consumer or results. Source: BlackRock Investment Institute, Lincoln International, November 2025. Note: The bars show
+primary brand colors. Both 1-column and 2-column threatened by AI most at risk. the size-weighted covenant default rates by revenue. The dataset excludes companies with negative debt. The
+interior pages are provided in the Layout menu. Expect greater dispersion in 2024 and 2025 data are for Q2 in both years.
+ We see defaults as more private credit, heightening the
+Tables pronounced in a challenging importance of manager Investment implications
+Divider lines: .25pt black economic environment. Losses will selection.” • The gap between established lenders and
+Bottom border: 1pt black rise in tandem as poorly structured
+Avoid vertical gridlines when possible. deals unwind, in our view — a Vikas Keswani newer entrants is growing.
+ normal and necessary correction Managing Director at
+ after a long benign cycle. HPS, a part of • We think manager selection, due diligence and
+Highlight key information by shading rows BlackRock track records are critical for capturing
+and columns with colors from the primary potential alpha.
+brand color palette.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 12
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-12/18
+
+## Page 13
+
+Helpful hints Mega forces
+
+Guides A valuation discount
+Go to View and check the “Guides” box to see page margins Infrastructure: Listed infrastructure vs. MSCI World valuations, 2010-25
+and columns. This feature will help align items on the page. 40%
+
+Text a timely moment 30%
+Adjust text sizes as needed. Bigger is better. Use only 20%
+BLACK or WHITE text. Use font size and/or the Extrabold, Infrastructure sits at the For long-term investors able to Premium
+Bold, or Body font weights instead of color to differentiate. intersection of structural demand accept higher illiquidity, we also see 10%
+Body copy (minimum 9pt BLK Fort and a timely market opportunity, in attractive opportunities in private
+Line Spacing Multiple 1.13 our view. We define infrastructure infrastructure that gives investors 0%
+After Spacing 6pt) as exposure to essential, long-lived the ability to directly control assets. Discount
+Use Increase List Level tools in text placeholders to adjust real assets — transport, energy, Private infrastructure also offers -10%
+the text formatting as listed in the reference below: digital and utility systems — whose exposure to certain types of
+Level One cash flows are often regulated or infrastructure typically harder to find -20%
+ contracted, giving them “defensive” in public markets such as carbon
+Level Two characteristics. capture and storage or biofuels. -30%
+• Level Three The AI buildout adds another For investors with income or 2010 2015 2020 2025
+ - Level Four dimension: as we’ve discussed liability-matching goals, we believe 1 standard deviation 2 standard deviations Average
+Level Five earlier, we believe there will be clear both investment grade and sub- Chart takeaway: Market pricing does not reflect the opportunity
+ winners, yet we don’t know who will investment grade infrastructure debt in infrastructure from mega forces driving multi-decade
+ capture the ultimate revenues. In offer appeal. High yield investment needs, creating an attractive entry point.
+Layouts any case, we see infrastructure as infrastructure debt offers relatively
+Go to the Layout menu on the Home tab to access indispensable, providing the power, attractive spreads and investment The figures shown relate to past performance. Past performance is not a guarantee of current or future results.
+additional page layout options. Cover options are provided data networks and connectivity grade debt can offer insurers capital Index performance returns do not reflect any management fees, transaction costs or expenses. Indices are
+with tabs in three primary brand colors: orange, yellow, and that the eventual winners rely on. efficiency. Both can offer partial unmanaged and one cannot invest directly in an index. Source: BlackRock Investment Institute, with data from
+pink. There is also a first page option with placeholders for We think valuations don’t reflect inflation linkage. FTSE, MSCI, December 2025. Notes: The chart shows the relative difference between the EV/EBITDA ratio of
+content and author photos provided in the same three the long-term potential. Listed the FTSE World Core Infrastructure 50/50 index and MSCI World indices. The orange dotted line shows the
+primary brand colors. Both 1-column and 2-column infrastructure trades at a deep average, the shaded yellow area show the range of 1 standard deviation from the average and the green
+interior pages are provided in the Layout menu. dashed lines show the range of 2 standard deviations from the average.
+ discount to public equities - below The infrastructure for AI is a
+Tables global financial crisis levels and permanent trend, and the race
+ comparable to the Covid-19 shock. now is to secure the land, water, Investment implications
+Divider lines: .25pt black See the chart. This discount partly and power to build it.” • Valuations don’t fully reflect the infrastructure
+Bottom border: 1pt black reflects uncertainty about the opportunity – underpinned by mega forces
+Avoid vertical gridlines when possible. outlook for interest rates rather Scott Pearl driving multi-decade investment needs.
+ than deteriorating fundamentals, Managing Director at
+Highlight key information by shading rows in our view. GIP, a part of • We think institutional investors can up
+and columns with colors from the primary BlackRock
+brand color palette. infrastructure allocations across public and
+ private markets.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 13
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-13/18
+
+## Page 14
+
+Helpful hints Focus – Emerging markets
+
+Guides Jump in quality
+Go to View and check the “Guides” box to see page margins Room to run for Rating upgrades to emerging market (EM) sovereign debt, 2010-2025
+and columns. This feature will help align items on the page. 15
+
+Text EMs 10
+Adjust text sizes as needed. Bigger is better. Use only
+BLACK or WHITE text. Use font size and/or the Extrabold, Emerging markets have had a We stay neutral broad EM equities 5
+Bold, or Body font weights instead of color to differentiate. strong 2025. Local-currency EM on a tactical horizon as mega forces
+Body copy (minimum 9pt BLK Fort bonds led gains as inflation fell, drive opportunities and we don’t see 0
+Line Spacing Multiple 1.13 central banks cut rates and EM a clear direction for the U.S. dollar.
+After Spacing 6pt) currencies strengthened against a We favor selective exposure to tech
+Use Increase List Level tools in text placeholders to adjust softer U.S. dollar. In our view, that and themes linked to AI and the -5
+the text formatting as listed in the reference below: phase is ending as much of the energy transition across EM and
+Level One early policy easing and currency China. The rewiring of supply chains -10
+ strength is now reflected in returns. is benefiting countries like Mexico,
+Level Two Brazil and Vietnam, in our view.
+• Level Three We now see opportunities in hard- -15
+ currency EM debt and turn In our strategic investment views of 2010 2015 2020 2025
+ - Level Four overweight. A weaker dollar, lower five years and beyond, a preference Investment grade BB-rated B-rated CCC-rated & below
+Level Five U.S. rates and prudent fiscal and for above-benchmark allocations to Chart takeaway: Higher-yielding emerging market bonds are
+ monetary policy have improved EM Indian equities drives a broader driving most of this year’s ratings upgrades. We think it highlights
+ credit fundamentals, reflected by a overweight to EM equities. India’s a rising quality in EM bonds – that are already attractive as high-
+Layouts slew of sovereign rating upgrades. young and expanding workforce, income opportunities, in our view.
+Go to the Layout menu on the Home tab to access Spreads are near decade lows rapid digitization and resilience in a
+additional page layout options. Cover options are provided across regions, supported by fragmented geopolitical landscape
+with tabs in three primary brand colors: orange, yellow, and limited issuance and stronger bolster its long-term growth The figures shown relate to past performance. Past performance is not a guarantee of current or future results.
+pink. There is also a first page option with placeholders for balance sheets. We favor high-yield prospects, we think. Source: BlackRock Investment Institute, Morgan Stanley Research, Standard & Poor’s, Moody’s Investors
+content and author photos provided in the same three EM issuers leading sovereign Service and Fitch Ratings, with data from Bloomberg, December 2025. Note: The bars show the net upgrades
+primary brand colors. Both 1-column and 2-column ratings upgrades this year – see (number of upgrades minus the number of downgrades) made by S&P, Moody’s and Fitch of emerging
+interior pages are provided in the Layout menu. market sovereign debt across different credit ratings.
+ chart. We see these upgrades as a The average EM is more
+Tables sign of improving credit quality resilient, better managed and
+ that alongside attractive carry Investment implications
+Divider lines: .25pt black underpins our overweight. We looking more like part of the • We like EM hard currency debt tactically given
+Bottom border: 1pt black prefer bonds to equities across EM core.” attractive income, limited issuance and
+Avoid vertical gridlines when possible. on a tactical horizon on steadier Pablo Goldberg stronger sovereign balance sheets.
+ income potential and valuations Head of Research and
+Highlight key information by shading rows that better reflect near-term risks. Portfolio Manager, • On a long-term horizon, we favor EM equities
+and columns with colors from the primary Emerging Market at the cross current of mega forces, like India.
+brand color palette. Debt Team, BlackRock
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 14
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-14/18
+
+## Page 15
+
+Helpful hints Views
+
+Guides
+Go to View and check the “Guides” box to see page margins Going
+and columns. This feature will help align items on the page.
+
+Text global Big calls
+Adjust text sizes as needed. Bigger is better. Use only Our highest conviction views on six- to 12-month (tactical) and over five-year (strategic) horizons, Dec. 2025
+BLACK or WHITE text. Use font size and/or the Extrabold, We stay overweight U.S. stocks on the broadening AI
+Bold, or Body font weights instead of color to differentiate.
+Body copy (minimum 9pt BLK Fort theme, with risk appetite supported by Fed rate cuts. Tactical Reasons
+Line Spacing Multiple 1.13 The AI theme has broadened out this year, benefiting • We see the AI theme supported by strong earnings, resilient profit margins
+After Spacing 6pt) a wider array of markets including China, Taiwan and and healthy balance sheets at large listed tech companies. Continued Fed
+ South Korea. Europe’s lagging earnings growth Still favor AI easing into 2026 and reduced policy uncertainty underpin our overweight
+Use Increase List Level tools in text placeholders to adjust relative to the U.S. keeps us neutral its stocks, but we
+the text formatting as listed in the reference below: prefer sectors such as financials and industrials. to U.S. equities.
+Level One Japanese stocks are one of our preferred tactical and • We like Japanese equities on strong nominal growth and corporate
+Level Two strategic exposures. Solid economic growth and Select international governance reforms. We stay selective in European equities, favoring
+• Level Three shareholder-friendly reforms underpin our exposures financials, utilities and healthcare. In fixed income, we prefer EM due to
+ overweight. We’re underweight Japanese government improved economic resilience and disciplined fiscal and monetary policy.
+ - Level Four bonds – and DM long-dated bonds broadly. We prefer • We suggest looking for a “plan B” portfolio hedge as long-dated U.S.
+Level Five EM hard-currency debt on attractive carry, limited Evolving diversifiers Treasuries no longer provide portfolio ballast – and to mind potential
+ issuance and healthy sovereign balance sheets. sentiment shifts. We like gold as a tactical play with idiosyncratic drivers
+Layouts We think India offers one of the most compelling but don’t see it as a long-term portfolio hedge.
+
+Go to the Layout menu on the Home tab to access opportunities across emerging markets for long-term Strategic Reasons
+additional page layout options. Cover options are provided investors looking to tap into mega forces. We favor
+with tabs in three primary brand colors: orange, yellow, and above-benchmark allocations to Indian equities • We favor a scenario-based approach as we learn more about AI winners and
+pink. There is also a first page option with placeholders for within strategic portfolios with investment horizons of Portfolio construction losers. We lean on private markets and hedge funds for idiosyncratic return
+content and author photos provided in the same three five years and beyond. Demographics are India’s and to anchor portfolios in mega forces.
+primary brand colors. Both 1-column and 2-column greatest long-term strength, in our view: a large and
+interior pages are provided in the Layout menu. Infrastructure equity and • We find infrastructure equity valuations attractive and mega forces
+ expanding working-age population, unlike many private credit underpinning structural demand. We still like private credit but see
+Tables major economies, bode well for sustained gains in dispersion ahead – highlighting the importance of manager selection.
+Divider lines: .25pt black productivity and consumption, we think. We also see • We get granular in public markets. We favor DM government bonds outside
+ it as a potential beneficiary of heightened geopolitical the U.S. Within equities, we favor EM over DM yet get selective in both. In
+Bottom border: 1pt black fragmentation that benefits multi-aligned and Beyond market cap
+Avoid vertical gridlines when possible. connector countries. benchmarks EM, we like India which sits at the intersection of mega forces. In DM, we
+ like Japan as mild inflation and corporate reforms brighten the outlook.
+
+Highlight key information by shading rows Note: Views are from a U.S. dollar perspective, December 2025. This material represents an assessment of the market environment at a specific time and is not intended
+and columns with colors from the primary to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any
+brand color palette. particular funds, strategy or security.
+
+ CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, 15
+ SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ BIIM1225U/M-5030895-15/18
+
+## Page 16
+
+CAPITAL AT RISK. INVESTMENTS CAN RISE OR FALL IN VALUE. FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, SELECT COUNTRIES IN EUROPE (SEE THE FULL DISCLAIMER), ISRAEL, SOUTH AFRICA, HONG KONG, SINGAPORE
+ Helpful hints AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, AND QUALIFIED INVESTORS AND CLIENTS IN OTHER PERMITTED COUNTRIES.
+ Tactical granular views
+ Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, December 2025
+Guides Fixed View Commentary
+Go to View and check the “Guides” box to see page margins Underweight Neutral Overweight  Previous view income
+and columns. This feature will help align items on the page. We are neutral. We see other assets offering more compelling
+ Short U.S. returns as short-end yields have fallen alongside the U.S.
+Text Equities View Commentary Treasuries policy rate.
+
+Adjust text sizes as needed. Bigger is better. Use only We are overweight. Strong corporate We are underweight. We see high debt servicing costs and
+BLACK or WHITE text. Use font size and/or the Extrabold, earnings, driven in part by the AI theme, are Long U.S. price-sensitive domestic buyers pushing up on term
+Bold, or Body font weights instead of color to differentiate. supported by a favorable macro backdrop: Treasuries premium. Yet we see risks to this view: lower inflation and
+ United States continued Federal Reserve easing, broad better tax revenues could push down yields near term.
+Body copy (minimum 9pt BLK Fort economic optimism and less policy Global We are neutral. We think inflation will settle above pre-
+Line Spacing Multiple 1.13 uncertainty, particularly on the trade front. inflation - pandemic levels, but markets may not price this in the near-
+After Spacing 6pt) We are neutral. We would need to see more linked bonds term as growth cools.
+Use Increase List Level tools in text placeholders to adjust business-friendly policy and deeper capital We are neutral. We agree with market forecasts of ECB policy
+the text formatting as listed in the reference below: Europe markets for recent outperformance to Euro area govt and think current prices largely reflect increased German
+Level One continue and to justify a broad overweight. bonds bond issuance to finance its fiscal stimulus package. We
+ We stay selective, favoring financials, prefer government bonds outside Germany.
+Level Two utilities and healthcare. We are neutral. The recent budget aims to shore up market
+• Level Three UK gilts confidence through fiscal consolidation. But deferred
+ - Level Four We are neutral. Valuations remain attractive borrowing cuts could bring back gilt market volatility.
+ UK relative to the U.S., but we see few near-term
+Level Five catalysts to trigger a shift. Japanese govt We are underweight. Rate hikes, higher global term premium
+ bonds and heavy bond issuance will likely drive yields up further.
+ We are overweight. Strong nominal GDP, China govt We are neutral. China bonds offer stability and diversification
+Layouts Japan healthy corporate capex and governance bonds but developed market yields are higher and investor
+Go to the Layout menu on the Home tab to access reforms – such as the decline of cross- sentiment shifting towards equities limits upside.
+additional page layout options. Cover options are provided shareholdings – all support equities. U.S. agency We are overweight. Agency MBS offer higher income than
+with tabs in three primary brand colors: orange, yellow, and MBS Treasuries with similar risk and may offer more
+pink. There is also a first page option with placeholders for We are neutral. Economic resilience has diversification amid fiscal and inflationary pressures.
+content and author photos provided in the same three improved, yet selectivity is key. We see We are neutral. Corporate strength means spreads are low,
+primary brand colors. Both 1-column and 2-column Emerging opportunities across EM linked to AI and the Short-term but they could widen if issuance increases and investors
+interior pages are provided in the Layout menu. markets energy transition and see the rewiring of IG credit rotate into U.S. Treasuries as the Fed cuts.
+ supply chains benefiting countries like
+ Mexico, Brazil and Vietnam. Long-term We are underweight. We prefer short-term bonds less
+Tables We are neutral. Trade relations with the U.S. IG credit exposed to interest rate risk over long -term bonds.
+Divider lines: .25pt black have steadied, but property stress and an Global We are neutral. High yield offers more attractive carry in an
+Bottom border: 1pt black aging population still constrain the macro high yield environment where growth is holding up – but we think
+Avoid vertical gridlines when possible. China outlook. Relatively resilient activity limits dispersion between higher and weaker issuers will increase.
+ near-term policy urgency. We like sectors like
+ AI, automation and power generation. We still Asia We are neutral. Overall yields are attractive and
+Highlight key information by shading rows favor China tech within our neutral view. credit fundamentals are solid, but spreads are tight.
+and columns with colors from the primary EM hard We are overweight. A weaker U.S. dollar, lower U.S. rates and
+brand color palette. Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views currency effective EM fiscal and monetary policy have improved
+ are from a U.S. dollar perspective. This material represents an assessment of the market environment at a specific time and is economic resilience. We prefer high yield bonds.
+ not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice EM local We are neutral. A weaker U.S. dollar has boosted local
+ regarding any particular fund, strategy or security. currency currency EM debt, but it’s unclear if this weakening will
+ persist.
+ BIIM1225U/M-5030895-16/18 16
+
+## Page 17
+
+Helpful hints
+
+Guides General disclosure: This material is intended for information purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities to any person in any jurisdiction in which an offer,
+Go to View and check the “Guides” box to see page margins solicitation, purchase or sale would be unlawful under the securities laws of such jurisdiction. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance. This
+and columns. This feature will help align items on the page. information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. The opinions expressed are as of December
+ 2025 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the re ader. Investing involves risks.
+
+Text In the U.S. and Canada, this material is intended for public distribution. In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, auth orised and regulated by the Financial
+Adjust text sizes as needed. Bigger is better. Use only Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in Engla nd and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial
+BLACK or WHITE text. Use font size and/or the Extrabold, Conduct Authority website for a list of authorised activities conducted by BlackRock . In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Mar kets.
+Bold, or Body font weights instead of color to differentiate. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 020 – 549 5200, Tel: 31-20-549-5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise
+Body copy (minimum 9pt BLK Fort complaints please go tohttps://www.blackrock.com/corporate/compliance/investor-rightavailable in Italian. In Switzerland, for qualified investors in Switzerland: This document is marketing material. Until 31 December 2021, this document shall be
+ exclusively made available to, and directed at, qualified investors as defined in the Swiss Collective Investment Schemes Act of 23 June 2006 (“CISA”), as amended. From 1 January 2022, this document shall be exclusively made available to, and directed
+Line Spacing Multiple 1.13 at, qualified investors as defined in Article 10 (3) of the CISA of 23 June 2006, as amended, at the exclusion of qualified investors with an opting-out pursuant to Art. 5 (1) of the Swiss Federal Act on Financial Services ("FinSA"). For information on art. 8 /
+After Spacing 6pt) 9 Financial Services Act (FinSA) and on your client segmentation under art. 4 FinSA, please see the following website: www.blackrock.com/finsa. For investors in Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s
+Use Increase List Level tools in text placeholders to adjust Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an
+the text formatting as listed in the reference below: authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the DIFC this material can be distributed in and from the Dubai International Financial Centre (DIFC) by BlackRock Advisors (UK) Limited — Dubai
+Level One Branch which is regulated by the Dubai Financial Services Authority (DFSA). This material is only directed at 'Professional Clients’ and no other person should rely upon the information contained within it. Blackrock Advisors (UK) Limited - Dubai Branch is
+ a DIFC Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its offi ce at Unit 06/07, Level 1, Al Fattan Currency House, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to
+Level Two engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DI FC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738). In the Kingdom of Saudi
+ Arabia, issued in the Kingdom of Saudi Arabia (KSA) by BlackRock Saudi Arabia (BSA), authorised and regulated by the Capital Market A uthority (CMA), License No. 18-192-30. Registered under the laws of KSA. Registered office: 7976 Salim Ibn Abi Bakr
+• Level Three Shaikan St, 2223 West Umm Al Hamam District Riyadh, 12329 Riyadh, Kingdom of Saudi Arabia, Tel: +966 11 838 3600. CR No, 1010479419. The information contained within is intended strictly for Sophisticated Investors as defined in the CMA
+ - Level Four Implementing Regulations. Neither the CMA or any other authority or regulator located in KSA has approved this information. In the United Arab Emirates this material is only intended for -natural Qualified Investor as defined by the Securities and
+ Commodities Authority (SCA) Chairman Decision No. 3/R.M. of 2017 concerning Promoting and Introducing Regulations. Neither the DFSA or any other authority or regulator located in the GCC or MENA region has approved this information. In the State
+Level Five of Kuwait, those who meet the description of a Professional Client as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In the Sultanate of Oman, to sophisticated institutions who have experience in investing in local and international
+ securities, are financially solvent and have knowledge of the risks associated with investing in securities. In Qatar, for distribution with pre-selected institutional investors or high net worth investors. In the Kingdom of Bahrain, to Central Bank of Bahrain
+ (CBB) Category 1 or Category 2 licensed investment firms, CBB licensed banks or those who would meet the description of an Expert Investor or Accredited Investors as defined in the CBB Rulebook. The information contained in this document, does not
+Layouts constitute and should not be construed as an offer of, invitation, inducement or proposal to make an offer for, recommendation to apply for or an opinion or guidance on a financial product, service and/or strategy. In Singapore , this is issued by BlackRock
+Go to the Layout menu on the Home tab to access (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetar y Authority of Singapore. In Hong Kong , this material is issued by BlackRock Asset Management North Asia Limited and has
+additional page layout options. Cover options are provided not been reviewed by the Securities and Futures Commission of Hong Kong. In South Korea , this material is for distribution to the Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-
+with tabs in three primary brand colors: orange, yellow, and regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist ., Taipei City 110, Taiwan. Tel: (02)23261600. In Japan, this is issued by BlackRock Japan. Co., Ltd.
+pink. There is also a first page option with placeholders for (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II
+content and author photos provided in the same three Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The ri sks
+primary brand colors. Both 1-column and 2-column and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are i nvested vary each strategy or product. In Australia, issued by BlackRock Investment Management (Australia) Limited ABN 13 006
+interior pages are provided in the Layout menu. 165 975 AFSL 230 523 (BIMAL). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. In New Zealand, issued by BlackRock Investment Management
+ (Australia) Limited ABN 13 006 165 975, AFSL 230 523 (BIMAL) for the exclusive use of the recipient, who warrants by receipt of this material that th ey are a wholesale client as defined under the New Zealand Financial Advisers Act 2008. Refer to
+Tables BIMAL’s Financial Services Guide on its website for more information. BIMAL is not licensed by a New Zealand regulator to pro vide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing
+ money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to acti ve regulation or oversight by a New Zealand regulator. In
+Divider lines: .25pt black China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, not applicable to Hong Kong, Macau and Taiwan) or entit ies registered in the PRC unless such parties have received all the
+Bottom border: 1pt black required PRC government approvals to participate in any investment or receive any investment advisory or investment managemen t services. For Other APAC Countries, this material is issued for Institutional Investors only (or professional/sophisticated
+Avoid vertical gridlines when possible. /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment
+ advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment A dvisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
+
+Highlight key information by shading rows
+and columns with colors from the primary
+brand color palette.
+
+ BIIM1225U/M-5030895-17/18
+
+## Page 18
+
+Helpful hints
+
+Guides BlackRock Investment Institute
+Go to View and check the “Guides” box to see page margins The BlackRock Investment Institute (BII) leverages the firm’s expertise and generates proprietary research to provide insights on macroeconomics, sustainable
+and columns. This feature will help align items on the page. investing, geopolitics and portfolio construction to help Blackrock’s portfolio managers and clients navigate financial markets. BII offers strategic and tactical market
+ views, publications and digital tools that are underpinned by proprietary research.
+Text
+Adjust text sizes as needed. Bigger is better. Use only
+BLACK or WHITE text. Use font size and/or the Extrabold,
+Bold, or Body font weights instead of color to differentiate.
+Body copy (minimum 9pt BLK Fort
+Line Spacing Multiple 1.13
+After Spacing 6pt)
+Use Increase List Level tools in text placeholders to adjust
+the text formatting as listed in the reference below:
+Level One
+Level Two
+• Level Three
+ - Level Four
+Level Five
+
+Layouts
+Go to the Layout menu on the Home tab to access
+additional page layout options. Cover options are provided
+with tabs in three primary brand colors: orange, yellow, and
+pink. There is also a first page option with placeholders for
+content and author photos provided in the same three
+primary brand colors. Both 1-column and 2-column
+interior pages are provided in the Layout menu.
+
+Tables
+Divider lines: .25pt black
+Bottom border: 1pt black
+Avoid vertical gridlines when possible.
+
+Highlight key information by shading rows
+and columns with colors from the primary
+brand color palette.
+
+ ©2025 BlackRock, Inc. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its subsidiaries in the United States and elsewhere. All other trademarks are those of their respective owners.
+
+ BIIM1225U/M-5030895-18/18

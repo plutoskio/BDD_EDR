@@ -1,0 +1,1009 @@
+Source file: lazard_outlook_2026.pdf
+Source path: outlooks/lazard_outlook_2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:11.343259+00:00
+Page count: 21
+
+---
+
+## Page 1
+
+G lo b a l
+20 2 6O u t l o ok
+
+Ronald Temple, CFA
+Chief Market Strategist
+
+## Page 2
+
+Def y i ng Grav it y
+
+ Crosscurrents buf feted investors in 2025. On the downside, protectionist US
+ trade policy, more restrictive immigration policies, and persistent geopolitical
+ tension represented new shocks to supply chains that were still healing from
+ the af teref fects of the pandemic. On the upside, enthusiasm about the
+ potential speed and scale of the productivity and corporate profitability
+ impact of ar tificial intelligence (AI) lif ted investor confidence and drove
+ markets to new heights. But in 2026, gravity is likely to reasser t itself.
+
+ • United States: Elevated tarif fs may lif t inflation through the first half of
+ 2026 while tighter immigration enforcement reduces labor supply and GDP
+ grow th. AI investment is surging, but rising debt-funded spending with no
+ clear path to profitability should raise yellow flags.
+
+ • China: The new Five-Year Plan prioritizes stability over near-term grow th,
+ focusing on high-tech sectors and reducing US dependencies. China’s
+ housing crisis will continue to exacerbate economic imbalances, with
+ limited expected fiscal stimulus.
+
+ • Eurozone: Low interest rates and energy prices, rising real wages, and
+ continued fiscal expansion suppor t growth in 2026. Risks include
+ uncer tainty around defense spending, political fragility, and countries’
+ willingness to implement economic reforms.
+
+ • Japan: Prime Minister Sanae Takaichi will pursue an expansionar y fiscal
+ and regulator y agenda reminiscent of Abenomics. But the Bank of Japan’s
+ (BoJ) inclination to tighten monetar y policy given domestic inflationar y
+ pressures will pose a new tension that her mentor did not encounter.
+
+ • Global Markets: US exceptionalism may fade as non-US oppor tunities
+ continue to outper form—aided by a weaker US dollar. There is little doubt
+ that AI will boost productivity, but in 2026, investors are likely to discriminate
+ more skeptically between winners and losers.
+
+ • Rates & Policy: Divergent central bank policies could meaningfully
+ increase volatility as the BoJ tightens policy while other developed market
+ central banks ease. While shor t-term rates fall, large sustained fiscal
+ deficits are likely to put upward pressure on long-term yields, leading to
+ fur ther steepening of developed market yield cur ves.
+
+ 2
+
+## Page 3
+
+Decisions in 2025 will shape the 2026 outlook to a large degree. Tarif fs are likely to push
+Un it e d S t at e s core inflation to 3.5% or higher in the first half of 2026, while more stringent immigration
+ enforcement will reduce labor force and GDP grow th. AI investments contributed about
+ two-thirds of GDP grow th in 2025, a pace unlikely to be matched in 2026. With accelerating
+ inflation and a weakening economy, Federal Reser ve independence could be at risk, and
+ the US midterm elections in November could occur against a tougher economic and market
+ backdrop.
+
+ Tariffs and Consequences
+ Through 2025, the US administration implemented a series of sweeping policy changes.
+ The One Big Beautiful Bill Act (OBBBA) made permanent the personal tax rates implemented
+ in 2017 during Trump’s first term; these reductions were funded in par t by ~$900 billion of
+ Medicaid funding cuts beginning af ter 2026. Despite the Medicaid cuts, the Congressional
+ Budget Of fice (CBO) estimated that the OBBBA would add $3.5 – $4 trillion to deficits over a
+ ten-year forecast horizon. In par t to pay for these added deficits, the Trump administration
+ increased tarif fs on goods impor ts from from 2.7% at the end of 2024 to ~16.8% as of 17
+ November, the highest level since 1935 according to Yale Budget Lab (Exhibit 1).
+
+ One key question for 2026 is whether the Trump administration will be able to continue
+ collecting tarif fs imposed based on the International Emergency Economic Powers Act
+ (IEEPA). Af ter two federal cour t rulings that IEEPA does not allow the president to impose
+ tarif fs, the Supreme Cour t heard the Trump administration’s appeal early in November.
+ A ruling is likely to be delivered before the end of the first quar ter of 2026.
+ If the Supreme Cour t rules that IEEPA was unlaw fully used to impose tarif fs, the Trump
+ administration can impose tarif fs under Sections 122, 232, 301, and 338 with var ying
+ degrees of freedom. The most positive aspect of ending the use of IEEPA for tarif fs is that it
+ would introduce more predictability into the process of imposing duties on impor ts.
+ In mid-November, the Trump administration announced that it would lower tariffs on
+ selected items such as cof fee and bananas to mitigate household inflation. I expect more
+ targeted tarif f reductions like these in 2026, but the administration’s ability to reduce tarif fs
+ will be limited by potential deficit implications. With additional sectoral duties likely to be
+ imposed, I expect tarif fs to stabilize near current levels through 2026.
+
+ Assuming tarif f revenue remains at the current run-rate, the federal deficit is likely to remain
+ on an unsustainable trajector y, exceeding 6% of GDP per annum for the foreseeable future.
+
+ E x h i b i t 1.
+ The Weighted Average US Tariff on Goods Has Risen by 14 Percentage Points to the Highest Level since 1935
+ US Average Effective Tariff Rate on Goods Imports (%)
+ 30
+
+ 25
+
+ 20
+
+ Current 16.8% average effective tariff rate
+ 15
+
+ 10
+ 2.7% average tariff rate at start
+ of Trump’s second term
+ 5
+
+ 0
+ 1900 1905 1910 1915 1920 1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020 2025
+
+ As of 17 November 2025
+ This rate estimate does not factor in substitution ef fects. Actual rates will depend on final policy implementation.
+ Source: Yale Budget Lab
+
+ 3
+
+## Page 4
+
+Key Inflation Metrics to Watch
+If tarif fs remain near current levels, as we expect, the US Consumer Price Index (CPI)
+inflation rate is likely to top 3.5% in the first half of 2026 (Exhibit 2). Many goods being
+delivered to US customers today were not subject to tarif fs when they were ordered by the
+impor ting company. For example, in September, the average tarif f charged on US goods
+impor ts was 11.1%, meaning that only half of the announced increase in tarif fs was being
+charged. As impor tantly, impor ters have taken advantage of the various tarif f pauses in 2025
+to front-load purchases and build inventor y that is now in the process of being depleted.
+
+E xhibit 2.
+US Inflation Is Likely to Peak in H1 2026
+US Core Consumer Price Index Inﬂation for Key Categories (%, YoY)
+14
+
+12
+
+10
+
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+
+ -2
+
+ -4
+ 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Core Goods Shelter Services ex-Shelter and ex-Energy Services Core CPI
+
+As of September 2025
+Core goods represent ~24% of core CPI, shelter represents ~44%, and ser vices ex-shelter and ex-energy ser vices represent ~32%.
+Source: Bureau of Labor Statistics, Haver Analy tics
+
+ 4
+
+## Page 5
+
+Af ter pre-tarif f inventories have been depleted, the cost of goods sold will be higher, and
+ merchants will have to decide whether to protect their profit margins or insulate their
+ customers. I expect most companies to opt to preser ve their margins while cutting other
+ expenses to avoid raising prices too meaningfully.
+
+ One potential mitigating factor could be decreased rent inflation. The Zillow Obser ved Rent
+ Index has historically led US shelter CPI by about one year. For the two years ended in June
+ 2025, year-on-year (y-o-y) rent inflation ranged between 2.9%– 3.5% during each month
+ (Exhibit 3). However, by October, rent inflation slid to only 2.3% y-o-y. If rent increases
+ remain at this new lower level or even slow fur ther, reduced shelter inflation could of fset
+ some por tion of the impact of tarif fs on CPI.
+
+Exhibit 3.
+Rent Inflation Has Decelerated in 2025
+US Year-on-Year Rental Price Changes (%)
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ 0
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+ Median National
+
+As of October 2025
+The Index covers approximately 100 major cities in the United States beginning in 2015. This index captures asking rents (not agreed rents) for new leases only. Lease renewals
+are excluded.
+Source: Zillow Obser ved Rent Index
+
+ A Complicated Labor Market
+
+ I expect the US labor market to weaken in 2026, but the key question is to what degree.
+ Labor demand has clearly sof tened, but the supply shock to labor is likely to prove more
+ impor tant, in our view. US immigration policy shif ts have led to a sharp decline in new
+ migrant arrivals and a reduction in the labor-force par ticipation rate for immigrants living in
+ the United States.
+ Historically, approximately 140,000 new jobs per month were required to maintain a
+ stable US unemployment rate. From May to November 2025, US payrolls only grew by an
+ average of 17,000 jobs per month (Exhibit 4) while the rounded unemployment rate rose
+ from 4.2% to 4.6%. Unemployment might have increased more meaningfully were it not
+ for the fact that the number of foreign-born workers in the labor force fell by more than
+ 500,000 over this period. Depor tations only explain a small par t of the decrease and are
+ likely to increase materially in 2026, suggesting that the breakeven job grow th level might
+ fall even fur ther next year, perhaps to 50,000 or below, reducing the impact of demand
+ weakness on the unemployment rate.
+
+ 5
+
+## Page 6
+
+Exhibit 4.
+ US Nonfarm Payroll Growth Has Slowed to 17,000 per Month since May 2025
+ Average Monthly Change in Nonfarm Payrolls (Thousands, Seasonally Adjusted)
+ 500
+ 444
+
+ 400
+
+ 306 323
+ 300 257 269 261
+ 227 246 240
+ 216 222
+ 200 186 193
+ 148 157 158 141 158
+ 119 118 111 102 120 108
+ 100 85 87 88 71 72 64
+ 44
+ 19
+ 0
+ -13 -26
+
+ -100 -105
+
+ -200
+ Jan-23 May-23 Sep-23 Jan-24 May-24 Sep-24 Jan-25 May-25 Sep-25
+
+ As of November 2025
+ Source: Bureau of Labor Statistics, Haver Analy tics
+
+ Recent Challenger, Gray & Christmas job cut repor ts have raised questions about my
+ relatively sanguine unemployment outlook. The October job cuts repor t showed the highest
+ number of layof fs in an October since 2003, but in November, layof fs fell by over 50%
+ sequentially. Until October, most data suggested that American employers were cur tailing
+ hiring, but not yet firing workers. If that trend is changing, we could be entering a more
+ negative phase for workers and the economy.
+
+ Decision-making at the Fed is likely to become more fraught in 2026. Par ticipants in Federal
+ Open Market Committee (FOMC) discussions face the tension of whether to tighten policy
+ to reduce rising inflation, or ease policy to address a sof tening labor market. In early
+ 2026, we expect the tension between addressing the two mandates to be the highest in
+ decades—but ultimately, the FOMC is likely to prioritize employment, operating under
+ the assumption that tarif f-induced price increases will be a one-of f and isolated to goods
+ prices, while threats to labor demand could be more persistent.
+Decision-making at the Leadership Changes and Fed Independence
+Fed is likely to become The biggest uncer tainties for 2026 relate to government policy. The most immediate
+more fraught in 2026. question related to IEEPA will likely be answered in early 2026. A longer-term question
+ relates to Fed independence.
+ In late August, President Trump posted “Lisa Cook must resign” on social media before
+ announcing her termination from the Federal Reser ve Board. Cook has been allowed to
+ remain at the Fed pending a Supreme Cour t hearing on 21 Januar y. If Cook loses her case
+ and is removed from the Fed, I will see this as a significant blow to Fed independence.
+ Even if Cook wins her case, investors will be watching the appointment of a new Fed Chair
+ when Jay Powell’s term ends in May 2026. The announcement of Powell’s designated
+ replacement will likely occur soon, and investors will want to see a candidate who is free of
+ political influence when making monetar y policy decisions.
+
+ Despite significant discussion to date about Fed independence, meaningful market
+ concerns are hard to find with the exception of gold, which has rallied by as much as 30%
+ since the day before President Trump’s first social media demand that Lisa Cook resign.
+ Uncer tainty surrounding Fed independence is likely not the only driver of the gold price
+ move, but I believe it was a meaningful contributor. The term premium for US Treasuries
+ has not moved meaningfully over the same period. I expect perceptions regarding Fed
+
+ 6
+
+## Page 7
+
+independence to be most visible via the US dollar and gold in the Policy Trajectory
+near term. If it appears Fed independence is being diminished, Looking toward the end of 2026, the mid-term elections could
+steepening of the US yield cur ve would become more likely, but change the US policy trajector y by limiting the Administration’s
+the amount of time it would take for that to occur is dif ficult to ability to legislate. The November 2025 elections in Virginia, New
+forecast, as lower shor t-term interest rates would likely lead shor t- Jersey, and New York City delivered a boost to Democrats with
+and intermediate-duration bonds to rally. It might take a significant voters shif ting away from Republican candidates. A December
+inflation increase without a policy response to see a sizable bear Congressional election in Tennessee, a reliably “red state”, also
+steepening, and that could take years to occur. raised eyebrows as the margin of victor y for the GOP winner
+
+ of the election was nine points versus the prior Republican
+Will AI Enthusiasm Turn to Skepticism? representative’s 22-point margin in 2024.
+US trade policies and much stricter enforcement of immigration While it is too early to forecast election results a year in advance,
+policies have led to a downshif t in sustainable GDP grow th from if histor y is any guide, the Democrats are heavily favored to win
+1.7%–2.0% previously to perhaps 1.2%–1.5% looking for ward. control of the House of Representatives in November 2026. Over
+US grow th will beat this forecast in 2025, but approximately 2/3 the last 65 years, the par ty in control of the White House has lost
+of US GDP grow th was driven by investment in AI and related seats in the House of Representatives in ever y election except
+infrastructure. The rising share prices of AI-focused companies 1998 (Bill Clinton) and 2002 (George W. Bush one year af ter 9/11).
+have provided an additional boost to consumption, translating into On average, in ever y election since 1960, the par ty in control
+greater wealth for shareholders. of the presidency has lost 26 seats versus the current six-seat
+I am skeptical that this AI boom will be sustained through 2026. Republican majority.
+
+Investors are increasingly questioning the funding sources for major In the US Senate, 35 of the 100 seats will be up for election in
+capex announcements as vendor financing and debt of ferings 2026 with 22 seats currently held by Republicans and 13 held by
+become increasingly prominent. Moreover, the use of funds is also Democrats. Despite the higher number of Republican Senators
+raising questions regarding the productive longevity of certain up for reelection, the GOP appears likely to hold onto its majority
+assets and whether they can recoup their costs, much less earn a given that many of the states voting in 2026 either lean or are
+return before becoming obsolete. solidly Republican.
+To put a finer point on the concerns over investments today If I am correct about the election outcome, investors should
+in the AI revolution, it is useful to compare the current capex not expect any meaningful legislation in the next two years, as
+investments to those of the TMT bubble from the mid-1990s to a divided Congress is likely to rever t to gridlock. The House of
+2000. The TMT bubble, to a large degree, represented a major Representatives would likely use its subpoena powers and may
+mismatch in terms of the timing of investment and the realization well attempt to impeach the president yet again, but these actions
+of demand. A significant por tion of the nearly $1.5 trillion invested would be largely per formative, as a Republican-controlled Senate
+in capex during the TMT bubble ultimately was utilized, much of would be highly unlikely to follow through with any punitive action
+it in the form of fiber optic cables and other infrastructure that against a sitting Republican president.
+had a long useful life. The problem was that the cash flows from From a market perspective, a gridlocked Congress would mean
+these investments were realized much later than expected, which that the White House’s primar y tools would relate to foreign policy
+depressed their present value. and trade policy. Any appointments requiring Senate confirmation
+In the case of the current investment, data centers are being built would be likely to pass with a GOP majority, but market-moving
+with an assumed useful lifespan of 15 to 25 years in many cases, acts would likely be confined to tarif fs and trade agreements.
+but the technology inside the data centers might have a lifespan
+as shor t as one to three years depending on intensity of use. If
+the infrastructure ends up being overbuilt, and the cash flows are
+realized too late, the hardware itself might be obsolete before there
+is demand for it.
+
+Make no mistake: AI will be revolutionar y for the global economy
+and for how companies across all sectors operate. However, the
+rules of economics and finance still apply. Debtholders demand
+repayment, and shareholders demand a meaningful return on
+capital adjusted for risk. In many cases, the AI trade increasingly
+appears unlikely to deliver on these demands.
+
+ 7
+
+## Page 8
+
+Through 2026, I expect China’s inflation to remain between 0% and 1% with only marginal
+Ch ina benefits from the government’s “anti-involution” campaign, which aims to reduce
+ “destructive competition” and mitigate deflationar y pressures. GDP grow th is likely to
+ approximate 5% according to of ficial data, but I believe a more honest estimate could
+ fall shor t of 4%. While China’s “new economy” capabilities are likely to continue growing,
+ international trade is a mixed stor y as protectionism abroad could act as a headwind to the
+ world-beating cost advantages lif ting demand for Chinese expor ts. Meanwhile, the housing
+ crisis is likely to continue, and investors’ hopes for fiscal stimulus are likely to be dashed
+ again, as the central government in China views current grow th rates as being satisfactor y.
+
+ A Positive Shift in Production
+ China has successfully replicated its prior success in winning global market share in
+ the renewable energy landscape, dominating electric vehicles, lithium batteries, solar
+ photovoltaic cells, and more recently, advanced robotics. The Chinese technological
+ juggernaut appears to be unstoppable in some ways, with industrial policy being a key
+ driver of this success. In fact, the Fif teenth Five-Year Plan agreed on in late October
+ highlighted China’s commitment to continued advancement in these leading-edge
+ technology arenas.
+
+ With new economy industries estimated to account for 15%–20% of China’s GDP as of
+ 2025, these sectors can increasingly compensate for deterioration in the residential real
+ estate industr y that at one point represented as much as 30% of GDP but now likely
+ represents closer to 15%. While the strategy of shif ting the economy to be more dependent
+ on new manufacturing capabilities makes sense, the success of this strategy depends on
+ other countries allowing China to expor t its excess production to their markets. In the case
+ of photovoltaic cells and solar panel production, China has become the dominant provider
+ globally, with a market share of nearly 80% as of 2025. In the case of new energy vehicles,
+ China is now expor ting passenger vehicles at a pace of about 6 million per year, with half
+ being renewable energy vehicles including EVs and plug-in hybrids.
+ Another new frontier for China’s manufacturing prowess is in the production and use of
+ advanced robotics. In 2017, China had deployed 97 robots for ever y 10,000 workers. By
+ 2024, that ratio had increased to 470 robots per 10,000 human workers, ranking China
+ as the most aggressive adopter of robots among major economies. Impor tantly, many
+ of the robots used in China are also made domestically at a materially lower cost than
+ robots produced in Japan and other developed economies. According to the International
+ Federation of Robotics, China now operates more industrial robots than the rest of the
+ world combined, with over 2 million units in ser vice as of 2024.
+
+I believe we will look Neutral (Near-Term) Trade Policy
+back at 2025 as the year I believe we will look back at 2025 as the year China proved it had the stronger position in
+ trade negotiations, given its stranglehold on the supply of critical minerals and rare ear ths.
+China proved it had the Looking for ward, I expect China to exer t its strength by putting extraterritorial controls on
+stronger position in trade sales of products that contain Chinese critical minerals—as deployed in the past by the
+ United States. China has already announced such restrictions with a complex process for
+negotiations. gaining approvals. I see this as the beginning of a longer-term stor y that will force the West
+ to grapple with developing its own critical mineral supplies and refining capabilities despite
+ the environmental hazards that accompany the processes.
+
+ In 2025, global supply chains were thrown into chaos due to much higher-than-expected
+ US tarif fs on Chinese goods—and then by subsequent changes to those tarif fs in response
+ to bilateral negotiations between the United States and China. In 2026, I expect the US
+ sanctions regime to stabilize, with the average tarif f level on Chinese goods being sold to
+ US customers remaining stable or potentially even declining marginally after Presidents
+ Trump and Xi meet in April.
+
+ 8
+
+## Page 9
+
+A key question for 2026 will be the degree to which countries other than the United States
+ erect barriers to Chinese expor ts given the perception of dumping of excess supplies.
+ With non-US countries increasingly seeking to limit impor ts from China due to pressure
+ from the United States and their own domestic industries, the impor tance of China’s anti-
+ involution campaign will increase in 2026. The government initiative was formulated in mid-
+ 2024 to reduce excess capacity in a range of industries that was leading to deflation and
+ diminishing corporate viability, but serious implementation did not begin until mid-2025.
+ While the policy objective is solid, most economists agree that the anti-involution campaign
+ is unlikely to meaningfully reduce deflationar y pressures.
+
+ Real Estate Crisis Continues
+ While advancements in high technology sectors help boost grow th, and trade stabilizes,
+ I expect housing to continue to be a drag on the economy. Unfor tunately, home prices
+ continue to decline (Exhibit 5), with all of the 70 largest cities repor ting that existing home
+ prices were down both month-on-month (m-o-m) and y-o-y in October 2025. For new
+ homes, 64 of the 70 largest cities repor ted m-o-m price declines and 61 repor ted lower
+ y-o-y levels. According to the National Bureau of Statistics (NBS), cumulative declines in
+ home prices are ~12% for new homes and ~21% for previously occupied homes. However,
+ these figures of ten overstate home prices—and understate the decline of prices as they rely
+ on the listing price (not the transaction price) for a home and ignore “shadow discounting”
+ such as a developer of fering a free parking spot with an apar tment to entice the purchaser.
+ My assessment is that new home prices are likely down on the order of 15%–20% with a
+ skew toward larger declines in Tier 3 cities and smaller declines in Tier 1. For previously-
+ occupied homes, I estimate that the actual average decline could be closer to 25%– 40%
+ with the same skew given private sector data published earlier in 2025.
+
+Exhibit 5.
+
+China Property Prices Remain Weak, Dampening Confidence
+70-City Price Index of Existing Residential Buildings (Index Level)
+250 Tier 1 Tier 2 Tier 3
+
+ Max 2 16 . 5 13 9 . 3 12 5 . 0
+ Current 183.3 113 . 6 9 7. 4
+ Change (%) -15 . 3 -18 . 5 - 2 2 .1
+200
+
+150
+
+100
+
+ 50
+ 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Tier 1 Tier 2 Tier 3
+
+As of October 2025
+Source: Chinese National Bureau of Statistics, Haver Analy tics
+
+ 9
+
+## Page 10
+
+The median household in China has ~60% of its assets in 2022 was driven by the government’s mishandling of the zero-
+residential real estate, which means home prices are a key COVID lockdowns, the initial bounce when lockdowns ended was
+driver of consumer sentiment. Through 2025, China’s consumer shor t-lived. I attribute the sustained negativity since COVID to a
+confidence figures have remained near record-low levels with combination of falling house prices, weak economic grow th, and a
+both expectations and current satisfaction levels staying near their loss of confidence in the government.
+historic lows (Exhibit 6). While the collapse in confidence in early
+
+Exhibit 6.
+Chinese Consumer Confidence Remains Near Record-Low Levels
+Survey of Chinese Consumer Conﬁdence (Greater than 100 = Optimistic)
+130
+
+120
+
+110
+
+100
+
+ 90
+
+ 80
+ 1990 1995 2000 2005 2010 2015 2020 2025
+
+As of October 2025
+Source: Chinese National Bureau of Statistics, Haver Analy tics
+
+ 10
+
+## Page 11
+
+One encouraging sign is that housing star ts have declined to levels From a GDP perspective, the annual plenar y sessions in March
+well below purchases of new residential real estate, which suggests of the National People’s Congress and the National Committee
+that excess inventories will be depleted over time. Housing star ts of the Chinese People’s Political Consultative Conference, known
+by area have declined by almost 75% from the peak level of as the “Two Sessions”, will reveal whether the government sets
+approximately 1.7 billion square meters in 2019 to a year-to-date a lower target for grow th. China has set multiple objectives over
+( Y TD) October 2025 run-rate of 430 million square meters. But time, including building a “moderately prosperous society in all
+sales of residential real estate have also collapsed af ter peaking in respects” by 2020, which was achieved. The current objective is
+2021 at approximately 1.6 billion square meters to a Y TD October to achieve “socialist modernization” emphasizing “high-quality
+2025 run-rate of 720 million square feet. development” and “common prosperity” with an understood goal
+ of doubling GDP by 2035.
+Key Drivers of Inflation and GDP To double GDP over the next decade, China would need to grow
+ real GDP by about 4.2% per annum. I believe this target is a stretch
+Af ter slipping into deflation for several months in 2025, I expect CPI given that the working-age population is expected to decline by
+inflation to return to positive territor y in 2026. The key driver pulling about 0.5% per annum over the next decade. To give a sense of the
+inflation above zero will be the normalization of food prices, which severity of the demographic challenge, in 1990, the median age of
+have been in deflation since Februar y 2025. Core CPI, on the other a Chinese citizen was 23.7. By 2023, the median age had increased
+hand, only slipped into deflation for the single month of Februar y to 39.1. By 2050, over 40% of China’s population is expected to be
+2025 and reached its highest level of the year in the four th quar ter over the age of 60 with only 10% under the age of 15. It is impor tant
+of 2025 at 1.2% y-o-y (Exhibit 7). This figure was boosted by to remember that aging also reduces productivity grow th, adding to
+gold jewelr y prices—but even without the impact of sharply rising the negative demographic ef fect on GDP.
+precious metals prices on the small sliver of consumer goods with
+those inputs, we see core CPI beginning to normalize.
+
+While the anti-involution campaign is aimed to decrease
+deflationar y pressure, I do not expect a meaningful increase in CPI
+or Producer Price Index inflation to result from the campaign.
+
+ E x h i b i t 7.
+ Falling Food Prices Have Been a Drag on Headline CPI
+ China CPI and Core CPI (%)
+ 10
+
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+
+ -2
+ 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ CPI Core CPI
+
+ As of November 2025
+ Source: Bloomberg, National Bureau of Statistics
+
+ 11
+
+## Page 12
+
+We expect a brighter outlook for the Eurozone economy in 2026. Indeed, 2025 would have
+E u ro z one been a better year were it not for the US trade war and the impact it had on confidence,
+ spending, and investment in Europe. Next year, trade policies are likely to stabilize, which
+ should reduce uncer tainty for consumers and businesses making capital commitments.
+ Moreover, I expect inflation to fall below the European Central Bank’s (ECB) 2% target,
+ which could allow for one or two additional rate cuts despite more hawkish commentar y
+ from some ECB members of late. Increases in defense and infrastructure spending are also
+ likely to boost grow th, if they actually occur.
+
+ Ongoing Benefits from ECB Rate Cuts
+ From mid-2024 to mid-2025, the ECB reduced its key lending rates by 200 basis points
+ (bps), with the deposit rate ending November 2025 at 2%. Monetar y policy changes in
+ the Eurozone have a more magnified and immediate ef fect than changes in Fed policies
+ in the United States, as more debt in Europe is floating rate. Approximately half of
+ Eurozone residential mor tgage debt is floating rate versus less than 10% in the United
+ States, and roughly half of Eurozone corporate debt is floating rate versus only 20% in
+ the United States.
+
+ We have already seen the benefits transmitted to European consumers and companies
+ reflected in borrowing rates tracked by the ECB (Exhibit 8) as well as in the accelerating
+ loan grow th being obser ved in the region.
+
+ Exhibit 8.
+ Consumers and Companies Are Benefiting from ECB Rate Cuts
+ Average Eurozone Cost of Borrowing for Households and Non-Financial Corporations
+ (Interest Rate, %)
+ 7
+
+ 6
+
+ 5
+
+ 4
+
+ 3
+
+ 2
+
+ 1
+
+ 0
+ 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+ Non-Financial Corporations Households
+
+ As of October 2025
+ Source: ECB, Haver Analy tics
+
+ 12
+
+## Page 13
+
+Given the more rapid deceleration of inflation to its 2% target, the ECB has more room
+to respond to economic weakness than do peers in Japan, the United Kingdom, and the
+United States. This room could lead to one or even two more rate cuts from the ECB in
+2026 despite current market prices that suggest the rate cutting cycle has ended (Exhibit 9).
+
+Exhibit 9.
+Markets Suggest Steady ECB Rates through October 2026
+Implied Eurozone Deposit Rate through October 2026 (%)
+ 5
+
+ 4
+
+ 3
+
+ 2
+
+ 1
+
+ 0
+
+ -1
+ 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+
+ ECB Overnight Deposit Rate OIS Implied Future Rate
+
+As of 12 December 2025
+Source: Bloomberg
+
+ 13
+
+## Page 14
+
+Defense-Driven Growth
+ In Februar y 2025, Germany agreed to a radical shif t in fiscal rules: The countr y now only
+ counts defense spending of up to 1% of GDP against the “debt brake.” As a result, the
+ German government can increase defense spending by an unlimited amount and remain
+ in compliance with its fiscal rules. Germany also committed to investing €500 billion in
+ infrastructure over the ensuing 12 years.
+ The German government began investing these funds late in 2025, but the more sizable
+ wave of additional spending will kick in during 2026. I expect this fiscal stimulus to
+ meaningfully lif t German GDP grow th and to boost Eurozone GDP grow th as well.
+
+ Above and beyond the German commitments, all members of the Nor th Atlantic Treaty
+ Organization (NATO) except Spain committed to boosting defense spending, over time,
+ to 5% of GDP with 3.5% being represented by traditional defense spending and 1.5% of
+ GDP being allocated to defense-related infrastructure. To date, Germany is the only major
+ economy that has delivered significantly more funding, but presumably other countries will
+ begin to ramp up their investments as well.
+To date, Germany is the If these spending commitments are fulfilled, GDP benefits will accumulate over time. My
+ out-of-consensus view is that if the spending is sustained at materially higher levels, and
+only major economy that the funds are used largely for militar y research, development, and production of militar y
+has delivered significantly equipment in Europe, the multiplier ef fects could surprise on the upside.
+ The key negative of increased defense spending is likely to be larger fiscal deficits.
+more funding for defense, For tunately, the long histor y of fiscal discipline has given Germany substantial space to
+but presumably other increase deficits without triggering alarm regarding fiscal sustainability. Other countries
+ do not enjoy the same flexibility given their much higher debt-to-GDP ratios. In 2025, we
+countries will begin to have already seen a meaningful steepening of European yield cur ves as markets digested
+ramp up their investments the implications of higher defense spending and deficits. Steeper yield cur ves could of fset
+ some of the benefits of fiscal stimulus.
+a s we ll.
+ Lingering Uncertainties
+
+ My base case is that Eurozone GDP could expand more than the current consensus
+ expectation for 1.1% grow th in 2026. However, the key uncer tainties around this optimism
+ relate to political instability, the lack of “fiscal space,” and questions about the sincerity of
+ commitments across several key countries.
+ Political instability and limited fiscal space are most evident in France. Since President
+ Emmanuel Macron called snap elections in mid-2024, France has had four prime ministers
+ with several falling af ter failing to reduce France’s fiscal deficit of over 5% of GDP. Given
+ the magnitude of the deficit, the prospects for a significant increase in defense spending
+ appear questionable.
+ Italy is another case in point. The countr y might have more fiscal flexibility than France
+ but is star ting from a deeper hole relative to its target. In 2024, Italy only spent 1.5% of
+ GDP on the militar y with the figure rising to 2% in 2025 af ter a series of reclassifications
+ and increases in outlays. Italy has committed to reach 5% of GDP by 2035 with 3.5% of
+ that spending on core defense and 1.5% of GDP on broader security with an incremental
+ 0.2% of GDP being spent each year. But with one of the highest debt-to-GDP ratios in the
+ developed world, it still has limited flexibility.
+
+ Spain’s government has only pledged to increase spending to 2% of GDP in 2025 while
+ demanding an agreement that it will not be required to exceed 2.1% of GDP thereaf ter.
+ The government has also indicated that any increased militar y spending will not af fect the
+ welfare state or lead to ta x increases but will instead be funded by reallocating funds from
+ other par ts of the budget.
+ If three of the four largest economies in the Eurozone are at high risk of failing to deliver on
+ militar y spending commitments, the boost from multiplier ef fects could be disappointing.
+
+ 14
+
+## Page 15
+
+Japan’s multi-year economic normalization is likely to enter a new phase in 2026. Prime
+Jap a n Minister Takaichi in some ways represents a second iteration of her predecessor Shinzo
+ Abe’s attempts to reform the economy. But unlike Abe, who presented three arrows
+ focused on monetar y, fiscal, and structural reforms, Takaichi faces a BoJ that is much
+ more focused on tightening monetar y policy to control inflation versus its willingness to
+ eagerly ease policy in 2012. Rising tensions with China and Japan’s ability to fulfill its US
+ trade agreement commitments represent two significant challenges that could undermine
+ Takaichi’s success.
+
+ Political Change and Fiscal Stimulus Promises
+ Japanese deflation has ended, with consumer prices up over 12% in the four years ended
+ 2025 versus a cumulative increase of only one percentage point in the preceding 24 years
+ (Exhibit 10). In par t due to voter dissatisfaction over higher prices, Prime Minister Shigeru Ishida
+ resigned, and the Liberal Democratic Par ty chose Sanae Takaichi as its new leader.
+
+E x h i b i t 10 .
+Prices Have Increased by >12% since 2021 after 24 Years of Almost No Inflation
+Japan General Consumer Price Index (SA, 2020 = 100)
+120
+
+110
+
+100
+
+ 90
+
+ 80
+
+ 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+As of October 2025
+Source: Haver Analy tics, Japan Ministr y of Internal Af fairs and Communications
+
+ 15
+
+## Page 16
+
+Takaichi campaigned in par t on a platform of mitigating the suf fering imposed on
+ households by rising prices. In mid-December, Japan’s Diet passed into law a new ¥18.3
+ trillion supplementar y budget that aims to mitigate inflationar y pressures on households
+ and stimulate investment in key sectors including ar tificial intelligence and shipbuilding.
+ I expect these stimulus measures to be implemented without meaningful fiscal of fsets,
+ which would imply over 2% of GDP of stimulus in 2026. The absence of of fsets suggests
+ that the new administration will take a less conser vative approach to fiscal issues, at least
+ in the near term.
+
+ Inflation, Wages, and Rates
+
+ Despite the sizable fiscal stimulus measures, I expect inflation to subside in 2026 while
+ remaining at or above the 2% BoJ target. The primar y reason to expect lower inflation is
+ the normalization of rice prices. In 2024 and 2025, rice prices sk yrocketed, reaching a peak
+ increase of over 120% by mid-2025. At the peak in mid-2025, rice accounted for 60 bps of
+ the 3.3% CPI inflation. Prices have since fallen slightly and are likely to stabilize, if not fall
+ fur ther, as Japanese supplies increase alongside impor ts from the United States.
+ Energy prices are also likely to be less inflationar y in 2026 as Brent crude prices are near
+ four-year lows in US dollars, and the depreciation of the Japanese yen has slowed. All said,
+ I expect inflation to remain at or above 2%, but not at the 3%-plus levels of 2025.
+ Continued strong wage gains are likely, but I suspect the increases might be a bit less
+ than in 2024 and 2025. Early indications suggest that Rengo, Japan’s largest labor union
+ federation, will demand a wage increase of at least 5% of which 3% is related to base pay.
+ This would mean that real wages would increase 1% at the base pay level. This is the same
+ level as the demands in the prior two years, but with inflation expected to decelerate, the
+ actual outcomes of the negotiations could fall shor t of the prior years’ results.
+
+ Markets are pricing rate hikes to 1% by the end of 2026 from the BoJ (Exhibit 11). I would
+ caution that with inflation likely to decelerate, the pressure on the BoJ to “normalize” policy
+ will fade. As such, my base case expectation is in line with the market, but my confidence in
+ getting to 1% is limited.
+
+E x h i b i t 11.
+Markets Suggest ~55 bps of Additional BoJ Rate Hikes through October 2026
+Implied BoJ Policy Rate through October 2026 (%)
+ 1.2
+
+ 1.0
+
+ 0.8
+
+ 0.6
+
+ 0.4
+
+ 0.2
+
+ 0.0
+
+ -0.2
+ 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+ BoJ Policy Rate OIS Implied Future Rate
+
+As of 12 December 2025
+Source: Bloomberg
+
+ 16
+
+## Page 17
+
+Further Progress on Corporate Governance
+ Prime Minister Takaichi has indicated suppor t in the past for measures to incentivize
+ companies to distribute more of their profits. One idea she has promoted is to ta x retained
+ earnings. While the specifics of any such proposal would be impor tant, underlying
+ objective Takaichi is tr ying to achieve is a desirable one. The return on equity for Japanese
+ companies has long been one of the lowest globally in large par t because companies
+ have too much cash on their balance sheets. It is understandable that af ter over 20 years
+ of deflation, companies would want liquidity buf fers—but the levels of cash have been
+ unacceptably high as they depress the return on equity and hence the valuation of their
+ shares. Moreover, from a policy perspective, this means that capital allocation across the
+ Japanese economy has been suboptimal for years, reducing the potential grow th rate.
+ I am hopeful that the new government will act on these proposals and continue driving
+ returns on capital higher, as our analysis indicates that companies that increase their
+ returns on capital tend to see stronger share price per formance.
+
+While the specifics of any Twin Uncertainties
+proposal to ta x retained The two biggest uncer tainties for Japan are geopolitical. The first is increasing tensions
+ with China. In a November speech to the Japanese parliament, Takaichi said that a Chinese
+earnings would be attack on Taiwan could cause a “sur vival-threatening situation” for Japan that could justif y
+impor tant, the underlying a collective self-defense response by the Japanese militar y. China responded to this
+ speech by cur tailing tourist visits to Japan and cancelling other scheduled events involving
+objective Takaichi is tr ying to Japan. With Chinese visitors accounting for almost 20% of all foreign visitors in 2024, a
+achieve is a desirable one. 50% decline in Chinese arrivals could reduce Japanese GDP by 10 to 20 bps.
+ The other uncer tainty is how and when Japan will fulfill the terms of its US trade agreement,
+ specifically as it relates to its pledge to invest $550 billion in the United States. There
+ are still many unanswered questions regarding this agreement, including the process
+ around identif ying suitable investments and conducting due diligence, not to mention the
+ purpor ted share of profits that would be granted to the United States. This could become
+ an issue if the United States alleges that Japan has failed to deliver the investments on a
+ timely basis in 2026.
+
+ 17
+
+## Page 18
+
+Inve st ment The Beginning of the End of US Exceptionalism?
+ 2025 may have marked a turning point for US markets. Despite hitting multiple new all-time
+I mpl ic at ion s highs, the S&P 500 Index was far outpaced by many non-US markets—especially af ter
+ currency gains—suggesting a reversal of the long-standing trend of US outper formance.
+ From 2009 –2024, the S&P 500 outper formed the MSCI E AFE Index by 8.1% annually on a
+ rolling three-year basis (Exhibit 12), underper forming in only three years. 2025 looks to be
+ the four th year of US underper formance, with the MSCI E AFE outpacing the S&P 500 by
+ nearly 1200 bps through mid-December.¹
+
+ E x h i b i t 12.
+ After 15 Years, 2025 Might Have Marked the Beginning of the End of US Outperformance
+ Three-Year Rolling Difference, S&P 500 vs. MSCI EAFE (%)
+ 30
+
+ In this roughly 15-year period, there was not a single three-year
+ 20 window in which international stocks outperformed US stocks
+
+ S&P 500 OUTPERFORMS
+
+ 10
+
+ 0
+
+ -10
+
+ -20
+
+ MSCI EAFE OUTPERFORMS
+
+ -30
+
+ -40
+ 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+ As of 30 November 2025
+ Source: Bloomberg
+
+ I believe we have reached an inflection point, where the US GDP grow th advantage has
+ largely, though not completely, been eliminated. US inflation is likely to peak in early
+ 2026 even while other economies meet or fall below their 2% targets, creating tension for
+ future Fed policy. A weaker dollar, stretched equity valuations, and earnings concentrated
+ in a narrow set of AI-linked tech firms add to the risk of US equity underper formance.
+ With these factors likely to persist through 2026, non-US equities, with lower valuations
+ and broader earnings drivers, appear better positioned for sustained outperformance.
+
+ Risks in the AI Trade
+
+ As mentioned, one reason for my skepticism regarding sustained US outper formance
+ is the narrowness of the advance in US equities. The technology sector has driven the
+ majority of US earnings grow th and share price appreciation. In contrast, outside the
+ United States, gains have been more diversified across sectors and countries. AI-related
+ capex is increasingly debt funded, with assets that may become obsolete in a relatively
+ shor t period of time, raising the risk of overcapacity and delayed returns. If tech earnings
+ disappoint, the broader market could face meaningful drawdowns given its dependence
+ on this sector. Security selection among AI leaders will be critical in 2026.
+
+ 18
+
+## Page 19
+
+Global Opportunities Fixed Income and Currencies
+Outside of the United States, valuations star t at materially lower The biggest US debt market risk is diminished Fed independence,
+levels, which means expectations for earnings grow th are much less which could undermine inflation-fighting credibility and the dollar.
+demanding (Exhibit 13). With global investors increasingly seeking Reactions may be gradual, with yields initially falling before any
+to hedge their US dollar exposure on any US currency rally,² there steepening. Outside the United States, the risk to central bank
+are also potential gains on FX in addition to share prices. independence is less of a concern, but debt sustainability concerns
+Emerging markets are par ticularly appealing, and they can of fer AI limit the appeal of many other developed market bonds. By
+exposure at far lower valuations—the MSCI EM Technology sector contrast, in many cases, local currency EM debt stands out for
+trades at ~40% below its US counterpar t—alongside multiple more conservative fiscal policy, orthodox monetary management,
+uncorrelated grow th drivers. Risks from geopolitical inter vention and FX appreciation potential.
+remain, but similar risks are rising in the United States. Japanese
+equities also look attractive, with policy suppor t for consumption Real Assets and Gold
+and corporate returns, even if GDP growth remains modest.
+ In a world of stretched valuations, uncer tain grow th, and
+ modest bond yields, income-producing real assets—especially
+ infrastructure—offer inflation protection and moderate appreciation
+ with lower volatility. Gold, while lacking cash flow, could also
+ continue to ser ve as tail risk insurance in an environment of
+ reduced dollar exposure and rising central bank demand.
+
+ E x h i b i t 13 .
+ US Equities Trade at a Sustained Valuation Premium to Non-US Equities
+ Forward US and non-US P/E multiples, from highest to lowest
+ 35
+
+ 30 29.2
+ 27.6
+
+ 25
+ 22.3
+
+ 20 18.5
+ 17.3 17.3 16.5
+ 15 15.0
+ 13.2 13.1 12.2
+ 11.5
+
+ 10
+
+ 5
+
+ 0
+ Russell 1000 S&P 500 S&P 500 Russell 1000 S&P 500 ASX 200 Topix Euro StoxxMSCI EM FTSE 100 MSCI China Hang
+ Growth Info Tech (Cap Value (Equal 600 Seng
+ Weighted) Weighted)
+
+ As of 12 December 2025
+ Source: Bloomberg
+
+ 19
+
+## Page 20
+
+Gravit y
+Re a s se r t s It sel f
+
+I expect 2026 to be a year of relatively muted grow th with US and Chinese GDP decelerating
+and Eurozone and Japanese GDP accelerating. I anticipate that the US trade war will
+subside as the Trump administration will not want voters focusing on higher tarif fs ahead of
+mid-term elections. This could give investors a macro reprieve, but the implications of last
+year’s tarif fs are likely to become more evident in 2026. With valuations stretched in the US
+equity market, and global investors reassessing their US dollar and US asset exposure more
+broadly, I believe investors would be well-advised to continue assessing ways to reallocate
+capital to non-US oppor tunities; this would help diversif y the drivers of capital appreciation
+and reduce valuation risk while also mitigating US currency exposure.
+
+This is not a call to run for the hills. It is instead a risk management exercise af ter years of
+significant US outper formance. If I am correct that we are at the beginning of the end of
+American exceptionalism in markets, these moves will be fruitful for years to come.
+
+Ab out the Author
+Ronald Temple, CFA
+Chief Market Strategist
+Ronald Temple is the Chief Market Strategist
+for Lazard’s Financial Advisor y and Asset
+Management businesses. In this role, Ron
+provides macroeconomic and market
+perspectives to Lazard’s investment teams on
+a firmwide basis and works closely with
+Lazard’s Geopolitical Advisory group to
+assess economic and market implications of
+key geopolitical issues globally. Ron also
+advises clients of Lazard’s Asset Management
+businesses regarding macroeconomic and
+market considerations that are impor tant to
+achieving their objectives.
+
+ 20
+
+## Page 21
+
+I mp o r t a nt
+I n for m at ion
+
+Notes Originally published on 16 December 2025. Revised and No liability whatsoever is accepted and no
+ republished on 17 December 2025. representation, warranty or undertaking, express or
+1. The Risk Exhaustion Regime Continues This content represents the views of the author(s), and implied, is or will be made by Lazard or any of its af filiates
+ (Lazard, August 2025) its conclusions may var y from those held elsewhere for any information contained herein or for any errors,
+2. Recalibrating Dollar Dominance in a Shifting Global within Lazard. omissions, or misstatements herein. Neither Lazard nor
+ Order (Lazard, October 2025) These materials have been prepared by Lazard for any of its af filiates makes or has authorized to be made
+ general informational purposes only on a non-reliance any representations or warranties (express or implied) in
+ basis and they are not intended to be, and should not be relation to the matters contained herein or as to the truth,
+ construed as, financial, legal, or other advice. accuracy, or completeness of this document.
+ In preparing these materials, Lazard has assumed Nothing herein shall constitute a commitment or
+ and relied upon the accuracy and completeness of under taking on the par t of Lazard to provide any ser vice.
+ any publicly available information and of any other Lazard shall have no duties or obligations to you in
+ information made available to Lazard by any third parties, respect of these materials or other advice provided
+ and Lazard has not assumed any responsibility for any to you, except to the extent specifically set for th in an
+ independent verification of any of such information. engagement or other written agreement, if any, that is
+ These materials are based upon economic, monetar y, entered into by Lazard and you.
+ market and other conditions as in ef fect on, and the By accepting this document each recipient agrees to be
+ information available to Lazard as of, the date hereof, expressly bound by the foregoing limitations.
+ unless indicated otherwise. Subsequent developments
+ may af fect the information set out in this document and
+ Lazard assumes no responsibility for updating or revising
+ these materials.
+ These materials may include cer tain statements
+ regarding future conditions and events. These
+ statements and the conditions and events they describe
+ are inherently subject to uncer tainty, and there can be
+ no assurance that any of the future conditions or events
+ described in these materials will be realized. In fact,
+ actual future conditions and events may differ materially
+ from what is described in these materials. Lazard
+ assumes no responsibility for the realization (or lack of
+ realization) of any future conditions or events described
+ in these materials.
+
+ RD30 8 97
+
+ 21

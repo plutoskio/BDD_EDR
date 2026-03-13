@@ -1,0 +1,269 @@
+Source file: Carmignac - perspectives-2026-3539-12373.pdf
+Source path: outlooks/Carmignac - perspectives-2026-3539-12373.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:55.610530+00:00
+Page count: 6
+
+---
+
+## Page 1
+
+PROFESSIONALS ONLY
+
+ CARMIGNAC – PERSPECTIVES 2026
+
+ L'Art de la fugue
+
+ 05/12/2025 | RAPHAËL GALLARDO, KEVIN THOZET
+
+Perspectives économiques :
+• La croissance mondiale restera inchangée à 3%, toujours soutenue par l’investissement en IA, les dépenses de sécurité
+ nationale et les largesses budgétaires.
+• Cette croissance faible et inégale entretient les pressions populistes et pousse les gouvernements davantage sur la voie du
+ laxisme budgétaire, avec la complicité de banques centrales contraintes par leur mandat de stabilité financière.
+• États-Unis : relance tous azimuts (fiscale, monétaire, dérégulation bancaire) par un Trump aux abois à l’approche des mid-terms
+ .
+• Zone euro : réaccélération grâce au plan Merz et à l’absence d’ajustement en France. BCE toujours attentiste face à la lenteur
+ de la désinflation – sauf emballement du marché des OAT.
+• Chine : le 15e plan quinquennal réaffirme la priorité à l’économie de guerre. Néanmoins, un nouveau stimulus budgétaire est
+
+ indispensable pour maintenir la croissance à 4%. Un excédent commercial géant permet de monétiser les déficits sans fragiliser
+ la devise.
+• Japon : nous nous attendons à ce que la relance Takaichi et les pressions politiques sur la banque centrale forment un cocktail
+ détonnant pour l’obligataire nippon. Les marchés forceront un virage abrupt de politique, menaçant au passage un
+ débouclement désordonné des positions de portage en yen.
+Stratégie d’investissement :
+• Une croissance résiliente, soutenue par une politique budgétaire généreuse, ne peut occulter la dynamique de fin de cycle et
+ les valorisations élevées. Les actions et les obligations restent les classes d'actifs les plus attractives, mais la prudence
+ s’impose vis-à-vis des obligations souveraines.
+• La concentration des moteurs de la croissance mondiale (IA, défense, largesses budgétaire) renforce la nécessité d’une
+ diversification maximale entre secteurs et zones géographiques.
+• Une inflation persistante, l’activisme budgétaire et des corrélations instables entre actions et obligations exigent une stratégie
+ d’investissement plus agile et plus sélective, où l’initiative prime sur l’attentisme et le passivisme.
+• Actions : une stratégie barbell combinant les leaders technologiques avec des valeurs défensives de la santé et de la
+ consommation pour capter les deux opposés d’une économie à deux vitesses.
+• Obligations et devises : les obligations souveraines de maturité longue émises par des pays aux finances publiques dégradées
+ ne présentent guère d’attrait, tandis que les obligations indexées à l’inflation, le crédit de qualité, ainsi que les devises
+ soutenues par la demande de matières premières essentielles ou par une discipline budgétaire offrent un couple
+ rendement/risque attractif.
+
+## Page 2
+
+PROFESSIONALS ONLY
+
+PERSPECTIVES ÉCONOMIQUES - RAPHAËL GALLARDO, ÉCONOMISTE EN CHEF
+
+Croissance mondiale : de l’IA, des canons et des dettes
+2026 devrait connaître une croissance équivalente à celle de 2025, autour de 3 %, un léger mieux dans les pays développés
+compensant le ralentissement des géants asiatiques (Chine et Inde). Pas de changement non plus parmi les moteurs de cette
+croissance, limités au triptyque IA, dépenses de sécurité nationale (défense, sécurisation des chaînes d’approvisionnement) et
+creusement des déficits publics.
+L’absence d’accélération, malgré la poursuite des assouplissements monétaire et fiscaux s’explique par quatre vents contraires :
+persistance des tensions géopolitiques (tarifs, Russie, Taïwan, Venezuela), durcissement des conditions de crédit sur le marché
+de la dette privée, tensions sur les marchés monétaires (taux repos), et élargissement des primes de terme obligataires.
+États-Unis : de l’économie en « K » à la reprise en « V »
+
+Après une année de chocs politiques, l’économie devrait réaccélérer vers les 2% grâce aux provisions fiscales de la Big Beautiful
+Bill et aux récents assouplissements monétaires de la Fed. L’offre potentielle étant contrainte par les droits de douane et
+l’absence d’immigration, l’inflation se maintiendra autour de 3%. Cette embellie conjoncturelle ne suffira pas à redresser la cote
+de popularité de Trump ni à éviter une débâcle républicaine aux élections de mi-mandat.
+L’une des causes du blues persistant des électeurs est que les effets de richesse issus du marché actions ne suffisent plus à
+entretenir le rêve américain. Outre sa concentration au sommet de la pyramide des revenus, cette richesse boursière issue de
+l’IA est, à tort ou à raison, perçue par les jeunes et une grande partie de la classe moyenne comme le reflet de la dévalorisation
+de leur propre capital humain. L’IA étant perçue comme une technologie de substitution au travail, les profits de l’IA escomptés
+aujourd’hui à Wall Street reflèteraient les futurs licenciements sur Main Street. Les anticipations de hausse du chômage
+sont au même niveau qu’au début de la crise financière de 2008.
+Dès lors, on peut s’attendre à ce que Trump pousse encore plus loin le curseur des politiques de stimulation, via des transferts
+directs aux ménages (subventions pour l’achat d’assurance santé, chèques de redistribution des droits de douane), une
+pression maximale sur la Fed et un nouveau train de déréglementation bancaire. Une paix bâclée en Ukraine et un changement
+de régime au Venezuela semblent vraisemblablement au menu, dans le but de comprimer le prix de l’essence à 2 dollars le
+gallon.
+Avec un déficit budgétaire en hausse et un raccourcissement de la maturité des émissions du Trésor, la Fed n’aura d’autres
+choix, au nom de la stabilité financière, que de relancer le QE pour éviter une implosion du marché du repo (emprunts courts
+collatéralisés), parachevant ainsi l’entrée dans un régime de dominance budgétaire.
+Zone euro : unis dans la relance
+Les moteurs traditionnels de la croissance — exportations et investissement privé — sont structurellement affaiblis, mais un
+activisme budgétaire synchronisé devrait garantir une reprise convenable l’an prochain. L’Espagne est en réalité le seul pays à
+combiner vertueusement investissement privé et exportations de services à forte valeur ajoutée ; mais ce dynamisme tient pour
+beaucoup à un afflux massif d’immigration qualifiée en provenance d’Amérique latine, un atout qui ne durera pas
+éternellement et qui ne peut être reproduit par ses voisins. Partout ailleurs, l’impulsion budgétaire est le seul levier. La
+générosité du plan NGEU1 continuera d’irriguer la périphérie jusqu’en 2027. La France repoussera une nouvelle fois
+
+l’heure de l’ajustement, avec la bienveillante indifférence de marchés obligataires trop complaisants. Et l’Allemagne s’installera
+en tête de file des grandes puissances laxistes, avec le plan Merz d’une ampleur historique. Après un second semestre 2025
+poussif, la croissance devrait rebondir vers un modeste mais acceptable 1,2%.
+La compétitivité manufacturière restera le principal frein à la croissance. Les données de la CNUCED2 montrent la Chine
+
+détrônant progressivement les avantages comparatifs allemands, secteur après secteur. Mais jouer la carte des droits
+douaniers contre Pékin serait contre-productif : la Chine détient un quasi-monopole sur le graphite et les terres rares, et
+pourrait aisément riposter.
+La BCE a peu de chances de venir en renfort en abaissant ses taux. Malgré le choc désinflationniste venu de Chine et des droits
+douaniers américains, le ralentissement de l’inflation marque le pas, plombé par une productivité décevante. Un biais
+accommodant serait pourtant bienvenu pour affaiblir l’euro. Tant que l’Union des marchés de capitaux restera au point mort,
+seule la faiblesse de l’euro pourrait corriger les déséquilibres de compétitivité européens.
+Chine : du mercantilisme au techno-militarisme
+
+## Page 3
+
+PROFESSIONALS ONLY
+
+La Chine reste résolument focalisée sur son économie de guerre. Le nouveau plan quinquennal place toujours l’autosuffisance
+technologique et la diffusion de l’IA à l’industrie au sommet des priorités, sans proposer de nouvelle stratégie pour combler le
+trou noir de l’immobilier ou endiguer la montée du chômage des jeunes. Les exportations ne constituent plus une soupape de
+sécurité pour la croissance, compte tenu du retour de bâton protectionniste. Pékin n’aura d’autre choix que d’élargir son déficit
+l’an prochain pour assurer un socle de croissance d’au moins 4%. Étant donné la dégradation de la qualité des actifs dans le
+système bancaire, il n’existe d’autre option que de monétiser ce nouveau stimulus budgétaire. Tant que la balance de base
+(compte courant + investissement direct étranger) reste positive, la Chine peut se le permettre sans risquer une dévaluation du
+renminbi. Cet afflux de liquidité domestique fournira un plancher aux multiples cours/bénéfices du marché actions.
+Japon : Takaichi dans les pas de Thatcher ou Truss ?
+La volonté de la nouvelle Première Ministre Takaichi de ressusciter les politiques économiques de son mentor Shinzo Abe
+menace le marché obligataire d’une déflagration inflationniste. La combinaison d’un plan de relance à 3,4% du PIB et de
+pressions politiques sur la banque centrale aggravera la surchauffe déjà avérée de l’économie et enverra le yen vers de
+nouveaux plus bas. Face à la révolte de l’électorat et du marché obligataire, le gouvernement sera contraint de faire un virage à
+180 degrés, mêlant hausse du taux directeur, intervention cambiaire et rapatriement de capitaux par le fonds de pension
+public. Ces soubresauts dépasseront largement les frontières de l’archipel, avec un effet de contagion à l’obligataire américain
+et la liquidité en dollar. Une réappréciation abrupte du yen déclencherait un débouclage désordonné des stratégies de portage (
+carry trade) qui ont poussé la valorisation des devises émergentes comme celle des actions américaines vers leurs
+sommets.
+Conclusion
+La léthargie de la croissance mondiale est consubstantielle à notre époque post-Pax Americana, où les interactions à somme
+nulle dominent au niveau international comme infranational. La frustration des électeurs face à cette croissance faible et
+déséquilibrée pousse les gouvernements vers des politiques plus populistes. Les banques centrales n’ont d’autre choix que de
+monétiser cette fuite en avant budgétaire, sous couvert de leur mandat de stabilité financière. Mais les bond vigilantes
+sont à l’affût. Qu’importe qui de Trump, Takaichi, Starmer ou Macron remportera le prix Liz Truss, édition 2026. Le déshonneur
+sera partagé entre tous vu la cointégration des flux obligataires mondiaux. La Chine n’échappera pas à l’onde de choc, qui
+contournera la muraille du contrôle des changes pour emprunter le canal des échanges commerciaux.
+
+## Page 4
+
+PROFESSIONALS ONLY
+
+STRATÉGIE D'INVESTISSEMENT – KEVIN THOZET, MEMBRE DU COMITÉ
+D'INVESTISSEMENT
+
+Rompre avec les schémas traditionnels
+Les quatre principales économies mondiales continuent de soutenir la croissance, alors même que nous entrons dans une
+phase avancée du cycle économique.
+Le cycle arrive à maturité, mais il accélère également. Les valorisations des marchés financiers actifs reflètent de manière
+croissante cette fin de cycle, alors même que les ressorts de l’activité continuent d’en prolonger la dynamique.
+L’association d’une croissance réelle du PIB et d’une inflation persistante se répercute directement par une progression des
+ventes et des bénéfices des entreprises. Ce cadre demeure propice aux marchés d’actions, au crédit et, plus largement, aux
+actifs risqués, tout en justifiant davantage de prudence à l’égard des obligations souveraines.
+Trois thèmes majeurs dominent aujourd’hui les marchés mondiaux : l’essor des dépenses d’investissement liées à l’intelligence
+artificielle, des politiques budgétaires durablement expansionniste et les impératifs de sécurité nationale ainsi que de
+souveraineté industrielle. Ensemble, ils ouvrent des champs d’opportunités sur les marchés obligataires, actions et de
+devises.
+Toutefois, la hausse des multiples de valorisations cette année a conduit à une baisse des marges de sécurité. La mondialisation
+et l’intégration croissante des marchés de capitaux tend à accroitre les corrélations entre les différents marchés financiers. De
+même la concentration des moteurs de croissance renforce les interdépendances au sein et entre les classes d’actifs. Dans ce
+contexte, il devient essentiel de sortir des schémas traditionnels pour obtenir une diversification réellement efficace.
+Actions : stratégie « barbell »
+Nous associons les leaders technologiques aux valeurs défensives des secteurs de la santé et de la consommation de base, afin
+de capter les deux extrêmes d’une économie américaine à deux vitesses.
+IA et technologie : une tendance haussière alimentée par des forces structurelles, non par la spéculation
+Les taux d’adoption de l’IA ont triplé – passant de 5% à 15% – en seulement trois ans, accompagnés par un cycle
+d’investissements massif et soutenant la croissance des entreprises phares du secteur.
+Les gains de productivité attendus – autour de 1,5% par an - représentent une valeur actuelle nette supérieure à 20 000
+milliards de dollars sur dix ans, relativisent les craintes de surinvestissement. Les marchés l’anticipent en partie, mais si
+seulement la moitié de cette valeur est captée par le secteur technologique, cela totalise la moitié de la capitalisation boursière
+actuelle du Nasdaq 100 et donc une possible progression de +50%.
+La principale inquiétude porte sur l’ampleur de l’engouement autour de ce thème très populaire. Toutefois, le financement des
+investissements liés à l’IA passe désormais par les marchés obligataires, où le risque de crédit impose une discipline naturelle,
+limitant les risques d’excès de valorisation.
+Dans un contexte de valorisation élevée au sein des thèmes favoris du marché une stratégie s’impose : éviter la gestion
+indicielle et privilégier une sélection rigoureuse de valeurs.
+Les entreprises technologiques taïwanaises et coréennes occupent une position essentielle dans la chaîne de valeur de l’IA, tout
+en affichant des multiples de valorisation plus raisonnables que leurs homologues américaines. Parallèlement, la Chine
+développe son propre écosystème IA, ouvrant la voie à des opportunités distinctes. Enfin, chaque nouveau concurrent potentiel
+attiré par les 75% de marges de Nvidia devient un catalyseur pour réduire les coûts de calcul et accélérer l’adoption de ces outils
+- un environnement favorable pour les éditeurs de logiciels, en retrait cette année.
+Largesses budgétaires : investir aux deux extrémités de la consommation américaine
+Les secteurs de la santé et des biens de consommation de base, dont la corrélation avec la technologie reste faible, méritent
+une attention particulière. Les orientations budgétaires à venir devraient cibler davantage les ménages, l’approche des élections
+pèse sur la volonté de rigueur budgétaire.
+Les grandes entreprises technologiques sont à la fois une partie de la solution et du problème. D’un côté, leur cycle
+d’investissement est devenu un stabilisateur pour l’économie mondiale. De l’autre, leur position dominante contribue à
+accentuer les inégalités de richesse.
+
+## Page 5
+
+PROFESSIONALS ONLY
+
+Dans une économie américaine à deux vitesses, deux dynamiques de consommation coexistent : les ménages les plus aisés
+continuent de dépenser, tandis que les ménages à revenus modestes font face à une hausse des défauts de paiement, à des
+salaires réels ankylosés et privilégient les marques de distributeurs, le paiement fractionné et les promotions.
+Pour les investisseurs, la conclusion semble claire : se positionner aux deux opposées de cette économie à deux vitesses.
+Procter & Gamble sert le marché de masse avec des produits essentiels et abordables ; à l’inverse Sprouts Farmers cible le
+segment premium axé sur les produits frais.
+Souveraineté nationale et nouveau paradigme industriel
+La fin de la Pax Americana remet la souveraineté nationale au centre des priorités industrielles, entrainant des investissements
+majeurs dans la défense, les infrastructures et l’électrification.
+Dans le secteur de la défense, il devient nécessaire de regarder au-delà des acteurs les plus en vue : l’envolée des cours de
+bourse et des valorisations élevées suggèrent un marché largement porté davantage par le momentum que par les
+fondamentaux. Une alternative pertinente consiste à se tourner vers les marchés du crédit, où l’on peut trouver des entreprises
+européennes de défense en forte croissance qui émettent de la dette notée investment grade avec des rendements
+compris entre 4% à 5,5% et dont les revenus ont doublé ces dernières années - un moyen de s’exposer aux dépenses de
+sécurité nationale tout en évitant les excès spéculatifs des marchés d’actions.
+Mais la sécurité nationale dépasse largement le champ militaire. Des entreprises comme Prysmian ou Siemens occupent une
+place centrale dans le renforcement de la résilience stratégique qu’il s’agisse d’automatisation, de mobilité ou d’électrification.
+Obligations et devises : naviguer entre excès budgétaire et inflation durable
+Dette souveraine : privilégier les taux réels aux taux nominaux
+Dans un environnement où les banques centrales assouplissent leur politique monétaire malgré une inflation qui reste élevée
+et que déficits publics comme les volumes d’émissions augmentent, les taux longs continuent de se tendre. Aussi les obligations
+à 30 ans émises par des pays aux finances publiques dégradées - États-Unis, Royaume-Uni, Japon, France - n’offrent pas une
+rémunération suffisante. Nous préférons les éviter, voire adopter des positions vendeuses sur ces dernières.
+À l’inverse, les taux réels apparaissent trop élevés au regard du niveau d’endettement global, tandis que les anticipations
+d’inflation intégrées dans les prix de marché demeurent trop faibles face aux forces structurelles à l’œuvre. Ce contexte est
+favorable aux obligations indexées à l’inflation. Si les taux réels reculent, elles se renchérissent. Si l’inflation ressort au-dessus
+des attentes - comme c’est fréquemment le cas - les points morts d’inflation s’élargissent. Elles combinent ainsi portage,
+protection et convexité.
+Crédit d’entreprise : privilégier un portage défensif, plutôt qu’une exposition indiscriminée
+Dans un contexte de spreads resserrés et d’une montée de l’endettement dans la sphère non régulée, la prudence s’impose. Si
+les marchés du crédit privé et de la dette souveraine ont doublé de taille en dix ans, le marché du crédit public est lui resté
+relativement stable, ce qui y a limité l’accumulation de levier.
+Les marchés publics affichent désormais des fondamentaux plus solides : amélioration du profil des émetteurs haut
+rendement, obligations sécurisées, progression soutenue des profits des grandes entreprises.
+À mesure que le cycle progresse, la sélectivité devient déterminante. Nous privilégions un portage défensif, reposant sur des
+émetteurs solides. Dans un environnement où une partie du levier s’est accumulée dans l’ombre, hors des marchés
+traditionnels, les marchés de crédit publics sont par construction plus conservateurs.
+La forte dispersion entre émetteurs, notations et secteurs permet de bâtir des portefeuilles générant un rendement moyen de
+5% avec un profil investment grade assurant un équilibre efficace entre risque et rémunération attendue.
+Devises : Là où la discipline budgétaire et les privilèges de matières premières se renforcent
+Les devises de pays qui bénéficient d’une amélioration des termes de l’échange tout en renforçant leurs finances publiques se
+distinguent particulièrement. Le peso chilien est porté par de solides exportations de cuivre et pourrait tirer parti d’un cadre
+politique plus favorable au marché. Le rand sud-africain offre un portage de 7%, s’inscrit dans une dynamique de
+transformation et reste soutenu par ses exportations d’or et de métaux stratégiques. Le dollar australien combine une
+économie résiliente, une banque centrale relativement conservatrice, une exposition aux potentielles mesures de relance
+chinoises et un rôle de premier plan dans la production de matières premières et matériaux critiques.
+Conclusion
+
+## Page 6
+
+PROFESSIONALS ONLY
+
+La vigueur des politiques budgétaires, les investissements massifs dans l’IA et la montée des stratégies de souveraineté
+nationale redessinent le cadre d’investissement. Que ce soit la dépense publique ou l’inflation, elles sont toujours bien
+présentes.
+Dans un tel monde, les actifs réputés sans risque deviennent vulnérables au risque d’inflation. Tandis que les actifs risqués
+constituent une meilleure protection contre cette dernière et captent la croissance nominale. Les perturbations sur les chaînes
+d’approvisionnement et les chocs budgétaires entretiennent une corrélation actions et obligations instable, rendant
+indispensable une gestion agile entre classes d’actifs. Les couvertures les plus pertinentes se trouvent aujourd’hui dans les CDS
+3, le yen japonais et l’or.
+
+Les niveaux de valorisations appellent à la sélectivité, non au désengagement. Le cadre d’investissement doit évoluer.
+L’exposition passive à des indices ou à des zones géographiques n’est plus suffisante. Les gagnants seront ceux qui adopteront
+une approche sélective, globale, disciplinée en matière de valorisations. Le contexte actuel n’a rien d’un atterrissage en douceur
+; il traduit au contraire une course en avant où la réactivité primera sur la réserve.
+
+1NextGenerationEU: pour une Europe plus forte et plus résiliente - NextGenerationEU.
+2Conférence des Nations unies sur le commerce et le développement. Source: UNCTAD Revealed Comparative Advantage Index, 2025.
+3Credit default swaps.
+
+Ceci est un document publicitaire. Cet article ne peut être reproduit en tout ou partie, sans autorisation préalable de la société de gestion. Il ne constitue ni une offre
+de souscription, ni un conseil en investissement. Les informations contenues dans cet article peuvent être partielles et sont susceptibles d’être modifiées sans
+préavis. Les performances passées ne préjugent pas des performances futures. La référence à certaines valeurs ou instruments financiers est donnée à titre
+d’illustration pour mettre en avant certaines valeurs présentes ou qui ont été présentes dans les portefeuilles des Fonds de la gamme Carmignac. Elle n’a pas pour
+objectif de promouvoir l’investissement en direct dans ces instruments, et ne constitue pas un conseil en investissement. La Société de Gestion n'est pas soumise à
+l'interdiction d'effectuer des transactions sur ces instruments avant la diffusion de la communication. Les portefeuilles des Fonds Carmignac sont susceptibles de
+modification à tout moment.

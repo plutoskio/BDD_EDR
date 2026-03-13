@@ -1,0 +1,2482 @@
+Source file: AMUNDI - Perspectives d'investissement 2026.pdf
+Source path: outlooks/AMUNDI - Perspectives d'investissement 2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:05:48.191733+00:00
+Page count: 39
+
+---
+
+## Page 1
+
+La confiance, ça se mérite
+
+Investment
+Institute
+
+Perspectives
+d’Investissement
+2026
+
+Naviguer dans un cycle
+en constante évolution
+
+ NOVEMBRE 2025 | Cross Asset Investment Strategy Édition spéciale
+
+Support marketing exclusivement destiné aux clients professionnels, aux prestataires
+de services d'investissement et à tout autre professionnel du secteur financier.
+
+## Page 2
+
+Amundi, Perspectives d‘Investissement 2026
+ Table des matières
+
+ PRINCIPALES Principales convictions pour 2026 04
+ CONVICTIONS
+ POUR 2026 Naviguer dans un cycle en constante évolution 05
+ | Infographies
+
+ Cadre macro | À nouveau régime, nouvel état d’esprit 06
+
+ THÈMES Questions d’actualité 08
+ D’INVESTISSEMENT
+ Résoudre le « casse-tête » macro : une transition, pas une 09
+ récession
+
+ Géopolitique | « Désordre contrôlé » avec des risques 14
+ d‘accidents
+
+ Allocation d’actifs dynamique | Risk on, mais avec une 16
+ approche équilibrée
+
+ Actions | Penser global au-delà de la course technologique 17
+
+ Alimenter la croissance durable 20
+
+ Obligations : cap sur la nouvelle course monétaire 21
+
+ Faiblesse de l’USD : tendu mais pas fini 23
+
+ La dynamique de l'Europe se poursuit 25
+
+ Marchés émergents : des blocs en mutation 28
+
+ Marchés privés | Contexte plus facile, sélectivité accrue 30
+
+ Hedge funds | Équilibrer la génération d’alpha macro et micro 31
+
+ ALLOCATION Convictions d’investissement 32
+ D’ACTIFS
+ D‘AMUNDI Perspectives pour les actions au S1 2026 33
+
+ Perspectives obligataires pour le S1 2026 34
+
+ PRÉVISIONS Prévisions macroéconomiques et des marchés financiers 35
+
+ v Rédacteurs 37
+
+ À propos d’Amundi Investment Institute 38
+
+ Disclaimer 39
+
+22 Document marketing réservé aux investisseurs professionnels
+
+## Page 3
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Amundi, Perspectives d‘Investissement 2026 | Novembre 2025
+
+ « Désordre contrôlé »
+ L’économie s’adapte à un nouveau régime de « désordre contrôlé ».
+ La transformation portée par la technologique, la relance budgétaire
+ et la politique industrielle maintiennent l’activité et font émerger de
+ nouveaux gagnants. L’inflation devient un thème structurel que les
+ investisseurs doivent également intégrer dans leurs allocations.
+ Monica Defend
+ Directrice d‘Amundi
+ Investment Institute
+
+ Place à la diversification
+ La diversification reste la meilleure défense dans un monde où les
+ marchés actions sont concentrés et les valorisations élevées. Il
+ convient de rééquilibrer les portefeuilles des investisseurs entre les
+ styles, les secteurs, les tailles et les régions afin d'atténuer les
+ risques et de saisir les opportunités, notamment sur les marchés
+ émergents et les actifs européens. Vincent Mortier
+ Directeur des
+ Investissements
+ Amundi
+
+ Le virage transformateur de l'Europe
+ La dynamique de l'Europe se poursuit, à mesure que les
+ réformes, les investissements dans la défense et la politique
+ industrielle redéfinissent le paysage de l'investissement. Nous
+ percevons des opportunités dans les domaines du crédit en
+ euros, des infrastructures et de l'autonomie stratégique, qui
+ pourraient remodeler l'écosystème financier européen et l'aider
+ Philippe à passer d'une croissance modeste à une trajectoire plus
+ d’Orgeval autonome à long terme.
+
+ Directeur Adjoint des
+ Investissements
+ Amundi
+
+3 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+3 Document marketing réservé aux investisseurs professionnels
+
+## Page 4
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INFOGRAPHIC
+
+ Forces en présence maintenant le cycle en marche...
+
+ Résilience Risques de
+ économique valorisation et de
+ face aux droits concentration,
+ de douane et euphorie extrême
+
+ Dépenses
+ d’investissement Répression financière
+ technologiques et et domination fiscale
+ réorientation de la
+ politique industrielle
+
+ Liquidité et Risque géopolitique
+ assouplissement sur fond de
+ des banques désordre contrôlé
+ centrales
+
+ …et risques à équilibrer
+Thèmes d’investissement pour 2026
+
+ Diversifier à l‘ère du désordre contrôlé
+ Nous sommes confrontés à une ère de désordre contrôlé : un monde multipolaire remodelé par une révolution
+ technologique et des divergences budgétaires. Les risques inflationnistes sont devenus plus structurels, sous l’effet des
+ relocalisations, de la transition climatique et des frictions commerciales. Cela nécessite une prise de risque sélective et
+ une diversification accrue dans les devises, l’or et les actifs réels.
+
+ Penser global : les actions au-delà de la course technologique
+ La croissance robuste des bénéfices, les baisses de taux de la Fed et la résilience économique plus forte que prévu
+ soutiennent le rebond. Les risques de concentration et de valorisation nécessitent une recherche mondiale et
+ diversifiée des gagnants en cette ère de transformation.
+
+ Alimenter la croissance durable
+ Les thèmes de l’IA et de la transformation technologique stimulent la demande énergétique dans un contexte de
+ transition vers la neutralité carbone. Cela ouvre des opportunités parmi les actions liées au thème climatique, les
+ infrastructures durables et les obligations vertes.
+
+ Les obligations dans le nouvel ordre politique
+ L’endettement public élevé et croissant des États-Unis et l’affaiblissement du dollar américain devraient renforcer la
+ demande de diversification des obligations mondiales. Dans ce nouveau paradigme, nous privilégions les obligations
+ européennes et, aux États-Unis, le crédit investment grade par rapport aux bons du Trésor américain plus volatils.
+
+ La dynamique européenne se maintient
+ Les réformes, l'effort en matière de défense et d'infrastructures et les politiques industrielles orientées vers l'autonomie
+ stratégique peuvent remodeler l'écosystème macrofinancier de l'Europe. Cela peut créer des opportunités dans le crédit
+ d’entreprise en euro, les petites et moyennes capitalisations et les thèmes liés à la défense, aux infrastructures et à
+ l’autonomie stratégique.
+
+ Évolution des blocs dans les marchés émergents
+ Les primes de croissance et les baisses attendues des taux de la Fed devraient soutenir les opportunités dans les
+ marchés émergents dans un contexte d’équilibres géopolitiques changeants. Les obligations émergentes se distinguent
+ pour leur revenu élevé et leur potentiel de diversification, tandis que les actions émergentes offrent un éventail diversifié
+ d’opportunités, allant de la technologie chinoise et des terres rares à la transformation du «Make in India».
+
+55 Marketing Marketing material for professional investors onlymaterial for professional investors only
+ 5 Document marketing réservé aux investisseurs professionnels
+
+## Page 5
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ CADRE MACRO
+À nouveau régime, nouvel état d’esprit
+
+ Le rebond du marché de l'année dernière s'est caractérisé par un esprit d'endurance qui devrait perdurer en
+ 2026. Il en sera de même pour certains des paradoxes liés au prix des actifs qui apparaissent à mesure que
+ l'économie mondiale passe à un nouveau régime fondé sur l'innovation et que la géopolitique entre
+ dans une phase de désordre contrôlé.
+ Ces changements modifieront la manière dont se déroulent les cycles économiques et d’investissement. À
+ plus long terme, l’intelligence artificielle (IA) pourrait stimuler la productivité et transformer
+ fondamentalement la dynamique économique et budgétaire. Dans l’immédiat, nous anticipons de
+ nouvelles dépenses d’investissement massives dans l’IA et les secteurs connexes, notamment les centres de
+ données et l’énergie qui alimentent la technologie, même si le rythme actuel risque de ne pas pouvoir être
+ maintenu trop longtemps.
+ Ces investissements soutiendront la croissance mondiale et permettront d'éviter qu'un ralentissement
+ américain l'année prochaine ne se transforme en récession. Il y a aussi des raisons d’être optimiste quant
+ aux perspectives de l’Europe, même si la croissance pourrait s‘avérer modeste en 2026. Les dépenses
+ publiques allemandes en matière de défense et d’infrastructuresxz changent la donne, tandis que l’Union
+ européenne fait des progrès en matière de réformes et de discipline budgétaire qui aideront le continent à
+ surmonter les chocs. Nous pensons également que la croissance en Chine, en Inde et dans l’ensemble des
+ marchés émergents restera résiliente. Enfin, l'essor de l'IA au Moyen-Orient suscitera également l'intérêt des
+ investisseurs.
+ Ce contexte macroéconomique, les conditions financières accommodantes, l’enthousiasme suscité par l’IA et
+ les perspectives de bénéfices satisfaisantes laissent penser que les valorisations des actions pourraient rester
+ élevées plus longtemps que prévu. Nous surveillerons toutefois de près tout signe indiquant que les
+ bénéfices pourraient commencer à être inférieurs aux attentes élevées qui ont alimenté les gains des
+ actions, d’autant plus qu’un pic de volatilité pourrait entraîner un assèchement soudain de la liquidité du
+ marché.
+ Il est essentiel de surveiller ces risques, étant donné que certaines des entreprises à l’origine du rebond sont
+ vulnérables à moyen terme aux chocs d’un nouvel ordre géopolitique. Les caractéristiques de cette phase
+ sont la rivalité dans divers domaines, y compris la technologie, malgré une coopération sur certains
+ sujets, comme le changement climatique ou les garde-fous en matière d'intelligence artificielle. Même si les
+ liens commerciaux et financiers puissent prendre de nouvelles directions, il y a peu de chances qu’ils
+ s’effondrent complètement. Le risque géopolitique sera donc chronique mais gérable.
+
+ Les valorisations des actions proches de leur plus haut historique
+
+ 10e à 90e percentile 30e à 70e percentile 95e percentile moy. sur 20 ans Niveau le plus récent
+
+ 35
+
+ 30
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ Sources : Amundi Investment Institute, Bloomberg, données au 6 novembre 2025. Analyse sur 20 ans.
+
+6 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 6
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Le dilemme inflationniste des banques centrales
+
+ 12 États-Unis 12 Zone euro 12 UK
+
+ 10 Taux directeur (%) 10 10
+
+ Inflation (%)
+ 8 8 8
+
+ 6 6 6
+
+ 4 4 4
+
+ 2 Cible 2 2
+
+ 0 0 0
+
+ -2 -2 -2
+ 2022 2023 2024 2025 2026 2022 2023 2024 2025 2026 2022 2023 2024 2025 2026
+
+ Sources : Amundi Investment Institute, LSEG Datastream. CPE sous-jacent aux États-Unis, IPCH de la zone euro et IPC britannique.
+
+ Ce contexte compliquera les perspectives d’inflation. Les tendances mondiales à moyen terme telles
+ que les relocalisations et la transition énergétique vont générer des pressions sur les prix, alors même
+ que l’impact des forces à court terme, notamment les droits de douane et les pressions salariales, se
+ répercute sur l’économie. C’est moins problématique dans la zone euro, où nous pensons que la
+ Banque centrale européenne atteindra son objectif d’inflation. Mais l’inflation américaine restera
+ plus élevée plus longtemps, avec des niveaux d’environ 3 % attendus en 2026.
+ Jusqu’à présent, les anticipations d’inflation sont restées ancrées en raison de la crédibilité accumulée
+ par les banques centrales au fil des décennies. Mais l'indépendance des politiques monétaires ne va
+ plus de soi dans un monde où les hommes politiques, même dans les grands pays développés comme
+ les États-Unis, se sentent plus libres de préconiser des politiques non orthodoxes.
+ Toute indication montrant que les banquiers centraux cèdent aux pressions politiques ébranlerait « La diversification
+ toutes les classes d'actifs et en particulier les rendements des obligations de référence. Mais même en et les couvertures
+ l’absence d’un tel choc, les investisseurs pourraient devoir repenser les indices de référence qu’ils permettront aux
+ utilisent pour l’allocation d’actifs. Les taux réels pourraient se stabiliser à des niveaux plus élevés que
+ ce qui était la norme au cours des deux dernières décennies. Cela peut également être le cas pour les investisseurs
+ valorisations de tout indice blue chip fortement pondéré en valeurs liées à l’innovation. d’atténuer les
+ L’allocation d’actifs devra également s’adapter si la rupture de certaines relations de marché risques tout en
+ traditionnelles persiste. L'un des événements les plus marquants de l'année écoulée a été l'envolée du
+ prix de l'or en parallèle avec la reprise des actions. De plus, le dollar américain a évolué davantage en tirant le meilleur
+ tandem avec les actifs plus risqués que d'autres valeurs refuges traditionnelles. Nous anticipons une
+ poursuite de l’affaiblissement du dollar. Cela profitera aux actifs des marchés émergents et nous parti des
+ continuons donc d'adopter une approche résolument mondiale de l'investissement en actions. La opportunités
+ tendance de l’or dispose également encore d‘une marge de progression compte tenu de
+ l’évolution structurelle vers un système multipolaire et de la nécessité de diversifier les offertes par les
+ portefeuilles. nouvelles
+ Ces tendances de marché seront également alimentées par les inquiétudes liées au niveau élevé de technologies l’an
+ l’endettement aux États-Unis et dans d’autres grands pays développés. Ces inquiétudes se
+ répercuteront sur le marché des titres obligataires, même si la volonté de l'administration américaine prochain. »
+ d'empêcher une hausse trop importante ou trop rapide des rendements des obligations d'État signifie
+ que les investisseurs devront sans doute se montrer aussi prudents vis-à-vis du Trésor américain
+ que de la Réserve fédérale.
+ Par conséquent, nous privilégions les breakevens américains et pensons que toute nouvelle
+ pentification de la courbe des rendements des bons du Trésor n'interviendra que plus tard, en
+ 2026. Le crédit investment grade pourrait également être attractif des deux côtés de l’Atlantique, même
+ si les spreads par rapport aux emprunts d’État de référence se sont déjà resserrés cette année. En
+ revanche, le crédit à haut rendement américain et européen pourrait être vulnérable. Cela sera
+ particulièrement vrai en cas de perte de dynamique des forces qui ont soutenu l’économie et les
+ marchés jusqu’à présent.
+ Cela n’est toutefois pas une raison d’éviter de s’exposer au risque tant que l’IA et la politique
+ budgétaire fournissent un coussin de sécurité aux économies. Agir avec confiance dans un tel climat
+ d’incertitude nécessite un changement d’état d’esprit des investisseurs, mais c’est probablement
+ l’approche la plus intéressante.
+
+7 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 7
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ AMUNDI INVESTMENT INSTITUTE INFOGRAPHIC INFOGRAPHIE
+ Questions Lors de l‘Amundi Investment Seminar de septembre
+ 2025, nous avons interrogé nos professionnels de
+ d’actualité l’investissement pour nous aider à définir ce que sera
+ 2026 pour l’économie et les marchés financiers.
+
+ Quels sont selon vous les Où sera le taux des Fed Funds américains
+ principaux moteurs du cycle ? (borne haute) à fin 2026 ?
+
+ 4,00 1%
+
+ 3,75 % 5 %
+ 38 %
+ Politique 3,50 %
+ budgétaire 22 %
+ 34 % 3,25 % 22 %
+ Dépenses
+ d’investissement
+ 19 % 3,00 14 %
+
+ Assouplissement monétaire
+ 2,75 % 16 %
+ 9 %
+ productivitéGains de 2,50 % 20 %
+ ou moins
+
+ Selon vous, quelle pourrait être
+ la force la plus perturbatrice
+ pour les marchés en 2026 ?
+ 63 %
+ Hausse de l’inflation de nos professionnels de
+ 35 % l’investissement
+
+ Stagflation 29 % conviennent que nous
+ sommes dans une phase de
+ Instabilité politique 12 % fin de cycle économique, tout
+ en étant aux premiers stades
+ Politisation des BC* 12 % d’un cycle financier porté par
+
+ *Banques centrales les technologies
+
+888 Marketing material for professional investors onlyMarketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 8
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ MACROÉCONOMIE
+ Résoudre le « casse-tête » macro :
+ une transition, pas un ralentissement
+
+ Dans les perspectives pour 2026, les évolutions à long terme s'imposent avec force lorsqu'il s'agit d'évaluer les dynamiques à
+ court terme. Il s’agit d’une transition et non d’un ralentissement : une ère d’innovation portée par les dépenses
+ d’investissement de l’IA, la défense et les politiques industrielles visant l’autonomie stratégique, où se déroule la réallocation
+ du capital, de la croissance et du risque. Ces forces remodèlent les rapports de force et reconfigurent le commerce, ce qui
+ augmente les coûts et tempère l’activité, sans pour autant provoquer l’effondrement de la mondialisation.
+ Même si les investissements informatiques américains amortissent la faiblesse attendue de la demande intérieure, il est trop
+ tôt pour dire si les gains de productivité tirés par l’IA compenseront les difficultés démographiques. La pression croissante
+ exercée par la dette publique devrait devenir une préoccupation majeure ; toutefois, à court terme, les effets positifs des
+ importantes réductions d'impôts (par exemple, le One Big, Beautiful Bill) et de l'augmentation des dépenses dans les domaines
+ de la défense et des infrastructures pourraient temporairement atténuer ce risque. La croissance a bien résisté, mais reste
+ fragile, et les grandes économies ne devraient pas connaître d’accélération marquée. Les risques inflationnistes deviennent
+ plus structurels, portés par la relocalisation stratégique et la transition énergétique.
+ Le cycle se poursuit, avec un équilibre des risques
+ Si l’impact des droits de douane devrait augmenter, leur effet a été limité jusqu’à présent. La croissance a globalement
+ bien résisté, mais les perspectives pour l’année prochaine restent fragiles compte tenu des pressions inflationnistes
+ persistantes. Le commerce se réorganise autour de la sécurité et des chaînes de valeur d'approvisionnement qui sont en
+ train d'être reconfigurées. Les principaux acteurs économiques ne devraient pas accélérer de manière significative
+ leur dynamique de croissance, au moment où ils évaluent l'avancée de la transformation technologique, principalement
+ aux États-Unis, et l'augmentation des dépenses de défense en Europe. De son côté, la Chine s'efforce d'équilibrer les
+ mesures de relance de manières à ce qu'elles soient « juste suffisantes » pour la demande intérieure et pour soutenir ses
+ secteurs stratégiques.
+ L’inflation semble ancrée, mais les pressions sur les banques centrales s’accentuent avec un risque de désancrage
+ des anticipations d’inflation, notamment aux États-Unis. La politique monétaire est globalement adaptée, mais le
+ risque de domination fiscale (pressions exercées sur les banques centrales pour faire face à l’expansion budgétaire)
+ augmente. Les pressions haussières sur l’inflation dans les économies avancées et émergentes proviennent
+ principalement de politiques budgétaires pro-cycliques, mais sont également structurellement induites par les
+ relocalisations stratégiques et la transition énergétique. Un assouplissement pourrait encore se justifier dans un
+ contexte de croissance résiliente, bien que fragile, mais les banques centrales ne devraient pas risquer de ne pas
+ atteindre leur objectif d'inflation pendant une longue période.
+ Les accords commerciaux en cours d'élaboration ne réduisent pas vraiment l'incertitude politique dans un contexte
+ où les politiques économiques sont utilisées comme des armes au service de la sécurité nationale. Nous ne nous
+ attendons pas à un effondrement du commerce mondial ou à un retour de la mondialisation, mais nous constatons une
+ certaine lassitude dans la poursuite de la reconfiguration des chaînes d’approvisionnement. Dans ces phases
+ encore précoces, cela devrait se traduire par une hausse des coûts et une modération de l‘activité.
+
+ FOCUS SUR LES POLITIQUES BUDGÉTAIRES EN 2026
+
+ Japon Royaume-Uni
+
+ Sous la houlette du nouveau Premier ministre Sanae Le budget britannique du 26 novembre est un risque
+ Takaichi, le Japon adoptera une position budgétaire majeur, car le gouvernement pourrait devoir
+ plus accommodante. Le prochain budget économiser plus de 30 milliards de livres sterling d’ici
+ supplémentaire (exercice 2025) verra déjà une l’exercice 29-30 pour se conformer aux règles
+ augmentation nette de 1 à 2 % du déficit. En outre, budgétaires, si l’Office for Budget Responsibility venait
+ Mme Takaichi a suggéré d’abandonner la règle à revoir à la baisse ses hypothèses de productivité. Le
+ budgétaire contraignante et de donner la priorité à la gouvernement semble vouloir donner la priorité à la
+ croissance. La BoJ pourrait devoir relever davantage crédibilité budgétaire pour restaurer sa marge de
+ ses taux pour éviter une dépréciation excessive du yen. manœuvre budgétaire. Un assainissement plus
+ Nous tablons sur une hausse des taux d’ici fin 2025 important que prévu pourrait faire peser des risques
+ avec une hausse supplémentaire mi-2026. sur la croissance et l'inflation en 2026.
+
+99 Marketing Document marketing réservé aux investisseurs professionnelsDocument marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 9
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ La résilience américaine et ses limites
+ La croissance américaine a bien résisté malgré les incertitudes politiques persistantes. Au premier semestre 2025,
+ notamment, les dépenses d'investissement dans les secteurs liés à la technologie et à l'IA ont dépassé les dépenses de
+ consommation en tant que source d'expansion. Elles continueront probablement à soutenir l'économie américaine au
+ cours des prochains trimestres, à mesure que la consommation ralentira, fournissant ainsi un plancher à la croissance.
+ Pourtant, comme le rythme actuel de l'expansion dans ces secteurs ne semble pas soutenable, nous nous attendons à
+ ce que ces investissements ralentissent par rapport à leur rythme rapide actuel, tandis que les gains de productivité
+ généralisés prendront du temps à se matérialiser. Sur une note plus positive, l'investissement pourrait être davantage
+ soutenu par un nouvel élan de déréglementation.
+ Nous anticipons un ralentissement modéré au premier semestre, suivi d’une reprise au second semestre, la
+ croissance restant inférieure au potentiel. La consomption restera un moteur clé de l’économie américaine, mais devrait
+ ralentir dans un contexte de ralentissement du marché du travail, de ralentissement de la croissance des salaires réels et de
+ hausse des inégalités de revenus. L’inflation, qui n’est que modestement affectée par la hausse des droits de douane
+ jusqu’à présent, devrait augmenter progressivement à mesure que les répercussions différées des droits de douane se
+ font sentir et que les effets des modifications de la politique d'immigration se précisent. Les pressions sur les prix devraient
+ ensuite se relâcher jusqu'en 2026, même si l'inflation devrait rester supérieure à l'objectif.
+ Dans ce contexte, la politique budgétaire devrait avoir un effet légèrement consolidateur, compte tenu de
+ l'incertitude concernant les recettes tirées des droits de douane, tandis que la Réserve fédérale devrait continuer à
+ assouplir progressivement sa politique, la banque étant prise en étau entre la dynamique complexe du marché du travail
+ (changements démographiques et immigration) et l'environnement inflationniste difficile (facteurs liés à la demande et à
+ l'offre, ainsi que répercussion des droits de douane).
+ Amélioration en vue en Europe
+ En Europe, la dynamique de croissance s’est essoufflée depuis son solide début de 2025 en raison de la faiblesse de la
+ demande intérieure. En 2026, l’augmentation des dépenses d’infrastructure et de défense ajoute un risque haussier à
+ des perspectives qui, face à la faiblesse de la demande extérieure, dépendent encore de manière cruciale de la résilience de
+ la demande intérieure, du soutien de la politique monétaire et de la mise en œuvre rapide et efficace des politiques.
+ La zone euro pourrait également bénéficier des investissements dans les technologies et l’IA, ce qui pourrait
+ contribuer à combler certains écarts de compétitivité, mais l’investissement dans ces domaines reste minime par rapport à
+ ce qui se fait aux États-Unis. Des investissements privés seront nécessaires pour dynamiser la croissance, ce qui renforcera
+ le rôle clé de l’investissement public dans les infrastructures. Toutefois, l’orientation budgétaire globale devrait rester
+ neutre dans l‘ensemble, contrainte par des niveaux d’endettement élevés et des règles budgétaires qui poussent à la
+ consolidation dans de nombreux pays.
+ Dans un contexte où les pressions inflationnistes s'atténuent, où la croissance est inférieure à son potentiel et où le
+ ralentissement de la croissance des salaires réduit les risques d'inflation de second tour, la banque centrale européenne
+ maintiendra probablement une position accommodante. Nous pensons d‘ailleurs que la BCE assouplira sa politique
+ plus que ne le prévoient actuellement les marchés.
+ La consommation et les dépenses d’investissement technologiques resteront les
+ principaux moteurs de la croissance américaine
+
+ Contribution à la croissance trimestrielle du PIB réel par catégorie Dépenses d’investissement
+ 5% en Technologies et IA
+
+ 4% Les dépenses d’investissement dans
+ les technologies et l’intelligence
+ artificielle ont soutenu le PIB au
+ cours des derniers trimestres, ce qui
+ 3% soulève des questions quant à la
+ viabilité de la tendance. Pourtant,
+ les baisses d’impôts pourraient
+ 2% encore soutenir cette tendance
+ en 2026.
+
+ 1% Consommation
+
+ La consommation a bien
+ 0% résisté, soutenue par les
+ effets de richesse pour les
+ ménages aux revenus élevés,
+ -1% mais l’affaiblissement du
+ marché de l’emploi laisse
+ présager un risque baissier.
+ -2% Capex liées à la technologie et à l’IA
+
+ T1 22 T2 22 T3 22 T4 22 T1 23 T2 23 T3 23 T4 23 T1 24 T2 24 T3 24 T4 24 T1 25 T2 25
+
+ Source : Amundi Investment Institute, Bloomberg. Le terme «Technologies et IA élargies» fait référence aux technologies d'intelligence artificielle qui sont largement
+ applicables dans de nombreux secteurs, y compris les équipements, les équipements de traitement de l'information, la propriété intellectuelle, les logiciels, la recherche et
+ le développement, les structures et les centres de données. Les autres contributeurs à la croissance du PIB, tels que les dépenses publiques, certains investissements et
+ les exportations, ne sont pas détaillés dans le graphique. Données au 28 octobre 2025.
+
+10 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 10
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+Inde : la demande intérieure reste le principal moteur de la croissance
+
+Malgré la récente révision à la hausse des prévisions de PIB, nous continuons de tabler sur une décélération au cours de
+l‘année civile 2026. La croissance en 2025 semble résiliente malgré les droits de douane américains qui désavantagent
+l’Inde par rapport aux acteurs régionaux. Pour 2026, nous prévoyons une baisse des droits de douane et une croissance
+qui restera tirée par la demande intérieure, car les allégements fiscaux (modifications de la taxe sur les biens et services
+et baisse des impôts sur le revenu) et la Eight Pay Commission (prévue d’ici janvier 2026) devraient soutenir la consommation
+des ménages.
+La reprise de l’investissement privé reste inégale et a récemment déçu dans un contexte d’incertitude mondiale élevée.
+Pourtant, la déréglementation pourrait réorganiser le cycle d’investissement. Les facteurs externes défavorables
+constituent le principal risque de détérioration en l'absence de soutien budgétaire. L’inflation globale devrait s’établir en
+moyenne autour de 4 à 5 % en 2026, soutenue par une mousson favorable, des prix alimentaires et énergétiques favorables
+à l’échelle mondiale et les répercussions de la taxe sur les biens et services. À mesure que la croissance ralentit et que l’on
+peut anticiper une dynamique d'inflation plus élevée, mais non perturbatrice, la RBI devrait s'écarter de sa récente
+orientation neutre et procéder à des baisses supplémentaires de 50 points de base au cours des 12 prochains mois.
+Chine : rivalité entre objectifs structurels et besoins de reflation à court terme
+
+Le paysage politique économique de la Chine reste façonné par la campagne anti-involution lancée mi-2025 pour
+freiner la déflation, les surcapacités et les guerres de prix destructrices – dans un premier temps dans les panneaux solaires
+et les plateformes de commerce en ligne, mais maintenant dans d’autres secteurs aussi. Si cette volonté vise à restaurer la
+rentabilité, son impact est discutable et pourrait être tempéré par les impératifs stratégiques du 15e plan quinquennal
+dévoilé récemment. Ce nouveau plan quinquennal fait du « développement d’un système industriel moderne » sa
+priorité absolue, et a recadré les objectifs en matière de science et de technologie destinées à une plus grande
+autonomie stratégique.
+Stimuler la consommation intérieure est désormais un objectif concret, mais la politique macroéconomique reste sélective et
+souvent réactive aux chocs extérieurs. En outre, la volonté de créer des chaînes d'approvisionnement technologiques
+autonomes pourrait parfois l'emporter sur les objectifs anti-involution, les responsables politiques étant prêts à tolérer une
+certaine surcapacité dans le cadre d'une stratégie plus large de préparation au découplage. L’équilibre tant recherché entre
+l’offre et la demande que les marchés espèrent sera mis à l’épreuve en 2026, à mesure que les objectifs structurels
+concurrencent les besoins de reflation à court terme.
+
+ Mainmise de la Chine sur les minerais essentiels : bataille stratégique pour la sécurité des ressources
+
+ Le narratif de la guerre commerciale entre les États-Unis et la Chine s'est récemment éloigné du thème des
+ droits de douane, focalisant l'attention du marché sur la position dominante de la Chine dans
+ l'approvisionnement mondial en minerais essentiels. Cet univers englobe le cuivre, le nickel, le cobalt, le
+ lithium et le graphite - essentiels pour la transition verte - ainsi que les terres rares. Leurs propriétés
+ magnétiques, optiques et catalytiques exceptionnelles ont soutenu des avancées technologiques majeures
+ depuis plus d’un siècle, façonnant les industries de l’électronique aux énergies renouvelables. Actuellement, la
+ Chine représente environ 70 % des extractions mondiales de terres rares et 90 % de leur traitement. Si
+ l'exploitation minière est relativement plus diversifiée, il est primordial que les États-Unis renforcent leur
+ capacité de traitement ou s'associent avec des pays ou des entreprises déjà à un stade avancé du processus.
+ Dans le cadre de la poursuite mondiale de l'autonomie des chaînes d'approvisionnement et des technologies
+ (bifurcation des chaînes d'approvisionnement), les terres rares sont devenues un levier géopolitique de
+ plus en plus important. Chaque fois que les relations bilatérales entre les États-Unis et la Chine se sont
+ détériorées, la Chine n'a pas hésité à jouer la carte stratégique du « contrôle des exportations ». Les
+ conséquences de l’arrêt de la circulation des terres rares sont considérables, affectant les capacités de
+ production manufacturière moderne, comme les technologies vertes ou encore les capacités de
+ défense. Les pays importateurs, notamment les États-Unis n’ont d’autre choix que d’accélérer le
+ développement de leurs propres chaînes d’approvisionnement résilientes. À cet égard, Washington adopte,
+ d'une part, une stratégie nationaliste en subventionnant son principal producteur national et, d'autre part, il
+ fait appel à son réseau d'alliés en augmentant ses capacités d'approvisionnement et de production en
+ Australie, au Japon, en Thaïlande et en Malaisie. Les derniers accords conclus en Asie démontrent en effet que
+ les droits de douane sont un levier opportuniste lorsque d’autres objectifs stratégiques sont en jeu.
+ La volonté de diversifier l'approvisionnement hors de Chine n'est rien d'autre qu'une question de sécurité
+ nationale, un impératif qui relègue de plus en plus au second plan l'échelle économique ou l'efficacité des
+ coûts. Assurer les approvisionnements en minéraux essentiels n’est pas seulement une nécessité économique,
+ c’est une nécessité stratégique et géopolitique.
+
+1111 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 11
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INFOGRAPHIC
+ Croissance résiliente sur fond de désordre contrôlé
+ Projections d’Amundi Investment Institute
+ 2025 2026 2027 7,0
+ 6,36,5
+
+ 4,9
+ 4,4 4,2 4,3 4,1
+ 4,0
+
+ 3,3 3,0 3,1
+
+ 1,9 1,9 2,0
+ 1,3 1,3 1,3
+ 0,9 0,8 0,7
+
+ World US EUR JPN CHN IND ME
+
+ Scénarios macro/financiers et probabilités
+
+ SCÉNARIO CENTRAL 60 % SCÉNARIO HAUSSIER 10 %
+
+ Croissance résiliente Hausse portée par le budget/la
+ et désordre contrôlé détente géopolitique
+ L’apaisement des tensions géopolitiques, l’allégement des droits
+ Nous sommes dans une phase de transition (et non de douane, la hausse des investissements aux États-Unis et en
+ de ralentissement), sous l'impulsion des Allemagne portée par des mesures budgétaires, la
+ investissements dans l'IA, de la défense et des déréglementation, l’assouplissement quantitatif et les signes plus
+ politiques industrielles qui réaffectent les capitaux et larges de gains de productivité liés à l’IA sont autant de facteurs
+ remodèlent le commerce, ce qui augmente les coûts susceptibles de doper le sentiment et d’améliorer les perspectives.
+ et modère l'activité sans pour autant effondrer la Conséquences sur le marché :
+ mondialisation. Positif pour les actions et le crédit,
+ Il n'est pas certain que la productivité de l'IA négatif pour les emprunts d’État.
+ compense les difficultés démographiques, même si
+ les investissements américains dans les technologies
+ de l'information contribuent à amortir la demande
+ intérieure. Les fortes pressions liées à la dette SCÉNARIO BAISSIER 30
+ publique sont pour l’instant tempérées par les
+ réductions d’impôts et l’augmentation des dépenses
+ de défense et d’infrastructure. Choc politique/financier %
+ La croissance résiste mais ne devrait pas accélérer
+ fortement, tandis que les risques d’inflation L’instabilité politique, le désancrage des anticipations d’inflation, le
+ deviennent plus structurels du fait de la relocalisation resserrement de la liquidité, les événements de crédit ou les
+ et de la transition énergétique. La concentration et les déceptions en termes de bénéfices/dépenses d’investissement
+ dans un marché concentré et onéreux pourraient déclencher
+ valorisations tendues sont des risques clés à gérer. un ralentissement.
+
+ Conséquences sur le marché : Conséquences sur le marché :
+ Fort accent sur la diversification, Négatif pour les actifs risqués et les emprunts
+ légèrement positif sur les actifs risqués, d’État à long terme ; positif pour l’or, les
+ affaiblissement du dollar américain. matières premières, et les instruments indexés.
+
+Source : Amundi Investment Institute Perspectives d’investissement 2026. Le graphique présente les projections de référence d’Amundi Investment
+Institute sur la base des informations disponibles au 12 novembre 2025 et intègre les droits de douane implémentés à cette date en 2025.
+ 12 Marketing material for professional investors only
+ 12 Document marketing réservé aux investisseurs professionnels
+
+## Page 12
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INFOGRAPHIC
+ Poursuite de l’assouplissement des banques centrales en 2026
+ Amundi Investment Institute, anticipations de taux à fin 2026
+
+ FED BCE BoE
+ 3,25 % 1,5 % 3,25 %
+
+ Une baisse en décembre 2025 et Deux baisses attendues Une baisse en décembre 2025 et
+ deux autres d’ici mi-2026. d‘ici mi-2026. deux autres en 2026.
+
+ Le marché du travail restera faible ; la La désinflation se poursuit, avec un
+ croissance en 2026 sera inférieure au La reprise progressive de la demande ralentissement de la croissance. Le
+ potentiel dans un contexte de intérieure, le ralentissement des salaires marché du travail s’essouffle ainsi que
+ ralentissement de la consommation et de et des sous-performances devraient l’inflation des salaires, limitant les risques
+ désinflation, ce qui permettra à la Fed de soutenir l’assouplissement de la politique d’effets de second tour, permettant à la
+ se rapprocher de la fourchette centrale monétaire. BoE de réduire davantage ses taux.
+ des taux neutres.
+
+ BoJ BPC RBI
+ 1,0 % 1,2 % 5,00 %
+
+ Une hausse en décembre 2025 et Deux petites baisses attendues en Une baisse en décembre 2025 et
+ une en juin 2026. mai et novembre 2026. une en février 2026
+
+ Le yen japonais subit de nouvelles Après une brève phase de biais La RBI maintiendra une position neutre
+ pressions compte tenu de la politique accommodant généralisé en septembre et ne consentira un assouplissement que
+ budgétaire expansionniste du 2024, la BPC privilégie à nouveau un si nécessaire. Notre perspective de
+ gouvernement. La BoJ pourrait devoir assouplissement progressif et sélectif. croissance et d‘inflation résilientes juste
+ relever ses taux deux fois de plus pour Nous nous attendons à ce qu’elle fasse au-dessus de la fourchette cible de 4%
+ contenir une dépréciation excessive du une longue pause avant de reprendre les permet un assouplissement limité à
+ yen, mais le taux final restera baisses de taux, l’IPC s’améliorant l’avenir.
+ relativement bas. temporairement.
+
+ Baisse et hausse des taux des banques centrales
+
+ Hausse des taux Prévisions d’Amundi
+ Baisse des taux
+
+ Janv.-22 Janv.-23 Janv.-24 Janv.-25 Janv.-26
+
+ É.-U. 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 0 # # 0 0 0 0 0 0 0 0 # #
+
+ UE 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 0 0 # # 0 # 0 # # # 0 # 0 0 0 0
+
+ R.-U. 0 0 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 # 0 0 # 0 0 # 0 0 # 0 0 # 0 0
+
+ Japon
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ Brésil
+ 0 2 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 # # 0 # # 0 # # 0 # 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0
+ Chine
+ # 0 0 0 0 0 0 # 0 0 0 0 0 0 0 0 0 # 0 # 0 0 0 0 0 0 0 0 0 0 # 0 0 # 0 0 0 0 0 0 # 0 0 0 0 0
+ Inde 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 0 # 0 # 0 0 0 0
+ Afrique
+ du Sud 00 0 0 1 0 1 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 # 0 # 0# 0 0 0 # 0 0 # 0 0
+
+ Source: Amundi Investment Institute, au 10 novembre 2025. Les prévisions des BC sont établies par Amundi Investment Institute et sont valables au
+ 10 novembre 2025. Fed: Réserve fédérale, BCE: Banque centrale européenne, BoE : Banque d’Angleterre, BoJ : Banque du Japon. Pour la Réserve
+ fédérale, le taux actuel fait référence à la borne supérieure de la fourchette cible. Pour la BoJ, le taux actuel fait référence à la borne supérieure de la
+ fourchette cible. Pour la BCE, le taux actuel fait référence à la facilité de dépôt. Pour la BPC, il s'agit du taux de la Banque populaire de Chine pour les
+ prises en pension de titres à 7 jours. Pour la RBI, il s’agit du taux repo. Les prévisions sont indicatives et soumises au calendrier effectif des banques
+ centrales. Les prévisions de taux sont établies par Amundi Investment Institute au 12 novembre 2025 et se rapportent à fin 2026.
+
+131313 Marketing material for professional investors onlyMarketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 13
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ GÉOPOLITIQUE
+««Désordre contrôléDésordre contrôlé» avec des risques »
+d‘accidentsavec des risques d‘accidents
+
+ Le contexte de risque géopolitique élevé persistera en 2026. Cette situation est le résultat de plusieurs
+ mégatendances qui se poursuivent, notamment : la transition vers la multipolarité, la guerre économique, la
+ concurrence entre les États-Unis et la Chine, ainsi que la course aux armements et à la technologie qui fait rage. La
+ guerre en Ukraine et les tensions au Moyen-Orient sont des facteurs supplémentaires. Le risque géopolitique
+ restant élevé, la probabilité de surprises à la baisse et de recrudescence des tensions augmente également.
+ Toutefois, la géopolitique définit également des tendances porteuses d’opportunités. Si l'incertitude prévaut, la
+ géopolitique en 2026 sera source de bonnes et de mauvaises surprises pour les investisseurs.
+
+ De la « grande diversification » au « désordre contrôlé »
+
+ Au cours de l’année écoulée, les efforts de diversification déployés par les gouvernements, les banques
+ centrales et les investisseurs ont entraîné l’affaiblissement du dollar américain, le rebond des cours de l’or et
+ l’émergence de nouveaux accords commerciaux et de sécurité. Alors que les gouvernements cherchent à
+ mettre de l’ordre dans un monde factice, des accords bilatéraux et multilatéraux plus tactiques sont probables,
+ garantissant la poursuite des flux commerciaux et d’investissement.
+ Le phénomène de « désordre contrôlé » qui émerge est une conséquence du nouvel ordre mondial
+ multipolaire. De nouvelles alliances permettent d'échapper aux frictions économiques en modifiant les
+ itinéraires, mais elles ajoutent également du risque, car les pays peuvent se retrouver dans des situations
+ d'affrontement. La multiplication des alliances accroît la méfiance, incitant les pays à se protéger et à se
+ réarmer.
+ Davantage de protectionnisme, de contrôles des exportations et de sanctions sont probables à mesure que les
+ pays protègent leurs intérêts et exercent des pressions sur leurs rivaux. Les États-Unis continueront
+ d’utiliser les droits de douane comme outil pour divers objectifs, tandis que la Chine renforcera son
+ contrôle des terres rares et d’autres points sensibles. D’autres pays mettent en place des mesures visant à
+ protéger leur industrie (p. ex., les récentes taxes sur l’acier américain.
+ L'environnement mondial plus hostile oblige les gouvernements à réduire les dépendances trop importantes.
+ Les pays disposant de ressources dont d’autres dépendent (alimentation, énergie, terres rares) seront en
+ position de force. Les efforts visant à réduire l’exposition aux terres rares chinoises vont s’accélérer ; les
+ nouveaux accords entre les États-Unis, l’Australie et le Japon en sont des exemples. Il faudra toutefois des
+ années pour parvenir à une plus grande autosuffisance.
+ Les interrogations quant à l'exceptionnalisme américain persisteront à mesure que l'incertitude politique
+ et le « recul démocratique » s'intensifieront en amont des élections de mi-mandat. Cette incertitude et les
+ niveaux d’endettement élevés vont contraster avec les dépenses en cours dans l’IA et la déréglementation.
+ La politique étrangère américaine va rester volatile, marquée par les convictions de Donald Trump, les
+ intérêts commerciaux et les priorités stratégiques américaines. Par exemple, Donald Trump se montre
+ soucieux de l'influence des États-Unis en Amérique latine. Après avoir été négligée par les administrations
+ américaines précédentes, ce qui a permis à la Chine de faire des percées économiques et diplomatiques,
+ l'implication des États-Unis en Amérique latine va probablement s'intensifier à l'occasion de la tenue d'élections
+ importantes sur le continent (notamment au Brésil).
+ Les États-Unis et la Chine ont pris conscience de leurs dépendances mutuelles en 2025. Les États-Unis
+ comprennent désormais qu’ils ne peuvent pas faire grand-chose sans les terres rares chinoises, tandis que la
+ performance économique et le contrat social de la Chine (contrôle politique en échange de la prospérité)
+ dépendent du commerce mondial. La détérioration des relations entre les États-Unis et la Chine sera donc
+ limitée en 2026. Des opérations tactiques restent possibles, mais un changement important dans la relation est
+ peu probable.
+ La « Grande rivalité entre puissances » continuera d’alimenter les investissements dans la course à l’IA
+ — une itération contemporaine de la course à la technologie et à l’espace observée pendant la guerre froide. Le
+ contrôle de l’IA, de l’informatique quantique et des puces haut de gamme est considéré par les États-Unis et la
+ Chine comme essentiel pour s‘assurer le statut de superpuissance. Investir dans l’IA est donc une question de
+ puissance et de survie. La course à l’IA devrait également redessiner et renforcer les alliances
+ géopolitiques à mesure que l’accès à l’énergie devient critique. Les récents accords d’IA entre les États-
+ Unis, le Royaume-Uni et le Golfe pour héberger des centres de données en sont des exemples.
+
+14 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 14
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ La Chine consolidera son avance sur les États-Unis dans certains domaines
+ stratégiques au cours des quatre prochaines années
+ Chine É.-U. 0 2 4 6 8 10
+
+ Minéraux critiques
+
+ Sentiment sur les relations bilatérales
+
+ Sentiment sur la stabilité au niveau local
+
+ Industrie
+
+ Infrastructures stratégiques
+
+ Stabilité fondamentale
+
+ Facteurs économiques et monétaires
+
+ Indépendance alimentaire
+
+ Éducation et R&D
+
+ Secteur de la technologie
+
+ Capacités militaires
+
+ Espace
+
+ Indépendance énergétique
+ Attractivité
+ Source : Amundi Investment Institute, novembre 2025. Le graphique présente l’évaluation géopolitique quantitative/qualitative sur une
+ échelle de 1 à 10 du positionnement des États-Unis et de la Chine dans différents domaines stratégiques clés.
+
+ Les interrogations sur le statut politique de Taïwan vont s’intensifier à mesure que les États-Unis réduiront leur
+ dissuasion militaire et leur soutien à Taïwan et que la Chine renforcera son influence et sa puissance géopolitique.
+ La confiance renouvelée de la Chine sur la scène mondiale continuera de la rendre moins susceptible de se plier aux
+ exigences américaines. Elle continuera de se positionner comme « l'adulte dans la pièce » alors que les États-Unis
+ continuent de faire preuve d'inconstance. Elle incitera les pays à se joindre aux initiatives menées par la Chine, tout en se
+ préparant à la concurrence avec les États-Unis. Le parti a récemment réaffirmé l‘engagement du pays à développer un
+ système industriel moderne, ce qui lui confère un avantage décisif par rapport à la base industrielle américaine qui est en
+ difficulté.
+ La guerre entre la Russie et l’Ukraine va probablement entraîner une intensification de la guerre hybride en Europe.
+ La Russie veut éroder le moral et le soutien à l'Ukraine. À l’inverse, les pays européens de l’OTAN devront renforcer leurs
+ capacités de dissuasion, ce qui augmentera la probabilité qu’ils abattent des objets russes dans l’espace aérien européen,
+ avec à la clé une hausse du risque d’escalade. Ce risque devrait également augmenter si les États-Unis décident de donner à
+ l’Ukraine la capacité de frapper plus profondément le territoire russe. Nous n’anticipons pas de fin de la guerre dans les
+ prochains mois. Les objectifs des différentes parties ne se chevauchent pas. La Russie croit que le temps est de son côté
+ et cherche à démilitariser l’Ukraine, tandis que pour l’Ukraine et l’Europe, une Ukraine lourdement armée est
+ essentielle. Les États-Unis n'ont pas les moyens de mettre fin à la guerre sans imposer des contraintes économiques à la
+ Russie. Il est cependant peu probable que les récentes sanctions américaines parviennent à accroître suffisamment la
+ pression économique. Elles pourraient, en revanche, mettre la pression sur l’économie russe à moyen terme, obligeant
+ Vladimir Poutine à être plus ouvert à faire des concessions.
+ Malgré les nombreux risques auxquels l'Europe est confrontée, certains signes positifs sont perceptibles. Les
+ dirigeants européens ont réussi à convaincre Donald Trump de s'aligner sur les intérêts de sécurité européens. L’UE a
+ également réalisé d’importants progrès dans la diversification de ses relations commerciales, tandis que des
+ investissements dans la défense sont en cours. Ce contexte difficile ouvre la voie à des réformes qui pourraient rendre
+ l'UE plus compétitive. Par exemple, le chancelier allemand a récemment manifesté son soutien à l'unification des marchés
+ de capitaux de l'Union européenne. Si la mise en œuvre de réformes majeures reste difficile, la dynamique politique semble
+ s’infléchir. En l’absence d’élections majeures en 2026 (hormis en Hongrie), la cohésion interne de l’UE prévaudra
+ probablement. Par exemple, la Bulgarie adoptera l’euro en janvier.
+ Au Moyen-Orient, l'incertitude politique persistera. Les efforts visant à conclure la guerre à Gaza seront confrontés à des
+ obstacles lorsqu’il s’agira de démilitariser le Hamas, tandis qu‘une résurgence des tensions entre l’Iran et Israël est probable.
+ La situation sera encore plus compliquée avec les élections en Israël en octobre. La situation est tout autre dans le Golfe, où
+ les investissements dans l'IA, divers accords de sécurité et les relations étroites avec les États-Unis laissent entrevoir de
+ meilleures perspectives.
+ En conclusion, les tendances géopolitiques continueront d’impacter l’économie et les marchés. Les priorités en matière de
+ sécurité nationale sont de plus en plus étroitement liées à la valorisation des entreprises dans certains secteurs stratégiques
+ ainsi qu'aux attentes en matière de productivité et de croissance économique. La géopolitique continuera à peser sur les
+ finances publiques et l'inflation. Dans le contexte actuel, il est difficile pour les gouvernements de renoncer à ses dépenses
+ en matière d'intelligence artificielle et de défense, alors que la diversification géopolitique est une question de sécurité
+ nationale et pas seulement d'efficacité. Ce contexte continuera de profiter à l'or.
+
+15 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 15
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ ALLOCATION D’ACTIFS DYNAMIQUE FOCUS SUR LES MATIÈRES PREMIÈRES
+ Risk on, mais avec une Positionnement constructif
+ Dans l’hypothèse d’une absence de
+ approche équilibrée récession économique en 2026, nous
+ restons constructifs sur les matières
+ Pour 2026, l’approche multi-actifs reste modérément favorable au risque tout premières, qui contribuent à diversifier
+ en étant de plus en plus diversifiée. La fin du cycle continue de récompenser l’allocation d’actifs et offrent une certaine
+ principalement la qualité et la rentabilité. Toutefois, les valorisations tendues et protection contre les pics inflationnistes.
+ la montée des risques politiques et géopolitiques exigent de la sélectivité et des
+ couvertures.
+ Dans le cadre de notre méthodologie utilisée pour le classement géographique Le pétrole ancré par les
+ des actions, la rentabilité et l’endettement sont les principaux facteurs de fondamentaux
+ différenciation — ce qui est cohérent avec un supercycle d'investissement axé Nous maintenons nos objectifs de cours de
+ 63-68 $/baril pour le Brent et de 60-
+ sur l'IA, où l'intensité du capital et la capacité de monétisation sont les 65 $/baril pour le WTI compte tenu de la
+ éléments qui définissent le leadership. Les États-Unis et les marchés dynamique actuelle de l’offre. Malgré
+ émergents sont en tête de ce classement, du fait de leurs niveaux de rentabilité l’escalade géopolitique au Moyen-Orient et
+ supérieure et d‘endettement équilibré, tandis que le Japon et l’Europe sont les représailles tarifaires sur les
+ légèrement à la traîne. Après ajustement des valorisations relatives pour la exportations russes de pétrole vers l’Asie,
+ rentabilité et la qualité de la dette, la prime États-Unis par rapport à la zone euro les prix du pétrole restent relativement
+ persiste, même si cette prime est désormais mieux alignée sur l’écart structurel sereins et ancrés aux fondamentaux, selon
+ de rentabilité. Cela dit, l’allocation sectorielle et de style stimulera la nos prévisions. En l’absence de rupture de
+ performance en 2026. Nous sommes positifs sur les secteurs de la finance, de l’offre ou de récession, le pétrole devrait
+ rester dans ces fourchettes de prix.
+ l’industrie, de la défense et de la transition écologique, complétés par les
+ petites et moyennes capitalisations en Europe, qui montrent un regain Métaux de base sélectionnés
+ d’activité sur les segments des biens d’équipement et de la défense. Le secteur des métaux de base — du moins
+ certains segments spécifiques liés aux
+ Du point de vue de l’allocation d’actifs, nous restons agiles sur la duration et infrastructures énergétiques de l’IA, à la
+ sélectifs dans l‘obligataire, en maintenant une position neutre sur les défense et à la transition écologique —
+ emprunts d’État, mais avec une nette préférence pour le crédit investment restera gagnant à long terme.
+ grade, où les rendements ajustés du risque restent attractifs. Pour assurer
+ une meilleure résilience des rendements réels, nous privilégions une allocation L’or en couverture structurelle
+ accrue aux sources de revenus alternatifs et aux couvertures contre L’or constitue une couverture clé contre les
+ l’inflation — notamment le crédit privé, les infrastructures et une exposition politiques budgétaires et monétaires
+ élargie aux matières premières. américaines, contre le risque d‘érosion
+ Enfin, la diversification devrait structurellement inclure certaines devises monétaire du dollar et contre un excès
+ d’offre d’actifs libellés en dollars. Les prix de
+ telles que le JPY, l’EUR et l’or, ainsi que certaines devises émergentes. Dans l’or pourraient rester soutenus, même au-
+ l’ensemble, l’allocation 2026 trouve un équilibre entre recherche de risque et dessus de notre objectif 2026 de
+ prudence : participation à la reprise tirée par la technologie mais couverture 4 200 $/once, notre horizon à trois ans le
+ importante contre les risques baissiers élevés. situant à environ 5 000 $.
+
+ Évolution potentielle du cycle, avec une probabilité de correction supérieure à la moyenne historique
+
+ Scénario baissier Scénario central Scénario haussier
+
+ Parallèles historiques : L’environnement
+ actuel est un hybride d’épisodes historiques :
+ La complexité macroéconomique des années
+ 1970 a fusionné avec les bouleversements
+ technologiques des années 1990, se
+ superposant à un surendettement post-2008
+ et à une fragmentation géopolitique avec
+ des exceptions pertinentes. La situation
+ géopolitique actuelle compte des acteurs
+ plus importants que par le passé ; les actifs
+ Moyenne en USD ou américains en général sont moins
+ historique exceptionnels, comme dans les années 70 ;
+ les retombées de la haute technologie
+ semblent plus larges et plus profondes en
+ termes de pénétration économique
+ mondiale que lors de la révolution des
+ années 90 ; les nouvelles matières premières
+ et les métaux remplacent l’univers
+ traditionnel des métaux de base.
+ Contraction Correction Fin de cycle Reprise Reflation des actifs
+ La probabilité (autour de Le scénario central prévoit La probabilité Source : Amundi Investment Institute. Probabilités
+ 30 %) de phases de marché une fin de cycle assortie de d‘un potentiel dérivées de l‘«Advanced Investment Phazer »,
+ défavorables (contraction et certaines caractéristiques de haussier supérieur modèle propriétaire d‘Amundi. Pour la définition
+ reprise, ce qui conforte un est d’environ 10 % des phases, voir notre article «Advanced
+ corrélation) reste importante à positionnement d’appétit à l’approche Investment Phazer: a guide to dynamic asset
+ l’approche de 2026. pour le risque. du S2. allocation».
+
+16 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 16
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ ACTIONS
+ Penser global au-delà de la
+ course technologique
+
+La vague d’innovation à l’origine du rebond des actions va au-delà de l’IA : l’informatique quantique et les semi-conducteurs avancés
+deviennent des actifs stratégiques et l’adoption de l’IA augmente dans tous les secteurs. Le changement est mondial : innovation et
+chaînes d’approvisionnement de la Chine, leadership taïwanais dans les puces électroniques, rôle de l’Inde dans les services
+informatiques et biens d’équipement liés à l’IA en Europe. En 2026, le leadership devrait s'étendre des puces à l'énergie et aux
+réseaux, l'Europe et le Japon reprenant le dessus grâce aux retours sur investissement et aux dépenses en capital. Les marchés
+américains étant déjà fortement concentrés sur l’IA, les investisseurs devraient miser sur la technologie à l’échelle mondiale et se
+diversifier dans des thèmes faiblement corrélés tels que les valeurs financières mondiales, les valeurs de gouvernance japonaises, la
+défense européenne et les petites et moyennes capitalisations.
+
+ IA et technologie : redéfinir le paysage économique mondial
+ L’intelligence artificielle (IA) et les technologies associées sont devenues les « Le supercycle des
+ principaux moteurs des dépenses d’investissement et des bénéfices des
+ entreprises, refaçonnant la structure de l’économie mondiale. Nous pensons qu’au dépenses
+ cours de la seconde moitié de cette décennie, elles alimenteront un nouveau cycle
+ de dépenses d’investissement visant à stimuler la productivité dans les d’investissement
+ sociétés vieillissantes et à préserver la compétitivité dans un contexte de dans le secteur
+ tensions géopolitiques. Au-delà de l’IA, l’informatique quantique et les semi-
+ conducteurs avancés deviennent des actifs stratégiques. technologique n’est
+ Bien que les investissements directs dans l’IA restent modestes (environ 1 % du PIB plus seulement une
+ américain), ils entraînent des effets de second tour importants : hausse de la
+ demande de matériel et de logiciels, obsolescence plus rapide, utilisation accrue histoire américaine :
+ d’énergie et besoins croissants en infrastructures. L’IA étant intégrée dans tous la Chine est en train
+ les secteurs, son impact s’étendra bien au-delà de la technologie malgré des
+ disparités régionales. de rattraper son
+ États-Unis : bien positionnés, grâce à une forte rentabilité, mais retard et l’adoption
+ risque de concentration encore extrême et valorisations élevées mondiale dans tous
+ Les États-Unis dominent les dépenses d’investissement dans les technologies et l’IA, les secteurs en fait
+ grâce au soutien des politiques et à un solide écosystème d’innovation. Les
+ entreprises investissent massivement, en partie pour des raisons stratégiques et de une opportunité
+ sécurité nationale dans un contexte de rivalité entre les États-Unis et la Chine.
+ La suprématie de l’IA américaine se reflète dans la surpondération des actions mondiale. »
+ américaines dans les indices de référence mondiaux, les États-Unis représentant
+ désormais près des deux tiers de la capitalisation boursière du MSCI ACWI. Au
+ niveau sectoriel, la situation est similaire : Les technologies de l’information et
+ les services de communication — qui mènent la charge de l’IA — dépassent
+ ensemble les pondérations maximales observées pendant la bulle TMT. En outre,
+ les contraintes liées aux infrastructures, en particulier l’approvisionnement
+ énergétique, représentent un obstacle important pour la croissance future.
+ Cela pose la question de savoir si ce scénario actuel est une bulle, comme à la
+ fin des années 90 et au début des années 2000. Les valorisations des actions
+ américaines sont peut-être élevées, mais elles sont sous-tendues par des bénéfices
+ solides. En effet, les performances des actions américaines depuis le début de
+ l’année n’ont pas été alimentées par des revalorisations, mais par la croissance des
+ BPA, en particulier celle des méga-valeurs technologiques. Les marges actuelles
+ sont également bien supérieures à celles de la bulle Internet. Enfin, la Fed a repris
+ son discours accommodant avec de nouvelles baisses de taux à venir, ce qui est un
+ autre facteur de soutien clé pour les actions.
+ Bien sûr, des risques subsistent. Au-delà de la concentration du marché, des
+ questions subsistent quant à la viabilité des investissements massifs et à la
+ possibilité de les monétiser. Nous notons également que, bien qu’une grande
+ partie des investissements ait jusqu’à présent été financée par les liquidités, les
+ émissions de dette du secteur technologique américain ont fortement augmenté
+ en 2025. Les principaux risques à surveiller sont un durcissement du ton de la Fed
+ en cas de surprises inflationnistes et/ou une rentabilité plus faible que prévu.
+
+17 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 17
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ ACTIONS
+
+ Asie : marge de progrès pour la technologie Europe : pas de champions de l’IA ou de la tech,
+ chinoise sur fond d‘élargissement du rallye mais nombreuses opportunités dans l’industrie et
+ technologique les petites et moyennes capitalisations
+ Le rôle technologique de l’Asie est multiple. La Chine concilie L'Europe manque d'un leader de l'IA et reste à la traîne des
+ discipline de l'offre et fortes ambitions en matière États-Unis et de la Chine en matière de dépenses
+ d'innovation. Contrairement aux États-Unis, la Chine ne informatiques, ce qui risque de creuser le fossé de la
+ connaît pas de super cycle technologique. Elle poursuit plutôt compétitivité. Les inquiétudes liées à l’approvisionnement
+ une croissance durable par le biais de politiques visant à énergétique, en particulier au Royaume-Uni, et le
+ réduire les subventions, à réduire les capacités excédentaires ralentissement du soutien budgétaire aux investissements
+ et à limiter la concurrence régionale. technologiques limitent le potentiel de l’IA en Europe.
+ La Chine continue d’investir massivement dans l’IA et les Néanmoins, l’Europe recèle des opportunités, notamment
+ technologies connexes, en particulier dans les chaînes dans l’électrification, les biens d’équipement liés à l’IA et les
+ d’approvisionnement et la fabrication de semi-conducteurs, petites et moyennes capitalisations axées sur les marchés
+ Taïwan jouant un rôle central dans la production mondiale de nationaux. Celles-ci pourraient bénéficier d'un rattrapage
+ puces électroniques. progressif de la productivité et de l'innovation, à condition que
+ En ce qui concerne les actions, la technologie chinoise l'Europe relève les défis liés aux infrastructures et au
+ offre des valorisations plus attractives que la technologie développement des compétences. Les valeurs financières
+ américaine et affiche une croissance plus forte, ce qui en européennes peuvent également bénéficier de la hausse
+ fait une source intéressante de diversification au sein du des exigences financières dans un environnement de taux
+ thème de la technologie. toujours favorable.
+
+ L'Inde se forge progressivement son rôle en tirant parti Japon : L’essor de l’IA a soutenu le marché japonais, en
+ de solides compétences en développement de produits et particulier les valeurs des data centers et des semi-
+ de synergies avec les services informatiques. L’alignement conducteurs liés à l’IA. Les actions japonaises sont également
+ entre le secteur privé et le gouvernement sur l’innovation soutenues par les réformes de la gouvernance d’entreprise
+ technologique laisse entrevoir des progrès constants, qui entraînent une hausse des rendements des capitaux
+ positionnant l’Inde comme un acteur clé de l’écosystème propres, réduisent les excédents de trésorerie et les
+ technologique asiatique plus large. participations croisées, et améliorent les rendements pour les
+ actionnaires. Un yen toujours faible fait du Japon un pari
+ attractif dans le secteur manufacturier mondial.
+ Rechercher les opportunités sectorielles à l'échelle mondiale
+ Une vague d’investissements dans l’IA devrait non seulement soutenir le secteur technologique, mais également les
+ secteurs connexes, dont les valorisations sont plus raisonnables. Comme indiqué ci-dessus, les investissements dans
+ l’IA nécessitent davantage de production et de transmission d’électricité, et des prix plus élevés pourraient accroître les
+ marges plus que ce que les marchés anticipent actuellement. Dans ce contexte, nous continuons de se positionner sur
+ plusieurs secteurs.
+ Secteurs Valeurs financières Valeurs industrielles
+ • Valorisations attractives et dividendes • Bénéficier de thèmes de long terme :
+ les plus élevés. Défense, dépenses d’investissement,
+ privilégiés électrification.
+ • Facteurs régionaux favorables :
+ en 2026 réformes Allemagne/UE, • Parmi les opportunités, citons le
+ déréglementation américaine, développement des infrastructures,
+ réforme des entreprises japonaises. le nearshoring, l‘OBBB (One Big,
+ Beautiful Bill).
+
+ Services de communication. Santé (vision à long terme)
+ • Positif aux États-Unis (médias). • Favorisés à long terme (vieillissement de
+ la population et hausse de la demande
+ de bien-être) et l’IA (recherche et
+ développement plus rapide et moins
+ cher).
+
+ • Prudence à court terme face
+ au risque politique élevé aux États-Unis.
+ Secteurs Énergie Matériaux
+ • Les craintes d'offre excédentaire • Exposés à toute escalade des droits
+ les moins pèsent sur les cours du pétrole et les de douane et au ralentissement du
+ favorisés bénéfices restent faibles. Les commerce mondial.
+ valorisations ne sont pas bon marché,
+ en 2026 il n’y a donc pas de coussin. Le thème • La dynamique des bénéfices est
+ de l’IA est alimenté par le secteur des faible.
+ services aux collectivités.
+
+1818 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 18
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INFOGRAPHIC
+ Les actions dans la course technologique
+
+Mise en place d‘un supercycle des dépenses Nous ne sommes pas encore au sommet du cycle
+d’investissements technologiques américains des dépenses d’investissement
+Aux États-Unis, les investissements dans les technologies et l’IA Bien que les dépenses d’investissement/ventes aient fortement
+apparaissent comme une force déterminante de la dynamique augmenté, elles restent inférieures aux ratios records de l’ère des
+économique, alimentant un nouveau supercycle des dépenses TMT, et les dépenses d’investissement par rapport aux flux de
+d’investissement. trésorerie disponibles montrent un écart encore plus important par
+ rapport à cette période, ce qui laisse une marge de progression
+ supplémentaire.
+
+Investissements technologiques en % du PIB Ratios Capex/CA et Capex/FCF hors secteur
+américain financier aux É.-U.
+ Logiciels Ratio Capex/CA aux É.-U. hors secteur financier
+ Autres équipements de traitement de l’information Ratio Capex/FCF aux É.-U. hors secteur financier…
+ 5% Ordinateurs et périphériques 8,0% 70%
+
+ 4% 7,5%
+ 60%
+ 7,0%
+ 3% 6,5% 50%
+
+ 2% 6,0%
+ 1% 40%
+ 5,5%
+ 0% 5,0% 30%
+ 95 97 99 01 03 05 07 09 11 13 15 17 19 21 23 25
+
+Source : Amundi Investment Institute, à partir de Bloomberg. Données au 27 Source: Amundi Investment Institute à partir de Datastream. Données au 27
+octobre 2025. Séries corrigées des variations saisonnières. octobre 2025. FCF signifie Free Cash Flow, soit les flux de trésorerie disponibles.
+
+La tech chinoise gagne aussi du terrain Limites de puissance : un risque pour l’expansion
+ technologique
+Les valeurs technologiques chinoises ont surperformé en 2025 et Le véritable goulet d’étranglement de la transformation
+cette dynamique pourrait se poursuivre. Le nouveau plan technologique est l’énergie : La croissance de l’IA et des data center
+quinquennal de la Chine réaffirme l’autonomie technologique augmentera fortement la demande d’électricité. Toutefois en
+comme une priorité absolue et le consensus s’attend à ce que les l’absence d’une mise à l’échelle rapide d’une énergie fiable et propre,
+Tech-8 chinois dépassent les 7 magnifiquesaméricaines entermes de ainsi que de mises à niveau et de stockage des réseaux, l’expansion
+croissance des bénéfices en 2026, les valorisations relatives de la risque d’être limitée ou alimentée par des combustibles fossiles, ce
+Chine semblant attractives. qui compromet les objectifs de durabilité.
+
+Performance en cumul annuel, % Production supplémentaire nécessaire pour
+ 75 Tech 8 chinoises répondre à la demande des data centers, en
+ 7 magnifiques ▪ Cumul annuel 33,9% térawattheures
+ américaines ▪ PER 15,6 1 400
+ 50 Reste du monde
+ China Tech 8 1 200 US
+
+ 1 000 Europe
+ 25 Inde
+ 800 Chine
+
+ 0 600
+
+ 7 magnifiques des É.-U. 400
+ -25 ▪ Cumul annuel 23,1 %
+ ▪ PER 30,4 200
+
+ -50 0
+ 01-2025 04-2025 07-2025 10-2025 2020 2022 2024 2026 2028 2030 2032 2034
+
+Source: Amundi Investment Institute, à partir de Bloomberg. Données au 12 novembre 2025. Le Source: Amundi Investment Institute à partir de Bloomberg NEF. Données au 27
+PER est le PER prévisionnel à 12 mois. Les Tech 8 chinois correspondent à un panier de octobre 2025.
+Bloomberg Intelligence comprenant les 8 plus grandes valeurs technologiques chinoises, les
+7 magnifiques sont un panier des 7 plus grandes sociétés technologiques américaines.
+1919 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+ Marketing material for professional investors only
+
+## Page 19
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INVESTISSEMENT RESPONSABLE
+Alimenter la croissance durable
+
+ La croissance industrielle portée par l'autonomie stratégique redéfinit le champ des possibles, en particulier pour les
+ investisseurs responsables. Les tensions commerciales, les contrôles à l'export et les politiques de sécurité encouragent les
+ gouvernements et les entreprises à relocaliser et à diversifier les chaînes d'approvisionnement ainsi que les sources d'énergie.
+ Cette tendance est soutenue par la numérisation menée par l’IA, des réseaux intelligents aux centres de données en passant par
+ l’automatisation des processus de fabrication. Parmi les opportunités figurent les entreprises bénéficiant d’une accélération des
+ dépenses liées à l’approvisionnement en énergie (par ex., modernisation des réseaux, énergie nucléaire, utilisation de l’eau), aux
+ infrastructures numériques (technologies critiques liées à l’IA), au stockage des batteries et au traitement responsable des
+ minéraux critiques. Voici, plus en détail, les principaux thèmes d’investissement responsable en 2026 :
+ Accélération de la demande d'électricité du fait de l'électrification industrielle, de l'expansion des centres de données et
+ de l'adoption des véhicules électriques. Les réseaux de transmission doivent être étendus, les réseaux modernisés et les
+ capacités de stockage accrues, d'autant que 40 % des réseaux dans les économies avancées ont déjà plus de 20 ans. Les
+ investissements dans les réseaux devraient profiter aux fabricants d’équipements de distribution et aux sociétés de services aux
+ collectivités. Par exemple, les services aux collectivités américains prévoient une croissance de la demande de 2 à 3 %, tirée par
+ l’électrification, les besoins en données et les relocalisations. Nous privilégions les services aux collectivités qui répondent aux
+ défis climatiques, bénéficient de la stabilité du marché et poursuivent des stratégies alignées sur une trajectoire proche de 1,5
+ °C. Nous identifions des opportunités aux États-Unis et parmi les fabricants coréens de transformateurs approvisionnant les
+ États-Unis, l'Europe et le Moyen-Orient.
+ Les industriels améliorent l’efficacité des usines, automatisent les processus et élargissent les data centers. Ces
+ entreprises sont confrontées à une croissance structurelle de la demande, amplifiée par les progrès des technologies d’IA qui
+ stimulent la demande d’équipements et d’électricité. Parmi les entreprises qui devraient en bénéficier, figurent notamment une
+ société européenne de biens d'équipement qui fournit des équipements électriques et de gestion des bâtiments aux data
+ centers et une société américaine de location d'équipements exposée à la croissance des infrastructures, des relocalisations
+ (construction), de la génération d'énergie et des data centers.
+ L'eau, utilisée principalement pour le refroidissement, représente une part importante de l'empreinte des centres de
+ données en matière de transition énergétique. Elle circule dans des tuyaux pour absorber la chaleur des équipements, se
+ dirige vers des tours de refroidissement avant d'être remise en circulation. Les techniques avancées de refroidissement par l'eau
+ réduisent la consommation d'électricité, permettent la réutilisation de la chaleur perdue et diminuent les émissions. Les
+ opérateurs optimisent l'intensité de l'utilisation de l'eau grâce à des logiciels de surveillance, de détection des fuites et
+ d'optimisation. La société européenne de biens d’équipement mentionnée ci-dessus bénéficie également de la hausse de la
+ demande de refroidissement à base d’eau dans les systèmes d’IA.
+
+ Relance du nucléaire soutenue par les politiques, les cadres réglementaires et les objectifs de capacité. Les charges de
+ travail liées à l’IA sont un moteur clé de la demande. Les entreprises technologiques américaines alimentent de plus en plus les
+ centres de données avec de l'énergie nucléaire ; nous privilégions donc les entreprises coréennes d'équipement nucléaire en
+ raison de leur respect des délais de livraison et de leur position sur le marché.
+ La demande en cuivre dans les technologies propres devrait au moins doubler d’ici 2040 (à 12 millions de tonnes contre
+ 6 millions en 2021, l’année de référence). En effet, le cuivre est le minéral préféré des réseaux électriques. Il est essentiel pour les
+ panneaux solaires, les éoliennes et les batteries de VE. L’offre étant relativement inélastique (les nouvelles mines ont de longs
+ délais de production), les prix à moyen terme devraient rester élevés, ce qui devrait profiter aux sociétés minières notamment au
+ Chili. Enfin, la croissance des ventes de VE stimule la demande de batteries pour VE, notamment en Chine (env. 54 % de
+ pénétration), même si les modifications de la fiscalité américaine ou le retrait des subventions en Chine pourraient ralentir la
+ croissance. Toutefois, même une trajectoire plus modeste de la demande, associée à une offre restreinte, devrait soutenir les
+ prix du cuivre en 2026.
+
+ +12 % +9 % +200 % +32/18 %
+
+ Les investissements dans Les data centers Les technologies propres Les ventes mondiales de
+ le réseau mondial américains pourraient du cuivre pourraient faire VE à batterie/VE hybrides
+ devraient atteindre consommer jusqu’à 9 % de grimper la demande ont bondi d’environ 32 %
+ 777 milliards USD d’ici la production d’électricité globale de cuivre à et 18 % sur les 9 premiers
+ 20301. américaine d’ici 2030, soit 34 millions de tonnes (Mt), mois de 20264.
+ plus du double de la part contre 25 Mt au cours de
+ actuelle2. l’année de référence 20213.
+
+ Sources: Amundi, Perspectives d’investissement 2026. 1. New Energy Outlook: Grids, “Significant Investment Needed to Ready the Global Power Grid for Net Zero”,
+ rapport BloombergNEF (nouveau service énergie de Bloomberg), décembre2024. 2. Electric Power Research Institute, mai2024. 3. AIE, Global Critical Minerals
+ Outlook 2026. 4. CNEV (China New Energy Vehicles) Post, EU, US Motor Intelligence, données pour les neuf mois à septembre 2026.
+
+20 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 20
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ OBLIGATIONS
+Les obligations dans le nouvel ordre monétaire
+
+Nous anticipons une poursuite de la tendance de diversification en 2026. Les investisseurs obligataires sous-estiment peut-
+être le risque lié à la politique budgétaire expansionniste des États-Unis. Nous percevons des opportunités parmi les points
+morts d’inflation et, plus tard dans l’année, dans la pentification de la courbe des taux. Le crédit de qualité devient une
+allocation centrale pour les investisseurs obligataires, grâce à des fondamentaux solides et à un meilleur profil
+risque/rendement que les bons du Trésor. Les obligations européennes restent une valeur phare pour 2026, l'accent étant
+sur les obligations périphériques et le crédit investment grade, en particulier dans le secteur financier.
+
+ Les risques budgétaires croissants aux États-Unis incitent à se concentrer sur l’inflation et le
+ crédit investment grade.
+
+ Les avoirs étrangers en bons du Trésor américain, qui s'élèvent à près de 9 000 milliards de dollars, sont proches
+ de leur niveau record, mais nous pensons que les investisseurs internationaux sont peut-être trop optimistes
+ quant à la persistance à long terme de l'exceptionnalisme américain, alors que les déficits et la dette des
+ États-Unis augmentent et que le risque d'inflation persiste. Les investissements dans l’IA (comme évoqué
+ précédemment) pourraient faire grimper la croissance potentielle américaine au-dessus de 2 %, mais même si l’IA
+ stimule la productivité, cela pourrait ne pas suffire à compenser la détérioration de la démographie. La dette
+ américaine est d'un niveau sans précédent, ce qui augmente également les risques pour l'indépendance de
+ la Fed.
+ Les rendements obligataires américains ont baissé dans l’anticipation de baisses des taux. Nous pensons que
+ l'affaiblissement du marché du travail justifie des réductions à 3,25 %, mais le marché prévoit périodiquement des
+ réductions à moins de 3 % d'ici la fin de l'année 2026. Selon nous, cette politique monétaire accommodante
+ augmenterait l’inflation prévisionnelle et les primes de terme.
+ Ce contexte exige une approche disciplinée et tactique de la duration, car les rendements évolueront
+ probablement en latéral tout au long de l’année. L’inflation devient un thème clé, favorisant les points morts
+ d’inflation, tandis que des opportunités de pentification devraient apparaître plus tard dans l’année, après
+ la baisse des taux. Le spread entre les taux à 2 et 10 ans pourrait encore s’élargir à 120 pb, surtout si la Fed se
+ montre plus accommodante que prévu.
+ Pour se diversifier en dehors des bons du Trésor américain, le crédit investment grade est une classe d'actifs de
+ plus en plus pertinente, qui devrait bénéficier d'une offre limitée et de la gestion disciplinée des bilans. Nous
+ voyons un potentiel de resserrement supplémentaire des spreads par rapport aux obligations d'État. Nous
+ sommes prudents sur les obligations américaines à haut rendement, qui pourraient pâtir des inquiétudes
+ entourant la dette privée, les banques régionales et l’impact des droits de douane sur les cash-flows
+ opérationnels.
+
+ Équilibrer les émissions de dette américaine, revient, en définitive, à tester l'indépendance de la Fed
+
+ La stratégie de la dette américaine repose sur Bons du Trésor en % de l’encours de la dette
+ des émissions à court terme, plutôt que sur des négociable
+ obligations à long terme, ce qui réduit le coût à
+ court terme. Toutefois les taux finissent par 35%
+ transférer le risque et pourraient intensifier
+ les pressions pour inciter la Fed à procéder à 30%
+ des baisses plus importantes : l'indépendance 25%
+ de la banque centrale est ainsi mise à
+ l'épreuve. 20%
+
+ Le CBO estime que le One Big Beautiful Bill (OBBB) 15%
+ alourdira le déficit de 3 400 milliards de dollars au cours
+ de la prochaine décennie. Le Trésor dit pouvoir maintenir 10%
+ les émissions stables « pendant au moins les prochains
+ trimestres » – ce qui est possible si l’écart est financé par 5%
+ des bons du Trésor. Les bons du Trésor représentent 2001 2005 2009 2013 2017 2021 2025
+ 21,5 % de la dette, ce qui est proche des moyennes
+ historiques. En 2026, les paiements d’intérêts s’élèveront
+ à 1 100 milliards de dollars (3,2% du PIB), le taux moyen Source : Amundi Investment Institute à partir de données du
+ de la dette fédérale ayant grimpé à environ 3,5 %. département du Trésor américain. Données au 30 septembre 2026. Le
+ CBO est le Congressional Budget Office.
+
+2121 Document marketing réservé aux investisseurs professionnelsMarketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 21
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Réduction de la marge budgétaire dans Obligations de l‘UE attractives vs É.-U.
+ l’ensemble du G7 5
+
+ 3
+
+ 1
+
+ -1
+ 2010 2013 2016 2019 2022 2025
+ 10 ans américain
+ 10 ans américain couvert en EUR
+ 10 ans allemand
+
+ Source : Amundi Investment Institute, Bloomberg, FMI. La dette Source : Amundi Investment Institute, Bloomberg. Données au
+ totale en % du PIB comprend tous les passifs financiers d’un 31 octobre 2025.
+ gouvernement, qu’il s’agisse de la dette centrale ou des
+ gouvernements locaux. Données à novembre 2025.
+ Discipline budgétaire imposée par les bond La discipline budgétaire en Italie et en Espagne pourrait
+ vigilantes permettre aux spreads par rapport à l'Allemagne de
+ continuer à se resserrer. Le spread de la France confirme
+ Ailleurs dans les pays du G7, les niveaux la crédibilité du cadre budgétaire européen. Si un retour à
+ d’endettement sont également élevés. À l’exception du la parité d’avant 2007 semble peu probable, il est possible
+ Japon, qui ne dépend pas des investisseurs étrangers que le spread Italie-Allemagne à 10 ans passe en dessous
+ (même si nous restons prudents à l’égard des JGB), la de 70 pb, tandis que le spread Allemagne-Espagne
+ plupart des autres gouvernements du G7 se méfient des pourrait atteindre 40 pb. Nous percevons également des
+ bond vigilantes et sont réticents à ajouter des mesures de opportunités dans le crédit investment grade en euros,
+ relance budgétaire. Le Royaume-Uni montre pourquoi, avec une marge de compression supplémentaire des
+ dans un contexte de hausse de l'inflation, le QE ne serait spreads, en particulier dans le secteur financier.
+ pas en mesure de proposer des taux longs plus bas. Les
+ tentatives de gonflement de la dette se traduiraient par
+ une inflation attendue plus élevée, et donc par des PRINCIPALES IMPLICATIONS EN
+ rendements à long terme plus élevés. Cette discipline MATIÈRE D’INVESTISSEMENT
+ nous rend optimistes vis-à-vis des Gilts, qui sont
+ toujours proches de leurs niveaux les plus bas depuis Positif sur les points morts d’inflation
+ dix ans par rapport aux bons du Trésor. américains à 10 ans
+ Attrait croissant des obligations européennes L’affaiblissement du dollar et les droits de douane
+ pourraient à eux seuls doper les prix, tandis que la
+ L’Allemagne dispose d’une marge de manœuvre demande sera stimulée par une politique budgétaire et
+ budgétaire importante et a un besoin pressant de faire monétaire expansionniste et une hausse des
+ investissements. La baisse des points morts d’inflation à
+ face à la faiblesse de ses performances économiques et 10 ans à 2,25 % devrait s’inverser, et un retour aux pics de
+ aux nouvelles exigences de défense. Les importantes 2,5 % des deux dernières années semble possible.
+ émissions de dette de l'Allemagne au cours des 5 à 10
+ prochaines années vont élargir les marchés des Positif sur la dette périphérique de l’UE,
+ emprunts d'État de l'UE et offrir un large éventail les Bunds à 10 ans et les Gilts vs bons du
+ d'opportunités aux investisseurs internationaux.
+ La BCE soutiendra également les obligations européennes, Trésor américain
+ Nous préférons les obligations européennes aux bons du
+ qui devrait selon nous suivre l’exemple de la Fed et Trésor américain : les réductions anticipées de la BCE et
+ ramener ses taux à un taux final de 1,5 % d’ici mi-2026. La l’expansion du marché obligataire européen devraient
+ réduction du différentiel de rendement entre les attirer la demande des investisseurs. Les Gilts
+ Bunds à 10 ans et les bons du Trésor et les attentes de britanniques semblent également attractifs par rapport
+ réductions de la BCE favoriseront les obligations aux bons du Trésor américain, tandis que les obligations
+ européennes par rapport aux obligations américaines. périphériques de la zone euro offrent la conviction la plus
+ Cela pourrait soutenir le rapatriement d’actifs par les forte, compte tenu du surplus de rendement qu‘elles
+ offrent et de l’amélioration des fondamentaux.
+ investisseurs européens et la demande croissante des
+ investisseurs internationaux désireux de se diversifier sur Continuer à privilégier le crédit IG
+ un marché en expansion avec des règles budgétaires plus Les spreads offrent toujours une valeur raisonnable par
+ prévisibles. En Europe, nous sommes encore plus rapport aux swaps et la rigueur des émissions signifie que
+ optimistes sur les gouvernements périphériques. le crédit bénéficiera au moins du portage, mais peut-être
+ aussi de nouvelles plus-values.
+
+22 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 22
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ DEVISES
+ Faiblesse de l’USD : tendu mais pas fini
+
+ Le dollar américain a pris de nombreux investisseurs au dépourvu en 2025, compte tenu de la résurgence de
+ l’« exceptionnalisme américain » après les élections américaines. L’hypothèse selon laquelle une déréglementation
+ favorable aux entreprises et des droits de douane agressifs élargiraient l’avantage de la croissance américaine s’est
+ révélée erronée. Mais maintenant que les anticipations se sont réinitialisées et que la dynamique en dehors des États-Unis
+ s’est affaiblie, la viabilité de la correction du dollar américain est remise en question. Les fondamentaux
+ macroéconomiques n'apparaissent plus comme un frein évident à l'USD, mais ils restent, à notre avis, insuffisants pour
+ inverser les forces structurelles en jeu. Nous continuons à tabler sur un dollar faible, bien que non linéaire, en 2026.
+
+ Au-delà de la valeur relative : la domination mondiale de l'USD reste à
+ double tranchant « Les forces
+
+ L’enquête triennale de la BRI de septembre a confirmé que la « dé-dollarisation » reste structurelles
+ surestimée : le dollar américain figure toujours dans environ 89,2 % des transactions de
+ change mondiales, contre 88,4 % en 2022. Cependant, il n'est pas nécessaire que la continueront de
+ dédollarisation soit totale pour que le dollar s'affaiblisse. Quatre arguments suggèrent signaler un
+ que les devises pourraient s’étendre au-delà de la valeur relative, ce qui se traduira
+ probablement par une dépréciation à venir du dollar américain. affaiblissement du
+ Premièrement, la faiblesse de la croissance à l'étranger, si elle est contenue, offrira dollar américain, ce
+ probablement des opportunités de diversification de l'exposition obligataire au-delà qui profitera
+ de la dette américaine. Les rendements mondiaux s'étant normalisés - la part de la dette
+ à rendement négatif est tombée à zéro, contre plus de 30 % en 2019 -, une baisse particulièrement aux
+ contenue de l'écart de taux pourrait paradoxalement coïncider avec une appréciation des devises asiatiques. »
+ taux de change.
+ Deuxièmement, une orientation macroéconomique de moins en moins orthodoxe –
+ déficits budgétaires persistants, tolérance accrue à l'égard de l'inflation et mesures telles
+ que le Genius Act et la réforme SLR (ratio de levier supplémentaire) – pourraient
+ comprimer les taux réels américains et raviver les inquiétudes concernant la
+ répression financière. Alors que les émetteurs de stablecoins et les banques dérégulées
+ absorbent l’offre de bons du Trésor, les rendements nominaux pourraient rester
+ plafonnés malgré la hausse des anticipations d’inflation, laissant la dépréciation de la
+ devise comme principal mécanisme d’ajustement.
+
+ Chiffre d’affaires du marché des L’évolution des taux réels et des
+ changes par devise, 2025 vs 2022 anticipations d’inflation aux États-Unis
+ (moyennes quotidiennes) est essentielle pour les devises
+ 0% 20% 40% 60% 80% 100% Performance mensuelle des Performance mensuelle des
+ devises quand les devises quand les
+ rendements réels américains rendements réels américains
+ 88,4% augmentent et les points baissent et les points morts
+ USD morts d’inflation reculent d’inflation progressent
+ 89,2% La baisse des
+ EUR 30,6% TWD,CNY rendements
+ 28,9% réels
+ américains et
+ la hausse des
+ 16,7% points morts
+ JPY 16,8% ME à haut rendement d’inflation
+ affaiblissent
+ généralement
+ 7,0% 2022 le dollar en
+ CNY 8,5% JPY,CHF raison de la baisse des
+ 2025 rendements
+ réels et de la
+ CHF 5,2% montée des
+ 6,4% EUR inflationnistescraintes
+
+ .
+ INR 1,9%
+ 1,6% -1,0% -0,5% 0,0% 0,5% 1,0%
+
+ Source : Amundi Investment Institute, Enquête triennale 2025 Données : Bloomberg, calculs d‘Amundi Investment Institute.
+ de la BRI auprès des banques centrales. USD – dollar américain, Données au 24 octobre 2025. USD – dollar américain, JPY – yen
+ EUR – euro, JPY – yen japonais, CNY – renminbi chinois, CHF – japonais, EUR – euro, CHF – franc suisse, CNY – renminbi
+ franc suisse, INR – roupie indienne. chinois, TWD – dollar taïwanais.
+
+23 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 23
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Troisièmement, l’attrait du dollar en tant que valeur Bien que l’apaisement des tensions commerciales entre
+ refuge est moins fiable. Dans un « choc de croissance » les États-Unis et la Chine soit quelque peu rassurant, les
+ (qui n’est pas notre scénario central) où les actions et les pays dotés de faibles réserves de change, d’une faible
+ rendements américains baissent de concert, la crédibilité de leur banque centrale et d’une dette
+ corrélation du dollar avec les actifs risqués deviendrait importante en devises étrangères seront probablement
+ positive, ce qui limiterait son rôle de diversification. vulnérables à des replis si le sentiment vis-à-vis du risque
+ Compte tenu de la forte pondération des États-Unis dans venait à s’inverser.
+ les indices mondiaux, même de modestes sorties de Ce qui pourrait mal tourner
+ capitaux pourraient se traduire par des ventes en dollars, Le principal risque pour notre opinion baissière sur l'USD
+ à moins d’être intégralement réinvesties dans des bons serait une répétition du schéma 2021-2022 et un arrêt du
+ du Trésor américain, qui font désormais face à une processus de pentification de la courbe de rendement
+ concurrence accrue des autres marchés souverains. Nous américaine. À l'époque, l'économie américaine avait
+ pensons que cette dynamique est favorable aux devises surchauffé et les marchés avaient cru que la Fed
+ de base du G10, mais elle exige en même temps une donnerait la priorité à la maîtrise de l'inflation « quoi qu‘il
+ sélection parmi les devises à portage élevé, dont le bêta en coûte », ce qui avait entraîné une hausse des
+ par rapport à la croissance reste dominant. rendements réels et une compression des anticipations
+ Quatrièmement, le dollar américain reste cher par d'inflation. Une évolution similaire rétablirait l’attrait
+ rapport à sa valorisation à long terme, et peu de cyclique de l’USD et marquerait probablement le tournant
+ devises, à savoir l’EUR et le portage des devises de la tendance baissière actuelle.
+ émergentes, ont réellement bénéficié de sa correction en
+ 2025. Les devises asiatiques et certaines devises de pays
+ affichant un excédent commercial (euro, dollar australien)
+ ont le potentiel nécessaire pour passer à l'étape suivante. ACTIFS NUMÉRIQUES ET CRYPTO-MONNAIES
+ Devises du G10 : divergences nationales derrière un Actifs numériques : dollarisation ancrée, réévaluation
+ narratif dominé par l'USD structurelle des prix
+ Les perspectives de la zone euro restent faibles et Les stablecoins adossés à l’USD, désormais supérieurs à
+ reposent largement sur les réformes à venir. Pourtant, la 300 milliards de dollars, ancrent l’activité des
+ faible charge du service de la dette du secteur privé blockchains au dollar, limitant la dé-dollarisation mais
+ plaide contre un cycle agressif de baisse des taux de la créant également une demande artificielle pour la
+ BCE. Un contexte qui nous semble compatible avec une dette américaine dans le cadre du GENIUS Act. En
+ hausse de l’EURUSD et de l’EURCHF, mais qui revanche, le projet d'euro numérique de la BCE maintient
+ nécessiterait probablement une baisse de l’EUR par le contrôle monétaire public et la demande de dette
+ rapport aux devises cycliques (devises scandinaves, dollar organique, ce qui suggère un contexte moins
+ australien) et au JPY, après le rebond démesuré de l’EUR politiquement géré et des risques macroéconomiques plus
+ en 2025. faibles pour l'euro.
+ Au Royaume-Uni, le resserrement budgétaire à venir Parallèlement, l'adoption croissante du bitcoin par les
+ devrait freiner la croissance et renforcer les pressions institutions et le soutien grandissant de la politique
+ accommodantes sur la Banque d’Angleterre. Avec une américaine renforcent le sentiment que le pouvoir d'achat
+ position extérieure nette négative, la livre sterling reste du dollar s'érode dans un contexte de tolérance à
+ dépendante des flux entrants de capitaux étrangers, ce l'inflation plus élevée. Cette toile de fond pourrait
+ qui suggère que les paires de devises auront du mal à maintenir une dynamique positive jusqu'en 2026, les prix
+ surperformer tant que la croissance ne sera pas pouvant approcher 150 000 dollars au premier semestre,
+ supérieure aux attentes ou que la confiance budgétaire mais le cycle de réduction de moitié (halving) qui a débuté
+ ne sera pas restaurée. en avril 2024 semble arrivé à maturité et une phase de
+ consolidation ou de correction devrait s'ensuivre.
+ Le Japon reste le cas le plus évident où les distorsions
+ politiques limitent le potentiel de change. Malgré des « Au lieu de pousser
+ rendements normalisés et des valorisations bon marché, les crypto-monnaies
+ la réticence de la BoJ à relever les taux réels entretient un
+ « risque d’érosion monétaire ». Nous pensons que les sur la touche, les
+ perturbations devraient progressivement disparaître, décideurs cherchent
+ mais que seul un atterrissage plus brutal ou un signal maintenant des
+ crédible de la poursuite de la normalisation de la moyens de les
+ politique peut se traduire par une appréciation durable intégrer en toute
+ du yen.
+ DEVISES DES ME : Le portage reste notre ami sécurité dans le
+ système financier au
+ Les gagnants seront encore les devises dont les sens large.»
+ banques centrales disposent d’une marge de Cryptocurrencies
+ manœuvre limitée pour baisser les taux par rapport à Break Into The
+ ce qui est intégré par le marché – nous apprécions le réal Mainstream 2025
+ brésilien en Amérique latine et le rand sud-africain dans
+ la région CEEMEA. La sélection reste toutefois essentielle.
+
+24 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 24
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ EUROPE
+ La dynamique de l'Europe se poursuit
+
+ L’Europe est à un tournant. Dans l’ensemble, la croissance est modeste, mais des réformes sont en cours et la
+ nouvelle politique budgétaire allemande change la donne. L’objectif est de réorienter la politique industrielle vers
+ l’énergie, les infrastructures et la défense pour favoriser l’autonomie stratégique. Si ces mesures ne relancent pas
+ immédiatement la croissance, elles pourraient transformer l'écosystème macrofinancier européen à moyen terme
+ et permettre une reprise économique durable. Cela pourrait en retour renforcer la demande pour les actifs
+ européens : les petites et moyennes capitalisations et les obligations européennes à court terme semblent
+ attractives dans un contexte d'assouplissement monétaire, tandis que les thèmes liés à la défense, à l'autonomie
+ stratégique et à l'écosystème de l'IA devraient profiter aux investisseurs en actions.
+
+ La trajectoire de l’Europe en 2026 sera une question d’exécution
+
+ Les choix politiques des deux dernières années en matière de sécurité énergétique, de matières
+ premières critiques, de coopération entre l'industrie et la défense et de transformation numérique
+ doivent maintenant se traduire par des projets autorisés, des marchés qui fonctionnent et une
+ résilience opérationnelle.
+ La direction à suivre est plus claire : un découplage progressif du gaz russe, un effort soutenu pour
+ réduire les dépendances ponctuelles vis-à-vis de la Chine dans le domaine des semi-conducteurs et des
+ terres rares, un effort renouvelé pour améliorer le fonctionnement du marché unique pour les industries à
+ grande échelle, et un rééquilibrage pragmatique de l'agenda réglementaire de l'UE plutôt que des retours
+ en arrière généralisés.
+ Pourtant, les défis sont réels : goulets d'étranglement dans la séparation des terres rares lourdes et la
+ fabrication d'aimants, contraintes juridiques et politiques sur les marchés publics de défense conjoints et
+ tâche complexe de mise à niveau des réseaux électriques pour une économie électrifiée et basée sur l'IA. Les
+ années à venir seront probablement marquées par des tensions épisodiques sur les contrôles à
+ l'exportation, les mesures commerciales et les politiques nationales, mais en 2026-27, nous devrions voir les
+ premiers signes visibles de mise en œuvre et de concrétisation des projets.
+
+ Chaînes d’approvisionnement et résilience industrielle : un défi double pour l'Europe
+ Les chocs à court terme, comme l'a montré récemment le dysfonctionnement des semi-conducteurs lié aux
+ contrôles à l'exportation, peuvent se répercuter en quelques semaines dans les secteurs de l'automobile, de
+ la technologie médicale ou encore de l'aérospatiale. Les contraintes à long terme sont plus structurelles : le
+ traitement lourd des terres rares et la production d’aimants haute performance restent concentrés en
+ Chine. Plusieurs États membres les considèrent désormais comme des vulnérabilités stratégiques
+ plutôt que comme de simples problèmes d’approvisionnement. En 2026, les politiques de réduction des
+ risques vont probablement s’intensifier avec des actions plus concrètes, par exemple sur les autorisations,
+ les cadres d’exploitation, les projets de recyclage et les accords précoces avec des partenaires de pays tiers.
+ Redessiner le réseau énergétique européen
+
+ La trajectoire convenue pour l’élimination progressive des importations de gaz russe d’ici le début de 2028
+ redessinera la carte énergétique de l’Europe. Elle améliorera la planification et poussera également la grille
+ au centre de la transition. Les interconnexions transfrontalières, les sous-stations numériques et les
+ marchés de la flexibilité passeront du statut de notes de bas de page dans les documents techniques à celui
+ de priorité nationale. Le plan « Réseaux pour 2040 » et la révision du règlement « RTE-E » définissent le cadre
+ stratégique ; en 2026, il faudra tester l’accélération des permis et la coordination frontalière rapide dans un
+ mécanisme de financement unifié.
+
+ « En 2026, nous devrions voir les premiers signes
+ de concrétisation des projets européen. »
+
+25 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 25
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Renforcer les capacités de défense de l’Europe
+
+ Le réarmement de l'Europe progresse de manière très inégale. L'objectif Progrès encourageants
+ de 40 % d'achats conjoints d'ici à 2030 est un signal d'intention, mais les
+ exclusions légales et les considérations industrielles nationales dominent en Europe
+ toujours la prise de décision. Les projets de coopération de premier plan dans Virage énergétique
+ les domaines de l'aviation, de l'espace et des systèmes sans pilote doivent stratégique :
+ faire face à des conflits de partage du travail et aux réalités des licences La définition d'une trajectoire
+ d'exportation. Il est vrai que l’humeur change, la préparation et la permettant de mettre fin aux
+ capacité de production devenant désormais des critères centraux. importations par gazoducs et de GNL
+ Cependant, le défi pour 2026 sera de savoir si les États membres peuvent russes d'ici au début de 2028 réduit
+ traduire les évaluations communes des menaces en ordres partagés et en le risque d'un retour aux
+ calendriers prévisibles. dépendances énergétiques d'avant-
+ guerre et permet d'ancrer la
+ Désencombrer le marché unique planification à long terme.
+
+ La position réglementaire de l’UE évolue. Plutôt que de démanteler le Accélération dans le domaine
+ cadre vert et de due diligence, les décideurs politiques ajustent la portée et des matières premières
+ le calendrier pour maintenir l’orientation tout en atténuant les frictions. critiques :
+ Parallèlement, la structure du marché unique fait l'objet d'une attention Le Règlement sur les matières
+ renouvelée : suppression des barrières dans les services, amélioration des premières critiques et l‘initiative
+ flux de données transfrontaliers et établissement de normes qui favorisent « ReSourceEU » établissent des
+ les économies d'échelle. Pour de nombreuses entreprises, 2026 marquera le piliers – recyclage, capacité de
+ début d’une nouvelle ère, avec une plus grande attention portée à transformation européenne et
+ l’application cohérente des règles plutôt qu’à de nouvelles règles, et à des partenariats stratégiques – tout en
+ parcours administratifs raccourcis. La simplification est devenue le maître explorant l’achat groupé et le
+ stockage d‘une sélection de
+ mot. matériaux et d‘aimants.
+ Réaliser le potentiel de l’IA Capacité de réponse aux
+ Alors que la verticalisation et l’automatisation s’installent, l’IA passe de crises :
+ promesse généraliste à l‘intégration sectorielle. L’enjeu pour les entreprises Les réponses coordonnées aux chocs
+ européennes sera d’accélérer leur utilisation des outils d’IA. Dans la des semi-conducteurs, les réunions
+ fabrication manufacturière, cela passe par la maintenance prédictive, le de crise, les solutions temporaires et
+ contrôle qualité et les jumeaux numériques intégrés dans les logiciels d’usine. les politiques d'inventaire
+ Dans l’énergie, c’est la prévision des réseaux et l’orchestration des deviennent de plus en plus
+ courantes, raccourcissant les délais
+ ressources distribuées à la périphérie. Dans le domaine de la santé et des de réaction.
+ services publics, cela signifie des déploiements plus sûrs et plus ciblés qui
+ réduisent les goulets d'étranglement et la bureaucratie. La contrainte a été Cibles industrielles de
+ moins une question d'imagination que d'infrastructure, en particulier de défense :
+ qualité des données, d'accès à l'informatique et de compétences. En 2026, Un objectif mesurable pour la
+ des progrès graduels sont probables, à mesure que les équipes sectorielles passation conjointe de marchés
+ associent leur expertise à des outils d'IA, soutenus par des normes plus publics permet de centrer le débat
+ claires et des projets pilotes du secteur public. sur les résultats plutôt que sur le
+ symbolisme.
+L'impact des dépenses d'infrastructure de l'Allemagne Dynamique du réseau :
+amplifie l'impact du NGEU, gains de PIB à l'échelle de La promotion des investissements
+l'UE d'ici à 2033 dans les réseaux électriques et de
+ leur numérisation en tant qu'enjeux
+ de compétitivité marque le passage
+ Impact des 2,50% de la planification à la mise en
+ œuvre.
+ dépenses 1,30% Impact de
+d’infrastructure NGEU sur la Union de l’épargne et de
+ allemandes croissance à l’investissement :
+ moyen terme Le paquet complet de l’UE sur les
+ retraites* devrait être présenté pour
+ adoption en novembre 2025. Ces
+ réformes visent à renforcer les
+ 0,75% retraites complémentaires via des
+ mesures telles que l’affiliation
+ automatique, une communication
+ plus claire et des investissements
+ Allemagne UE plus intelligents, certaines mesures
+ étant possibles à partir de 2027 pour
+ lutter contre l’insuffisance de
+ l’épargne retraite.
+Source : Amundi Investment Institute à partir de données de la Commission européenne et de la
+BCE. Les hypothèses sont que le fonds d’infrastructure est entièrement financé par la dette et affecté
+à des projets productifs, tout en tenant compte d’un profil de dépenses linéaire à partir du second
+semestre 2025, ce que montrent les simulations du modèle par rapport à la base de référence. * Y compris les institutions de retraite
+Données à novembre 2025. professionnelle (IORP) et le Pan-European
+26 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnelsPersonal Pension Product (PEPP)
+26 Document marketing réservé aux investisseurs professionnels
+
+## Page 26
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ Investir dans la dynamique des réformes en Un nouvel assouplissement monétaire pourrait
+ Europe également soutenir le crédit européen. Nous
+ privilégions ici le crédit investment grade en euro, qui
+ Dans ce contexte, les investisseurs doivent tenir compte devrait selon nous continuer à bénéficier d’une offre
+ de l’effet des perspectives à court terme sur les prix maîtrisée et de fondamentaux solides.
+ des actifs, ainsi que de l’impact attendu à moyen et Côté actions, nous privilégions les petites et moyennes
+ long terme des réformes en cours. capitalisations. Avec environ deux tiers des ventes
+ Sur les marchés obligataires, la dynamique réalisées sur le marché intérieur, ces entreprises sont
+ économique à court terme devrait prédominer, tandis moins exposées aux droits de douane américains et à
+ que l’attractivité des actions européennes dépend d’autres chocs externes. Elles se négocient actuellement à
+ davantage de l’impact des réformes en cours, en des valorisations historiquement faibles par rapport aux
+ particulier sur les segments sous-évalués comme les grandes capitalisations et nous pensons que
+ petites capitalisations. Un dollar structurellement plus l’assouplissement de la BCE sera le catalyseur de leur
+ faible, comme nous le prévoyons, pourrait encourager les surperformance.
+ investisseurs à réallouer leurs capitaux à l'Europe ; une
+ telle tendance s’accélérerait si les réformes parvenaient à Sur le plan sectoriel, une pentification accrue de la courbe
+ accroître la productivité à long terme. des taux devrait profiter aux valeurs financières, qui,
+ malgré leur forte surperformance depuis le début de
+ « Un affaiblissement du dollar, les mesures l’année, ne semblent pas surévaluées. Des opportunités
+ budgétaires allemandes et un certain degré de existent également dans le secteur de l‘industrie en
+ lien avec les thèmes de l’électrification et de l’IA.
+ reprise cyclique pourraient orienter des capitaux
+ sur l'Europe. » PRINCIPALES IMPLICATIONS EN MATIÈRE
+
+ Pour 2026, nous restons positifs sur les obligations D’INVESTISSEMENT
+ européennes. La croissance est inférieure à son potentiel, Les obligations européennes (notamment les
+ l’inflation tend à se replier en dessous des objectifs de la , maturités courtes) bénéficieront de
+ BCE et les valorisations par rapport aux États-Unis sont l’assouplissement monétaire. Il faut donc
+ attractives. Pour 2026, nous conserverons une approche s'attendre à une nouvelle pentification de la courbe
+ tactique de la duration, en privilégiant le segment à court et exploiter les opportunités offertes par le crédit IG.
+ terme de la courbe des taux allemande, car ces obligations
+ peuvent bénéficier d’un nouvel assouplissement
+ monétaire. Les actions bénéficieront d’une plus grande
+ Nous continuons de tabler sur une pentification diversification au niveau mondiale déclenchée
+ supplémentaire du segment de 2 à 10 ans de la courbe et par un dollar structurellement plus faible. Les petites
+ recherchons des opportunités dans les obligations et moyennes capitalisations constituent un créneau
+ périphériques de la zone euro. privilégié, de même que les secteurs de la finance,
+ de la défense et de l'autonomie stratégique.
+
+ Euro IG : la surperformance pourrait se Les petites et moyennes capitalisations
+ poursuivre grâce au contrôle de l'offre et devraient bénéficier de la baisse des taux
+ à la solidité des fondamentaux d'intérêt
+
+ 4 1,5 5
+ 1,4
+ 3 1,3 4
+
+ 2 1,2 3
+ 1,1
+ 1 1 2
+ 0,9 1
+ 0 0,8
+ 0,7 0
+ -1 0,6
+ 0,5 -1
+ -2
+ 01/25 03/25 05/25 07/25 09/25
+ Petites et moyennes capitalisations européennes / grandes capitalisations
+ Europe TousAll IG en euro Taux de dépôt BCE (éch. de droite)
+
+ Source : Amundi Investment Institute et Bloomberg, au Données : Bloomberg, calculs d‘Amundi Investment Institute.
+ 30 octobre 2025. Europe All = Indice Bloomberg Euro Aggregate, Données au 24 octobre 2025
+ Euro IG = Indice Bloomberg Euro Aggregate Credit.
+
+27 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 27
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ MARCHÉS ÉMERGENTS
+ Marchés émergents : des blocs en mutation
+
+ En 2025, les marchés émergents ont fait face à un environnement mondial très incertain, marqué par des tensions
+ géopolitiques, des différends commerciaux et beaucoup d'incertitudes politiques. Leur résilience a bénéficié de
+ l’assouplissement des conditions financières (affaiblissement du dollar et politique plus accommodante de la Fed)
+ ainsi que de la demande d’exportation soutenue. Sur le plan intérieur, la vigueur des marchés du travail et
+ l’assouplissement de la politique monétaire ont soutenu la croissance. Notons ici qu'aucun signe de domination
+ fiscale n'est perceptible, même dans les pays présentant une situation budgétaire exceptionnelle, tels que le Brésil
+ ou la Colombie.
+ Le contexte cyclique reste globalement inchangé : La croissance des pays émergents devrait suivre une
+ tendance latérale tout en restant supérieure à celle des marchés développés. L’inflation, qui se rapproche
+ des objectifs des banques centrales, devrait permettre la poursuite d’un assouplissement prudent, en
+ particulier si la Fed baisse ses taux à mesure que la croissance américaine ralentit et que l’inflation recule.
+ D’un point de vue structurel, les marchés émergents sont confrontés à trois forces convergentes : le réalignement
+ géopolitique, la reconfiguration des chaînes d’approvisionnement et l’intensification de la course technologique –
+ chacune présentant à la fois des opportunités et des risques.
+ L’Asie restera le principal moteur de la croissance, même si ses principales économies, la Chine et l’Inde,
+ affichent une croissance modérée. En Chine, les mesures « top-down » visant à limiter les excès (l‘effort « anti-
+ involution ») continueront de lutter contre les surcapacités ; en Inde, les autorités chercheront à équilibrer la
+ croissance entre la demande des ménages et les dépenses d’investissement.
+ La doctrine Monroe fait son retour dans l’hémisphère occidental sous la présidence Trump. Certains pays se
+ rapprocheront des États-Unis, tandis que d’autres préféreront approfondir leurs liens avec les pays du Sud global,
+ sans pour autant s’aliéner l’administration américaine. Le projet des BRICS devrait encore se renforcer, non pas
+ vraiment en tant que bloc économique alternatif et isolé, mais en tant que chaîne d'approvisionnement alternative
+ et imbriquée.
+ La région Amérique latine connaîtra de nombreuses élections au cours des prochains mois et trimestres. Le
+ pendule politique qui penche à droite devrait donner naissance, après les élections, à des administrations plus
+ favorables aux entreprises et promouvant des politiques plus orthodoxes.
+ Brésil : Les élections n’étant prévues que vers la fin de 2026, l’administration en place devra trouver un équilibre
+ entre considérations électorales et discipline budgétaire. La réforme proposée de l'impôt sur le revenu et les
+ mesures quasi budgétaires pourraient améliorer les perspectives électorales tout en contribuant à maintenir les
+ objectifs budgétaires sur la bonne voie.
+ Mexique : La priorité consistera à renégocier certains aspects de l’AEUMC afin d’attirer les IDE liés au nearshoring et
+ de relancer les capex, qui se sont affaiblis récemment en raison du contexte incertain. Un AEUMC actualisé pourrait
+ ressembler à un accord d’union douanière, accompagné de droits de douane (relativement) bas.
+
+ PRINCIPALES IMPLICATIONS EN MATIÈRE D’INVESTISSEMENT
+
+ Maintien de la demande pour Rendements attractifs pour Les styles value et
+ les actifs des ME la dette en DF, sélectivité momentum
+ L’amélioration du sentiment, la pour la dette en DL à l‘œuvre
+
+ persistance des primes de Le contexte macroéconomique et Une légère reprise de la dynamique
+ croissance par rapport aux les rendements attractifs sont macroéconomique et une croissance
+ marchés développés, les favorables à la dette en devise à un chiffre des bénéfices favorisent
+ valorisations attractives et les forte. S’agissant de la dette en les styles valueet momentum, ce qui
+ fondamentaux macroéconomiques devise locale, nous privilégions profiteà la régionEMOA et, de
+ solides créent un large éventail l’Europe centrale et orientale, manière sélective, à l'Amérique
+ d‘opportunités. Les principaux latine, tandisque l'Asieest davantage
+ risques transversaux restent le certaines parties de l’Amérique portée par les secteurset les
+ renforcement du dollar et la latine et l’Inde, les Philippines et bénéfices, en lien avec les actifs
+ la Corée pour leur potentiel de numériques, la technologiechinoise
+ hausse des rendements du Trésor portage et leurs valorisations. et les secteursbénéficiantde
+ américain. l'intelligenceartificielle.
+
+ DF = devises fortes, DL= devises locales, IDE = Investissements directs étrangers, AEUMC = Accord États-Unis-Mexique-Canada
+
+2828 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnelsDocument marketing réservé aux investisseurs professionnels
+
+## Page 28
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ INFOGRAPHIC
+
+ Obligations émergentes : rendements attractifs et amélioration des fondamentaux
+
+ Rendements attractifs des obligations …au bénéfice des investisseurs internationaux
+ émergentes…
+ La liquidité des fonds monétaires dépasse 7 000 milliards de dollars, La dette émergente est désormais plus mature : fondamentaux plus
+ un record. Compte tenu de la baisse des rendements liée à la baisse solides, spreads plus serrés et volatilité plus faible. Avec la hausse de
+ attendue des taux par la Fed, la demande de revenu devrait la volatilité des obligations américaines, la dette émergente offre
+ augmenter et les obligations émergentes se distinguent par des une option d’allocation attractive aux investisseurs internationaux.
+ rendements plus élevés et plus attractifs.
+ 16
+ 14 12%
+ 12 10%
+ 10
+ 8 8%
+ 6 6%
+ 4
+ 2 4%
+ 0 2%
+ 2021 2022 2023 2024 2025
+ 0%
+ IG É.-U. HY É.-U. Govies ME en DL Govies ME en DF 10 ans US
+ 10 ans É.-U. ME DF (50 % IG) Volatilité sur 10 ans Volatilité sur 1 an
+ ME DF IG ME DL
+ ME DL HY
+
+ Source: Amundi Investment Institute, Bloomberg. Les indices des obligations Source: Amundi Investment Institute, Bloomberg, élaboration interne. Données
+ émergentes proviennent de JPMorgan ; les indices des obligations d’entreprise au 29 septembre 2025.
+ américaines proviennent de Bloomberg. Tous les indices sont libellés en USD.
+ Données au 14 octobre 2025.
+
+ Actions émergentes : une nouvelle dynamique soutenue par la faiblesse du dollar
+
+ La faiblesse du dollar offre un coup de fouet …soutenu par de bonnes perspectives de
+ structurel… croissance des BPA
+ Après 15 ans de sous-performance des actions émergentes par L’attrait des marchés émergents gagne du terrain, soutenu par
+ rapport à l’indice World, 2025 a marqué un retournement, soutenu l’amélioration des prévisions du consensus sur la croissance des
+ par le début d’une phase d’affaiblissement du dollar. Nous pensons bénéfices par action en 2026. Même si ces prévisions nous semblent
+ que cette tendance peut se poursuivre et qu’elle est également trop optimistes, nous pensons également que la croissance des BPA
+ soutenue par la prime de croissance des marchés émergents par restera favorable en 2026, en particulier au Brésil, en Inde et à
+ rapport aux marchés développés. Taïwan.
+
+ 4 130 16%
+ Les MD surperforment les ME
+ ME et l’USD se renforce
+ 3,5 120 15%
+ Les ME surperforment les
+ MD et le dollar s’affaiblit
+ 3 110 14%
+ 2,5 13%
+ 2 100
+ 90 12%
+ 1,5 11%
+ 1 80 MD
+ 10%
+ 0,5 70 9%
+
+ 8%
+ MSCI World vs MSCI EM (gauche) déc 24 mars 25 juin 25 sept 25
+
+ Indice du dollar, (droite)
+
+ Source: Amundi Investment Institute, Bloomberg. Données au 6 novembre Source: Amundi Investment Institute, prévisions du consensus IBES sur la
+ 2025. croissance du BPA des 12 prochains mois. Données au 6 novembre 2025.
+
+2929 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 29
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ MARCHÉS PRIVÉS
+ Contexte plus facile, sélectivité plus forte
+
+ La reprise de l’activité des entreprises – soutenue par la baisse des taux, la résilience de la croissance, la déréglementation,
+ l’augmentation des dépenses d’investissement en Allemagne et la consolidation du marché intermédiaire – devrait
+ stimuler les flux d’opérations et rouvrir les canaux de sortie. Après une période de digestion marquée par une baisse de
+ l'activité des transactions et des levées de fonds, les valorisations sont désormais plus compétitives, ce qui rend les
+ opportunités privées relativement attractives pour les investisseurs à la recherche de diversification hors des marchés
+ cotés, ces derniers étant concentrés et chers. Les risques extrêmes persistants – de la dette aux déficits en passant par la
+ géopolitique – renforcent le besoin de diversification, une dynamique qui devrait continuer à faire le jeu des actifs privés.
+ Nous privilégions la dette privée et les infrastructures – pour les mêmes raisons que celles évoquées précédemment :
+ protection contre l’inflation, thèmes convaincants tels que la sécurité énergétique, les relocalisations et l’IA, et forte
+ demande de capitaux privés, notamment en Europe. Nous voyons également des opportunités sélectives dans le
+ capital-investissement et l’immobilier.
+ La dette privée bénéficie d’un avantage de rendement favorable et de conditions de crédit favorables.
+ L’augmentation de l’activité de fusions-acquisitions devrait doper les volumes de prêts directs, tandis que les marchés du
+ crédit favorables soutiennent l’origination. Bien que les spreads de la dette privée se soient resserrés, ils restent plus
+ écartés que ceux de la dette publique, et un cycle d’assouplissement des taux devrait soulager le stress des emprunteurs
+ et limiter les défauts. L’attention se porte de plus en plus sur les liens potentiels entre les banques et les pools d’actifs
+ privés, mais le risque n’est pas encore systémique. À mesure que les actifs sous gestion augmentent, une plus grande
+ sélectivité est nécessaire, car les performances seront de plus en plus idiosyncrasiques et dépendantes des gérants. La
+ discipline de sélection, la rigueur dans le financement, la solidité des engagements, la qualité des promoteurs et
+ l'expertise opérationnelle seront les déterminants des résultats.
+
+ « L’assouplissement des conditions et la reprise de l’activité des entreprises rendent les actifs privés plus attractifs
+ que les marchés publics encombrés, mais l’augmentation des actifs sous gestion et des risques idiosyncrasiques
+ exige de la discipline ainsi que des capacités de souscription et d‘exécution de qualité.»
+
+ Le capital-investissement reprend peu à peu vigueur. Le ralentissement des levées de fonds et des opérations devrait
+ s’atténuer avec la réouverture des marchés primaires. Les stratégies de sortie deviendront plus fluides avec la stabilisation
+ des taux et les innovations sur le marché secondaire qui peuvent augmenter les distributions. La rentabilité résiliente des
+ entreprises et l’endettement modéré soutiennent la croissance externe, tandis que la baisse des coûts de financement
+ améliore l’économie des rachats. Les tendances en matière de relocalisation et de déréglementation sont favorables et les
+ investisseurs devraient s‘appuyer sur le capital-investissement pour accéder à des PME nationales de grande qualité. La
+ pression concurrentielle a permis de réinitialiser les valorisations et de créer des opportunités, mais la reprise sera
+ progressive : la persistance de réserves de liquidités et les sorties anticipées d'actifs de premier plan plafonneront les
+ performances. Parmi les secteurs de croissance pressentis figurent ceux du mid-market, la santé, l'IA et les infrastructures
+ de données, les énergies renouvelables et la cybersécurité.
+ Les marchés secondaires devraient devenir de plus en plus attractifs. La demande institutionnelle de liquidités et de
+ rééquilibrage de portefeuille, ainsi que les acheteurs plus sophistiqués, stimuleront les volumes, les États-Unis étant
+ susceptibles de rester dominants. Il faut s’attendre à une plus grande diversité de deals – opérations stapled,
+ restructurations GP-led, ventes single asset – et à une meilleure découverte des prix. Compte tenu du peu de liquidité
+ mondiale, les actifs « core » générateurs de revenus devraient se négocier à un niveau proche de leur juste valeur et faire
+ l’objet d’offres fortes, tandis que les segments tels que le capital-risque en phase avancée et l’immobilier à la traîne
+ offriront des points d’entrée du point de vue des valorisations. L’exécution sera décisive : les acheteurs disposant de bilans,
+ d’une expertise sectorielle et d’une structuration flexible sauront capter les meilleures opportunités secondaires.
+ Perspectives des marchés privés pour le S1 2026
+ Infrastructures Capital- Dette privée Immobilier
+ investissement
+ Perspectives 2026 + +/= + +/=
+
+ Protection contre l’inflation ++ = ++ +
+
+ Atout de diversification +++ + + ++
+
+ Source : Amundi Investment Institute, au 18 novembre 2025.
+
+30 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 30
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ HEDGE FUNDS
+ Équilibrer la génération d’alpha macro et micro
+
+ Les performances des hedge funds sont en hausse de 7,2 % en cumul annuel (HFRI FoHF à septembre). Les stratégies CTA et
+ obligataires ont sous-performé, tandis que les stratégies axées sur les marchés émergents, L/S Equity et Global Macro ont
+ surperformé. Il existe un paradoxe à la fois au niveau macroéconomique et au niveau des marchés : les risques à court
+ terme semblent faibles – les incertitudes se sont apaisées, la croissance et l’inflation sont plus proches de l’équilibre, les
+ fondamentaux du secteur privé sont sains et la volatilité économique est réduite – pourtant les menaces à moyen terme
+ restent importantes, notamment les valorisations chères, la hausse de la dette et des déficits, le risque d‘érosion monétaire du
+ dollar, les bouleversements technologiques et un paysage géopolitique plus multipolaire. Tant que ce clivage n'est pas résolu,
+ les investisseurs seront amenés à privilégier l'analyse microéconomique et à éviter les grands paris directionnels.
+ Contraintes temporaires mais potentiel haussier à moyen terme pour les styles Macro. Les gérants Macro ont capté les
+ mouvements concentrés sur l'or, le dollar et les courbes de taux au T1 et au T3, mais la volatilité économique modérée a limité
+ leur capacité à exploiter les dispersions régionales et relatives. De nombreux thèmes macroéconomiques sont arrivés à
+ maturité et les dislocations évidentes des valorisations sont plus rares. Néanmoins, les valorisations fondamentales restent
+ solides – un soutien essentiel pour les gérants – et nous pensons que de nouvelles opportunités se présenteront à mesure que
+ le paradoxe évoqué ci-dessus se résoudra et que les banques centrales discuteront de plus en plus des taux d’équilibre. Nous
+ continuons de privilégier les gérants exploitant les marchés émergents et restons positifs sur les stratégies Global Macro, qui
+ devraient déceler de nouvelles opportunités l’année prochaine. Nous restons neutres sur les stratégies CTA en tant
+ qu'allocation de base ; l'absence récente de tendances sur les actions, les obligations et le marché des changes était
+ inhabituelle et semble se normaliser.
+
+ Les sélectionneurs de titres bénéficient d’un environnement favorable. L’accent mis sur les facteurs micro, dans un
+ contexte de moindre différenciation entre actifs, accroît les opportunités de sélection. Un éventail plus large de thèmes permet
+ une meilleure diversification des portefeuilles. Les valorisations fondamentales solides sont un avantage évident pour les
+ stratégies fondamentales. Les opportunités sont plus équilibrées entre positions longues et courtes, et sont soutenues par des
+ catalyseurs spécifiques – progrès de l’IA et de la technologie, relocalisations et dépenses d’investissement élevées de l’UE dans
+ le domaine de la défense. Après le fort rebond des actions, nous privilégions les stratégies L/S Equity neutral, même si nous
+ anticipons une volatilité accrue à l’avenir. Le potentiel d’alpha du crédit L/S semble aujourd’hui limité, même si les stratégies
+ absolues offrent toujours un accès intéressant au portage HY moyennant un risque acceptable. Une plus grande sensibilité
+ aux conditions de crédit après les récents défauts devrait améliorer les perspectives d’alpha au fil du temps.
+ Les stratégies Event-driven connaissent un regain, notamment l’arbitrage de fusions et les situations spéciales, et, dans une
+ moindre mesure, les sociétés distressed et les restructurations. La reprise des fusions-acquisitions est soutenue par le cycle,
+ l’abondance des liquidités, la baisse des taux, la déréglementation et l’endettement modéré des entreprises, tandis que les
+ ruptures de deal restent rares. La variété des échéances des opérations offre des risques et des avantages complémentaires.
+ Les acquisitions aux États-Unis ont tendance à être plus classiques, avec des spreads de fusion plus serrés. En revanche,
+ l'Europe offre des opportunités attractives sur le marché intermédiaire, avec des valorisations moins chères, ce qui se traduit
+ par des spreads de fusion plus élevés. Sur le plan régional, nous privilégions donc l’arbitrage de fusions en Europe.
+
+Perspectives des hedge funds pour 2026
+ - - - = + + +
+
+ Stratégies directionnelles
+ Actions L/S
+ Market neutral
+
+ Arbitrage de fusions
+ Event-Driven
+ Situations particulières
+
+ Crédit L/S
+ Arbitrage Arbitrage obligataire émergent
+ d’obligations
+ Arbitrage obligataire macro
+
+ Global Macro Global macro
+
+ Stratégies CTA Stratégies CTA
+
+ Position à nov Direction du Positionnement
+ Source : Amundi Investment Institute, 18 novembre 2025. 2025 changement pour le S1 2026.
+
+3131 Marketing Document marketing réservé aux investisseurs professionnelsDocument marketing réservé aux investisseurs professionnelsmaterial for professional investors only
+
+## Page 31
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ AMUNDI INVESTMENT INSTITUTE INFOGRAPHIC
+ Convictions Lors de l‘Amundi Investment Seminar de
+ septembre 2025, nous avons interrogé nos
+ professionnels de l’investissement pour nous
+ d‘investissement aider à définir ce que sera 2026 en termes
+ d‘investissements.
+
+ Selon vous, quelle sera la Quel pays/région bénéficiera le plus
+ performance totale du S&P 500 de la « Grande diversification » ?
+ en 2026 ?
+
+ > 10 % 18 %
+
+ 5 à 10% 52 % 34 %
+ Inde
+
+ 0 à 5% 14 %
+ 28 %
+ Union européenne
+ -5 à 0% 4 %
+
+ -10 à -5% 6 %
+
+ < -10% 6 % 26 %
+ Chine
+
+ Quel sera le principal moteur Quel est le principal défi auquel
+ des performances positives en sera confronté le secteur des Big
+ 2026 dans un portefeuille Tech en 2026 ?
+ mondial équilibré ?
+ 40 % 30 % Dimensionnement
+ 22 % Surévaluation
+ 24 % 18 % Bulle IA
+ 17 %
+ 16 % Concurrence
+ régionale et nationale
+
+ Or Grandes Actions
+ valeurs émergentes
+ technologiques
+
+3232 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+32 Marketing material for professional investors only
+
+## Page 32
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ ALLOCATION D’ACTIFS D‘AMUNDI
+ Position au 17 novembre 2025
+ Orientation attendue au S1 2026
+ Perspectives pour les actions au S1 2026 Direction du changement pour le S1 2026
+
+ Opinions sur les actions
+
+ --- -- - -/= = =/+ + ++ +++
+
+ É.-U.  Globalement neutre, renforcement de cette équipondération pour aller
+ au-delà du risque de concentration
+ La Fed réduit ses taux alors qu’aucune récession n’est attendue. Cette orientation
+ pro-cyclique est favorable aux États-Unis et les Big Tech représentent désormais le
+ États-Unis segment à bêta élevé du MSCI World. Historiquement, il n'y a jamais eu
+ équipondéré  d'éclatement lorsque laFed réduisait les taux ; cependant, au-delà de la valorisation
+ élevée du S&P 500, la concentration constitue un risque évident. Nous privilégions
+ une approcheéquipondérée.
+
+ Passage à neutre au S1, avant de renforcer au S2 ; accent mis sur les
+ opportunités dans les petites et moyennes capitalisations dans le
+ Europe  contexte du plan budgétaire allemand et des baisses de taux de la BCE
+ Le retard pris par les bénéfices en Europe et l’appréciation de l’euro n’ont pas aidé.
+ Nous nous dirigeons vers une position neutre au S1 et attendons de nouveaux
+ points d’entrée au S2 pour bénéficier des thèmes à plus long terme.
+ Petites et Étant davantage tournées vers leur marché intérieur, les petites et moyennes
+ moyennes capitalisations sont moins affectées par les droits de douane américains et plus
+ capitalisations  exposées au plan allemand et à la reconstruction de l’Ukraine. Nous privilégions les
+ européennes petites et moyennes capitalisations européennes qui sont bon marché, présentent
+ des bénéfices favorables et devraient bénéficier des baisses de taux de la BCE.
+
+ Passage à neutre au S1, avant de renforcer au S2 lors des politiques pro-
+ croissance
+ Japon  L’élection d’un nouveau Premier ministre pro-croissance soutient les actions
+ japonaises. La détermination à sortir de la déflation et la persistance des réformes
+ des entreprises restent des arguments à moyen terme, mais nous réduirons cette
+ vision positive au S1 au profit des marchés émergents et des États-Unis.
+
+ Prudent, mais la rentabilité améliorera les perspectives
+ Pacifique Avec une croissance des bénéfices à la traîne et des PER nettement supérieurs à la
+ hors Japon  moyenne historique en termes absolus et relatifs, la région (notamment l’Australie,
+ qui représente 63 % de l’indice MSCI Pacific ex Japan) n’est pas attractive à l’heure
+ actuelle, mais sa rentabilité devrait s’améliorer.
+
+ Légèrement positif, avec sélectivité
+ Les actions émergentes bénéficient de la prime de croissance liée aux baisses de
+ taux des marchés émergents et de la Fed. Toutefois, la sélectivité est essentielle : le
+ ME  rééquilibrage géopolitique, les droits de douane américains et les divergences entre
+ les dynamiques intérieure et extérieure signifient que les résultats varieront ; des
+ poches d’opportunités notables existent en Amérique latine, en Europe de l’Est et
+ dans certains pays asiatiques.
+
+ Neutre pour le moment, mais avec une marge d’amélioration
+ Les actions chinoises dans leur ensemble pourraient bénéficier de la hausse de la
+ demande intérieure dans un contexte de faibles rendements obligataires, tandis
+ Chine  que les flux d’investisseurs étrangers pourraient rester atones en raison de
+ l’incertitude mondiale. Les capitaux devraient affluer de manière sélective dans les
+ secteurs présentant un net avantage comparatif, en particulier la chaîne
+ d’approvisionnement des véhicules électriques, les énergies renouvelables et le
+ secteur technologique.
+ Légèrement positif, pour bénéficier de la croissance à long terme
+ Les actions indiennes offrent un potentiel de croissance à long terme. Les
+ Inde  opportunités les plus intéressantes se trouvent dans les projets d’infrastructure qui
+ s’attaquent à de réels goulets d’étranglement, dans les secteurs manufacturiers liés
+ aux mutations des chaînes d’approvisionnement mondiales et dans les technologies
+ d’inclusion financière.
+
+ Source : Amundi Investment Institute, au 17 novembre 2025. MD : marchés développés. ME : marchés émergents.
+
+3333 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 33
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ ALLOCATION D’ACTIFS D‘AMUNDI
+ Position au 17 novembre 2025
+ Orientation attendue au S1 2026
+ Perspectives obligataires pour le S1 2026 Direction du changement pour le S1 2026
+
+ Opinions sur les obligations et les devises
+
+ --- -- - -/= = =/+ + ++ +++
+ Neutre, attendre un point d‘entrée plus élevé
+ États-Unis Les rendements à 2 ans intègrent des baisses de taux trop agressives et les
+ Duration  points morts semblent trop faibles. Nous tablons sur une hausse des
+ rendements comme point d’entrée ; toutefois, la baisse de la demande des
+ ménages pourrait justifier une baisse des rendements.
+ Le segment à court terme bénéficiera des baisses de taux de la BCE
+ UE   La faiblesse de la croissance pourrait amener la BCE à baisser ses taux à deux
+ Duration reprises encore d’ici mi-2026, ce que les marchés n’anticipent pas encore.
+ Cependant, seul le segment à court terme de la courbe en bénéficiera.
+ Royaume- Duration positive dans un contexte de baisse continue des taux
+ Uni  La faiblesse de la croissance et la poursuite de la baisse des taux d’intérêt
+ Duration devraient entraîner un resserrement des spreads britanniques par rapport au
+ reste du G7.
+
+ Biais court en duration
+ Japon   La politique budgétaire expansionniste et les nouveaux relèvements des taux
+ Duration de la Banque du Japon justifient le maintien de positions courtes pour le
+ moment et un retour vers la neutralité après la revalorisation des rendements.
+
+ Neutre alors que les spreads sont proches de leurs plus bas historiques
+ US  Les spreads sont proches de leurs plus bas historiques et la hausse des dépenses
+ Crédit IG d’investissement pourrait doper l’offre, mais les fondamentaux du crédit sont
+ solides.
+ US Globalement cher et vulnérable
+ Crédit HY  Les prix élevés rendent le marché vulnérable aux mauvaises nouvelles pour les
+ banques régionales et les entreprises dépendantes de la consommation.
+
+ EU Privilégier les titres investment grade assortis d’unesolidegestion du bilan
+ Crédit IG  La gestion du bilan reste défensive, tandis que l’offre est modérée. Les flux
+ vers la classe d’actifs devraient continuer à se resserrer.
+ EU Prudence vis-à-vis de la fragilité des entreprises
+ Crédit HY  La catégorie est plus vulnérable aux signes de faiblesse des entreprises que
+ celle des obligations investment grade européennes, et l’offre reste élevée.
+ La dette émergente en devise forte reste attractive
+ ME Nous restons constructifs sur les obligations émergentes en devise forte, qui offrent
+ Obligations  des rendements attractifs. Les facteurs techniques restent favorables. Compte tenu
+ HD du resserrement des spreads, nous sommes sélectifs et privilégions le haut
+ rendement.
+ Positif, avec sélectivité
+ ME Les rendements des marchés émergents en devise locale devraient encore baisser
+ Obligations  dans un scénario d’inflation maîtrisée et d’assouplissement de la politique
+ DL monétaire. Préférence pour les pays de la CEEMEA, envisager les pays d'Amérique
+ latine de manière marginale et rester sélectif sur les marchés asiatiques.
+ ME Positif avec un biais qualité
+ Corp.  Sur le segment du crédit d’entreprise, nous continuons d’explorer les
+ opportunités de portage élevé et d’équilibrer cela avec la qualité.
+ Position longue sur les devises émergentes à mesure que le dollar américain
+ ME s’affaiblit
+ Devises vs  Les devises émergentes pourraient s’apprécier dans un contexte de dépréciation du
+ USD dollar américain. Nous privilégions les devises à portage élevé en Amérique latine,
+ dans la région CEEMEA et en Asie et sommes prudents vis-à-vis des devises à faible
+ rendement d‘Asie.
+ USD vs Faiblesse persistante de l’USD en vue
+ G10   Nous continuons de nous positionner pour un dollar faible, bien que non linéaire,
+ en 2026.
+
+ Source : Amundi Investment Institute, au 17 novembre 2025. MD : marchés développés. ME : marchés émergents. Le tableau présente des opinions absolues sur
+ chaque classe d’actifs, exprimées sur une échelle de 9, où le signe « = » correspond à une position neutre. Ce document présente une évaluation du marché à un
+ instant donné et ne vise pas à prévoir des événements futurs ni à garantir des résultats futurs. Le contenu du document ne doit pas être considéré par le lecteur
+ comme un travail de recherche, un conseil en investissement ou une recommandation à l’égard d’un fonds ou d’un titre en particulier. Ces informations sont
+ communiquées à titre indicatif et pédagogique uniquement et sont susceptibles de changer. Ces informations ne reflètent pas le détail présent, passé ou futur, de
+ l’allocation d’actifs ou du portefeuille d’un produit Amundi. Le tableau des devises présente les opinions absolues du Comité d’investissement mondial sur les devises.
+ * Représente une vision consolidée de plusieurs devises émergentes.
+
+3434 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 34
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ PRÉVISIONS
+ Prévisions macroéconomiques
+
+ Prévisions macroéconomiques
+
+ Croissance du PIB réel, a/a, % Inflation (IPC), a/a, %
+ Moyennes annuelles, %
+ 2025 2026 2027 2025 2026 2027
+ Pays développés 1,6 1,4 1,6 2,6 2,4 2,1
+ États-Unis 1,9 1,9 2,0 2,9 3,0 2,2
+ Zone euro 1,3 0,9 1,3 2,1 1,7 1,8
+ Allemagne 0,3 0,8 1,1 2,1 1,9 1,9
+ France 0,6 0,6 1,1 1,1 1,8 1,9
+ Italie 0,5 0,6 0,6 1,9 1,7 1,8
+ Espagne 2,8 1,9 1,8 2,4 2,0 2,2
+ Royaume-Uni 1,2 0,9 1,3 3,3 2,7 2,2
+ Japon 1,3 0,8 0,7 3,1 2,1 2,0
+ Pays émergents 4,3 4,0 4,1 3,6 3,2 2,8
+ Chine 4,9 4,4 4,2 0,0 -0,2 -0,2
+ Inde 7,0 6,3 6,5 2,2 4,3 4,5
+ Indonésie 4,9 4,9 5,1 1,9 3,2 2,8
+ Brésil 2,2 1,7 2,1 5,0 3,9 3,6
+ Mexique 0,7 1,3 1,9 3,8 3,5 3,8
+ Russie 1,0 1,1 1,6 8,8 5,9 5,0
+ Afrique du Sud 1,2 1,4 1,8 3,3 3,3 3,0
+ Turquie 3,5 3,0 3,7 35,4 26,1 19,3
+ Monde 3,3 3,0 3,1 3,2 2,9 2,5
+ Source : Amundi Investment Institute, FMI, Bloomberg. Le tableau présente les projections de référence sur la base des informations
+ disponibles au 12 novembre 2025 et intègre les droits de douane implémentés à cette date.
+
+ Prévisions officielles des taux directeurs des BC, %
+
+ Amundi Consensus Amundi Consensus
+ 11 novembre 2025 T2 2026 T2 2026 T4 2026 T4 2026
+ États-Unis* 4,00 3,25 3,50 3,25 3,10
+
+ Zone euro** 2,00 1,50 1,95 1,50 2,00
+
+ Royaume-Uni 4,00 3,50 3,60 3,25 3,40
+
+ Japon 0,50 0,75 0,78 1,00 0,95
+
+ Chine*** 1,40 1,30 1,25 1,20 1,20
+
+ Inde*** 5,50 5,00 5,24 5,00 5,23
+
+ Brésil 15,00 13,25 13,38 11,25 12,11
+
+ Russie 16,50 13,00 13,14 11,00 10,70
+
+ Source : Amundi Investment Institute. Les prévisions sont au 12 novembre 2025. IPC : indice des prix à la consommation. * Haut de la fourchette
+ cible des fonds fédéraux. ** Taux de dépôt. ***Taux de pension livrée à 7 jours de la Banque populaire de Chine. Le T2 2026 c orrespond à fin juin
+ 2026 ; le T4 2026 correspond à fin décembre 2026. Les taux actuels et le consensus proviennent de Bloomberg.
+
+3535 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 35
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ PRÉVISIONS
+ Prévisions des marchés financiers
+
+ Rendements obligataires
+ Prévisions de rendement obligataire à deux ans, %
+ 17 novembre 2025 Amundi T2 26 Forward +6m Amundi T4 26 Forward +12m
+
+ États-Unis 3,6 3,5 3,6 3,5 3,6
+
+ Allemagne 2,0 1,6 2,1 1,6 2,2
+
+ Royaume-Uni 3,8 3,7 3,8 3,6 3,9
+
+ Japon 0,9 1,1 1,1 1,1 1,2
+
+ Prévisions de rendement des obligations à dix ans, %
+ 17 novembre 2025 Amundi T2 26 Forward +6m Amundi T4 26 Forward +12m
+
+ États-Unis 4,1 4,4 4,2 4,5 4,3
+
+ Allemagne 2,7 2,7 2,8 2,8 2,9
+
+ Royaume-Uni 4,5 4,4 4,7 4,4 4,8
+
+ Japon 1,7 1,9 1,9 1,8 2,0
+
+ Prévision actions au T4 2026
+ Niveaux de Pacific ex-
+ l’indice MSCI US Europe EMU UK Japan Japan World World AC
+ au
+ 11/11/2025 6 432 2 265 338 2 764 2 030 1 552 4 325 991
+ Fourchette 5 809 2 066 310 2 480 1 870 1 396 3 933 901
+ basse
+ Fourchette 7 340 2 570 390 2 990 2 260 1 760 4 890 1 130
+ haute
+ Taux de change
+ 14 novembre 2025 Amundi T2 26 Consensus T2 26 Amundi T4 26 Consensus T4 26
+
+ EUR/USD 1,16 1,22 1,20 1,19 1,21
+
+ EUR/JPY 179 176 173 165 171
+
+ EUR/GBP 0,88 0,90 0,88 0,88 0,87
+
+ EUR/CHF 0,93 0,98 0,95 0,99 0,95
+
+ EUR/NOK 11,65 11,30 11,40 10,99 11,25
+
+ EUR/SEK 10,96 10,88 10,80 10,45 10,70
+
+ USD/JPY 154 144 145 138 142
+
+ AUD/USD 0,65 0,69 0,68 0,70 0,68
+
+ NZD/USD 0,57 0,59 0,61 0,60 0,61
+
+ USD/CNY 7,10 7,0 7,0 6,8 6,95
+
+ Source: Amundi Investment Institute. Prévisions au 11 novembre 2025. Le T2 2026 correspond à fin juin 2026 ; le T4 2026 correspond à fin
+ décembre 2026.
+
+3636 Marketing material for professional investors onlyDocument marketing réservé aux investisseurs professionnels
+
+## Page 36
+
+Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ RÉDACTEURS
+
+ Directeurs de la publication Éditeurs
+
+ Monica Defend Vincent Philippe Claudia Bertino Laura Fiorot Swaha
+ Directrice d‘Amundi Mortier d’Orgeval Responsable Amundi Responsable Pattanaik
+ Investment Institute CIO Groupe CIO adjoint Groupe Investment Insights, Investment Responsable
+ Publishing et Client Insights & Client Publishing et Digital
+ Development, AII* Division, AII* Strategy, AII*
+
+ Rédacteurs
+
+ Valentine Ainouz Silvia Di Silvio Mahmood Pradhan
+ Responsable de la stratégie obligataire Stratégiste macro Cross Asset senior, AII* Responsable Macroéconomie, AII*
+ mondiale, AII*
+ Claire Huang Anna Rosenberg
+ Alessia Berardi Stratégiste macro ME senior, AII* Responsable Géopolitique, AII*
+ Responsable Stratégie macro, ME, AII*
+ Eric Mijot Guy Stear
+ Jean-Baptiste Berthon Responsable Stratégie actions monde, AII* Responsable Stratégie marchés développés,
+ Stratégiste Cross Asset senior, AII* AII*
+ Didier Borowski Paula Niall Ayush Tambi
+ Responsable de la recherche sur les Spécialiste Investment Insights et Client Stratégiste Actions senior, AII*
+ politiques macroéconomiques, AII* Divisions, AII*
+ Federico Cesarini Lorenzo Portelli Annalisa Usardi, CFA
+ Responsable Stratégie Cross Asset, AII* Économiste senior, Responsable de la
+ Responsable Stratégie devises des MD, AII* modélisation des économies avancées, AII*
+ Debora Delbò
+ Stratégiste macro ME senior, AII*
+
+ Conception et visualisation des données Éditeur adjoint
+
+ Chiara Benetti Cy Crosby Tremmel
+ Directrice artistique numérique et conceptrice de stratégies, AII* Spécialiste Investment Insights, AII*
+ Vincent Flasseur, CAIA
+ Responsable Graphisme et visualisation des données, AII*
+
+ Remerciements
+ Équipe de direction Nous remercions également Mickael Bellaiche, Pierre Brousse,
+ Pol Carulla, Ujjwal Dhingra, Patryk Drozdzik, Delphine Georges,
+ Dominique Carrel-Billiard Alice Girondeau, Lauren Stagnol.
+
+ Responsable Actifs réels et alternatifs
+ Amaury d’Orsay Bénéficiez en
+
+ Responsable Gestion obligataire permanence
+ Barry Glavin des dernières
+ Responsable Plateforme actions données
+ John O’Toole Consultez la version numérique
+ Responsable monde - CIO Solutions de ce document, scannez le
+ Francesco Sandrini code avec votre smartphone ou
+ CIO Italie et Responsable multi-asset monde CLIQUEZ ICI
+
+37 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only * Amundi Investment Institute
+
+## Page 37
+
+La confiance, ça se mérite
+
+ Amundi
+ Investment
+ Institute
+
+ Dans un monde de plus en plus complexe et en mutation, les investisseurs
+ ont un besoin essentiel de mieux comprendre leur environnement et
+ l’évolution des pratiques d’investissement pour définir leur allocation
+ d’actifs et construire leurs portefeuilles.
+
+ Cet environnement intègre les dimensions économique, financière, géopolitique, sociétale
+ et environnementale. Pour répondre à ce besoin, Amundi a créé l’Amundi Investment
+ Institute. Cette plateforme de recherche indépendante regroupe ses activités de recherche,
+ de stratégie de marché, d’analyse thématique et de conseil en allocation d’actifs sous une
+ même entité : l’Amundi Investment Institute. Son objectif est de produire et de diffuser des
+ travaux de recherche et de réflexion qui anticipent et innovent au profit des équipes de
+ gestion et des clients.
+
+ Consultez les dernières mises à jour:
+
+ Géopolitique
+ Économie et marchés
+ Stratégie de portefeuille
+ Analyses ESG
+ Hypothèses du marché des capitaux
+ Recherche Cross Asset
+
+ NOUVEAU : Novembre 2025 Actifs réels et alternatifs
+
+ Retrouvez-nous sur
+
+ Visitez notre centre de recherche
+ Visitez notre centre de recherche
+
+38 Document marketing réservé aux investisseurs professionnels
+
+## Page 38
+
+39 Document marketing réservé aux investisseurs professionnels
+
+## Page 39
+
+3 Perspectives d’Investissement 2026
+ Naviguer dans un cycle en constante évolution Amundi Investment Institute
+
+ La confiance, ça se mérite
+
+ DÉFINITIONS ET ABRÉVIATIONS
+ Abréviations des devises : USD – dollar américain, BRL – real brésilien, JPY – yen japonais, GBP – livre sterling britannique, EUR – euro,
+ CAD – dollar canadien, SEK – couronne suédoise, NOK – couronne norvégienne, CHF – franc suisse, NZD – dollar néo-zélandais, AUD –
+ dollar australien, CNY – renminbi chinois, CLP – peso chilien, MXN – peso mexicain, IDR – roupie indonésienne, RUB – rouble russe, ZAR
+ – rand sud-africain, TRY – livre turque, KRW – won sud-coréen, THB – baht thaïlandais, HUF – forint hongrois.
+
+ INFORMATIONS IMPORTANTES
+ Les informations de MSCI sont réservées à un usage interne, ne peuvent pas être reproduites ou diffusées sous une quelconque
+ forme et ne peuvent pas servir de base ou de composante de tout instrument ou produit financier ni d’indice. Les informations de
+ MSCI ne constituent en rien un conseil d’investissement ou une recommandation de prendre (ou s’abstenir de prendre) une
+ quelconque décision d’investissement et ne sauraient être considérées comme tels. Les données historiques et les analyses ne doivent
+ pas être considérées comme une indication ou une garantie concernant toute analyse, prévision ou prédiction de performance future.
+ Les informations de MSCI sont indiquées en l’état et l’utilisateur assume pleinement les risques liés à toute exploitation qui en serait
+ faite. MSCI, ses filiales et toute autre personne impliquée dans, ou liée à, la compilation ou l’élaboration de toute information de MSCI
+ (collectivement, les « Parties MSCI ») déclinent expressément toute garantie (y compris sans limite toute garantie quant à l’origine,
+ l’exactitude, l’exhaustivité, l’actualisation, la conformité, l’adéquation ou la valeur commerciale à toute fin donnée) relative à ces
+ informations. Sans limiter ce qui précède, aucune Partie MSCI ne saurait en aucun cas être tenue responsable de dommages directs,
+ indirects, spéciaux, accessoires, punitifs, consécutifs (y compris, sans s’y limiter, la perte de bénéfices) ou de tout autre dommage
+ (www.mscibarra.com). Les Global Industry Classification Standard (GICS) SM ont été conçus par et sont la propriété exclusive et un
+ service de Standard & Poor’s et MSCI. Ni Standard & Poor’s, ni MSCI ni toute autre partie impliquée dans la conception ou la
+ compilation d’une quelconque classification GICS n’effectuent de déclaration ni n’apportent de garantie, expresse ou implicite, à
+ l’égard de ladite norme ou classification (ou des résultats découlant de son utilisation), et toutes les parties susmentionnées réfutent
+ expressément, par la présente, toute garantie d’originalité, d’exactitude, d’exhaustivité, de valeur marchande ou d’adéquation à une
+ finalité particulière liée à ladite norme ou classification. Sans préjudice de ce qui précède, Standard & Poor’s, MSCI, leurs sociétés
+ affiliées ou toute autre tierce partie impliquée dans la conception ou la compilation d’une quelconque classification GICS ne sauraient
+ en aucun cas être tenus pour responsables en cas de dommage direct ou indirect et dommages-intérêts exemplaires, spéciaux, ou de
+ toute autre nature (y compris manque à gagner), même en étant informés de la possibilité de tels dommages.
+
+ Ce document est uniquement destiné à des fins d’information. Il ne constitue ni une offre de vente, ni une sollicitation d’offre d’achat,
+ ni une recommandation d’un quelconque titre ou de tout autre produit ou service. Les titres, produits ou services cités en référence
+ peuvent ne pas être enregistrés à la vente auprès de l’autorité compétente de votre juridiction et sont susceptibles de ne pas être
+ agréés ou supervisés par une autorité gouvernementale ou similaire de votre juridiction. Les informations contenues dans le présent
+ document sont réservées à votre usage interne, ne peuvent pas être reproduites ou rediffusées sous une quelconque forme et ne
+ peuvent pas servir de base ou de composante d’un quelconque instrument ou produit financier ou indice. En outre, aucun élément du
+ présent document n’est destiné à fournir un conseil fiscal, juridique ou d’investissement. Sauf indication contraire, toutes les
+ informations figurant dans le présent document proviennent d’Amundi Asset Management S.A.S. et datent du 18 novembre 2025. La
+ diversification ne saurait garantir un gain ou protéger contre une perte. Ce document est fourni « en l’état » et l’utilisateur de ces
+ informations assume l’intégralité des risques liés à toute utilisation qui pourrait en être faite. Les données historiques et les analyses
+ ne doivent pas être considérées comme une indication ou une garantie concernant toute analyse, prévision ou prédiction de
+ performance future. Les opinions exprimées au sujet des tendances du marché et de l’économie sont celles de l’auteur et pas
+ nécessairement d’Amundi Asset Management S.A.S. Elles sont susceptibles d’évoluer à tout moment en fonction des conditions de
+ marché et autres, et aucune assurance ne peut être donnée quant au fait que la performance des pays, marchés ou secteurs sera telle
+ qu’anticipée. Ces opinions ne doivent pas être utilisées comme un conseil d’investissement, une recommandation à l’égard d’un titre
+ ou une indication de transaction pour un quelconque produit d’Amundi. Investir comporte des risques, notamment de marché,
+ politiques, de liquidité et de change. De plus, Amundi ne saurait en aucun cas être tenue responsable de tout dommage direct,
+ indirect, spécial, accessoire, punitif ou consécutif (y compris, à titre non exhaustif, en cas de manque à gagner) ou de tout autre
+ dommage résultant de son utilisation. Date de première utilisation : 19 novembre2025.
+ Document publié par Amundi Asset Management, société par actions simplifiée (SAS) au capital de 1 143 615 555 € – Société de
+ gestion de portefeuille régie par l’AMF sous le numéro GP04000036 – Siège social : 91-93 boulevard Pasteur, 75015 Paris - France - 437
+ 574 452 RCS Paris - www.amundi.com.
+
+ Doc ID : 5000444
+
+ Photos avec l'aimable autorisation de : Istockphoto @ GettyImages : Laurent Renault/EyeEm, Laurent Renault/EyeEm, Laurent
+ Renault/EyeEm, Mlenny- Tobias Ackeborn, Chalffy, Gang Zhou, Rudy Sulgan, Rudy Sulgan, Lonely Planet, Nasmah Muntaha.
+
+ Icônes de TheNounProject
+
+ 40 Marketing Document marketing réservé aux investisseurs professionnelsmaterial for professional investors only

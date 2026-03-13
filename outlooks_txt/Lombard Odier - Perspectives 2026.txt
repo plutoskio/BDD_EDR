@@ -1,0 +1,1981 @@
+Source file: Lombard Odier - Perspectives 2026.pdf
+Source path: outlooks/Lombard Odier - Perspectives 2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:05.884638+00:00
+Page count: 44
+
+---
+
+## Page 1
+
+Avant-propos Perspectives Classes d’actifs :
+ macroéconomiques Actions · Obligations ·
+ régionales : Monnaies et matières
+ Etats-Unis · Europe · premières · Hedge funds ·
+ Suisse · Royaume -Uni · Actifs non cotés
+ Japon · Chine · Marchés
+ émergents hors Chine
+p. 2 p.7 p . 25
+
+Editorial Investissement durable :
+macroéconomique : Les capitaux privés
+Des dépenses reprennent le flambeau
+spectaculaires, pour une
+croissance qui le sera
+moins
+p .3 p.33
+
+ Essor attendu dans les pays du
+ Golfe, l’Europe devrait s’en
+ sor tir tant bien que mal
+ Moteurs de croissance en Asie
+ Stratégie d’investissement :
+ Allocation d’actifs : Les marchés émergents et l’or
+ sur le devant de la scène
+ p . 1 7 -2 3Principaux risques
+
+## Page 2
+
+Avant-propos
+
+ Michael Strobaek, Global Chief Investment Officer
+
+Un nouvel ordre mondial a commencé à se dessiner en 2025, mais les marchés
+ont su surmonter les phases de volatilité durant l’année pour atteindre de
+nouveaux records, soutenus par les solides bénéfices des entreprises et par les
+investissements consacrés à l’IA. Après deux années de performance
+exceptionnelle, 2026 pourrait être celle de certains rappels à la réalité.
+Premièrement, s’agissant de l’économie américaine, nous devrons nous
+assurer que le marché de l’emploi reste stable et que l’inflation est maîtrisée.
+Les importateurs et les consommateurs sentiront pleinement les effets des
+droits de douane l’an prochain. Même si leur application devait se voir annulée
+par la Cour suprême, ces droits seront maintenus par l’intermédiaire de
+réglementations différentes et continueront donc à influencer le commerce
+mondial. Le nouveau président de la Réserve fédérale fera l’objet d’une
+surveillance étroite. Nous ne pensons pas que la stratégie monétaire
+américaine sera prise en otage par la politique mais, si tel était le cas, les
+répercussions sur les marchés du monde entier seraient profondes. En
+novembre, les enjeux seront par ailleurs élevés lors des élections de mi-mandat
+(habituellement difficiles pour le pouvoir en place) qui détermineront la
+composition du Congrès, le Parti républicain risquant de perdre sa majorité
+législative.
+En Europe, face aux incertitudes politiques et budgétaires qui règnent dans
+plusieurs pays, la capacité de l’Allemagne à mettre en œuvre ses projets
+d’investissement dans les infrastructures, la technologie et la défense sera
+déterminante. La Chine, de son côté, a défini des mesures quinquennales
+visant à stimuler la demande intérieure et entend profiter de sa trêve
+commerciale avec les Etats-Unis pour renforcer son indépendance
+technologique.
+Parallèlement, l’IA transforme les flux de capitaux. Les résultats annoncés par
+les entreprises apporteront une plus grande visibilité sur les risques et le retour
+sur investissement associés à l’IA. Les investisseurs font déjà preuve d’un plus
+grand discernement quant à l’ampleur des dépenses et sont à l’affût de signes
+de monétisation concrets. Cependant, la concentration du marché et le niveau
+tendu des valorisations ne laissent que peu de place à la complaisance.
+Les turbulences de 2025 ont prouvé que rester investi porte ses fruits si les
+fondamentaux demeurent solides. Nous abordons l’année 2026 avec un
+positionnement de portefeuille discipliné, ancré dans les perspectives
+stratégiques et affichant une diversification robuste entre régions et classes
+d’actifs. Sur les marchés actions, nous anticipons un élargissement des
+performances, les prévisions de croissance bénéficiaire au niveau mondial
+augurant de gains significatifs, notamment sur les marchés émergents. La
+baisse des taux d’intérêt américains, l’affaiblissement du billet vert, ainsi que la
+trêve commerciale entre les Etats-Unis et la Chine sont autant de vents
+porteurs. Sur les marchés obligataires, la dette émergente offre la meilleure
+valeur. Nous tablons sur une nouvelle progression de l’or ; notre allocation
+dédiée devrait continuer à apporter de la diversification. Pour surmonter la
+volatilité et renforcer leur résilience, les portefeuilles doivent également
+s’exposer aux actifs non cotés et aux hedge funds, lorsque cela est pertinent.
+Si l’économie mondiale continue à bien assimiler l’incertitude politique, le
+cycle positif actuel, bien que peu spectaculaire, pourra se prolonger. Toutefois,
+les marchés restent exposés à de nombreux facteurs qui pourraient les faire
+dérailler. En matière de performance, la barre est aujourd’hui placée plus haut
+et nous restons vigilants.
+
+## Page 3
+
+Editorial macroéconomique
+
+Des dépenses spectacu laires, pou r u ne croissance
+qu i le sera moins
+L’incer titu de politiqu e et les droits de douane ont un coût
+Samy Chaar, Chef économiste, CIO Suisse
+
+ L’économie mondiale sera-t- elle aussi L’économie américaine fait exception,
+ résiliente en 2026 qu’elle l’a été en 2025 ? mais pour de mauvaises raisons
+ La hausse significative des droits de Nous prévoyons une croissance inférieure
+ douane américains sur les importations n’a à la tendance et au potentiel aux Etats-
+ Nous tablons sur une croissance pas enrayé la croissance mondiale durant Unis en 2026. Les investissements des
+ l’année écoulée, mais la complaisance n’est entreprises devraient se maintenir à des
+ mondiale à nouveau modérée pas de mise pour la suite. Les droits de niveaux élevés, notamment dans le
+ en2026. douane auront des conséquences tout domaine de l’intelligence artificielle (IA),
+ aussi marquées en 2026, freinant le tout comme les dépenses publiques. La
+Les droits de douane freineront le commerce mondial de marchandises, baisse des taux directeurs de la Réserve
+ commerce mondial et éroderont érodant les bénéfices des entreprises du fédérale américaine (Fed), à partir de
+ monde entier et renchérissant les coûts niveaux restrictifs, devrait stimuler
+ les bénéfices des entreprises. pour les consommateurs américains (voir l’activité manufacturière et pourrait enfin
+L’incer titude politique, la fragilité graphique1, page4). Outre ces effets des permettre au marché immobilier en
+ géopolitique, ainsi que les taxes à l’importation, l’incertitude difficulté d’amorcer une reprise.
+ politique, la fragilité géopolitique et les
+ tensions sino -américaines tensions entre les Etats-Unis et la Chine Cependant, les « effets de richesse » dont
+ devraient persister. devraient persister. les consommateurs ont bénéficié en 2025
+ Néanmoins, un filet de sécurité a été mis grâce à la progression des marchés
+ Cela étant , la politique en place. La politique budgétaire reste boursiers sont peu susceptibles de se
+ budgétaire reste expansionniste expansionniste dans de nombreuses reproduire. Un chômage en hausse et une
+ grandes économies, aux Etats-Unis et au inflation supérieure à l’objectif devraient
+ dans de nombreuses grandes Japon comme dans la plupart des pays progressivement peser sur les revenus
+ économies et la politique d’Europe (voir graphique2, page4). La réels, freinant ainsi les dépenses de
+ monétaire appor tera un cer tain Chine poursuit ses mesures de relance au consommation, principal moteur de la
+ compte-gouttes. La politique monétaire croissance.
+ soutien. Les perspectives des devrait apporter du soutien, avec une Si le coût des droits de douane est
+ économies émergentes baisse des taux d’intérêt aux Etats-Unis et actuellement supporté à la fois par les
+ sesontaméliorées. au Royaume-Uni, ainsi que le maintien des entreprises et les consommateurs
+ taux à des niveaux neutres dans la zone américains (et, dans une moindre mesure,
+ euro et en Suisse (voir graphique3, par les exportateurs étrangers), nous
+ page4). Les perspectives des économies pensons que ce sont les consommateurs
+ émergentes se sont par ailleurs améliorées, qui en absorberont la plus grande partie
+ avec une diminution des déséquilibres en2026. Même si la Cour suprême devait
+ structurels, une consolidation des réserves invalider certains des tarifs américains
+ de change, ainsi qu’un renforcement des actuellement en vigueur, nous pensons
+ institutions et des entreprises. Dans ces qu’ils seraient rapidement réintroduits au
+ conditions, nous estimons que la moyen de législations différentes.
+ croissance mondiale se maintiendra à un L’économie américaine fait encore
+ niveau modéré en 2026, sans voir de exception, mais pour des raisons bien
+ grandes économies basculer en différentes de celles de l’ère post-Covid.
+ contraction. En 2026, la hausse des coûts liés aux
+
+ Note : Sauf indication contraire, les données mentionnées dans cette publication sont basées
+ sur les sources suivantes : Datastream, Bloomberg, calculs Lombard Odier.
+
+ Page 3/44
+
+## Page 4
+
+1. Les droits de douane devraient se maintenir à des niveaux inédits depuis la Seconde Guerre mondiale
+ Taux effectif des droits de douane américains, en %
+
+ 35
+
+ 30
+
+ 25
+
+ 20
+ Scénario de base (15% sur le reste du
+ 15 monde + 20% sur la Chine + spécifiques
+ à certains secteurs + transbordements et
+ 10 substitutions)
+
+ 5
+
+ 0
+ 1900 1920 1940 1960 1980 2000 2020
+ Sources : Bloomberg, historique macroéconomique du National Bureau of Economic Research (NBER), Lombard Odier,
+ données au 7 novembre 2025
+
+2. Pas de consolidation budgétaire à venir 3. Les taux directeurs se situent à des niveaux neutres ou en
+ Soldes budgétaires, en % du PIB deçà
+ Taux directeurs historiques et projetés (pointillés), en %
+
+ 5 6
+ Banque d’Angleterre (BoE)
+ 5
+ 0
+ 4
+ -5 Réserve fédérale
+ 3 américaine (Fed)
+
+ -10 2
+
+ Etats-Unis Zone euro 1
+ -15 Royaume-Uni France Banque nationale
+ Allemagne Italie 0 suisse (BNS) Banque centrale
+ -20 Japon -1 européenne (BCE)
+
+ 03.2002 01.2006 11.2009 09.2013 07.2017 05.202103.2025 2001 2003 2005 2008 2010 2013 2015 2017 2020 2022 2025
+ Sources : Bloomberg, Lombard Odier, Sources : Bloomberg, Lombard Odier,
+ données au 7 novembre 2025 données au 7 novembre 2025
+
+4. Poursuite de la croissance mondiale modérée en 2026
+ PIB réel depuis le niveau d’avant la pandémie (rebasé à 100 au T1 2019)
+
+ 120
+ 115
+ 110
+ 105
+ 100
+ 95
+ 90 Etats-Unis Suisse
+ 85 Espagne Italie
+ 80 France Royaume-Uni
+ Allemagne
+ 75
+ 2019 2020 2021 2022 2023 2024 2025
+
+ Sources : Bloomberg, Lombard Odier, données au 7 novembre 2025
+
+Page 4/44
+
+## Page 5
+
+droits de douane, les pressions politiques sur les institutions, le l’emploi américain, la politisation des institutions américaines,
+creusement des déficits budgétaire et commercial, ainsi que les un renversement de l’engouement pour l’IA, les risques
+inégalités de richesse pourraient avoir des conséquences plus budgétaires, et les tensions géopolitiques qui pourraient se
+prononcées. répercuter sur les marchés de l’énergie et perturber les chaînes
+ d’approvisionnement.
+Une plus grande stabilité économique en Europe et en Nous tablons sur une poursuite du repli progressif du marché de
+Chine l’emploi américain en 2026, des politiques migratoires
+Contrairement aux Etats-Unis où le contexte politique est restrictives compensant partiellement la diminution du nombre
+volatil, les perspectives se stabilisent en Europe. Nous pensons de créations de postes. Les bénéfices des entreprises du
+que l’économie de la zone euro enregistrera une croissance S &P500 semblent solides, mais la rentabilité des petites et
+proche de son potentiel de 1% en 2026, avec des taux d’intérêt moyennes sociétés, les principaux employeurs du pays,
+inchangés et une inflation globalement alignée sur l’objectif tout s’amoindrit. Toute hausse plus marquée que prévu du chômage
+au long de l’année. et des taux de défaillance pourrait entraver la consommation,
+Les effets positifs de l’assouplissement monétaire passé, une l’investissement et la croissance. En définitive, malgré la
+accélération de la croissance du crédit et la relance budgétaire pluralité des économies productrices dans le monde, l’économie
+portée par l’Allemagne devraient atténuer les préoccupations mondiale reste dépendante des consommateurs américains,
+relatives aux droits de douane américains. A terme, cela pourrait principale source de la demande (voir graphique5).
+doper la confiance, incitant ainsi les consommateurs européens, Dans le même temps, la solidité des institutions américaines se
+jusqu’ici prudents, à dépenser une partie de leur excédent détériore, en raison non seulement des coupes imposées aux
+d’épargne, ce qui soutiendrait la croissance. agences fédérales, mais aussi des attaques contre la Fed. Celle- ci
+En Chine, la croissance s’est également stabilisée grâce à des maintient pour l’instant une politique conforme à son mandat,
+mesures de soutien régulières, qui devraient être renouvelées mais des craintes quant à son indépendance pourraient entraîner
+en2026. Les droits de douane et la volonté d’éliminer les une remontée des rendements obligataires de long terme et
+capacités improductives au sein de l’économie continueront alimenter les inquiétudes budgétaires. Si la politique monétaire
+probablement à peser sur les investissements. Parallèlement, était affectée, les perspectives mondiales pourraient s’en trouver
+nous pensons que les autorités peineront toujours à stimuler la fortement menacées. Le choix de la personne qui succédera à
+demande intérieure en l’absence de mesures de relance plus Jerome Powell, une fois son mandat de présidence achevé en
+musclées, notamment un soutien direct aux consommateurs. mai 2026, sera déterminant.
+Ces considérations nous amènent à prévoir un ralentissement Les perspectives budgétaires des Etats-Unis dépendent
+progressif de la croissance chinoise, qui devrait passer à un peu également de la crédibilité du gouvernement. Alors que les
+plus de 4% en 2026. La stabilité obtenue grâce aux politiques de dépenses publiques augmentent dans l’ensemble des pays
+la Chine devrait ancrer les autres économies de la région, même développés, la viabilité budgétaire repose sur de nombreux
+si cela ne suffit pas à améliorer notre projection de croissance facteurs, qu’il s’agisse de l’utilisation de la dette et de ses
+mondiale modérée (voir graphique4, page4). conséquences sur la croissance, de son coût ou encore de la
+ capacité du pays à la financer au niveau national. Malgré des
+Quels risques pour nos perspectives ? dépenses publiques considérables dans de nombreuses
+ économies développées, le coût de la dette demeure
+Nous surveillons un large éventail de risques inhérents à notre relativement faible, tandis que l’épargne du secteur privé
+scénario de base, à savoir une croissance mondiale modeste contribue à compenser les déséquilibres du secteur public (voir
+en2026. Citons notamment l’affaiblissement du marché de graphique6, page6).
+
+5. Consommateurs américains : la principale source de demande pour les producteurs mondiaux
+ Consommation des ménages par habitant (USD 2023)
+
+50 000
+45 000
+40 000
+35 000
+30 000
+25 000
+20 000
+15 000
+10 000
+ 5 000
+ 0
+ Etats-Unis Zone euro Chine Inde
+
+ Sources : Bloomberg, Lombard Odier, données au 7 novembre 2025
+
+ Page 5/44
+
+## Page 6
+
+Pour autant, au sein des grandes économies, les Etats-Unis ont Bien sûr, nous sommes également conscients des risques
+enregistré une forte détérioration de leur viabilité budgétaire à haussiers inhérents à notre scénario, notamment la possibilité
+long terme depuis la pandémie de Covid-19. Plusieurs facteurs pour l’IA d’engendrer des gains de productivité significatifs et
+sont selon nous susceptibles de mettre à l’épreuve la confiance durables, dont les effets se feraient progressivement sentir dans
+du marché obligataire. Citons par exemple l’intensification des l’économie. Nous ne prévoyons pas de révolution imminente en
+craintes face à la politisation des institutions, la nomination au matière de productivité, mais nos modèles actuels suggèrent
+gouvernement américain de responsables peu crédibles aux que, sur une période de dix ans, la progression due à l’IA
+yeux du marché, ou encore une potentielle contestation des compensera largement l’affaiblissement progressif des
+résultats des élections de mi-mandat de novembre 2026. tendances démographiques au sein de l’économie américaine.
+ De notre point de vue, cela pourrait porter la croissance
+L’impor tance de l’IA potentielle du PIB américain à près de 2,4% d’ici à la fin de la
+Tout renversement de l’engouement pour l’IA constituerait décennie, contre un peu moins de 2% actuellement.
+également un coup dur pour l’économie américaine. Dans ce Pour de plus amples informations sur les risques inhérents à nos
+domaine, nous estimons que les risques sont inférieurs à ceux perspectives, nous vous invitons à consulter le chapitre intitulé
+observés au plus fort de la bulle Internet de 2000, car la plupart « Principaux risques ».
+des entreprises concernées génèrent des bénéfices
+impressionnants. Néanmoins, en l’absence d’investissements
+technologiques, l’économie américaine aurait à peine progressé
+au second semestre 2025 et les investissements des entreprises
+auraient chuté. Outre ses conséquences sur l’investissement, un
+ralentissement du secteur technologique nuirait également aux
+dépenses de consommation en raison de la baisse des cours
+boursiers, sachant que les portefeuilles d’actions des ménages
+américains représentent désormais environ 250% de leur
+revenu disponible.
+
+6. Le secteur privé se por te bien mieux qu’il y a 15 ans
+ Balances courantes, en % du PIB
+
+ 16 13.2
+ Plus mauvaise balance courante 2006-2011
+ 12 Dernière donnée disponible
+ 8 5.0 6.2 4.9 3.3
+ 3.7 2.4
+ 4 1.5 2.71.10.2 0.9 1.8
+
+ 0
+ -4 -0.5 -1.4
+ -3.4 -1.8-4.6 -2.9
+ -8 -6.9 -5.9 -4.2
+
+ -12
+ -11.8 -9.9
+ -16
+ Portugal Espagne Irlande Italie France Allemagne Zone euro Suisse Etats-Unis Royaume- Japon Chine
+ Uni
+ Sources : Bloomberg, Lombard Odier, données au 7 novembre 2025
+
+Page 6/44
+
+## Page 7
+
+Persp ectives
+macro économiqu es
+régionales
+
+Etats-Unis
+
+Europ e
+
+Suisse
+
+Royaume-Uni
+
+Japon
+
+Chine
+
+Marchés émergents hors Chine
+
+## Page 8
+
+Etats -Unis
+La page des droits de douane n’est pas encore tournée
+Samy Chaar, Chef économiste, CIO Suisse et Filippo Pallotti, Stratège macro
+
+ peu probable que la forte progression enregistrée en 2025 par le
+ Points clés marché actions se reproduise et la hausse du chômage
+ · Nous anticipons un nouvel affaiblissement du marché de commencera à freiner la consommation des ménages moins aisés.
+ l’emploi et une croissance inférieure à son potentiel, en Ces derniers souffrent déjà, et dans une plus grande mesure, de la
+ raison des effets croissants des droits de douane sur les hausse de l’inflation et commenceront à subir des coupes sociales
+ entreprises et les consommateurs en 2026, ce qui accentuera les inégalités de richesse. Et quand
+ · L’incertitude politique persistera et pourrait bien même l’assouplissement de la politique monétaire en 2025
+ s’accompagner de perturbations temporaires dans la pourrait contribuer à stabiliser le marché du logement en 2026 et
+ composition des taxes douanières permettre une certaine croissance du crédit, un redressement total
+ · De notre point de vue, l’inflation restera supérieure à son semble peu probable, car les taux resteront élevés au regard des dix
+ niveau cible en 2026, sur fond de baisse progressive des dernières années.
+ taux directeurs jusqu’à 3%. En matière de droits de douane, même si la Cour suprême devait
+ en invalider certains, nous pensons qu’ils seraient rapidement
+Les droits de douane et l’incertitude politique devraient continuer réintroduits par des moyens alternatifs. Les tarifs devraient
+à influencer les prix et l’activité économique aux Etats-Unis provoquer une nouvelle augmentation des prix des biens en 2026.
+en2026. Ils pèsent déjà sur les bénéfices des entreprises L’incidence de ce renchérissement devrait être quelque peu
+américaines (voir graphique7), malgré les solides résultats publiés atténuée par un ralentissement de la hausse des prix dans les
+par les constituants de l’indice S &P 500. Les petites et moyennes secteurs du logement et des services (voir graphique8).
+entreprises sont plus sensibles aux tarifs douaniers que les grandes, Cependant, nous pensons que l’indice des dépenses de
+car leurs liquidités, leur levier et leur capacité à augmenter les consommation personnelle (« Personal Consumption
+importations avant l’entrée en vigueur des droits de douane – ou Expenditure » – PCE), mesure d’inflation privilégiée par la Fed,
+réduire d’autres coûts – sont moindres. terminera l’année 2026 au- dessus de l’objectif, après avoir atteint
+ un pic d’un peu plus de 3% en début d’année.
+Dans un climat d’affaires plus morose, nous prévoyons un nouvel Avec une inflation supérieure à l’objectif et un marché de l’emploi
+affaiblissement du marché de l’emploi et un pic du taux de plus faible, nous tablons sur le maintien des taux directeurs à des
+chômage à un peu plus de 4,5%. La tendance consistant à « peu niveaux neutres pendant la majeure partie du premier semestre. A
+embaucher et peu licencier » devrait se poursuivre, mais avec une terme, ils évolueront probablement vers un niveau plus favorable à
+incidence globale limitée sur le taux de chômage, les restrictions à la croissance, lorsque l’effet inflationniste des droits de douane
+l’immigration continuant à freiner la croissance de la s’atténuera, que les risques liés à l’affaiblissement du marché de
+main- d’œuvre. l’emploi augmenteront et que la nouvelle présidence de la Fed sera
+Depuis début 2025, la consommation a également été soutenue confirmée au mois de mai. Celle- ci sera probablement plus
+par la création de richesse. La hausse des cours boursiers favorise favorable à l’assouplissement monétaire prôné par le
+les consommateurs plus âgés et plus aisés, qui génèrent désormais gouvernement Trump et nous tablons sur des taux directeurs
+la majeure partie de la croissance des dépenses. Cela étant, il est d’environ 3% fin 2026.
+
+7. La réalité des entreprises américaines est bien différente 8. Le recul de l’inflation dans d’autres secteurs compense en
+ de celle des indices boursiers par tie le renchérissement des biens
+ Bénéfice après impôts, en %, an/an* Indices d'inflation PCE : logement, services et biens sous-jacents*
+
+80% * en %,
+70% * Le bénéfice après impôts inclut 12 ** Les services sous-jacents (« supercore »)
+ des ajustements pour réévaluation an/an excluent les catégories volatiles de
+60% des stocks et pour consommation 10 l’alimentation, de l’énergie et du logement
+ 50% de capital 8
+
+40%
+ 30% 6 Logement
+
+20% 4
+ 10% 2 Services sous-jacents**
+
+ 0%
+-10% 0 Biens sous-jacents
+
+-20% -2
+ 03.2010 03.2013 03.2016 03.2019 03.2022 03.20252021 2022 2023 2024 2025
+Sources : Bloomberg, Lombard Odier, données au 7 novembre 2025 Sources : Bloomberg, Lombard Odier, données au 7 novembre 2025
+
+Page 8/44
+
+## Page 9
+
+Eu ro p e
+Stabilité, grâce notamment à l’Allemagne
+Samy Chaar, Chef économiste, CIO Suisse, Bill Papadakis, Stratège macro senior, and Filippo Pallotti, Stratège macro
+
+ et la robotique. Partant, les effets de la hausse des dépenses
+ Points clés publiques sur les autres activités du secteur privé devraient
+ · Nous tablons sur une croissance modérée dépassant s’avérer moins négatifs que d’ordinaire. Des répercussions
+ légèrement 1% dans la zone euro, soutenue par positives sur la productivité et dans d’autres secteurs sont
+ l’accroissement des dépenses de défense en Allemagne et également possibles.
+ par l’effet différé de la baisse des taux d’intérêt Les pays d’Europe du Sud devraient renouveler leur
+ · Les pays d’Europe du Sud devraient renouveler leur surperformance en 2026, soutenus par l’expansion budgétaire.
+ surperformance, bénéficiant des fonds décaissés par les L’accélération des décaissements de fonds de la Facilité pour la
+ mécanismes de l’UE reprise et la résilience (FRR) de l’UE, créée en réponse à la
+ · Nous pensons que l’inflation sera maîtrisée et que les taux pandémie, est elle aussi très favorable. Ces décaissements
+ directeurs seront maintenus à 2% cette année. devraient marquer le pas d’ici fin 2026, mais les principaux
+ bénéficiaires disposent toujours des fonds considérables à
+Une plus grande stabilité devrait caractériser les perspectives absorber (voir graphique9). Nous pensons que la FRR sera
+dela zone euro pour 2026. Sous l’effet combiné de prolongée, de sorte que ses répercussions positives sur la
+l’assouplissement monétaire passé, des mesures de relance croissance et les indicateurs budgétaires s’étaleront sur
+budgétaire, de l’accélération de la croissance du crédit et de la plusieurs années. En Espagne et en Italie, les fonds de la FRR
+bonne santé des bilans du secteur privé, le bloc devrait afficher devraient contribuer à compenser un léger resserrement des
+une croissance plus ou moins en ligne avec son potentiel. Nous dépenses nationales. Nous tablons sur une posture budgétaire
+pensons que l’économie de la zone euro progressera d’un peu neutre en France, mais une croissance décevante pourrait
+plus de 1% en 2026. creuser le déficit budgétaire.
+Les dépenses publiques seront un moteur de croissance majeur. Malgré certains risques orientés à la hausse, nous pensons que
+Les projets budgétaires laissent présager un assouplissement les pressions inflationnistes seront limitées dans la zone euro
+d’environ 0,5 point de pourcentage du PIB dans la zone euro. en2026, même avec la relance budgétaire allemande. Dans ces
+L’Allemagne mènera le bal, avec un budget expansionniste conditions, la Banque centrale européenne devrait pouvoir
+d’environ 1,3% de son PIB, porté en majeure partie par des maintenir ses taux d’intérêt à 2% et se réserver la possibilité de
+dépenses de défense. les abaisser en cas de ralentissement marqué de la croissance.
+ Une inflation plus stable et l’effet différé des baisses de taux
+La part nationale et européenne des commandes allemandes en de2025 devraient atténuer les craintes des entreprises quant
+équipements de défense est plus élevée que prévu. Certaines aux droits de douane. L’épargne des ménages reste élevée par
+entreprises du secteur de la défense renforcent rapport à leur revenu disponible (voir graphique10). Si la
+considérablement leurs capacités de production, tirant parfois confiance venait à s’améliorer, un reprise des dépenses de
+parti de la réduction des capacités dans le secteur automobile, consommation pourrait donner un nouveau coup de fouet à la
+et adoptent de nouvelles technologies telles que l’IA, les drones croissance.
+
+9. Les fonds de l’ UE devraient soutenir les pays d’Europe 10. Les consommateurs disposent encore d’une épargne
+ duSud élevée
+ Dépenses, prêts et subventions des fonds de l’UE, en % du PIB Epargne des ménages de la zone euro, en % du revenu disponible
+2.00 30
+ 1.75 Dépenses
+ Prêts 25
+ 1.50 Subventions
+ 1.25 20
+
+1.00 15
+
+0.75
+0.50 10
+
+ 0.25 5
+0.00
+ ItalieItaly Spain Italy Spain Italy Spain Italy SpainEspagneItalieEspagneItalieEspagneItalieEspagne0
+ 2024 2025 2026 2027 2000 2003 2006 2009 2012 2015 2018 2021 2024
+ Sources : Lombard Odier, Goldman Sachs, Sources : Bloomberg, Lombard Odier,
+ données au 7 novembre 2025 données au 7 novembre 2025
+
+ Page 9/44
+
+## Page 10
+
+Suiss e
+La politiqu e bu dgétaire offre une cer taine marge de manœuvre
+Samy Chaar, Chef économiste, CIO Suisse
+
+ Parallèlement, les tensions commerciales avec l’Europe
+ Points clés pourraient s’atténuer si le référendum de 2026 entérine l’accord-
+ · Les droits de douane et les contraintes liées au commerce cadre, conclu en décembre 2024, entre la Suisse et l’Union
+ mondial constitueront un enjeu majeur pour l’économie européenne. Cet accord, en parallèle avec d’autres mesures,
+ · Le manque de clarté quant aux modalités tarifaires permettrait à la Suisse de renforcer ses liens avec son principal
+ applicables aux produits pharmaceutiques assombrit les partenaire commercial (voir graphique11).
+ perspectives mais, si nécessaire, le gouvernement La Suisse bénéficie par ailleurs d’un budget équilibré et affiche
+ pourrait soutenir la croissance au moyen de la politique l’un des ratios dette / PIB les plus faibles parmi les économies
+ bu dgétaire développées. Elle pourrait donc mobiliser ses capacités
+ · Les barrières au retour des taux d’intérêt négatifs nous budgétaires afin d’améliorer la demande globale en cas de
+ semblent élevées, sauf en cas de ralentissement marqué ralentissement de la croissance. Des investissements dans les
+ de la croissance ou de l’inflation. domaines de l’énergie, de la défense et des infrastructures
+ pourraient également stimuler la productivité à l’avenir, tandis
+La stabilité de la Suisse est depuis longtemps un atout très que des mesures budgétaires soutenant les entreprises et les
+apprécié par les investisseurs. L’économie du pays est mature, salariés pourraient temporairement amortir tout choc dû aux
+ droits de douane.
+repose largement sur les exportations et bénéficie d’un afflux Un retour à des taux d’intérêt négatifs nous semble moins
+important d’immigrants qui lui permet d’atténuer une partie des probable, la Banque nationale suisse (BNS) ayant indiqué qu’elle
+pressions liées au vieillissement démographique. La Suisse a
+obtenu une baisse des droits de douane américains ne les appliquerait qu’en « dernier ressort » compte tenu des
+« réciproques » de 39% à 15%. Ces taxes resteront distorsions qu’ils pourraient engendrer dans le secteur bancaire.
+problématiques, mais les exportateurs suisses ont prouvé par le Malgré des chiffres décevants en octobre et certains risques
+passé leur capacité d’adaptation et les décideurs politiques ont orientés à la baisse, nous pensons que l’inflation se maintiendra
+plusieurs moyens à leur disposition pour atténuer leurs effets. globalement en territoire positif en 2026 (voir graphique12). Par
+Les produits pharmaceutiques et l’or sont pour l’heure exemptés ailleurs, à 2%, les taux directeurs européens devraient préserver
+des tarifs américains « réciproques ». L’évolution de la situation un différentiel limitant l’appréciation du franc suisse et atténuant
+dépendra donc en grande partie du niveau, encore indéterminé, la nécessité d’interventions sur le marché des changes. Partant,
+des droits de douane qui finiront par être imposés au secteur les taux d’intérêt devraient être maintenus à 0% en2026, sauf en
+pharmaceutique. Il est peu probable qu’ils entrent en vigueur cas de ralentissement marqué de la croissance ou de l’inflation.
+
+avant 2027, et les grands laboratoires pharmaceutiques suisses
+pourraient être quelque peu protégés par les investissements
+significatifs qu’ils réalisent aux Etats-Unis, mais rien n’est
+vraiment certain. En l’état actuel des choses, nous prévoyons une
+croissance d’environ 1,2% en 2026, en ligne avec le potentiel.
+
+11. L’Europe est de loin le plus grand par tenaire commercial 12. Selon la BNS, l’inflation négative ne sera que passagère
+ de la Suisse Prévisions d’inflation de la BNS, en %
+ Répartition du volume des échanges commerciaux, 2023
+ 4
+ Europe Projection de la BNS en juin 2025
+ Etats-Unis 3 Projection de la BNS en IPC* global
+ 2% 17%Chineseptembre 2025
+ Japon 2
+ 2% Royaume-Uni
+ Reste du monde 1
+ 7% IPC sous-jacent
+ 59% 0
+ 13%
+
+ -1 * Indice des prix à
+ la consommation
+ -2
+ 2013 2016 2019 2022 2025 2028
+ Sources : Office fédéral de la statistique (Suisse), Sources : BNS, Bloomberg, Lombard Odier,
+ Lombard Odier, données au 7 novembre 2025 données au 7 novembre 2025
+
+Page 10 /44
+
+## Page 11
+
+Ro yau m e - Un i
+Divergence marqu ée entre politiqu e bu dgétaire et monétaire
+Bill Papadakis, Stratège macro senior
+
+ égards. Le budget d’automne 2025 a été élaboré dans des
+ Points clés conditions compliquées, le gouvernement ayant dû opérer des
+ · Le ralentissement de la croissance des salaires et de choix difficiles, confronté à la hausse des besoins en matière
+ l’inflation devrait permettre à la Banque d’Angleterre de dépenses, au vieillissement démographique, mais aussi à
+ d’abaisser fortement ses taux d’intérêt en 2026 une dette importante et un niveau élevé de la charge associée.
+ · Cela devrait soutenir la croissance dans un contexte Au final, ce budget comprend une hausse des impôts estimée à
+ difficile, caractérisé par un resserrement budgétaire et environ GBP 26 milliards.
+ un marché de l’emploi morose Cette rigueur devrait permettre d’apaiser une partie des
+ · Les hausses d’impôts devraient atténuer les craintes craintes quant à la viabilité des finances publiques
+ quant à la viabilité des finances publiques. britanniques. Par ailleurs, la BoE, qui était vendeuse de Gi l ts
+ depuis la mi-2022, ralentit aujourd’hui le rythme de
+L’économie britannique a été mise à mal en 2025, confrontée contraction de son bilan. La diminution de l’offre en Gi l ts
+à une croissance lente et une inflation en hausse. Cette devrait également atténuer les pressions pesant sur les
+dernière a été particulièrement problématique et explique marchés obligataires britanniques.
+pourquoi la Banque d’Angleterre (BoE) maintient actuellement Cela étant, la hausse des impôts aura des conséquences
+son taux directeur à 4%, un niveau largement supérieur à celui significatives sur la demande intérieure. Malgré la progression
+des autres grandes banques centrales. des salaires l’an dernier, les consommateurs ont subi la
+Nous pensons que les perspectives d’inflation s’amélioreront flambée des prix des produits alimentaires et des services
+en 2026. La croissance des salaires, auparavant solide, a déjà publics, ainsi que les effets des précédentes hausses des taux
+ralenti de façon tangible à mesure de la détérioration de la d’intérêt sur les taux hypothécaires (voir graphique14). Un
+situation sur le front de l’emploi. Les données d’enquêtes taux d’épargne exceptionnellement élevé suggère une
+laissent présager des conventions salariales moins favorables, prudence persistante des consommateurs en 2026.
+dans un contexte de forte diminution du nombre de postes Du côté des entreprises, la baisse des taux d’intérêt pourrait
+ouverts (qui est passé sous les niveaux d’avant pandémie) et de alimenter les investissements en 2026. En outre, les droits de
+remontée du taux de chômage (voir graphique13). Conjuguée douane pourraient avoir des conséquences moins importantes
+au ralentissement de l’inflation des services, cette situation au Royaume-Uni que dans de nombreux autres pays, car son
+devrait atténuer les pressions sur les prix, permettant à la BoE économie est fortement axée sur les services et ses relations
+de ramener ses taux d’intérêt à 2,75% d’ici la fin du troisième commerciales avec les Etats-Unis sont relativement
+trimestre, un niveau proche du seuil neutre. équilibrées. Dans l’ensemble, compte tenu des effets
+Le rythme de cet assouplissement monétaire devrait être plus contrastés du resserrement budgétaire et de l’assouplissement
+rapide que le consensus ne l’escompte et devrait soutenir monétaire, nous prévoyons une croissance globalement stable
+l’économie au cours d’une période problématique à d’autres de 1,3% en 2026.
+
+13. Le marché de l’emploi montre des signes évidents de 14. Les taux hypothécaires reflètent le resserrement de la
+ faiblesse Banque d’Angleterre
+ Croissance de l'emploi / Indice de l’emploi PMI (échelle D) Taux effectif sur l’encours des hypothèques, en %
+ 8% 65 7
+ 6% Croissance de l’emploi
+ (taux 3 mois annualisé) 60 6
+ 4% (échelle G*)
+ 2% 55 5
+
+ 0% 50 4
+
+ -2% Indice de l’emploi 45 3
+ -4% PMI Royaume-Uni Taux fixe 5 ans
+ (échelle D**) 40 2
+ -6%
+ -8% * échelle de gauche 35 1 Taux fixe 2 ans
+-10% ** échelle de droite 30 0
+
+ 01.2015 01.2017 01.2019 01.2021 01.2023 01.20252019 2020 2021 2022 2023 2024 2025
+ Sources : Office for National Statistics, Markit, Sources : Banque d’Angleterre, Office for National Statistics,
+ calculs Lombard Odier, données au 7 novembre 2025 données au 7 novembre 2025
+
+ Page 11 /44
+
+## Page 12
+
+Jap on
+Les choix de Sanae Takaichi
+Homin Lee, Stratège macro senior
+
+ raisons politiques, accepter un durcissement modéré
+ Points clés garantissant un plancher pour le yen. La faiblesse de la monnaie
+ · Nous tablons sur une nouvelle année de croissance a suscité le mécontentement de nombreux électeurs, qui citent
+ positive, d’inflation supérieure à l’objectif et de nette le coût de la vie et le « surtourisme » parmi leurs plus grandes
+ hausse des salaires préoccupations. De nombreux choix politiques délicats
+ · La Banque du Japon devrait poursuivre son resserrement attendent le gouvernement minoritaire de Sanae Takaichi,
+ monétaire afin de porter son taux directeur à 1% d’ici s’agissant notamment des budgets et des réformes à mettre en
+ fin2026 œuvre pour éviter une nouvelle paralysie politique ou des
+ · Le cabinet de Sanae Takaichi est susceptible d’accepter ces élections anticipées. Il pourrait être plus facile pour elle de se
+ hausses de taux progressives et de privilégier un concentrer sur la politique étrangère ou sociale, plutôt que de
+ assouplissement budgétaire modéré, afin de bien gérer sa faire publiquement pression sur la BoJ pour qu’elle prenne des
+ position gouvernementale minoritaire. mesures susceptibles de déplaire aux électeurs.
+ La gestion de cette coalition politique complexe entraînera une
+Nous prévoyons de nouvelles hausses des taux d’intérêt politique budgétaire plus expansionniste. L’important budget
+japonais en 2026. L’accord commercial conclu entre les supplémentaire du gouvernement, à hauteur de
+Etats-Unis et le Japon a considérablement atténué les JPY21’300milliards (3,4% du PIB), qui comprend une hausse
+incertitudes pesant sur le secteur industriel du pays. des dépenses et une baisse des impôts, a suscité des
+Parallèlement, le marché de l’emploi reste tendu en raison préoccupations sur le marché obligataire concernant
+d’une forte demande en services. A mesure que les d’éventuelles nouvelles émissions. Si Sanae Takaichi s’abstient
+perturbations commerciales disparaissent des données d’annoncer des mesures de relance supplémentaires lors de la
+économiques, nous tablons sur une nouvelle année de prochaine réforme fiscale et dans le cadre des débats
+croissance économique positive, d’inflation supérieure à budgétaires pour le nouvel exercice, ces préoccupations
+l’objectif et de nette hausse des salaires. Ayant sorti le pays de la pourraient s’apaiser, sachant que les soldes budgétaires du pays
+déflation au bout de plusieurs années de politique monétaire se sont fortement améliorés au cours des dernières années (voir
+accommodante, nous pensons que la Banque du Japon (BoJ) graphique16). La structure de la dette publique japonaise,
+répondra aux premiers signes de reflation en relevant ses taux répartie sur diverses échéances, permettra également de limiter
+d’intérêt en 2026 (voir graphique15). la rapidité avec laquelle les hausses de taux d’intérêt se
+ répercutent sur les coûts de financement du gouvernement. Du
+Il nous semble peu probable que la Première ministre japonaise côté de la demande, à court terme, il faudra surveiller les
+s’oppose à cette hausse des taux d’intérêt, à condition qu’elle compagnies d’assurance-vie, qui pourraient redoubler de
+soit progressive comme nous le prévoyons. Bien qu’elle se soit, prudence quant à leurs achats d’obligations dans l’attente d’une
+par le passé, opposée aux programmes de resserrement de la nouvelle réglementation en matière de solvabilité.
+banque centrale, Sanae Takaichi pourrait devoir, pour des
+
+15. Nous projetons deux relèvements des taux d’intérêt en 16. For te amélioration des soldes budgétaires japonais
+ 2026 Solde budgétaire en % du PIB, données sur les flux de fonds,
+ Taux directeur de la Banque du Japon, en % moyennes mobiles sur 4 trimestres
+
+ 1.2 0
+ Taux cible -1
+ 1.0 Taux d’appel au jour le jour non garanti (taux effectif)
+ Prix sur le marché des swaps (3 novembre 2025) -2
+ 0.8 Projection Lombard Odier -3
+
+ 0.6 -4
+ -5
+ 0.4 -6
+
+ 0.2 -7
+ -8
+ 0.0 -9
+
+ -0.2 -10
+ 2012 2014 2016 2018 2020 2022 2024 20262000 2004 2008 2012 2016 2020 2024
+
+Sources : Bloomberg, Lombard Odier, données au 3 novembre 2025 Sources : CEIC, Lombard Odier, données au 3 novembre 2025
+
+Page 12 /44
+
+## Page 13
+
+Chine
+Qu oi de neuf dans le plan quinqu ennal chinois ?
+Homin Lee, Stratège macro senior
+
+ sociale. Les dirigeants ont également exhorté le gouvernement
+ Points clés central à supporter une plus grande part des dépenses
+ · Le nouveau plan quinquennal de la Chine n’indique aucun budgétaires, par le biais de mesures ayant une incidence directe
+ revirement dans la stratégie du pays, qui reste centrée sur sur la consommation et améliorant l’accès des migrants ruraux
+ l’autonomie technologique et le développement des aux services publics. Ces initiatives laissent présager une
+ capacités à long terme implication progressivement plus importante du gouvernement
+ · Le ratio consommation des ménages / PIB pourrait central dans les services publics et un renforcement des
+ légèrement augmenter si le gouvernement devait mécanismes de redistribution des revenus au niveau local.
+ véritablement s’engager à mobiliser des instruments Les déséquilibres extrêmes mis en lumière par les récentes
+ budgétaires pour soutenir les revenus données macroéconomiques chinoises confirment la nécessité
+ · Une période de détente commerciale avec les Etats-Unis de ces nouvelles initiatives. Les exportations ont largement
+ favorise les perspectives. dépassé les prévisions, en raison d’une application flexible de la
+ réglementation relative aux détournements visant à éviter les
+Le quinzième plan quinquennal chinois pour la période droits de douane, de certaines exemptions sectorielles et d’une
+2026-2030, proposé en octobre 2025, n’a pas révélé de forte demande en produits chinois (voir graphique17). La
+surprise majeure quant à l’orientation stratégique du pays. Il demande intérieure, en revanche, a fortement diminué. Le bas
+maintient la priorité donnée à l’autonomie et au leadership en niveau persistant de l’inflation, la vulnérabilité du secteur
+matière de technologie, à l’application efficace de la politique immobilier et la faible demande en prêts du secteur privé sont
+industrielle et des initiatives d’investissement, ainsi qu’à autant de risques baissiers et nous pensons que Pékin
+l’équilibre entre le développement économique et les annoncera de nouvelles mesures budgétaires ciblées, ainsi
+considérations de sécurité nationale. Il annonce par ailleurs une qu’une baisse des taux d’intérêt, avant la fin 2025.
+volonté de doubler le PIB par habitant d’ici 2035. Il prévoit de Heureusement, la Chine a réussi à instaurer un certain calme
+conserver une part raisonnable du PIB dans le secteur dans ses relations commerciales avec les Etats-Unis à la suite du
+manufacturier et d’équilibrer la consommation avec les sommet du 30 octobre. La suspension pendant une année des
+investissements, ce qui indique que le renforcement des contrôles chinois à l’exportation de terres rares et la réduction
+capacités reste au cœur des plans à long terme de la Chine. de 10% des droits de douane américains devraient amener un
+Il est encourageant de constater que les dirigeants ne négligent climat stable pour la Chine. Nous pensons désormais que la
+pas les déséquilibres intérieurs inhérents à la stratégie croissance continuera à dépasser 4% en 2026. Le découplage
+nationale. Hormis leur volonté d’augmenter le ratio est susceptible de s’accélérer une fois que les Etats-Unis seront
+consommation des ménages / PIB, ils se sont explicitement rassurés quant à leur approvisionnement en terres rares, mais il
+engagés à allouer une part plus importante des dépenses faudra selon nous encore plusieurs années pour y parvenir, tant
+budgétaires aux services publics et ont suggéré une flexibilité la Chine domine actuellement la transformation et le raffinage
+accrue quant à l’allocation des fonds étatiques à la protection de ces minéraux (voir graphique18).
+
+17. Croissance des expor tations supérieure aux attentes18. La domination chinoise des terres rares suggère une trêve
+ Contribution des exportations de biens à la croissance annuelle commerciale durable avec les Etats-Unis
+ du PIB réel, en points de pourcentage Part de la Chine dans la production mondiale, en %
+
+ 7 100
+ 6 Hypothèse préalable de Lombard Odier 90 * raffiné
+ 5 Hypothèse de Lombard Odier la plus 80 ** à chaleur
+ récente 70 *** photovoltaïque
+ 4
+ 3 60
+ 2 50
+ 1 40
+ 0 30
+ -1 20
+ -2 Contribution réelle des 10
+ -3 exportations de biens 0
+ à la croissance *
+ -4 Cuivre*LithiumNickel*Cobalt* AcierCiment Pompes** EolienBatteries
+ 2006 2010 2014 2018 2022Terres rares*AluminiumElectrolyseursSolaire***
+ Sources : Agence internationale de l’énergie (AIE),
+ Sources : CEIC, Lombard Odier, données au 3 novembre 2025 Lombard Odier, données au 3 novembre 2025
+
+ Page 13 /44
+
+## Page 14
+
+Marchés émergents hors Chine
+Des perspectives économiqu es solides
+Homin Lee, Stratège macro senior
+
+ Taïwan. Un rythme toujours élevé des investissements
+ Points clés consacrés à l’IA et la demande en matériel technologique
+ · Les perspectives des marchés émergents sont solides, sur devraient maintenir la progression globale à des niveaux
+ fond d’assouplissement des conditions de financement, de soutenus et permettre à des économies telles que la Corée du
+ boom mondial des dépenses d’investissement et de Sud de dégager une croissance supérieure en 2026. En Inde, le
+ stabilisation du contexte commercial cycle de crédit commence à se redresser et les perspectives de
+ · L’inflation devrait rester maîtrisée, grâce à la stabilité des croissance de la consommation s’améliorent. La stabilité des
+ prix des matières premières industrielles et au prix des matières premières énergétiques et de moindres
+ ralentissement des exportations manufacturières de la Chine exportations chinoises devraient permettre de maîtriser
+ · Une baisse modérée des taux d’intérêt devrait être mise en l’inflation. Nous attendons une à deux baisses de taux
+ œuvre dans toutes les principales régions, le Brésil étant supplémentaires dans les grandes économies, sauf en Inde.
+ susceptible de connaître l’assouplissement le plus important. La politique sera un enjeu majeur en Amérique latine, des
+ Les élections seront un enjeu majeur en Amérique latine. élections générales étant prévues au Brésil, au Pérou et en
+ Colombie en 2026, faisant suite aux bouleversements
+Les perspectives des marchés émergents hors Chine restent électoraux de 2025 au Chili et en Argentine. Dans toute la
+stables (voir graphique19) grâce aux accords commerciaux région, une volonté de « chasser les sortants » laisse espérer des
+bilatéraux conclus avec les Etats-Unis, au financement extérieur résultats plus favorables au marché. Le ralentissement de la
+favorable, soutenu par l’assouplissement de la Fed, et à la croissance et la consolidation budgétaire ont amélioré les
+progression des dépenses d’investissement mondiales. Dans ces perspectives en matière d’inflation. Les banques centrales
+pays, l’écart de croissance vis-à-vis des marchés développés d’Amérique latine devraient encore pouvoir réduire leurs taux
+pourrait même se creuser davantage si certains catalyseurs d’intérêt, au Brésil surtout. Nous tablons sur une croissance
+géopolitiques et technologiques se concrétisent. Citons stable en 2026, soutenue par des taux d’intérêt légèrement
+notamment l’éventuelle invalidation, par la Cour suprême des inférieurs et par de solides dépenses d’investissement privées.
+Etats-Unis, des droits de douane imposés par Donald Trump, un Le Mexique pourrait connaître un léger rebond s’il parvient à
+nouvel assouplissement des contrôles américains à préserver son cadre commercial avec les Etats-Unis.
+l’exportation de puces d’IA et un revirement de l’opinion du La croissance devrait se poursuivre dans l’EMEA (Europe,
+marché quant à la politique monétaire sous une nouvelle Moyen-Orient et Afrique), les pays du Golfe bénéficiant d’une
+présidence de la Fed. Compte tenu de ces éventualités, les nouvelle accélération des activités pétrolières, tandis que
+perspectives à moyen terme des marchés émergents se trouvent l’Afrique du Sud et les petites économies d’Europe centrale sont
+à un moment charnière. susceptibles d’enregistrer une hausse des dépenses
+La croissance des pays émergents d’Asie est susceptible de d’investissement du secteur privé grâce aux réformes ou aux
+quelque peu ralentir par rapport aux niveaux de 2025, fonds décaissés par les mécanismes de l’UE. La croissance
+principalement en raison d’un repli des exportations (en forte devrait rester stable en Turquie, sur fond de politique
+hausse avant l’entrée en vigueur des droits de douane économique relativement orthodoxe. En Pologne, elle devrait
+américains) et du retour à une croissance plus normale à être ancrée par les dépenses consacrées à la défense et le
+ renforcement des capacités manufacturières.
+
+19. Perspectives de croissance du PIB réel des marchés émergents
+ Nos estimations ou projections de taux de croissance du PIB réel, en %
+
+ 8
+ 7 2025 (estimation)
+ 2026 (projection)
+ 6
+ 5
+
+ 4
+
+ 3
+
+ 2
+
+ 1
+
+ 0
+ Inde ats Qatar Koweït Egypte Chine Pérou Taïwan ChiliGrèceblique Brésil
+ Emir Philippines Indonésie Malaisie TurquieColombiePologneHongrie RéputchèqueThaï lande Mexique
+ arabes unis Arabie saoudite Corée du Sud Afrique du Sud
+ Sources : Bloomberg, Lombard Odier, données au 3 novembre 2025
+
+Page 14 /44
+
+## Page 15
+
+stabilité .
+
+ Aujourd ’ hui, le monde est instable.
+ Les cer titudes d ' hier sont désor ma is
+ des r isques. La mondia lisation est passée
+ d 'oppor tunité à v ulnérabilité.
+ Da ns une ère de volatilité,
+ nous aspirons tous à la stabilité.
+ A lors que d ’autres ra lentissent et se replient
+ sur eu x-mêmes, nous cherchons l ’ équilibre
+ da ns le mouvement.
+ Chez Lomba rd Odier, depuis plus de
+ deu x siècles, nous réajustons, réa lig nons
+ et repensons consta mment nos stratég ies
+ d ’ investissement pour nos clients.
+ Ca r nous savons qu’en pér iode de chaos,
+ la stabilité n’est pas statique. Elle se crée
+ en per ma nence. En repensa nt. Tout.
+ Découv rez la force de tout repenser
+ sur LombardOdier.com
+
+* Savoir tout repenser.
+Lombard Odier (Europe) S.A. - Succursale en France, 8 rue Royale - 75008 Paris RCS Paris 803 905 157 - Etablissement de crédit de droit luxembourgeois sous la surveillance de la Commission de Surveillance du Secteur Financier (CSSF) –
+supervisé par la CSSF au Luxembourg et sa succursale en France par l’ACPR et l’AMF. Tout investissement est exposé à une diversité de risques. Veuillez vérifier avec votre conseiller en investissement avant d’effectuer une quelconque transaction.
+Ceci est une communication publicitaire. Veuillez vous référer au prospectus et/ou document d’informations clés de l’OPCVM LO Funds avant de prendre toute décision finale d’investissement. ©2025 Lombard Odier
+
+## Page 16
+
+## Page 17
+
+Perspectives pour la région EMEA*
+
+Essor at tendu dans les pays du Golfe, l ’Eu rope
+dev rait s’en sor t ir tant bien que ma l
+
+Dr Nannette Hechler-Fayd’herbe, Responsable stratégie d’investissement, durabilité et recherche, CIO EMEA
+
+ Dans un monde multipolaire marqué par Europe, même si les investisseurs peuvent
+ des relations internationales et trouver des niveaux supérieurs en France.
+ commerciales complexes, les pays du Les rendements souverains français sont
+ Conseil de coopération du Golfe (CCG) alignés avec les fondamentaux de la dette,
+ La hausse de la production de tirent leur épingle du jeu. La hausse de et le déficit de la balance courante est peu
+ l’offre en pétrole de l’alliance OPEP+ a élevé, ce qui devrait les maintenir assez
+ pétrole et la baisse des taux contribué à doubler la croissance du PIB stables. En Europe, le secteur immobilier
+ d’intérêt continueront à doper la réel, passée de 2,1% en 2024 à une pourrait être source de rendement
+ croissance des pays du Golfe. estimation de 4,1% pour 2025. supplémentaire par rapport aux
+ L’abaissement des taux d’intérêt obligations.
+ Les conditions économiques américains fera baisser ceux des pays du Les résultats budgétaires ont dépassé les
+ CCG, dont les monnaies sont indexées sur attentes en Afrique du Sud. Le déficit du
+ nous semblent stables mais le dollar, et devrait stimuler la croissance pays devrait diminuer à 4,4% de son PIB
+ modérées en Europe et au du crédit et la diversification de l’économie en 2026, avec une stabilisation de la dette
+ Royaume-Uni, tandis que le au- delà du secteur pétrolier, une priorité publique à environ 77% du PIB. Le
+ pour la région. L’immigration continue de gouvernement pourrait formuler des
+ climat macroéconomique soutenir la consommation, notamment prévisions prudentes concernant les
+s’améliore doucement en Afrique aux Émirats arabes unis, ce qui alimente émissions en 2026, d’où les solides
+ du Sud et en Turquie. l’essor du secteur immobilier et le performances récemment enregistrées par
+ développement des services financiers. le marché obligataire. La croissance se
+ Une collaboration technologique plus redresse : nous prévoyons 1,4% en 2026
+ étroite avec les Etats-Unis pourrait aussi grâce à l’amélioration des infrastructures
+ être source de diversification. Les et à la demande en métaux précieux.
+ conséquences des droits de douane L’inflation devrait approcher des
+ américains pourraient être limitées, dans projections informelles de la banque
+ la mesure où les exportations vers les centrale (3%), ce qui nous fait prévoir deux
+ Etats-Unis représentent moins de 2,5% du nouvelles baisses des taux d’intérêt en
+ volume total en Arabie saoudite, aux 2026, portant le taux directeur à 6,5%.
+ Émirats arabes unis, au Qatar et au Koweït. Nous avons une opinion positive sur les
+ Dans le secteur immobilier, Abou Dhabi et obligations sud-africaines libellées en
+ les plus petits Émirats devraient continuer monnaie forte et en monnaie locale, ainsi
+ à rattraper leur retard sur Dubaï. que sur le rand.
+ Les perspectives favorables des pays du En Turquie, la croissance devrait rester
+ CCG contrastent avec la croissance plus stable à environ 2,7% en 2026, avec une
+ faible observée au Royaume-Uni et en légère amélioration des déséquilibres
+ Europe, où les difficultés économiques macroéconomiques. Nous prévoyons un
+ affectent toujours les consommateurs et tassement de l’inflation à 25%, une
+ les entreprises. Les pays européens diminution du déficit budgétaire et une
+ périphériques devraient afficher de baisse des taux nominaux. La banque
+ meilleures performances que les centrale devrait maintenir le taux d’intérêt
+ économies du cœur de l’UE en 2026, réel du pays entre 5% et 6%. La dernière
+ comme en 2025. Nous prévoyons baisse de taux nous conforte dans notre
+ également des gains boursiers modérés. prévision d’un niveau final légèrement
+ Au Royaume-Uni, les obligations semblent supérieur aux attentes du marché.
+ attractives et nous voyons les rendements Parallèlement, les réserves de change se
+ des Gi l ts à dix ans converger avec ceux des sont un peu améliorées ces dernières
+ bons du Trésor américain. Cela devrait années. La livre turque pourrait encore
+ également soutenir le marché britannique dégager une performance totale positive
+* EMEA : Europe, Middle-East and Africa : du crédit d’entreprise. Les rendements en 2026.
+ Europe, Moyen-Orient et Afrique obligataires sont moins intéressants en
+
+ Page 17 /44
+
+## Page 18
+
+Perspectives pour l’Asie
+
+Moteu rs de croissance en A sie
+
+John Woods, CIO Asie
+
+ La politique industrielle de la Chine et la La Chine constituera un facteur plus
+ politique monétaire des Etats-Unis (ainsi important, sa performance étant
+ que leurs implications géopolitiques susceptible d’influer sur les perspectives
+ respectives) joueront un rôle déterminant de l’économie et des marchés du monde
+ La baisse des taux d’intérêt dans les perspectives de l’économie et des entier en 2026. Cette influence dépendra
+ marchés financiers asiatiques pour 2026. de la façon dont Pékin gère sa politique
+ américains et la dépréciation du Nous pensons que l’année 2026 s’avérera industrielle, qui revêt une importance
+ billet ver t devraient favoriser les positive pour l’Asie, tant sur le plan de la capitale. A cet égard, le quatrième plénum
+ flux de capitaux vers l’Asie. La croissance que des marchés, mais nos qui s’est tenu en octobre 2025, ainsi que
+ perspectives optimistes ne vont pas sans la publication du dernier plan économique
+ réorientation de la Chine vers la risques. quinquennal du pays, laissent entrevoir
+consommation devrait contribuer Premièrement, notre prévision des perspectives encourageantes.
+ à équilibrer la croissance, d’assouplissement monétaire de la Fed et, Une gestion inadéquate de la politique
+ réduisant ainsi la dépendance dans la foulée, de dépréciation du billet chinoise pourrait amener le pays à
+ dupays aux expor tations. vert soutient la liquidité de marché. Cela continuer à exporter ses capacités
+ suggère que les investisseurs mondiaux, excédentaires, déclencher une bifurcation
+ Bien qu’ils soient peu en quête de croissance et de bénéfices, technologique et alimenter les tensions
+ continueront à privilégier les marchés en géopolitiques du pays avec de grands
+ susceptibles de se matérialiser, monnaie locale offrant des rendements partenaires commerciaux tels que les
+ les risques incluent un choc plus élevés, tels que ceux de l’Asie, au Etats-Unis. Le risque posé par un
+ inflationniste aux Etats-Unis et détriment des actifs libellés en dollar. excédent de biens chinois, et les
+ Dans la région, comme en 2025, nous dommages y relatifs, constituent aussi
+ une gestion inadéquate de la pensons que la croissance, les marchés une source d’inquiétude pour les
+ politique industrielle en Chine. des actions et ceux du crédit bénéficieront économies d’Asie, car elles n’ont pas le
+ de la baisse des taux d’intérêt américains moyen d’y répondre de façon efficace.
+ et des conditions monétaires C’est pourquoi les déclarations de Pékin
+ accommodantes en vigueur dans la annonçant une probable réorientation en
+ région. La croissance régionale devrait faveur de la consommation ont été si bien
+ être de l’ordre de 4% et l’indice de accueillies. Certes, la Chine s’est depuis
+ référence de la région, le MSCI Asia ex longtemps fixé cet objectif d’expansion de
+ Japan, pourrait afficher une performance la demande intérieure et sa stratégie
+ à deux chiffres. industrielle axée sur les exportations
+ Où sont les risques ? Bien qu’il ne fasse expose les vulnérabilités nationales. Cela
+ pas partie de notre scénario de base, un étant, les dirigeants ont envoyé des
+ choc inflationniste (ou « stagflationniste » signaux positifs aux partenaires
+ en cas de faible croissance et de forte commerciaux du pays en se disant
+ inflation) inattendu aux Etats-Unis disposés à accepter le changement.
+ pourrait maintenir les taux d’intérêt et les En 2026, l’assouplissement mené par la
+ rendements des bons du Trésor américain Fed et la réorientation de la Chine vers la
+ à des niveaux durablement plus élevés. consommation soutiendront la croissance
+ Un resserrement de la politique et la performance des marchés en Asie.
+ monétaire mettrait fin à la faiblesse du Grâce à des accords de libre- échange tels
+ dollar américain, inverserait les flux de que le Partenariat économique régional
+ capitaux jusqu’ici orientés vers l’Asie et global et à l’augmentation des flux
+ freinerait la croissance et la performance entrants, la croissance devrait rester
+ des marchés de la région. Ce scénario soutenue dans la région, avec aussi des
+ nous semble toutefois peu probable. performances positives stables sur les
+ marchés actions et ceux du crédit.
+
+Page 18 /44
+
+## Page 19
+
+St ratégie d ’ invest issement : L es marchés
+émergents et l ’or su r le devant de la scène
+
+Dr Luca Bindelli, Responsable de la stratégie d’investissement
+
+ Alors que 2026 se profile, les conditions Les actions émergentes devraient
+ macroéconomiques mondiales se enregistrer une croissance des bénéfices
+ caractérisent par une croissance modeste, de 15% en 2026, alimentée par la Corée
+ et une Fed susceptible de poursuivre ses du Sud qui bénéficie d’une forte demande
+ Le rallye boursier de 2025 a baisses de taux. Cette combinaison de en infrastructures d’IA. L’Inde semble
+ croissance modérée et de politique également bien positionnée, soutenue par
+ entraîné une expansion des monétaire moins restrictive crée des un rebond cyclique. Après une année 2025
+ multiples à l’échelle mondiale, conditions relativement favorables aux décevante, la croissance des bénéfices
+ mais les marchés émergents actifs financiers. A noter qu’elle laisse chinois devrait également se renforcer,
+ également présager un affaiblissement du portée par la volonté du gouvernement
+ présentent toujours des dollar américain, le différentiel de taux d’éliminer les capacités excédentaires au
+ valorisations moindres, d’intérêt vis-à-vis des autres régions sein de l’économie et par une plus grande
+ conjuguées à un potentiel de s’atténuant et la propension au risque autonomie technologique. Les
+ s’améliorant dans le monde. Pour les valorisations boursières ont augmenté
+croissance bénéficiaire supérieur. investisseurs, ce scénario offre des en2025 sur les marchés émergents, mais
+ opportunités parmi les actions, les marchés affichent toujours une décote attractive par
+ Les obligations émergentes sont émergents et les actifs réels tels que l’or, rapport aux actions mondiales,
+ intéressantes, tandis que les mais des perspectives obligataires toujours notamment compte tenu d’un plus grand
+risques liés au budget et à la dette restreintes. potentiel de croissance bénéficiaire (voir
+ graphique20, page20).
+ sont susceptibles de limiter la Reprise des marchés émergents Les obligations émergentes continueront à
+ performance des obligations A l’approche de 2026, les marchés offrir les rendements parmi les plus
+ souveraines des marchés émergents sortent du lot. Les Bourses de la intéressants du secteur obligataire. Il
+ développés. région ont surperformé dans la dernière convient de souligner que ces niveaux de
+ partie de l’année 2025, une tendance rendement (proches de 7% pour les
+ Les s preads de crédit des titres appelée à se poursuivre. La récente trêve obligations souveraines libellées en dollar)
+ d’entreprise sont extrêmement commerciale entre les Etats-Unis et la sont semblables à ceux des obligations
+ Chine a atténué les risques géopolitiques à d’entreprise à haut rendement, plus
+serrés, ce qui limitera également court terme et amélioré la confiance risquées. Les obligations émergentes
+la performance et nécessitera une s’agissant du commerce mondial. libellées en monnaie locale présentent des
+ approche plus tactique. Conjuguées à des perspectives moins rendements légèrement moindres que
+ favorables pour le dollar américain, à la ceux des obligations libellées en monnaie
+ Nous tablons sur une sous- évaluation persistante des monnaies forte (telles que mesurées par les indices
+ émergentes et à une prime de croissance JPMorgan Global Diversified
+dépréciation du dollar américain résiliente par rapport aux marchés correspondants), mais néanmoins
+ à mesure de la baisse des taux développés, ces conditions sont propices à intéressants en termes réels. Elles
+ d’intérêt aux Etats-Unis. Les une reprise des actifs émergents. Par le devraient par ailleurs continuer à
+ passé, les périodes de faiblesse du billet bénéficier de conditions favorables aux
+ actifs alternatifs, en par ticulier vert ont coïncidé avec une solide monnaies de ces marchés et de
+ l’or, peuvent contribuer à la performance des actions et des obligations l’affaiblissement du dollar américain.
+ diversification des por tefeuilles libellées en monnaie locale sur les marchés Enfin, les marchés émergents devraient
+ émergents, grâce au retour des flux de connaître une nouvelle phase de
+ dans un contexte d’incer titude capitaux et à une moindre volatilité des normalisation de leur politique monétaire,
+politique. Les matières premières monnaies. Nous pensons que ces deux l’inflation restant maîtrisée. Cela devrait
+liées à la transition énergétique et catégories d’actifs tireront leur épingle du permettre de générer des plus-values
+ jeu, soutenues par des rendements plus supplémentaires sur certaines obligations
+ à l’IA devraient également élevés et un potentiel de croissance locales des marchés émergents d’Amérique
+ restersoutenues. supérieur à celui des marchés développés. latine et d’Asie.
+
+ Page 19/44
+
+## Page 20
+
+Les obligations souveraines des marchés développés devraient Des écar ts de rendement serrés, susceptibles de freiner
+sous-performer leurs consœurs émergentes. Nous attendons la performance des obligations d’entreprise
+toujours une tendance désinflationniste dans l’ensemble des L’écart (s p re a d) de rendement des obligations d’entreprise,
+économies en 2026, mais ne prévoyons pas de baisse c’est-à- dire le rendement offert au- delà de celui des obligations
+significative des rendements souverains à échéance longue sur souveraines, s’est encore resserré en 2025. Nous ne tablons pas
+les marchés développés, en raison de préoccupations liées à la sur une augmentation des risques de défaillance, car les
+dette et à la situation budgétaire. Le marché obligataire fondamentaux des entreprises sont solides, mais les obligations
+américain sera quant à lui confronté à des risques inflationnistes d’entreprise de qualité et à haut rendement ne sont pas pour
+dus aux droits de douane. Seul le marché britannique est autant attractives, en raison du niveau actuel des spreads.
+susceptible d’enregistrer une meilleure performance relative, car Quelques poches de valeur pourraient émerger en 2026, qui
+la Banque d’Angleterre devra assouplir sa politique de façon plus nécessiteront une approche plus tactique de l’investissement en
+marquée que les banques centrales des autres économies obligations d’entreprise. Les obligations convertibles devraient
+développées, renforçant les perspectives de rendement de la retrouver leur attrait, car elles combinent stabilité des revenus
+dette britannique. (grâce aux coupons), préservation du capital et potentiel de
+Croissance à un prix raisonnable hausse des actions. Ces caractéristiques sont particulièrement
+ intéressantes au cours d’une année où les actions devraient
+Les actions mondiales affichent des performances solides depuis rester volatiles et les taux d’intérêt constituer une source
+le début de l’année, mais ces performances sont dominées par d’incertitude.
+les entreprises américaines relevant de la technologie et de l’IA.
+Si ces secteurs demeurent attractifs en termes structurels, leurs Un secteur immobilier européen qui regagne en
+valorisations semblent désormais tendues. Pour 2026, nous attractivité
+envisageons d’élargir notre exposition aux régions et aux L’immobilier européen reste sous pression, mais redouble
+secteurs conjuguant croissance résiliente et valorisations d’attrait, notamment en Europe continentale où les rendements
+raisonnables. De manière générale, les actions versant des du dividende dépassent les taux d’intérêt à court terme de plus
+dividendes offrent des revenus stables dans un contexte de de 200 points de base. Les marchés semblent avoir repris
+croissance modérée. Les actions de qualité génératrices de confiance après le choc initial des droits de douane et les
+dividendes, notamment dans le secteur de la santé, présentent à volumes de transaction affichent une dynamique positive dans
+la fois des rendements et des caractéristiques défensives, tout en toute l’Europe. Le secteur immobilier suisse bénéficie toujours
+bénéficiant de vents favorables liés à l’évolution d’une forte demande. L’offre reste limitée et nous pensons que
+démographiqueet à l’innovation. Les actions liées aux matières les taux d’intérêt seront maintenus à zéro. Ces conditions
+premières, en particulier celles du secteur des matériaux, sont favorisent un appétit accru pour les fonds immobiliers suisses,
+également restées en retrait par rapport à l’ensemble du marché dont les écarts de rendement par rapport aux obligations
+en 2025 et offrent à présent une meilleure valeur. Nous pensons gouvernementales à dix ans dépassent 200 points de base.
+que le secteur bénéficiera par ailleurs des investissements
+infrastructurels et de l’élargissement des dépenses liées à l’IA L’or et les matières premières liées à l’IA sur le devant de
+en2026. Le secteur des services publics devrait lui aussi
+continuer à permettre une exposition prometteuse aux thèmes la scène
+de l’électrification et de l’IA, avec des dividendes relativement L’or a connu un essor remarquable en 2025, alimenté par une
+élevés. forte demande des banques centrales et par des incertitudes
+
+20. La valorisation des actions émergentes est attractive
+ Prime / décote de valorisation par rapport aux actions mondiales, sur la base des bénéfices projetés
+
+ -15%
+ +/-1 écart-type
+-20% Médiane sur 10 ans
+
+-25%
+
+-30%
+
+ -35%
+ Décote  /  prime
+-40% MSCI Emerging Markets /
+ MSCI World
+-45%
+ 11.2015 11.2016 11.2017 11.2018 11.2019 11.2020 11.2021 11.2022 11.2023 11.2024
+
+ Sources : Lombard Odier, Bloomberg, données au 7 novembre 2025
+
+Page 20/44
+
+## Page 21
+
+géopolitiques persistantes. Selon nous, la demande en or base, renforçant ainsi les perspectives à long terme positives des
+pourrait augmenter davantage. Les pressions structurelles qui matières premières industrielles.
+pèsent sur le dollar américain contribuent également à cette
+tendance. Le monde évolue d’un système jusqu’à présent Maintenir une bonne discipline
+dominé par les Etats-Unis vers un système plus multipolaire. Les Une croissance économique modérée, des conditions
+politiques de Donald Trump ont exacerbé ce phénomène et le monétaires plus accommodantes et un dollar américain plus
+billet vert n’est plus le point d’appui qu’il était auparavant. A titre faible favorisent les actifs risqués, tandis que le marché
+d’exemple, la part du dollar dans les réserves de change obligataire présente selon nous un moindre potentiel haussier.
+mondiales a diminué ces dernières années. Partant, une En recherchant les opportunités de valorisation, en se
+allocation dédiée à l’or devrait continuer à protéger les positionnant sur les marchés émergents et en diversifiant
+portefeuilles contre des épisodes de volatilité (voir davantage leurs expositions grâce à des actifs réels, les
+graphique21). Si la Fed abaisse ses taux directeurs comme nous investisseurs peuvent renforcer la résilience de leurs
+le prévoyons, les taux d’intérêt réels américains devraient portefeuilles et les protéger contre les risques inévitables et les
+diminuer et le billet vert se déprécier. Ces facteurs n’ont pas joué chocs potentiels, tels que nous les détaillons dans le chapitre
+de rôle décisif dans la récente progression de l’or, mais devraient suivant.
+alimenter la demande des investisseurs et favoriser une nouvelle
+hausse des prix en 2026.
+Les matières premières bénéficient toujours de puissants
+moteurs structurels. La transition énergétique mondiale amplifie
+la demande en matériaux critiques tels que le cuivre, le lithium
+et les terres rares, indispensables à l’électrification et aux
+technologies renouvelables. Simultanément, de vastes
+programmes d’investissement dans les infrastructures
+alimentent une demande soutenue en acier et autres métaux de
+
+21. L’or tend à surperformer les actions en période de volatilité
+ Performance de l’or par rapport aux actions mondiales et volatilité du marché actions
+
+ 70 4.5
+
+ 60 4.0
+
+ 50 Ratio or / indice MSCI All Country World
+ 40 (échelle D) 3.5
+
+ 30 3.0
+
+ 20
+ 2.5
+ 10 Indice VIX (mesure de la volatilité du
+ 0 marché actions américain, échelle G) 2.0
+
+ 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Sources : Lombard Odier, Bloomberg, données au 7 novembre 2025
+
+ Page 21 /44
+
+## Page 22
+
+Principau x risques
+
+Dr Luca Bindelli, Responsable de la stratégie d’investissement et Dr Nannette Hechler-Fayd’herbe, Responsable stratégie d’investissement,
+durabilité et recherche, CIO EMEA
+
+ Les conditions de marché pour 2026 les bilans et les stratégies de ces
+ présentent à la fois des opportunités et entreprises, même si les investisseurs
+ desrisques. Selon notre scénario de base, examinent avec une attention croissante le
+ le contexte macroéconomique et le climat potentiel de monétisation de ces
+ Les valorisations élevées des d’affaires sont propices à la prise de risque. investissements massifs dans l’IA. Parmi
+ Toutefois, outre les risques les indicateurs que nous suivons
+ entreprises technologiques et un macroéconomiques évoqués en page5, concernant les entreprises technologiques
+endettement accru (à mesure que nous surveillons les risques de marché figurent le ratio des dépenses
+ les entreprises investissent les décrits ci-après. Les actifs réels, en d’investissement consacrées à l’IA par
+ particulier l’or, devraient continuer à offrir rapport au chiffre d’affaires, ainsi que tout
+ unes dans les autres) sont autant des avantages supérieurs à ceux des recours excessif au financement par
+ de risques pour les actions. obligations souveraines de qualité en emprunt. Nous surveillons également de
+ matière de diversification, dans la plupart près les taux d’adoption de l’IA, calculés
+ Des risques géopolitiques et des scénarios de risque. notamment en fonction de l’augmentation
+ inflationnistes limitent l’attrait du nombre d’utilisateurs, ainsi que le
+ Bulle de l’IA : un risque moyen risque de ralentissement des ajouts de
+ des obligations. L’or et les L’IA demeure l’un des principaux moteurs capacités énergétiques, qui pourrait créer
+ matières premières offrent un des marchés actions, avec une accélération des goulets d’étranglement dans cette
+ meilleur potentiel de protection plus rapide que prévu des investissements adoption.
+ dans divers scénarios. infrastructurels. Les valorisations du Climat politique et géopolitique : un
+ secteur sont certes élevées, mais les risque moyen
+ dépenses d’investissement des
+ « hyperscalers » (principaux fournisseurs Les marchés financiers peuvent longtemps
+ de services d’informatique ignorer les risques politiques et
+ dématérialisée– cloud – rassemblant géopolitiques, jusqu’à ce qu’ils prennent
+ nombre des plus grandes entreprises soudainement une importance cruciale.
+ technologiques), sont susceptibles de Par exemple, l’incertitude liée aux droits
+ grimper de 32% en2026 contre une de douane pourrait à nouveau s’amplifier si
+ croissance projetée de 20% en la Cour suprême des Etats-Unis déclarait
+ octobre2025. Cela suggère un cycle inconstitutionnels les droits de douane
+ d’investissement prolongé, qui devrait réciproques. Quand bien même nous
+ profiter aux entreprises technologiques pensons que le gouvernement américain
+ commercialisant du matériel, des logiciels réintroduirait alors ces tarifs par d’autres
+ et des services liés à l’IA, ainsi qu’à des moyens, ceux- ci n’auraient probablement
+ secteurs connexes tels que l’industrie, les pas d’effet rétroactif et le remboursement
+ services publics et les matériaux. des recettes déjà engrangées pourrait
+ A la différence de la bulle Internet, les temporairement affecter les émissions de
+ valorisations actuelles des grandes bons du Trésor américain et provoquer une
+ entreprises technologiques sont corrélées à hausse de leurs rendements. Dans ce
+ leur rentabilité (voir graphique22, contexte, l’or devrait tirer son épingle du
+ page23). Les hyperscalers financent leurs jeu tandis que les prix des matières
+ investissements principalement grâce à premières plus généralement risqueraient
+ leur cash flow d’exploitation, et leur arrivée de grimper, en raison d’une résurgence des
+ sur les marchés de la dette est très récente. tensions et des barrières commerciales.
+ Les obligations émises dernièrement pour Les autres risques incluent de nouvelles
+ financer les centres de données et les confrontations géopolitiques au Proche-
+ infrastructures cloud ont suscité une forte Orient, en Asie ou en Europe de l’Est. Si les
+ demande de la part des investisseurs. Cela dirigeants des pays de l’UE ont jusqu’à
+ témoigne d’une confiance tangible envers présent rejeté la proposition de la
+
+Page 22 /44
+
+## Page 23
+
+Commission européenne d’utiliser des avoirs russes gelés s tablecoins n’est pas encore suffisamment développé pour que
+comme garantie pour un prêt à l’Ukraine, une telle mesure ces risques puissent se matérialiser au cours des douze prochains
+pourrait présenter des risques pour le système et le secteur mois, mais nous surveillons attentivement sa croissance. Tout
+financiers en Europe, ce qui nuirait aux actifs européens de signe de détérioration de la confiance envers les principaux
+façon plus généralisée. Des monnaies autres que l’euro, telles s tablecoins pourrait, à terme, accroître le risque de liquidation
+que le franc suisse, pourraient alors se voir favorisées et les des actifs qui les garantissent. Ces actifs sont généralement des
+achats d’or des investisseurs internationaux pourraient être obligations souveraines et des monnaies. Un tel scénario
+décuplés. En revanche, tout accord de paix en Ukraine n’aurait pourrait renforcer encore l’attrait de l’or en tant que couverture
+selon nous que des répercussions macroéconomiques contre les risques.
+relativement limitées.
+ Trajectoire économique : un risque moyen
+Conditions financières et crédit : un risque faible La croissance économique pourrait être exposée à des risques
+Nous surveillons constamment les conditions de crédit, car les baissiers, notamment avec l’affaiblissement des marchés de
+marchés du crédit constituent d’importants canaux de l’emploi. La politique budgétaire jouerait alors un rôle plus
+transmission de l’instabilité financière et des crises. Les signes important pour soutenir la croissance. Les obligations
+de crise du crédit comprennent une pénurie soudaine de souveraines et l’or bénéficieraient probablement d’un
+liquidités, des difficultés en matière de prêts interbancaires et ralentissement de la croissance mais, compte tenu de niveaux
+une hausse significative de la valeur des swaps de défaillance d’endettement déjà élevés parmi les économies développées et
+(produits dérivés offrant une certaine protection contre le risque de craintes quant à la viabilité budgétaire, les risques de change
+de défaillance). Tous ces éléments peuvent déclencher une pourraient eux aussi s’amplifier, ce qui, d’une part, limiterait la
+réaction en chaîne. Pour l’heure, nous observons des risques baisse des rendements souverains et, d’autre part, favoriserait
+idiosyncratiques liés à certaines entreprises, mais aucun risque l ’o r.
+systémique. En revanche, si des risques systémiques devaient
+apparaître, nous pensons que les taux d’intérêt de courte L’or, l’outil de diversification à privilégier
+échéance diminueraient et que les actifs soutenus par de telles Compte tenu des risques susmentionnés, l’or nous semble
+variations, comme l’or, en bénéficieraient dans une plus grande constituer un meilleur outil de diversification des portefeuilles
+mesure que les obligations souveraines, dont les perspectives que les emprunts souverains (dans divers scénarios). Par ailleurs,
+sont limitées par la détérioration des finances publiques. les matières premières peuvent créer de la valeur dans certains
+Nous surveillons également l’évolution du marché des s tablecoins cas.
+(dopé aux Etats-Unis par l’adoption, en juillet 2025, de la loi Globalement, l’IA, l’inflation, la croissance et les risques
+GENIUS Ac t créant un cadre réglementaire y afférent), ainsi que géopolitiques resteront des thèmes centraux tout au long de
+tout risque émergent pour le système financier (mis en évidence l’année 2026. Une philosophie d’investissement diversifiée et
+par la Banque des règlements internationaux et la Banque flexible, alliant quête de performance et gestion prudente des
+centrale européenne). Les s tablecoins sont une forme de risques pour répondre aux complexités du paysage économique
+cryptomonnaie indexée sur un actif de réserve, généralement le et politique, sera indispensable. Les matières premières
+dollar américain, mais parfois aussi d’autres monnaies ou des devraient conserver leur rôle dans la protection contre l’inflation
+matières premières. Une désindexation des principaux et le positionnement tactique, l’or permettant d’ancrer les
+s tablecoins par rapport à ces actifs de référence pourrait menacer portefeuilles face à des incertitudes persistantes.
+la stabilité financière. Il nous semble que le marché des
+
+22. Le niveau élevé des bénéfices technologiques justifie pour l’heure la hausse des cours des titres
+ Comparaison entre les bénéfices et les cours des entreprises technologiques à l’ère de l’Internet (graphique de gauche) et actuellement
+ (graphique de droite)
+
+600% 120%
+ * BPA : bénéfice par action
+500% 100%
+ Début de MSCI World IT : Lancement de
+400% l’« exubérance cours des actions 80% ChatGP T
+300% irrationnelle » 60%
+
+ MSCI World IT : MSCI World IT :
+200% 40% cours des actions BPA à 12 mois
+
+100% 20%
+
+ 0% 0%
+ MSCI World IT : prévision de BPA* à 12 mois*
+-100% -20%
+ 05.1995 05.1997 05.1999 05.2001 05.200301.2021 01.2022 01.2023 01.2024 01.2025
+
+ Sources : Lombard Odier, Bloomberg, données au 31 octobre 2025
+
+ Page 23 /44
+
+## Page 24
+
+assoiffé.
+
+ Aujourd ’ hui le monde est instable.
+
+ Pour ta nt, des oppor tunités existent.
+ A lors que les États investissent da ns
+ l ’intelligence a r ti ficielle pour ga ra ntir leur
+ autonomie stratég ique, la dema nde pour
+ de nouvelles technolog ies de ref roidissement
+ liquide aug mente rapidement.
+ En repensa nt le monde qui nous entoure,
+ nous cherchons à off r ir de la stabilité
+ à nos clients.
+ Découv rez la force de tout repenser
+ sur LombardOdier.com
+
+* Savoir tout repenser.
+Lombard Odier (Europe) S.A. - Succursale en France, 8 rue Royale - 75008 Paris RCS Paris 803 905 157 - Etablissement de crédit de droit luxembourgeois sous la surveillance de la Commission de Surveillance du Secteur Financier (CSSF) –
+supervisé par la CSSF au Luxembourg et sa succursale en France par l’ACPR et l’AMF. Tout investissement est exposé à une diversité de risques. Veuillez vérifier avec votre conseiller en investissement avant d’effectuer une quelconque transaction.
+Ceci est une communication publicitaire. Veuillez vous référer au prospectus et/ou document d’informations clés de l’OPCVM LO Funds avant de prendre toute décision finale d’investissement. ©2025 Lombard Odier
+
+## Page 25
+
+assoiffé.
+
+ Aujourd ’ hui le monde est instable.
+
+ Pour ta nt, des oppor tunités existent.
+ A lors que les États investissent da ns Class es d’actifs
+
+ l ’intelligence a r ti ficielle pour ga ra ntir leur
+ autonomie stratég ique, la dema nde pour
+ de nouvelles technolog ies de ref roidissement Actions
+ liquide aug mente rapidement.
+ En repensa nt le monde qui nous entoure,
+ nous cherchons à off r ir de la stabilité Obligations
+ à nos clients.
+ Découv rez la force de tout repenser Monnaies et matières premières
+ sur LombardOdier.com
+
+ Hedge funds
+
+ Actifs non cotés
+
+* Savoir tout repenser.
+Lombard Odier (Europe) S.A. - Succursale en France, 8 rue Royale - 75008 Paris RCS Paris 803 905 157 - Etablissement de crédit de droit luxembourgeois sous la surveillance de la Commission de Surveillance du Secteur Financier (CSSF) –
+supervisé par la CSSF au Luxembourg et sa succursale en France par l’ACPR et l’AMF. Tout investissement est exposé à une diversité de risques. Veuillez vérifier avec votre conseiller en investissement avant d’effectuer une quelconque transaction.
+Ceci est une communication publicitaire. Veuillez vous référer au prospectus et/ou document d’informations clés de l’OPCVM LO Funds avant de prendre toute décision finale d’investissement. ©2025 Lombard Odier
+
+## Page 26
+
+Actions
+Marchés développés : solidité et changement de leadership
+Corinne de Boursetty, Stratège actions senior
+
+ Une croissance mondiale modérée, soutenue par un
+ Points clés assouplissement monétaire et budgétaire, devrait déclencher une
+ · Notre opinion est positive à l’égard des actions, compte certaine rotation au détriment des titres américains de technologie
+ tenu de prévisions de croissance bénéficiaire robuste, et d’IA et en faveur des régions et secteurs actuellement à la traîne,
+ quand bien même les performances pourraient être qui présentent une croissance bénéficiaire de qualité et des
+ moindres que celles des deux dernières années valorisations raisonnables (voir graphique24). Parallèlement, le
+ · Les risques incluent la concentration sur le secteur de l’IA, secteur technologique chinois offre une croissance des bénéfices
+ des valorisations tendues, une possible résurgence similaire, de meilleures valorisations, une adoption plus rapide de
+ inflationniste aux Etats-Unis, l’affaiblissement du marché l’IA et un écart de performance technologique par rapport à son
+ de l’emploi américain, des craintes quant à la politique homologue américain qui se résorbe vite. En Europe, les
+ budgétaire / monétaire et des tensions géopolitiques valorisations sont supérieures aux moyennes historiques, mais la
+ · Les Etats-Unis demeurent un actif central, mais dont le croissance des bénéfices devrait profiter de l’assouplissement
+ potentiel haussier semble plafonné par le niveau élevé des budgétaire et d’un éventuel accord de paix en Ukraine. Cela
+ valorisations et des attentes bénéficiaires. Nous anticipons pourrait engendrer une rotation depuis les marchés périphériques
+ une rotation vers des régions et des secteurs affichant des vers les marchés du noyau dur, tels que la France et l’Allemagne, et
+ valorisations plus favorables, notamment l’Europe et la pourrait justifier une opinion plus positive à l’égard de la zone euro.
+ Suisse, où une reprise des bénéfices paraît possible. Les actions suisses permettent de s’exposer à des titres de qualité
+ raisonnablement valorisés, avec aussi une croissance bénéficiaire
+Les actions mondiales ont enregistré une performance de près de et un rendement du dividende solides. Au Royaume-Uni, malgré
+20% depuis le début de l’année. Pourtant, le risque de des valorisations raisonnables, les perspectives boursières nous
+concentration du marché augmente, les actions liées à l’IA ayant semblent toujours moindres.
+été les principaux moteurs du rallye. Après plusieurs années de Sur le plan sectoriel, nous privilégions la santé et les services
+forte performance, la volatilité pourrait augmenter et des reculs publics, qui devraient bénéficier des gains de productivité dus à
+temporaires de 5% à 10% ne peuvent être exclus. Cela étant, les l’IA et d’une demande croissante en énergie. Le secteur des
+perspectives globales sont positives et nous tablons sur une matériaux offre également de la valeur, soutenu par les
+croissance des bénéfices de 11,5% (voir graphique23), laquelle investissements infrastructurels et les dépenses liées à l’IA.
+devrait alimenter des gains boursiers significatifs en 2026. En termes de style d’investissement, nous privilégions les actions
+Nous privilégions les marchés hors Etats-Unis, car le niveau élevé conjuguant croissance de qualité et prix raisonnable, ainsi que
+des valorisations et la croissance bénéficiaire de 13% prévue par le celles versant des dividendes.
+consensus pour 2026 ne semblent offrir qu’une faible marge de Enfin, nos sélections d’actions thématiques à long terme (re think
+sécurité contre les risques éventuels, à savoir un ralentissement inves tments) semblent bien placées pour tirer parti de tendances de
+économique, une hausse de l’inflation, des erreurs dans la politique croissance structurelle dans des domaines tels que la transition
+de la Fed et tout repli de la thématique de l’IA. Les actions liées à climatique, la digitalisation et la longévité.
+l’IA représentent près de la moitié de la capitalisation boursière de
+l’indice S &P 500.
+
+23. Les marchés développés affichent des résultats solides24. Les valorisations sont tendues, sauf en Europe, au
+ Le redressement bénéficiaire sera le plus marqué en Europe, en Royaume-Uni et en Suisse
+ Suisse et au Japon R atio cours / bénéfices à 12 mois (attentes du consensus)
+
+ 18%
+ 16% BPA 2026 : attentes du consensus* 22 -1/+1 écart type 22
+ 13% 12%13%BPA 2026 : prévisions établies par -2/+2 écarts types
+ 14% 12.6% 12%Lombard Odier
+ 12% 11.5% 10.9% 18 18
+
+ 10% 8.4% 8% 7% 8%8% 9% 10%
+ 8% 14 14
+ 6%
+ 4% 10 10
+ 2% Médiane sur 10 ans
+ 6 Valorisation actuelle 6
+ 0% MSCI All MSCI MSCI MSCI MSCI MSCI MSCI MSCI All MSCI MSCI MSCI MSCI MSCI MSCI
+ Country World USA EMU Switzer- UK Japan Country World USA EMU UK Switzer- Japan
+ World (Europe) land World (Europe) land
+ Index * BPA : bénéfice par action Index
+Sources : Bloomberg, Lombard Odier, données au 10 novembre 2025 Sources : Bloomberg, Lombard Odier, données au 10 novembre 2025
+
+Page 26/44
+
+## Page 27
+
+Actions
+Marchés émergents : Profiter des vents favorables en 2026
+Patrick Kellenberger, Stratège actions marchés émergents
+
+ redresser après avoir subi un ralentissement cyclique et souffert
+ Points clés des droits de douane, grâce à l’assouplissement des conditions
+ · Les actions émergentes devraient encore progresser en financières et à la baisse des taxes sur la consommation. Après une
+ 2026, portées par les conditions macroéconomiques, les année 2025 décevante, la croissance bénéficiaire devrait
+ bénéfices et les facteurs techniques également s’intensifier en Chine, soutenue par la volonté du
+ · Nous tablons sur une accélération de la croissance gouvernement d’éliminer les capacités excédentaires au sein de
+ bénéficiaire à 15%, mais un moindre soutien sur le plan l’économie et par une plus grande autonomie technologique. Nous
+ des valorisations pensons toutefois que la croissance ne dépassera pas 9%
+ · Notre préférence va à l’Inde et à la Corée du Sud, (nettement en deçà des 15% prévus par le consensus), en raison de
+ observant également du potentiel haussier en Chine et pressions déflationnistes persistantes et d’un moral des
+ au Brésil. consommateurs en berne. Au Brésil, nous prévoyons une
+ croissance modérée des bénéfices, car les prix des matières
+ premières sont faibles et les taux d’intérêt diminuent, ce qui freine
+A date, 2025 a vu les actions émergentes enregistrer leur meilleure les secteurs de l’énergie, des matériaux et de la finance.
+performance annuelle, dépassant celle de 2016/2017, et nous Les indices boursiers affichent des tendances haussières en termes
+prévoyons de nouveaux gains en 2026, grâce à plusieurs vents absolus comme relatifs, les investisseurs sont globalement
+porteurs. sous- exposés et les flux entrants se maintiennent. Les achats
+L’environnement macroéconomique demeure favorable avec la nationaux de la Chine et de l’Inde devraient rester à des niveaux
+baisse des taux directeurs de la Fed, l’affaiblissement du dollar élevés, étayés par un excédent d’épargne et une situation
+américain et le maintien d’une forte propension au risque dans le démographique favorable.
+contexte d’une solide expansion économique. Les actions Les valorisations ont augmenté tout au long de l’année 2025 et se
+émergentes ont également fait preuve d’une résilience situent aujourd’hui dans la partie supérieure de leur fourchette
+exceptionnelle, surmontant mieux les chocs commerciaux de historique. Cela ne nous semble toutefois pas problématique et, à
+2025 que toutes les autres crises traversées au cours des deux horizon de douze mois, nous pensons qu’elles se maintiendront
+dernières décennies. aux alentours de leur niveau actuel, à savoir 14 fois les bénéfices.
+Nous tablons sur une accélération de la croissance des bénéfices, Ce niveau offrirait toujours une décote considérable de 30% par
+qui devrait passer de 13% en 2025 à 15% en 2026, tirée rapport aux actions des marchés développés. La Corée du Sud et le
+principalement par la Corée du Sud (voir graphique25). Le pays Brésil affichent selon nous des valorisations attractives et
+bénéficie en effet d’une forte demande en mémoire à large bande pourraient bénéficier de réformes en matière de gouvernance
+passante pour les infrastructures liées à l’IA, de l’accélération du d’entreprise et de baisses des taux d’intérêt. Les valorisations
+cycle de remplacement des équipements tels que les smartphones, semblent tendues en Chine et en Inde, et constituent même un
+ainsi que du niveau élevé des prix des semi- conducteurs. Les frein pour le marché taïwanais. Cela étant, les multiples chinois
+bénéfices semblent également robustes à Taïwan et en Inde. La pourraient encore grimper si les avancées réalisées en matière d’IA
+position dominante de Taïwan dans la fabrication de semi- dopent la confiance ou si le yuan s’apprécie plus rapidement que
+conducteurs de pointe compense largement le renforcement des prévu.
+barrières commerciales américaines. L’Inde devrait quant à elle se
+
+25. La plupar t des marchés émergents devraient afficher une 26. Les valorisations sont élevées mais pas encore
+ solide croissance des bénéfices problématiques, hormis à Taïwan
+ Prévisions de croissance bénéficiaire établies pour 2026 R atio cours / bénéfices à 12 mois (attentes du consensus)
+
+40% 24 24
+35% 38% 33% BPA 2026 : attentes du consensus Médiane sur 10 ans -1/+1 écart type
+ BPA 2026 : prévisions établies par Niveau actuel -2/+2 écarts types
+30% Lombard Odier 20 20
+
+25% 20% 16 16
+20% 18% 18% 17% 15%
+ 15% 14%
+15% 12 12
+ 9%
+10% 8 8
+ 5% 4% 4%
+
+ 0% 4 4
+ MSCI EM MSCI MSCI MSCI MSCI MSCI MSCI MSCI MSCI MSCI MSCI MSCI
+ South Taiwan India China Brazil Emerging China India Taiwan Korea Brazil
+ Korea Markets
+ Sources : Bloomberg, Lombard Odier, données au 4 novembre
+ 2025 Sources : Bloomberg, Lombard Odier, données au 4 novembre 2025
+
+ Page 27 /44
+
+## Page 28
+
+Obligations
+Priorité aux emprunts des marchés émergents
+Sami Pepin, Stratège obligations
+
+ Aux Etats-Unis, la baisse des rendements amorcée en 2025 est
+ Points clés susceptible de ralentir, l’économie se montrant toujours
+ · Nous privilégions les opportunités de revenu offertes par la résiliente et l’inflation demeurant élevée. Nous pensons que les
+ dette émergente et prévoyons une performance limitée bons du Trésor américain généreront des performances
+ des obligations d’entreprise modérées, soutenues par les coupons plutôt que par des
+ · Parmi les obligations souveraines des marchés développés, plus-values. Les rendements pourraient être exposés à des
+ notre préférence va aux Gi l ts britanniques, le recul de risques haussiers au début 2026, notamment si la croissance
+ l’inflation devant permettre à la BoE de procéder à des reste ferme ou si des tensions budgétaires réapparaissent. Pour
+ baisses de taux supérieures aux attentes actuelles autant, nous ne prévoyons pas de hausse structurelle des
+ · Nous identifions certaines opportunités parmi les rendements de long terme. Les rendements des bons du Trésor
+ obligations d’Amérique latine et d’Asie libellées en américain à dix et à deux ans atteindront selon nous 4,0% et
+ monnaie locale. 3,1% respectivement au cours des douze prochains mois.
+ Dans le cadre de nos allocations obligataires globales, nous
+Pour les obligations des marchés développés, la performance apprécions toujours la dette émergente, qui conjugue revenus
+en2026 nous semble appelée à reposer plus sur le revenu que intéressants (voir graphique28) et amélioration des indicateurs
+ de crédit. Dans le segment de la dette libellée en monnaie forte,
+sur des plus-values. Parallèlement, les courbes de rendement les écarts de rendement vis-à-vis des obligations d’entreprise
+des obligations souveraines sont susceptibles de se pentifier américaines sont proches de la juste valeur, mais le potentiel de
+davantage. En effet, compte tenu du niveau élevé des déficits revenu reste néanmoins solide, soutenu par de faibles
+budgétaires, de l’expansion de l’offre mondiale en obligations et prévisions de défaillance. Parallèlement, les obligations
+d’achats moindres de la part des banques centrales, les libellées en monnaie locale de certains pays d’Amérique latine
+rendements de longue échéance devraient progressivement et d’Asie semblent attractives, car les rendements réels sont
+creuser leur écart par rapport à ceux de court terme. Sur les élevés et, de notre point de vue, le dollar américain s’affaiblira
+marchés développés, nous privilégions les Gi l ts britanniques. La en 2026, ce qui devrait continuer à alimenter les flux entrants.
+faiblesse du marché de l’emploi, le niveau élevé de l’épargne Dans le segment des obligations d’entreprise, les écarts de
+des ménages, ainsi que le resserrement budgétaire qui freine la rendement vis-à-vis des obligations gouvernementales se
+croissance et l’inflation, nous confortent dans notre opinion : maintiennent à des niveaux historiquement bas, ce qui suggère
+l’abaissement des taux par la BoE devrait dépasser les attentes une performance limitée à l’avenir, les investisseurs privilégiant
+actuelles du marché, le taux directeur tombant à 2,75% d’ici
+fin2026. Nous tablons sur une convergence progressive des le revenu compte tenu de fondamentaux solides et d’une
+rendements des titres britanniques et américains à dix ans vers demande soutenue.
+4% au cours des douze prochains mois (voir graphique27). Globalement, en 2026, les performances obligataires devraient
+Grâce au soutien de la BoE, les Gi l ts devraient offrir une découler principalement du revenu. Nous pensons que les
+combinaison de revenus et de plus-values parmi les plus investisseurs positionnés dans l’optique de performances
+intéressantes. solides sur les marchés émergents et une sélection d’obligations
+ souveraines de qualité tireront leur épingle du jeu.
+
+27. Les Gilts britanniques offrent plus de valeur que les bons 28. Les revenus des obligations émergents semblent attractifs
+ du Trésor américain Rendements moyens actuels et passés, toutes catégories
+ Différentiel de rendements souverains 10 ans* obligataires
+
+ 6% Prévision de rendement des 9% Rendement actuel
+ bons du Trésor américain Prévisions à 12mois 8%
+ 5% à 10 ans 4.0% Rendement moyen au cours 6.9% 6.8%
+ 7% des 10 dernières années 5.9%
+ Prévision de rendement des 6% 5.4%
+ 4% Gilts britanniques 4.5%
+ à 10 ans Rendement des 4.0% 5% 3.8%
+ 3% bons du Trésor 4% 3.0%
+ américain à Rendement des 3% 2.5%
+ 2% 10 ans Gilts britanniques
+ à 10 ans 2%
+ 1% 1%
+ *Etats-Unis / Royaume-Uni 0%
+ 0% USD EUR USD EUR USD EUR Ha rdUSDEURUSDEURUSDEURMonnaie forteMonnaie Locallocale
+ 05.01.2015 05.01.2018 05.01.2021 05.01.2024Obligations Investment Haut currencyObligations
+ gouvernementalesGovernment InvestmentgraderendementHigh Yield Emergingémergentes
+Sources : Bloomberg, Lombard Odier, données au 3 novembre 2025 Sources : Bloomberg, Lombard Odier, données au 3 novembre 2025Grade Market Debt
+
+Page 28 /44
+
+## Page 29
+
+Monnaies et matières premières
+Léger affaiblissement en vu e pour le dollar américain
+Kiran Kowshik, Stratège marchés des changes
+
+ à écarter un assouplissement de la Fed, voire à intégrer des
+ Points clés hausses de taux d’intérêt. Un autre risque réside dans
+ · Nous anticipons un léger repli du dollar américain contre l’amélioration de la croissance économique des Etats-Unis, ainsi
+ d’autres devises principales que dans la surperformance des actions américaines née des
+ · La livre sterling et le yen japonais pourraient rester volatils gains de productivité générés par l’IA. La Fed reste toutefois
+ en raison de facteurs spécifiques à chaque pays centrée sur l’essoufflement du marché de l’emploi. Nous
+ · Nous formulons des perspectives positives pour l’or au cours estimons donc que ces événements nuiraient au dollar, la baisse
+ des douze prochains mois, avec un objectif de cours de des taux d’intérêt de la Fed créant des conditions propices aux
+ USD4’600 l’once. actifs risqués.
+ A l’inverse, les risques susceptibles d’accentuer la dépréciation
+Nous tablons sur un modeste repli du dollar américain en 2026, à du dollar incluent une éventuelle décision, une fois la nouvelle
+mesure des baisses de taux directeurs opérées par la Fed. Si les présidence de la Fed instaurée, d’adopter une politique
+marchés ont déjà intégré cet assouplissement monétaire, le extrêmement complaisante à l’égard de l’inflation. Il s’agit là d’un
+contexte général a son importance. La Banque centrale risque extrême, mais que nous ne pouvons pas totalement
+européenne et la Banque nationale suisse ayant achevé leur cycle écarter.
+
+d’assouplissement, les baisses de taux d’intérêt américains sont L’or conserve son éclat
+susceptibles de peser sur le billet vert. En outre,
+l’assouplissement monétaire des Etats-Unis coïncidera avec une Après l’envolée des prix de l’or au quatrième trimestre 2025, une
+politique budgétaire accommodante et un changement de pause semble maintenant probable. Nous formulons néanmoins
+présidence à la Fed. Cette situation pourrait déclencher un léger des perspectives positives pour les douze prochains mois, avec un
+repli de l’indice du dollar américain, qui évalue sa fermeté par objectif de cours de USD 4’600 l’once. La demande en or en tant
+rapport à plusieurs autres grandes monnaies. Nous tablons sur qu’outil de diversification des portefeuilles et de protection
+une appréciation de l’euro aux alentours de 1,22 contre dollar, un contre les risques macroéconomiques et géopolitiques devrait
+niveau proche du probable plafond de cette paire (voir rester soutenue, alors que l’offre demeure relativement stable.
+graphique29). Les banques centrales des marchés émergents devraient
+Face au franc suisse, le dollar devrait se déprécier à un rythme poursuivre leurs achats d’or, ce qui soutiendra les prix. Celles de
+plus lent qu’en 2025. La livre sterling et le yen japonais certaines grandes économies, notamment la Chine, l’Inde et le
+pourraient légèrement progresser en cas d’affaiblissement Brésil, affichent encore des réserves en or relativement faibles.
+généralisé du dollar, mais semblent appelés rester volatils en Les risques menaçant notre opinion positive vis-à-vis de l’or
+raison de facteurs spécifiques à chaque pays. incluent une augmentation rapide des rendements réels en cas de
+ hausse des taux d’intérêts américains, la vente de leurs réserves
+Certains risques pourraient favoriser une appréciation du dollar, par les banques centrales des marchés développés, ou encore un
+par exemple une reprise du rythme des embauches sur le marché affaiblissement de la demande émanant de secteurs tels que celui
+de l’emploi américain, qui pourrait amener les marchés financiers de la joaillerie, en raison des prix élevés du métal jaune.
+
+29. La paire EUR/USD devrait s’apprécier en 2026, mais le potentiel haussier pourrait être limité
+ Notre modèle à long terme pour la paire EUR/USD, reposant sur les fondamentaux macroéconomiques
+
+ 1.8 Modèle à long terme pour la paire EUR/USD (fondamentaux macroéconomiques)
+
+ 1.6
+
+ 1.4 Fourchette supérieure
+
+ 1.2
+
+ 1.0
+
+ 0.8 EUR/USD Fourchette inférieure
+
+ 0.6
+ 03.1983 07.1986 11.1989 03.1993 07.1996 11.1999 03.2003 07.2006 11.2009 03.2013 07.2016 11.2019 03.2023 07.2026
+
+ Sources : Lombard Odier, Bloomberg, FMI, OCDE
+
+ Page 29/44
+
+## Page 30
+
+Hedge funds
+Il est encore possible de tirer par ti des inefficiences de marché
+Richard Sharman, Analyste hedge funds senior
+
+ volatil qui les a constamment mises en position de désavantage.
+ Points clés Les fonds de crédit ont eux aussi enregistré des performances
+ · Les conditions qui ont favorisé la performance des hedge plutôt médiocres.
+ funds (fonds alternatifs) ces dernières années, à savoir Nous recommandons aux investisseurs en hedge funds de
+ une volatilité modérée, des entreprises actives et une maintenir une palette largement diversifiée de stratégies
+ dispersion de performances au sein des marchés, en2026. Les risques liés aux droits de douane et à la
+ devraient se maintenir en 2026 réglementation s’étant atténués ou précisés dans de nombreux
+ · En particulier, l’activité soutenue des entreprises pays et secteurs, nous entrevoyons un potentiel d’activité
+ pourrait à nouveau favoriser les stratégies de hedge funds toujours soutenue des entreprises en 2026 et un dynamisme
+ « event driven » et « relative value » continu des marchés des capitaux. Cet environnement devrait
+ · Nous recommandons toujours des expositions directement profiter à diverses stratégies « event driven »,
+ largement diversifiées de stratégies de hedge funds. visant à exploiter les erreurs de valorisation de certaines classes
+ d’actifs dans le cadre d’événements tels que des fusions, de
+L’année 2025 a offert de nombreuses opportunités dans le nouvelles émissions d’actions et des changements de
+secteur des hedge funds, avec des gains totaux égaux ou composition des indices boursiers. Une activité soutenue des
+supérieurs à ceux de 2024. De plus, en l’absence de certaines entreprises peut également engendrer des déséquilibres entre
+des incertitudes politiques de l’année précédente, les l’offre et la demande concernant certains titres. Les stratégies
+performances ont été plus prévisibles et plus constantes au de hedge funds « relative value » et « arbitrage », capables de
+cours des douze derniers mois. saisir les écarts entre les cours de titres similaires ou connexes,
+ que la trajectoire globale des marchés soit haussière ou
+L’année 2025 s’est également distinguée par une dispersion des baissière, pourraient également tirer leur épingle du jeu.
+performances entre les stratégies (voir graphique30). Les Nous tablons sur une performance plus modérée des stratégies
+stratégies de hedge funds « macro discrétionnaires » (au titre de crédit « distressed » en 2026, sauf en cas de forte
+desquelles les gérants prennent leurs décisions augmentation des défaillances ou d’élargissement systémique
+d’investissement en fonction de leur analyse du contexte des spreads de crédit. Les conditions peuvent changer
+macroéconomique et géopolitique) connaissent à ce stade une rapidement, mais ces deux éventualités ne constituent pas, à ce
+année exceptionnelle, les points de vue pris sur les taux stade, notre scénario de base. De même, s’il nous semble
+d’intérêt ayant porté leurs fruits. Les stratégies d’actions probable que la progression des marchés continue à soutenir les
+« long / short » (qui initient des positions susceptibles de tirer stratégies d’actions « long / short », les valorisations sont
+profit tant de la hausse que de la baisse des cours) ont actuellement tendues et la performance des douze prochains
+également enregistré une excellente année, les gérants ayant su mois pourrait donc ne pas être aussi solide que celle des douze
+exploiter l’essor des actions liées à l’IA. En revanche, les derniers.
+stratégies « trend-following » ont connu des difficultés dues aux
+fréquents revirements des marchés et à un environnement
+
+30. Une année 2025 inégale selon les stratégies de hedge funds
+ Performance médiane de certaines stratégies de hedge funds depuis début 2025
+
+20% 17.3%
+
+ 15% 14.0%
+
+ 9.6% 10.0% 11.4%
+10% 7.5% 7.9%
+
+ 5%
+
+ 0%
+ -3.6%
+ -5%
+ Trend-following Fonds quantitatifs Relative value Multi-stratégies Event driven Macro Long only Equity long / short
+ discrétionnaire (fonds directionnels)
+ Sources : UBS, Lombard Odier, données du 1er janvier au 30 septembre 2025
+
+Page 30 /44
+
+## Page 31
+
+Actifs non cotés
+Un regain de dynamiqu e
+Thierry Célestin, Responsable services clients, actifs non cotés, Banque privée
+
+ désormais leurs capitaux auprès d’un plus petit nombre de
+ Points clés gérants de fonds de private equity et privilégient leurs gérants
+ · En matière de private equity (capital-investissement) , actuels.
+ nous recherchons toujours des investissements à forte Dans le même temps, les co -investissements (dans le cadre
+ conviction au sein du marché intermédiaire, à l’échelle desquels les investisseurs participent à des transactions aux côtés
+ mondiale, et complétons ces positions par des co - de gérants de fonds de private equity) gagnent en popularité. Ces
+ investissements directs et des stratégies secondaires de stratégies visent à optimiser les frais et à accéder aux
+ niche opportunités les plus convaincantes. Cette évolution du
+ · Nous privilégions les portefeuilles d’actifs non cotés bien sentiment des investisseurs souligne une tendance généralisée
+ diversifiés, avec une exposition sélective à la dette privée en faveur d’investissements plus sélectifs et axés sur les relations.
+ et aux actifs réels
+ · Les actifs non cotés jouent un rôle central dans notre Private equity : focus sur le marché intermédiaire
+ « approche patrimoniale globale » pour les investisseurs Si la reprise globale n’en est encore qu’à ses débuts, la dynamique
+ éligibles qui disposent d’un horizon d’investissement et qui la sous-tend suggère que l’activité du marché des actifs non
+ d’une tolérance au risque appropriés. cotés renouera avec ses niveaux historiques. C’est un optimisme
+
+ prudent qui nous anime.
+A l’approche de 2026, la dynamique des marchés privés se Pour autant, les opportunités qui se présentent sont de plus en
+renforce, sur fond d’assouplissement des politiques monétaires plus nuancées. Un investissement en actifs non cotés repose sur
+menées par les banques centrales et d’amélioration des la sélection des gérants appropriés, car les performances varient
+conditions de liquidité. L’incertitude des investisseurs a considérablement. Pour pouvoir générer une performance
+commencé à se dissiper au troisième trimestre 2025, les données positive sur le long terme, il est donc essentiel de bien choisir les
+indiquant que la valeur totale des transactions de private equity investissements et de les mettre en œuvre au rythme approprié.
+avait atteint USD 596 milliards, son plus haut niveau depuis la fin
+2021. A une exception près, ce trimestre a donc connu la plus Dans les portefeuilles de private equity, nous privilégions toujours
+forte activité des dix dernières années (voir graphique31). une allocation coeur aux gérants spécialisés dans les stratégies
+Aux Etats-Unis, le nombre de sorties du capital des entreprises a « buy- out » (rachat d’entreprises) et « growth » (croissance) au
+augmenté de 22,4% durant les mois de juillet à septembre, sein du marché intermédiaire, à l’échelle mondiale. La première
+comparativement au trimestre précédent. Cela signifie qu’un plus catégorie vise à acquérir une participation majoritaire dans des
+grand nombre d’actifs avance dans le cycle d’investissement et, entreprises matures, tandis que la seconde cible les
+sur une base annualisée, le nombre de sorties devrait dépasser les investissements dans des entreprises bien établies dont la
+niveaux de 2024. croissance est rapide. Nous sommes convaincus que le segment
+ de marché intermédiaire (c’est-à- dire les entreprises dont la
+Les levées de fonds sont restées modestes, principalement en valeur est généralement inférieure à USD 1 milliard) offre une
+raison d’un moins grand nombre de sorties en 2023 et en 2024. valeur relative supérieure à celle des plus grandes entreprises. En
+En conséquence, les investisseurs institutionnels engagent effet, les acquisitions y sont généralement réalisées à hauteur de
+
+31. La valeur des transactions de private equity a atteint son plus haut niveau depuis la fin 2021
+ Valeur totale des transactions de private equity (en mia d’USD)
+
+ 800
+ 700
+ 600
+ 500
+
+ 400
+ 300
+ 200
+
+ 100
+ 0
+ T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4 T1 T2 T3 T4
+
+ 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+ Source : PitchBook, T3 2025
+
+ Page 31 /44
+
+## Page 32
+
+valorisations plus faibles, avec un moindre recours à l’effet de Actifs réels : un rendement résilient face à l’inflation
+levier, bénéficient d’un potentiel de croissance plus important et Les stratégies d’immobilier et d’infrastructure indexées sur
+offrent plus de possibilités de revente de l’entreprise concernée. l’inflation peuvent elles aussi favoriser la diversification des
+Nous estimons que les performances nettes attendues dans ce portefeuilles multi-actifs et générer des revenus stables grâce à
+segment restent supérieures à celles offertes par les stratégies leur rendement défensif. Ainsi, les investisseurs peuvent
+« buy- out » axées sur les grandes entreprises, où les valorisations bénéficier de tendances structurelles telles que celles liées aux
+sont plus élevées et la liquidité moindre. infrastructures digitales, à la transition énergétique et au
+Compte tenu de la grande dispersion de performance entre vieillissement démographique.
+gérants, nos allocations coeur au private equity privilégient ceux
+qui offrent une spécialisation sectorielle et proposent un Principe clé : la sélection des gérants
+processus clair pour créer de la valeur. Notre accès à ceux que De notre point de vue, l’année 2026 sera propice à une hausse
+nous considérons être les meilleurs gérants du marché ciblée des risques pour les investisseurs en actifs non cotés,
+intermédiaire nous permet par ailleurs de tirer parti d’un solide donnant la priorité au private equity dans le marché intermédiaire,
+flux de transactions en matière de co -investissements. à la dette privée diversifiée et aux actifs réels résilients face à
+Stratégies secondaires : liquidité et flexibilité l’inflation. Les fonds secondaires peuvent contribuer à la
+ flexibilité en termes de liquidité du portefeuille. Les co -
+Parallèlement, le marché secondaire (sur lequel les investisseurs investissements directs peuvent quant à eux également
+peuvent acheter ou vendre des participations dans des fonds de constituer un élément fondamental de toute allocation aux actifs
+private equity existants) devrait dépasser USD 200 milliards non cotés. La forte dispersion des performances entre gérants de
+en2025. A l’approche de 2026, cette dynamique est alimentée fonds d’actifs non cotés est susceptible de persister, faisant de la
+principalement par les investisseurs institutionnels en quête de sélection et de l’accès aux gérants de la plus haute qualité les
+liquidité, conséquence du ralentissement des distributions des principaux moteurs de performance.
+fonds de private equity existants et, parfois, d’une surexposition à
+ce secteur.
+Un investissement dans des fonds secondaires peut compléter les
+engagements consacrés aux nouveaux fonds de private equity et
+contribuer à atténuer la « courbe en forme de J » représentative
+des rendements habituellement moins élevés d’un fonds en
+phase de démarrage. En générant des cash flows plus tôt, les fonds
+secondaires peuvent améliorer la liquidité du portefeuille et
+compenser, au moins en partie, la duration typiquement plus
+longue des engagements au sein de fonds de private equity.
+
+Dette privée : croissance et diversification
+La dette privée (c’est-à- dire les prêts accordés à des sociétés non
+cotées par des prêteurs autres que des banques) a poursuivi sa
+forte croissance en 2025 et les levées de fonds devraient
+dépasser celles des années précédentes. Les prêts directs aux
+entreprises accordés par des investisseurs restent un élément
+fondamental de toute allocation à la dette privée, représentant
+environ la moitié des levées de fonds dans ce segment. Une
+allocation sélective à la dette privée peut favoriser la
+diversification d’un portefeuille. Les prêteurs actifs dans le
+marché intermédiaire offrent généralement de meilleures
+garanties en termes de durée du prêt et nous observons des
+difficultés accrues parmi les crédits de plus grande envergure,
+notamment la défaillance de quelques entreprises de premier
+plan.
+
+Page 32 /44
+
+## Page 33
+
+Investiss ement durable
+
+## Page 34
+
+Investissement durable
+Les capitaux privés reprennent le flambeau
+Sophie Chardon, Responsable investissement durable, Banque privée, avec l’aide d’Emma Favre, Equipe des investissements durables
+
+ Points clés
+ · L’année 2025 a mis des bâtons dans les roues de la durabilité, mais s’est avérée favorable à l’investissement durable, qui présente
+ des signes indéniables de maturité
+ · Après plusieurs années au centre de toutes les attentions, l’atténuation du changement climatique et les ambitions du secteur
+ public en la matière cèdent la place à l’adaptation, en réponse à une véritable prise de conscience quant à la trajectoire de
+ réchauffement de l’économie mondiale
+ · Cette évolution illustre un paradoxe plus large s’agissant de l’investissement durable : alors que les ambitions publiques se sont
+ fragmentées et que la transition acquiert une dimension plus régionale, les capitaux privés reprennent le flambeau et façonnent
+ l’avenir.
+
+L’année s’est avérée difficile pour la durabilité, notamment • L’Organisation maritime internationale a quant à elle repoussé
+depuis le retour de Donald Trump à la Maison-Blanche. Comme son vote sur une taxe carbone mondiale applicable au
+prévu, la fragmentation des politiques et les obstacles transport maritime, un secteur « difficile à décarboner » tout
+géopolitiques occupent le devant de la scène, engendrant de aussi important que celui de l’aviation, reportant ainsi sa mise
+nombreux retards et une dilution des engagements en 2025 : en œuvre à 2028 au plus tôt
+• Le gouvernement américain a retiré son pays de l’Accord de • La Chine a exploité sa position dominante dans la production
+ Paris sur le changement climatique, réduit les dispositions et le raffinage des terres rares (composants clés de la chaîne
+ prévues dans le cadre de la loi « Inflation Reduction Act » sur d’approvisionnement de la transition) dans le cadre de ses
+ la réduction de l’inflation (supprimant ainsi des incitations négociations avec les Etats-Unis.
+ essentielles en faveur de l’énergie propre) et interdit Comme l’on pouvait s’y attendre, la 30e session de la Conférence
+ l’utilisation de termes tels que « changement climatique » et des Parties sur les changements climatiques (COP 30) témoigne
+ « décarbonation » dans les communications fédérales de cet engagement insuffisant envers l’action climatique à
+• Le Parlement européen a considérablement restreint la portée l’échelle mondiale. Le coût de l’inaction augmente de concert
+ des informations en matière de durabilité que les entreprises avec l’aggravation des dommages climatiques. Des phénomènes
+ doivent publier, tout en proposant d’apporter des météorologiques extrêmes ont entraîné des dommages de
+ modifications au règlement de l’UE sur la publication USD101,4milliards aux Etats-Unis au premier semestre 2025,
+ d’informations en matière de durabilité dans le secteur des faisant de celui- ci le premier semestre le plus coûteux jamais
+ services financiers (SFDR), visant à répondre aux enregistré, selon l’organisation Climate Central. A l’échelle
+ préoccupations du marché quant à la complexité et à la facilité mondiale, l’objectif de 1,5 °C fixé par l’Accord de Paris est de
+ d’utilisation du cadre réglementaire. Parallèlement, en février plus en plus considéré comme irréaliste.
+ 2025, l’UE a mis en œuvre le Pacte pour une industrie propre, Parallèlement, et malgré un affaiblissement de la volonté
+ un plan stratégique destiné à accélérer la décarbonation politique, l’investissement durable gagne en maturité. La
+ industrielle et à renforcer la compétitivité en Europe
+
+32. La performance de l’énergie propre est proche de celle de la technologie sur les 12 derniers mois
+ Performance, basée à 100 en novembre 2024
+
+ 140
+ Indice MSCI World IT
+ 130
+
+ 120 Indice Bloomberg Goldman
+
+ 110 Sachs Clean Energy
+ Indice S &P Global Water
+ 100 Indice MSCI World
+
+ 90 Indice Foxberry Sustainable Food
+ Indice MSCI World Healthcare
+ 80
+ 11.2024 12.2024 01.2025 02.2025 03.2025 04.2025 05.2025 06.2025 07.2025 08.2025 09.2025 10.2025 11.2025
+
+ Sources : Bloomberg, Lombard Odier
+
+Page 34 /44
+
+## Page 35
+
+croissance du marché a porté le volume mondial total des actifs Alors que le secteur privé prend progressivement le leadership, la
+durables sous gestion à USD 3’700 milliards fin transition vers une économie « net-zéro », positive pour la
+septembre2025, selon les données de Morningstar. En 2022 et nature, inclusive et facilitée par la transformation digitale
+2023, les actions de la technologie propre avaient sous- devient plus régionale, plus pragmatique et axée dans une plus
+performé, la hausse des taux d’intérêt provoquant une grande mesure sur les opportunités.
+compression des marges, et la croissance s’inscrivant en deçà
+des attentes, quand bien même les valorisations profitaient d’un La transition énergétique à plus grande échelle, une
+enthousiasme accru envers le secteur au sortir de la pandémie. adaptation plus rapide
+En 2024, les actions des grandes entreprises technologiques Les moteurs structurels de la transition vers un modèle sobre en
+américaines ont enregistré des performances exceptionnelles. carbone restent solides, avec une hausse des investissements
+En 2025, certains fonds thématiques ont largement alimentée par la demande en électricité, le stress climatique et le
+surperformé les indices de référence traditionnels, en particulier vieillissement des infrastructures. Au premier semestre 2025,
+dans des thèmes environnementaux tels que l’électrification et malgré les incertitudes entourant les mesures incitatives
+les énergies renouvelables (voir graphique32, page34). Les publiques, les Etats-Unis ont investi USD 136 milliards dans les
+thèmes liés à l’eau et à la nature se sont bien comportés au solutions d’énergie propre (voir graphique33). La Chine a quant
+premier semestre grâce à un positionnement défensif, mais se à elle pris la tête des dépenses dans la transition énergétique
+sont affaiblis au second, pénalisés par des perspectives moins mondiale et les énergies renouvelables représentent désormais
+favorables dans le secteur des matériaux. Le secteur de la 46% de la capacité de production d’électricité du pays.
+biotechnologie a montré des signes de reprise le trimestre Fondamentalement, selon le cabinet de conseil Systemiq,
+dernier. Les investisseurs recentrent leur attention sur la solidité spécialisé dans les changements systémiques, nous aurons
+financière et la croissance, à mesure que le coût du capital se franchi des points de bascule économiques qui permettront aux
+normalise. Les entreprises dont les modèles d’affaires sont solutions de décarbonation de couvrir 40% des émissions
+évolutifs et résilients s’avèrent plus compétitives dans cet mondiales, une part appelée à croître à 75% d’ici à 2035. Ces
+environnement en évolution. points de bascule ouvrent la voie à un déploiement exponentiel,
+La durabilité entre dans une nouvelle phase, axée moins sur les les technologies propres devenant moins chères que les énergies
+ambitions politiques, et davantage sur les performances et sur fossiles.
+des résultats concrets. Nous sommes confrontés à une refonte
+stratégique : la durabilité n’est plus perçue comme un coût ou L’IA et la digitalisation : des facteurs d’accélération de la
+une contrainte réglementaire, mais comme un catalyseur de transition
+croissance économique, de sécurité énergétique et alimentaire, L’essor des infrastructures d’IA accélère l’électrification, un
+ainsi que de diminution du coût de la vie. A noter que le nombre thème d’investissement clé dans le cadre de la transition vers la
+d’entreprises américaines publiant des « objectifs fondés sur la durabilité. Selon nos recherches en matière de durabilité, la
+science » pour la réduction de leurs émissions a continué à demande en électricité émanant des centres de données devrait
+croître en 2025. plus que doubler au niveau mondial d’ici à 2030, dépassant
+Il ne s’agit donc pas d’une révision à la baisse des ambitions, 1’000térawatts-heure (TWh), soit plus que la consommation
+mais d’un réalignement sur des actions produisant des résultats actuelle du Japon. Aux Etats-Unis, ces centres représenteront
+et répondant mieux aux besoins régionaux, que ce soit en près de la moitié de la hausse de la demande en électricité,
+matière de sécurité énergétique et alimentaire ou de protection dépassant même les industries lourdes telles que la sidérurgie et
+sociale. Ainsi, les décideurs politiques, les investisseurs et les la cimenterie, selon l’Agence internationale de l’énergie.
+entreprises peuvent se concentrer sur des stratégies éprouvées,
+renforcer leur résilience et libérer de nouvelles sources de valeur.
+
+33. Les investissements américains dans l’énergie propre se sont poursuivis en 2025
+ En mia d’USD
+
+ 300
+ T1
+ 250 T2
+ T3 69
+ 200 T4 64
+
+ 150 48 71
+ 62
+ 100 38 44
+ 33 35 67 68
+ 50 22 23
+ 21 23 30
+ 17 21 24 34 42 56
+ 0 15 16 24 30 39 48 62 68
+ 2018 2019 2020 2021 2022 2023 2024 2025
+
+ Sources : Clean Investment Monitor, Lombard Odier, données au 5 novembre 2025
+
+ Page 35 /44
+
+## Page 36
+
+Nos recherches soulignent également le rôle fondamental des Les contraintes en matière d’approvisionnement renforcent
+semi- conducteurs dans cette transformation. En effet, ils cette opportunité. Les carnets de commandes sont
+facilitent l’électrification et la décarbonation en alimentant les considérables : deux à trois ans pour les câbles de distribution,
+technologies renouvelables, les véhicules électriques et les quatre ans pour les transformateurs et plus de cinq ans pour les
+réseaux intelligents. Ils engendrent également des gains câbles de transmission longue distance. Ces délais de plusieurs
+d’efficacité dans divers secteurs et soutiennent les systèmes années sont synonymes de visibilité et de résilience des marges,
+connectés et les systèmes d’IA contribuant à la réduction des entraînant ainsi une réduction des risques dans les bénéfices des
+émissions. principaux acteurs du secteur.
+A mesure de l’expansion des infrastructures d’IA, la durabilité Le stockage d’énergie et la mobilité dopés par les
+repose sur des solutions économes en énergie, une solide batteries
+performance environnementale et des pratiques circulaires. Les
+leaders des réseaux intelligents, des systèmes de refroidissement Le déploiement des solutions de stockage d’énergie dépasse les
+sophistiqués et des technologies à faibles émissions semblent prévisions chaque année depuis 2022. En 2024, le prix des
+bien placés pour tirer parti de l’un des thèmes d’investissement batteries lithium-ion a diminué d’environ 25% pour atteindre
+les plus résilients de la décennie. USD110le kilowatt-heure (kWh), grâce à la baisse des prix des
+ métaux utilisés dans leur fabrication et à des innovations
+Composants du réseau électrique : les gagnants cachés structurelles telles que la configuration cellule-bloc.
+Les fabricants de composants du réseau électrique, de BloombergNEF estime que le prix des batteries descendra sous
+transformateurs, d’appareils de commutation (ensembles la barre de USD 65 le kWh d’ici à 2030, sur fond de poursuite
+d’interrupteurs, de fusibles ou de disjoncteurs) et de câbles sont des avancées technologiques (voir graphique34).
+selon nous les bénéficiaires directs de la transformation du Les progrès réalisés dans la technologie des batteries font
+système énergétique. Contrairement aux systèmes fossiles, qui espérer que le système énergétique atteindra des points de
+fonctionnent en quasi continu et nécessitent peu de points bascule dans les domaines du transport routier, du transport
+d’interconnexion, les énergies renouvelables produisent de maritime et même des vols de courte durée d’ici 2035. En
+façon intermittente. En conséquence, la taille des infrastructures supposant que les courbes d’apprentissage actuelles se
+de réseau doit être adaptée à la production maximale et non pas maintiennent, la densité énergétique des batteries haut de
+à la production moyenne. Ainsi, un réseau principalement gamme devrait quasiment doubler par rapport à celle des
+renouvelable nécessite deux à trois fois plus de transformateurs actuelles batteries de véhicules électriques, dépassant le seuil de
+et d’appareils de commutation que les systèmes actuels par unité viabilité dans les transports lourds.
+d’énergie fournie. Du point de vue de l’investissement, les opportunités offertes
+La situation est similaire s’agissant des câbles. Le réseau par la fabrication de batteries sont susceptibles de devenir de
+électrique du futur devra être beaucoup plus interconnecté afin plus en plus intéressantes. Le marché mondial se consolide, les
+de compenser l’intermittence entre régions géographiques. Par principaux producteurs exerçant leur activité à grande échelle et
+exemple, alors que la Finlande atteint son pic de demande en renforçant leur pouvoir de fixation des prix. Sur le réseau, les
+soirée, l’Espagne produit encore de l’énergie solaire l’après-midi. batteries jouent un rôle de plus en plus important dans la
+Cela justifie le déploiement de câbles à haute tension couvrant réponse en fréquence, contribuant à stabiliser l’alimentation et à
+de très longues distances pour lisser la production à l’échelle du prévenir les pannes de courant, ce qui représente déjà une
+continent. source de revenus significative pour les spécialistes du stockage.
+
+34. Les prix des batteries ont for tement diminué depuis 2013
+ Prix d’un bloc-batterie lithium-ion, en USD par kWh
+
+ 800
+
+600
+
+400 Bloc-batterie : données historiques
+
+ 200
+ Bloc-batterie : projections
+
+ 0
+ 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+
+Page 36 /44
+
+## Page 37
+
+L’eau en tant que vecteur d’adaptation au changement Santé : investir dans la résilience et l’inclusion
+climatique et de croissance liée au climat La santé devient un pilier stratégique de l’investissement
+Avec le changement climatique et la multiplication des centres durable, notamment dans le contexte de l’adaptation au
+de données qui intensifie le stress hydrique et les risques de changement climatique, de l’évolution démographiqueet de la
+contamination, les technologies d’analyse, de traitement et de fragmentation géopolitique. La stratégie mondiale pour la santé
+gestion de l’eau acquièrent une importance stratégique. Les 2025-2028 de l’Organisation mondiale de la santé (OMS) fixe
+opportunités d’investissement englobent les technologies de un objectif ambitieux : sauver 40 millions de vies en adressant
+capteurs, les dispositifs de diagnostic assisté par IA et les les risques sanitaires liés au climat, en élargissant l’accès aux
+plateformes d’analyse décentralisées, ainsi que l’optimisation de soins et en renforçant la résilience face aux chocs futurs. En
+la consommation d’eau douce, la récupération des eaux de pluie termes d’investissement, les infrastructures de santé, les outils
+et d’autres stratégies d’approvisionnement durable. Ces de diagnostic et les plateformes de santé digitale permettent une
+solutions sont de plus en plus intégrées aux cadres de durabilité exposition évolutive tant à l’impact qu’à la croissance. La
+et au financement de l’adaptation, notamment dans les couverture sanitaire universelle devant une priorité mondiale,
+domaines de l’agriculture de précision, des infrastructures les entreprises qui facilitent l’accès, le diagnostic, l’abordabilité
+urbaines et des systèmes énergétiques. L’eau devenant un enjeu et l’efficacité du système semblent bien placées pour tirer parti
+géopolitique et économique majeur, les entreprises proposant de ces tendances.
+des technologies d’analyse et de purification évolutives à bas
+coût sont susceptibles d’attirer des mesures de soutien
+réglementaire et des capitaux liés l’action climatique.
+
+ Page 37 /44
+
+## Page 38
+
+## Page 39
+
+## Page 40
+
+## Page 41
+
+## Page 42
+
+## Page 43
+
+## Page 44

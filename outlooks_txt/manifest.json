@@ -1,0 +1,263 @@
+{
+  "generated_at_utc": "2026-03-13T14:06:11.343906+00:00",
+  "source_dir": "/Users/milo/Desktop/BDD_EDR/outlooks",
+  "output_dir": "/Users/milo/Desktop/BDD_EDR/outlooks_txt",
+  "counts": {
+    "total": 21,
+    "success": 21,
+    "failed": 0
+  },
+  "files": [
+    {
+      "source": "outlooks/AMUNDI - Perspectives d'investissement 2026.pdf",
+      "output": "outlooks_txt/AMUNDI - Perspectives d'investissement 2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 39,
+      "characters": 153462,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/AllianzGI_Outlook_2026_EN.pdf",
+      "output": "outlooks_txt/AllianzGI_Outlook_2026_EN.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 11,
+      "characters": 43738,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Anima - GlobalOutlook_2026.pdf",
+      "output": "outlooks_txt/Anima - GlobalOutlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 50,
+      "characters": 114327,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/BNP-Investment+Outlook+2026_EN.pdf",
+      "output": "outlooks_txt/BNP-Investment+Outlook+2026_EN.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 42,
+      "characters": 72638,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Berenberg - Horizon_Q1-2026.pdf",
+      "output": "outlooks_txt/Berenberg - Horizon_Q1-2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 16,
+      "characters": 57566,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/BlackRock - outlook-2026.pdf",
+      "output": "outlooks_txt/BlackRock - outlook-2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 18,
+      "characters": 85270,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Candriam - outlook 2026.docx",
+      "output": "outlooks_txt/Candriam - outlook 2026.txt",
+      "kind": "docx",
+      "method": "pandoc",
+      "success": true,
+      "pages": null,
+      "characters": 8177,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Carmignac - perspectives-2026-3539-12373.pdf",
+      "output": "outlooks_txt/Carmignac - perspectives-2026-3539-12373.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 6,
+      "characters": 22689,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/DWS - CEO View 2026.pdf",
+      "output": "outlooks_txt/DWS - CEO View 2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 2,
+      "characters": 12028,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/EDRAM - Outlook 2026.pdf",
+      "output": "outlooks_txt/EDRAM - Outlook 2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 28,
+      "characters": 49676,
+      "warnings": [
+        "page_2_empty"
+      ],
+      "error": null
+    },
+    {
+      "source": "outlooks/EFG_outlook_2026.pdf",
+      "output": "outlooks_txt/EFG_outlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 43,
+      "characters": 104598,
+      "warnings": [
+        "page_42_empty"
+      ],
+      "error": null
+    },
+    {
+      "source": "outlooks/GeneraliAM - Outlook_2026.pdf",
+      "output": "outlooks_txt/GeneraliAM - Outlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 24,
+      "characters": 62357,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Goldman Sach - Investment-Outlook-2026_fr.pdf",
+      "output": "outlooks_txt/Goldman Sach - Investment-Outlook-2026_fr.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 61,
+      "characters": 203479,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/JP Morgan - outlook-2026-fr.pdf",
+      "output": "outlooks_txt/JP Morgan - outlook-2026-fr.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 27,
+      "characters": 116163,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Lombard Odier - Perspectives 2026.pdf",
+      "output": "outlooks_txt/Lombard Odier - Perspectives 2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 44,
+      "characters": 130764,
+      "warnings": [
+        "page_16_empty",
+        "page_38_empty",
+        "page_39_empty",
+        "page_40_empty",
+        "page_41_empty",
+        "page_42_empty",
+        "page_43_empty",
+        "page_44_empty"
+      ],
+      "error": null
+    },
+    {
+      "source": "outlooks/M&G - investment-perspectives-outlook-26.pdf",
+      "output": "outlooks_txt/M&G - investment-perspectives-outlook-26.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 33,
+      "characters": 54309,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Oddo BHF - outlook 2026.pdf",
+      "output": "outlooks_txt/Oddo BHF - outlook 2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 2,
+      "characters": 7665,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Pictet - Perspectives 2026.docx",
+      "output": "outlooks_txt/Pictet - Perspectives 2026.txt",
+      "kind": "docx",
+      "method": "pandoc",
+      "success": true,
+      "pages": null,
+      "characters": 7157,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Santander AM -Market Outlook 2026 Climbing towards new highs.pdf",
+      "output": "outlooks_txt/Santander AM -Market Outlook 2026 Climbing towards new highs.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 52,
+      "characters": 125730,
+      "warnings": [
+        "page_52_empty"
+      ],
+      "error": null
+    },
+    {
+      "source": "outlooks/UBS Year Ahead.pdf",
+      "output": "outlooks_txt/UBS Year Ahead.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 68,
+      "characters": 113152,
+      "warnings": [
+        "page_3_empty",
+        "page_4_empty",
+        "page_67_empty",
+        "page_68_empty"
+      ],
+      "error": null
+    },
+    {
+      "source": "outlooks/lazard_outlook_2026.pdf",
+      "output": "outlooks_txt/lazard_outlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 21,
+      "characters": 51500,
+      "warnings": [],
+      "error": null
+    }
+  ]
+}

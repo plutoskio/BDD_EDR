@@ -1,0 +1,1712 @@
+Source file: JP Morgan - outlook-2026-fr.pdf
+Source path: outlooks/JP Morgan - outlook-2026-fr.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:04.671666+00:00
+Page count: 27
+
+---
+
+## Page 1
+
+EMOA Novembre 2025
+
+Les moteurs des marchés
+
+Auteurs
+Karen Ward Synthèse
+
+Stratégiste en chef des marchés, • Les marchés mondiaux restent solides malgré les tensions
+EMOA géopolitiques, notamment grâce aux politiques monétaires et
+Tilmann Galler budgétaires mises en place aux États-Unis, en Europe et en Asie
+Stratégiste des marchés mondiaux qui alimentent la croissance dans ces régions. L’économie devrait
+ poursuivre son expansion en 2026, à mesure que l’activité gagne
+Lucía Gutiérrez-Mellado progressivement l’ensemble des régions.
+Stratégiste des marchés mondiaux
+ • Cependant, cette abondance de liquidités n’est pas sans risques.
+Maria Paola Toschi L’histoire nous a appris que les politiques de relance, lorsqu’elles
+Stratégiste des marchés mondiaux sont excessives, entraînent généralement de l’inflation et/ou des
+Hugh Gimber bulles financières.
+
+Stratégiste des marchés mondiaux • Dans ce contexte, plusieurs stratégies s’offrent aux investisseurs.
+Lilia Peytavin Nos perspectives d’investissement pour 2026 comportent quatre
+Stratégiste des marchés mondiaux axes d’action :
+
+ – Gérez avec prudence la concentration du portefeuille dans le
+Aaron Hussein secteur technologique
+Stratégiste des marchés mondiaux
+ – Diversifiez de manière sélective au sein des actions mondiales
+Max McKechnie
+Stratégiste des marchés mondiaux – N’ayez pas peur d’investir sur les marchés privés
+
+Natasha May – Protégez-vous contre les déraillements de l’économie
+Analyste des marchés mondiaux
+
+Zara Nokes
+Analyste des marchés mondiaux
+
+## Page 2
+
+EMOA
+
+ Une croissance portée par les politiques monétaires et budgétaires
+
+Avec le retour de Donald Trump à la Maison-Blanche et la Outre les ménages à revenus moyens et élevés, les entreprises
+résurgence des tensions commerciales, on aurait pu penser dépensent elles aussi à un rythme soutenu, notamment
+que 2025 serait une année difficile pour les marchés. Au lieu de les sociétés technologiques. Les centaines de milliards de
+cela, les actions mondiales pourraient bien clôturer l’année sur dollars de dépenses d’investissement évoquées lors des
+une progression à deux chiffres. présentations de résultats des entreprises américaines
+Les marchés ont compris que si les tensions géopolitiques contribuent de manière tangible à la croissance américaine.
+
+font la une des journaux, d’autres forces sont également à L’activité devrait également s’accélérer de manière significative
+l’œuvre. La plus importante concerne les politiques monétaires en Europe continentale en 2026. L’énorme plan de relance
+et budgétaires toujours plus accommodantes, qui alimentent budgétaire annoncé en Allemagne en 2025 commencera à
+une machine économique déjà robuste. se répercuter dans les données économiques. Ces dépenses
+En effet, jamais auparavant, nous n’avions vu de déficits couvrent un très large éventail de projets, de la défense aux
+budgétaires ou de réductions de taux d’une telle ampleur en infrastructures de transport, en passant par les mesures
+dehors des périodes de récession (voir les graphiques 1 et 2). de soutien à l’industrie. Le caractère résolument tourné
+ vers l’investissement de ces plans devrait favoriser l’activité
+Aux États -Unis, les contribuables commenceront à ressentir les manufacturière et la croissance en général.
+bénéfices personnels de la relance budgétaire lorsque la One Les autres pays européens ont également décidé d’augmenter
+Big Beautiful Bill se traduira par des réductions importantes leur budget de défense, conformément à leur engagement
+d’impôt, au début de l’année 2026. Ce surplus de liquidités de porter leurs dépenses militaires à 3,5 % du PIB (5 % si l’on
+s’ajoute aux effets de richesse générés par les hausses à deux inclut les autres dépenses d’infrastructures liées) d’ici 2035.
+chiffres des prix des actions et de l’immobilier. La Réserve En 2024, les dépenses pour la défense de l’Union européenne
+fédérale (Fed), qui a fait l’objet de pressions politiques intenses, (UE) ont atteint 343 milliards d’euros, soit une hausse de 19 %
+semble maintenant disposée à ramener son taux directeur à par rapport sur un an, et devraient atteindre 400 milliards
+un niveau « neutre », qu’elle estime être autour de 3 %. d’ici la fin 2027. L’UE a annoncé des plans pour aider les états
+
+Il est important de noter que tous les Américains ne profitent membres à atteindre cet objectif, notamment la mise en œuvre
+pas de la relance budgétaire et de la baisse des taux d’intérêt, du programme SAFE (Security Action For Europe), qui prévoit
+car la consommation est de plus en plus portée par les 150 milliards d’euros de prêts, ainsi que des ajustements de
+ménages à revenu moyen ou élevé plutôt que par les ménages ses règles budgétaires.
+à bas revenu. Le graphique 3 illustre pourquoi les États-Unis
+ont récemment été qualifiés d’économie « en K ».
+
+ Graphique 1 : Des mesures de relance budgétaire sans Graphique 2 : … et maintenant en Allemagne
+ précédent compte tenu du faible taux de chômage aux
+ États-Unis…
+ Équilibre budgétaire et taux de chômage aux États-Unis Équilibre budgétaire et taux de chômage en Allemagne
+ % du PIB nominal (gauche) ; % (droite) % du PIB nominal (gauche) ; % (droite)
+ 3 2 4 4
+
+ 0 4 2 6
+
+ -3 6 0 8
+
+ -6 8
+ -2 10
+ -9 Prévision 10
+ -12 12 -4 12
+ Augmentation du Augmentation du
+ -15 chômage et 14 -6 chômage et Prévision 14
+ creusement du déficit creusement du déficit
+ -18 16 -8 16
+ ’90 ’95 ’00 ’05 ’10 ’15 ’20 ’25 ’30 ’35 ’97 ’02 ’07 ’12 ’17 ’22 ’27
+ Équilibre budgétaire Chômage (inversé) Équilibre budgétaire Chômage (inversé)
+
+ Source : Bloomberg, CBO, J.P. Morgan Asset Management. Les prévisions Source : Bloomberg, Destatis, J.P. Morgan Asset Management. Les
+ concernant l’équilibre budgétaire reposent sur le dernier budget et les prévisions concernant l’équilibre budgétaire sont celles de Destatis.
+ perspectives économiques du CBO. Données au 31 octobre 2025. Données au 31 octobre 2025.
+
+2 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 3
+
+EMOA
+
+Comme l’a souligné Christine Lagarde, la présidente de Le commerce extérieur devrait peser moins négativement
+la Banque centrale européenne (BCE), les dépenses de sur la croissance européenne en 2026. Les exportations
+défense peuvent améliorer la productivité si la recherche et européennes ont été anticipées avant l’introduction des
+développement débouche sur de l’innovation. Historiquement, droits de douane américains au printemps 2025, ce qui a
+les dépenses de défense européennes étaient principalement ensuite pesé sur les exportations le reste de l’année, mais le
+orientées vers le personnel, mais les plans futurs devraient commerce extérieur devrait se normaliser à mesure que cet
+davantage se concentrer sur les achats auprès d’entreprises effet s’atténue.
+établies en Europe, soutenant ainsi l’activité. L’Allemagne, qualifiée ces dernières années d’« homme
+
+Les investisseurs ne devraient pas sous-estimer la puissance malade de l’Europe », semble enfin renouer avec la
+de la politique budgétaire. À notre avis, l’absence de mesures croissance.
+de relance budgétaire en Europe par rapport aux États-Unis En France, la situation politique reste problématique pour
+explique en grande partie l’écart de croissance entre les deux l’ensemble l’Europe, mais les décisions difficiles, y compris
+régions au cours des 15 dernières années (voir le graphique 4). l’ajustement budgétaire, ont été largement différées jusqu’à
+Les mesures de relance budgétaire expliquent également l’élection présidentielle de 2027. Il est donc peu probable que
+pourquoi l’Europe du Sud, qui a été la principale bénéficiaire la France compromette la reprise européenne en 2026. Le pays
+du Fonds de relance de l’UE, a enregistré de si bons résultats étant fondamentalement « trop grand pour échouer », il est
+ces dernières années. Le fait que l’Allemagne entre enfin dans probable que des solutions européennes soient trouvées pour
+la dynamique de relance budgétaire (selon les prévisions, la atténuer cette pression, comme le programme SAFE destiné à
+croissance de l’investissement public devrait être de 20 % en soutenir les dépenses de défense via le bilan de l’UE.
+glissement annuel en 2026) est une grande nouvelle.
+L’économie européenne bénéficie elle aussi de la relance Les perspectives semblent légèrement moins dynamiques
+monétaire. La BCE a rapidement abaissé ses taux à mesure au Royaume-Uni, où les options monétaires et budgétaires
+que les risques d’inflation reculaient. La zone euro reste sont plus limitées. Comme en France, la situation politique
+une économie sensible aux taux d’intérêt à court terme, ne permet pas de réduire les dépenses publiques, si bien
+et les dernières baisses de taux continuent de soutenir la que de nouvelles hausses d’impôts pourraient peser sur la
+croissance du crédit dans la région : les prêts aux ménages croissance à court terme. Cependant, la faiblesse de l’activité
+comme aux entreprises ont progressé cette année. En pourrait enfin commencer à faire baisser l’inflation, ce qui
+Allemagne, la reprise de l’activité immobilière devrait se permettrait au moins à la Banque d’Angleterre de relâcher
+traduire par une hausse des dépenses de mobilier et de quelque peu sa politique restrictive.
+rénovation, soutenant ainsi davantage la demande intérieure.
+
+ Graphique 3 : Les classes les plus aisées comptent pour Graphique 4 : L’ancienne politique de restriction
+ la majorité des dépenses américaines budgétaire de l’Allemagne a probablement joué un rôle
+ décisif dans sa sous-performance
+ Dépenses hebdomadaires moyennes par tranche de Dette publique
+ revenu annuel
+ Moyenne mobile sur quatre semaines, calculée sur la base d’un % du PIB nominal
+ indice 100 correspondant au début de 2023
+ 110 140
+
+ 105 120
+
+ 100 100
+ Prévision
+ 80
+ 95
+ 60
+
+ 90
+ Jan ’23 Juil ’23 Jan ’24 Juil ’24 Jan ’25 Juil ’25 40
+ Individus gagnant plus de 250 000 $ par an ’10 ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+ Individus gagnant moins de 75 000 $ par an États-Unis Allemagne
+
+ Source : J.P. Morgan Asset Management. Le graphique repose sur une Source : Banque des Règlements Internationaux, BEA, Eurostat, FMI,
+ sélection de données internes fournies par Chase. Données au LSEG Datastream, J.P. Morgan Asset Management. La dette
+ 31 octobre 2025. correspond à la dette brute à la valeur faciale. Les lignes en pointillés
+ représentent les prévisions du FMI. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 3
+
+## Page 4
+
+EMOA
+
+L’Asie apporte elle aussi un soutien monétaire et budgétaire. Risques potentiels de déraillement :
+Au Japon, l’élection d’une nouvelle Première ministre pro- l’inflation
+croissance, favorable à la poursuite d’une politique monétaire
+et budgétaire accommodante, réduit la probabilité d’une L’adoption actuelle de mesures de relance d’une ampleur
+hausse marquée des taux d’intérêt et confirme le rôle du pays jamais vue en temps de paix ne va cependant pas sans
+comme fournisseur durable de capitaux bon marché. risques. Ces risques seront importants à surveiller pour
+ les investisseurs, afin que, même s’ils profitent du contexte
+La Chine tente de mettre en place des mesures de relance actuel, ils ne soient pas aveuglés par des problèmes
+monétaire et de soutien ciblé, sans grand succès jusqu’à ces potentiels en ligne de mire qui pourraient mettre en péril leurs
+derniers mois. La confiance des entreprises et des ménages rendements.
+reste faible depuis la pandémie de COVID. Par ailleurs, les
+mesures prises par le gouvernement pour atteindre son L’histoire montre qu’une relance excessive peut poser
+objectif affiché de « prospérité commune » semblent avoir problème si elle alimente soit la hausse des prix à la
+structurellement entamé l’appétit des entreprises chinoises consommation (particulièrement marquée dans les années
+pour le risque. 1970 et au début des années 2020), soit des bulles financières
+ (dans les années 1920 et 1990).
+Cependant, les perspectives de la Chine semblent atteindre
+un point d’inflexion. L’émergence de la société d’intelligence L’inflation s’est révélée être une source d’inquiétude pour
+artificielle (IA) DeepSeek a rappelé au monde le dynamisme nous, et elle le restera encore à moyen terme. Pour l’instant,
+entrepreneurial de la Chine. La reprise des valeurs de toutefois, un marché du travail suffisamment assagi et des
+croissance chinoises portée par les avancées de DeepSeek demandes salariales en modération rassurent les banques
+a soutenu l’ensemble du marché chinois et, combinée à la centrales : même si l’inflation globale remontait quelque peu,
+stabilisation des prix de l’immobilier, devrait contribuer à elle ne devrait pas s’ancrer via des anticipations de prix plus
+améliorer la confiance des consommateurs. Le commerce élevées et une hausse des salaires.
+chinois n’a, en réalité, pas vraiment souffert, malgré les Le risque pour 2026 est donc que, à mesure que l’activité
+gros titres, car les marchandises chinoises sont soit s’accélère, les salariés commencent à demander des
+redirigées vers d’autres marchés, soit réacheminées vers augmentations de salaire, et que l’inflation prenne davantage
+les consommateurs américains via d’autres régions (voir le d’ampleur. Nous gardons à l’esprit que les économistes ont
+graphique 5). généralement un piètre bilan en matière de prévision des
+Dans l’ensemble, considérant toutes les mesures de relance pics d’inflation. L’ampleur et la persistance de la hausse de
+ou de soutien prises, la dynamique de l’activité mondiale l’inflation survenue en 2022, qui s’est révélée particulièrement
+devrait retrouver de l’élan et s’étendre à d’autres régions du néfaste pour les actions et les obligations, n’avaient pas été
+monde en 2026. anticipées par le consensus (voir le graphique 6).
+
+ Graphique 5 : Les exportations chinoises vers les États- Graphique 6 : Le consensus s’attend à ce que l’inflation
+ Unis ont diminué, mais elles ont été compensées ailleurs américaine reste modérée, mais n’a pas prévu le dernier pic
+ Exportations chinoises par destination IPC global (« Headline ») et prévisions du consensus pour
+ les États-Unis
+ En milliards USD, variation réelle (en glissement annuel) Variation en % (en glissement annuel)
+ 60 10
+
+ 45 8
+
+ 30
+ 6
+ 15
+ 4
+ 0
+
+ -15 2
+
+ -30 0
+ ’20 ’21 ’22 ’23 ’24 ’25 ’19 ’20 ’21 ’22 ’23 ’24 ’25
+ États-Unis Europe Marchés émergents IPC global Prévisions du consensus
+
+ Source : China Customs, LSEG Datastream, National Bureau of Source : Bloomberg, BLS, LSEG Datastream,
+ Statistics of China, J.P. Morgan Asset Management. Données au J.P. Morgan Asset Management. Données au 31 octobre 2025.
+ 31 octobre 2025.
+
+4 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 5
+
+EMOA
+
+Si l’inflation se renforcer davantage, les banques centrales
+occidentales devront sans doute repousser l’idée de
+nouvelles baisses de taux. Certains pourraient avancer que
+les pressions politiques pousseraient les banques centrales
+à poursuivre l’assouplissement malgré tout. Les marchés L’histoire nous a appris que les
+obligataires pourraient cependant se montrer nerveux quant
+à la détermination des autorités monétaires à maintenir politiques de relance peuvent,
+la stabilité des prix, ce qui conduirait à une hausse des lorsqu’elles sont excessives, s’avérer
+rendements à long terme. problématiques si elles alimentent
+
+Les décisions de la Fed seront particulièrement scrutées l’inflation ou les bulles financières.
+en 2026. L’évaluation des présidents des banques fédérales
+régionales en février et le remplacement de Jerome Powell
+à la présidence en mai offrent à l’administration Trump la Notre prochain chapitre porte sur le crédit privé et le capital-
+possibilité d’exercer une influence accrue sur la politique investissement, deux marchés qui ont récemment soulevé
+monétaire. Si la Maison-Blanche parvient à révoquer le des interrogations en tant que potentiels destinataires d’une
+gouverneur Cook, et si les personnes actuellement nommées liquidité excédentaire susceptible de poser des problèmes à
+par Trump se rallient, il existe une possibilité qu’elle se terme. Nous jugeons la situation moins préoccupante que ne
+retrouve en position de nommer les 12 présidents des le laisseraient penser les récents gros titres (voir le chapitre
+banques régionales de la Réserve fédérale ainsi que trois des N’ayez pas peur d’investir sur les marchés privés ).
+sept gouverneurs, dont le président.
+
+Ce n’est pas notre scénario central, mais si l’indépendance De meilleures perspectives pourraient
+de la banque centrale américaine devait réellement être
+remise en question, le dollar serait probablement l’actif encore se profiler.
+qui en pâtirait le plus. Nous rappelons encore une fois aux Il n’est pas certain que ces abondantes liquidités aboutiront
+investisseurs de bien réfléchir à leur exposition aux devises à une inflation galopante ou à une bulle financière. Un
+puisque, comme en 2025, l’évolution du dollar peut avoir une scénario favorable de poursuite de l’expansion économique
+incidence notable sur les rendements finaux. durable est possible si ces mesures de relance soutiennent
+ l’augmentation de l’offre globale dans l’économie mondiale.
+Risques potentiels de déraillement : les Ce sera le cas si l’IA et d’autres nouvelles technologies
+bulles financières améliorent la productivité d’un large spectre d’entreprises.
+Les excès de liquidité ne se reflètent pas toujours dans les Les bénéfices actuels des géants technologiques pourraient
+prix à la consommation. Ils sont parfois plus visibles dans à terme profiter à l’ensemble des entreprises mondiales. Ces
+les prix des actifs. Étant donné les valorisations élevées des profits pourraient également être redistribués aux salariés
+marchés actions et l’envolée des prix de l’immobilier aux devenus plus productifs. Pour compléter ce tableau idyllique,
+États-Unis et en Allemagne, il s’agit d’un risque qui mérite une les États se retrouveraient submergés de recettes fiscales
+attention particulière. provenant d’entreprises et de ménages prospères, ce qui leur
+ permettrait de rembourser leurs dettes.
+La difficulté consiste à déterminer le moment où Ce scénario est possible. Pour conclure, nous
+l’enthousiasme rationnel bascule dans l’emballement recommandons par conséquent de rester exposé aux risques
+irrationnel. Il est encore plus difficile d’anticiper le passage tant que des mesures de relance ou de soutien sont mises
+de l’euphorie au désenchantement. C’est pourquoi nous en œuvre pour accompagner la croissance. Mais nous
+consacrons un chapitre entier à la partie du marché actions invitons également les investisseurs à rester très attentifs
+où les valorisations sont actuellement les plus élevées à la façon dont les choses pourraient mal tourner et de
+(voir le chapitre Gérez avec prudence la concentration du choisir leurs stratégies avec soin (voir le chapitre Protégez-
+portefeuille dans le secteur technologique ). Le degré élevé vous contre les déraillements de l’économie ). Si l’inflation
+de concentration sur les indices de référence des actions fait dérailler l’économie, les actions et les obligations en
+technologiques continue de nous inquiéter, compte tenu souffriront probablement. Selon nous, un parcours plus sûr,
+des interrogations relatives au retour sur investissement des capable d’atténuer les chocs inflationnistes, doit inclure un
+énormes dépenses que ces entreprises engagent, ainsi que ensemble d’actifs alternatifs offrant une véritable protection
+de l’augmentation progressive de l’effet de levier, qui semble contre l’inflation. Si le secteur technologique faiblit, ceux qui
+maintenant soutenir ces dépenses. Nous avons également investissent passivement dans des actions américaines ou
+consacré un chapitre aux opportunités risque/rendement mondiales seront en première ligne au moment de l’impact.
+que nous jugeons plus attractives hors du marché américain Les investisseurs doivent donc bien réfléchir à la manière
+(voir le chapitre Diversifiez de manière sélective au sein des dont ils allouent leurs capitaux afin de profiter efficacement
+actions mondiales). de la croissance, tout en s’assurant de disposer d’une
+ protection suffisante en cas de déraillement de l’économie.
+
+J.P. Morgan Asset Management 5
+
+## Page 6
+
+EMOA
+
+ Gérez avec prudence la concentration du portefeuille dans le secteur technologique
+
+Les discussions autour d’une bulle de l’intelligence artificielle Le troisième groupe est composé d’architectes de l’IA. Ces
+(IA) refont surface. Les valeurs technologiques à très grande entreprises développent de grands modèles de langage
+capitalisation ont enregistré une nouvelle année solide, mais (LLM) et d’autres applications d’IA qui peuvent être utilisés
+alors que l’attention se porte de plus en plus sur la nature pour n’importe quoi, de la création vidéo aux chatbots, en
+circulaire de certaines transactions très médiatisées et sur la passant par la recherche médicale complexe. ChatGPT,
+concentration sans précédent des indices actions américains, l’agent conversationnel d’OpenAI, est sans doute le modèle
+les investisseurs s’inquiètent à nouveau du risque d’une de langage le plus connu à ce jour, mais il existe de nombreux
+correction majeure des valeurs liées à l’IA. autres exemples populaires, tels que Claude d’Anthropic,
+ Gemini de Google, Grok de xAI et Le Chat de Mistral.
+L’écosystème de l’IA Bien que ces catégories couvrent clairement le volet offre de
+Pour répondre à ces préoccupations, il nous faut d’abord l’infrastructure de l’IA, il est beaucoup plus difficile de définir
+comprendre l’écosystème de l’IA, de plus en plus tentaculaire de manière globale le volet demande. Les utilisateurs vont
+(voir le graphique 7). des particuliers (par exemple, des utilisateurs de ChatGPT)
+ aux entreprises (par exemple, un centre d’appels utilisant
+Les fabricants de matériel se situent à la base de la pile des chatbots alimentés par l’IA), en passant par des sociétés
+technologique. Ce groupe comprend des sociétés telles que commerciales qui placent l’IA au cœur de leur offre de
+Nvidia (qui conçoit des puces spécialisées), TSMC (qui fabrique services, comme les éditeurs de logiciels qui vendent des
+des puces pour Nvidia, entre autres) et ASML (qui crée des outils pilotés par l’IA.
+outils de précision utilisés dans la fabrication de puces).
+ Dans un écosystème fonctionnel et mature, l’argent dépensé
+Viennent ensuite les « hyperscalers ». Ce groupe comprend par les utilisateurs finaux doit être suffisant pour générer des
+des géants industriels tels qu’Alphabet, Amazon, Meta, profits pour tous les acteurs concernés. Prenons l’exemple
+Microsoft et Oracle. 1 Ces entreprises construisent et exploitent d’un achat hebdomadaire au supermarché. L’argent que vous
+des centres de données, qui sont la colonne vertébrale de l’IA dépensez à la caisse devrait suffire pour que le supermarché,
+et plus largement du cloud computing. Environ la moitié des la société qui gère le foncier, les fabricants de produits
+dépenses d’investissement liées à l’IA étant consacrée aux alimentaires et les agriculteurs y trouvent tous leur compte.
+puces, les hyperscalers sont donc des clients essentiels pour
+les fabricants de matériel.
+
+1 Si les centres de données occupent souvent l’essentiel de l’attention, leur rôle dans l’écosystème est en réalité bien plus large, ce qui rend le tableau
+ plus difficile à interpréter. Prenez Microsoft : Azure est la plateforme de cloud computing de Microsoft, Microsoft 365 Copilot est un assistant de
+ productivité alimenté par l’IA, et l’entreprise a en outre investi dans OpenAI depuis 2019.
+
+ Graphique 7 : Les dépendances sont nombreuses dans l’écosystème de l’IA
+ L’écosystème de l’IA
+
+ Flux de demande Principaux acteurs Intrants essentiels
+
+ Entreprises et consommateurs
+ Demande de la particuliers
+ technologie finale
+ Architectes de l’IA Capacité de calcul pour entraîner
+ par ex. Anthropic, Mistral, OpenAI, xAI et exécuter des modèles d’IA
+
+ Demande de
+ capacités de calcul Hyperscalers Gros besoins en énergie et en
+ par ex. Alphabet, Amazon, Meta, Microsoft, Oracle capacité de refroidissement
+ pour fonctionnerles centres
+ de données
+
+ Demande de puces
+ Matériel informatique Terres rares essentielles pour
+ par ex. AMD, ASML, Broadcom, Nvidia, TSMC les chaînes d’approvisionnement
+ des semi-conducteurs
+
+ Source : J.P. Morgan Asset Management, novembre 2025.
+
+6 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 7
+
+EMOA
+
+ Surveillance de la bulle
+ L’envolée des cours des actions technologiques est telle
+ depuis la pandémie qu’il n’est guère étonnant qu’elle soit
+ comparée aux bulles antérieures.
+Les cycles de surinvestissement
+conduisent malheureusement bien Valorisations : des niveaux élevés, mais pas
+souvent à des surcapacités, qui prohibitifs si les bénéfices sont au rendez -vous
+ Alors que les valorisations actuelles ne sont pas aussi
+finissent par peser sur les marges. extrêmes que lors de la bulle Internet, le ratio P/E anticipé à
+ 12 mois de 23x du S&P 500 n’est pas loin de la valorisation
+ maximale de l’an 2000, tandis que le secteur des
+Dans l’écosystème actuel de l’IA, la demande des utilisateurs technologies se négocie sur des bénéfices anticipés de 31x
+finaux, particuliers comme entreprises, reste insuffisante (voir le graphique 8).
+pour permettre à l’ensemble des acteurs de dégager des Les fabricants de matériel affichent actuellement des
+profits. Depuis plusieurs années, les hyperscalers assument valorisations plus élevées (bénéfices anticipés à 12 mois
+l’essentiel des investissements, utilisant les revenus générés de 35x) que les hyperscalers (30x). Pour les architectes de l IA,
+par leurs autres activités pour financer le déploiement des cependant, les valorisations sont plus difficiles à comparer
+capacités d’IA, ce qui, en retour, profit aux fabricants de étant donné que des acteurs majeurs comme Anthropic,
+matériel. La vraie question est de savoir si la demande finale Mistral et OpenAI ne sont toujours pas cotés aujourd’hui. Ce
+peut croître suffisamment vite pour générer un retour sur manque de visibilité rend beaucoup plus difficile l’évaluation
+investissement raisonnable sur l’ensemble de la chaîne de précise des fondamentaux d’un groupe faisant partie
+valeur — la fameuse question à un million/milliard/billion de intégrante de l’écosystème tout entier.
+dollars.
+
+ Graphique 8 : Les valorisations sont élevées, mais restent Graphique 9 : Atteindre le sommet est difficile, y rester
+ inférieures à leur niveau au plus haut de la bulle Internet l’est encore plus
+ Les valorisations des actions américaines Comment ont évolué les actions les plus populaires de la
+ tech après 2000
+ x, multiple
+ 60 Rendements
+ Valorisation au plus haut de la bulle Internet P/E au pic depuis le pic
+ 50 Situation de la bulle de la bulle
+ Société actuelle Internet Internet
+ 40 Microsoft En 50,9x 1412 %
+
+ 30 Valorisation au plus exploitation
+ haut de la bulle Internet
+ 20 Cisco En 105,4x 42 %
+ exploitation
+
+ 10 Intel En 39,6x 1 %
+ exploitation
+ 0 Oracle En 103,9x 653 %
+ ’95 ’00 ’05 ’10 ’15 ’20 ’25 exploitation
+ S&P 500 Valeurs tech du S&P 500 IBM En 23,9x 409 %
+
+ exploitation
+
+ Lucent Fusionnée 43,9x 2 %
+ Technologies
+
+ Nortel Faillite 87,6x -
+ Networks
+
+ S&P 500 - 22,6x 620 %
+
+ Source : LSEG Datastream, S&P Global, J.P. Morgan Asset Source : LSEG Datastream, S&P Global, J.P. Morgan Asset
+ Management. Données au 31 octobre 2025. Management. Le pic de la bulle Internet s’est produit le 24 mars 2000.
+ Les performances passées ne sont pas un indicateur fiable des
+ résultats actuels et futurs. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 7
+
+## Page 8
+
+EMOA
+
+Deux leçons importantes peuvent être tirées des précédentes
+envolées des valeurs technologiques. La première est que
+les valorisations élevées n’empêchent pas automatiquement
+les rendements futurs. Un investisseur qui a acheté des
+titres Microsoft lorsqu’ils étaient à leur pic de valorisation En fin de compte, la vraie question
+de 68x en décembre 1999 aurait enregistré un rendement
+de plus de 1 000 % sur les 25 années suivantes (à condition est de savoir si la demande finale
+qu’il ait conservé ses actions pendant le krach de 2000, peut croître suffisamment vite pour
+lorsqu’elles ont perdu 65 % de leur valeur). La seconde leçon, générer un retour sur investissement
+cependant, est que les marchés boursiers sont généralement
+très mauvais pour prédire les futurs gagnants des raisonnable sur l’ensemble de la chaîne
+révolutions technologiques. Si l’on examine les entreprises de valeur — la fameuse question à un
+technologiques les plus populaires du S&P 500 au pic de la
+bulle Internet de 2000, seule Microsoft a conservé sa place million/milliard/billion de dollars.
+parmi les 10 plus grandes entreprises une décennie plus tard
+(voir le graphique 9). Identifier les gagnants à long terme en
+temps réel est une tâche incroyablement complexe. Cette solidité financière a jusqu’à présent permis à de
+ nombreux hyperscalers de financer leurs dépenses
+Santé financière : une amélioration sensible d’investissement dans l’IA à partir de leur trésorerie
+par rapport à 2000, mais des fragilités disponible. Nous notons, cependant, que les dépenses
+commencent à apparaître d’investissement prévues pour les années à venir
+ accapareront davantage les liquidités disponibles (voir le
+La solidité financière des méga-capitalisations de l’IA est graphique 10). Les récentes décisions de Meta, Oracle et
+sans doute la principale raison qui rend les comparaisons xAI pour exploiter les marchés de la dette publique et privée
+avec la bulle Internet plus discutables. Contrairement aux méritent d’être scrutées à cet égard.
+bilans fragiles des entreprises d’il y a 25 ans, Amazon, Apple,
+Alphabet, Meta, Microsoft et Nvidia disposent aujourd’hui Cependant, la nature de plus en plus circulaire des accords
+de 450 milliards de dollars de liquidités. Dans le passé, la autour de l’IA ces derniers mois rappelle ce que nous avons
+difficulté d’obtention des crédits a souvent été un élément connu à la fin des années 90. L’annonce faite en septembre
+majeur de l’éclatement des bulles financières. On peut donc selon laquelle Nvidia envisage d’investir jusqu’à 100 milliards
+penser que les géants technologiques d’aujourd’hui ont de dollars dans OpenAI a sans doute été la plus commentée.
+moins à craindre sur ce point. OpenAI, de son côté, canalisera une grande partie de cet
+ investissement dans la sécurisation de nouvelles capacités
+ de calcul, ce qui stimulera la demande pour les puces Nvidia.
+
+ Graphique 10 : Les engagements d’investissement entament les liquidités
+ Dépenses d’investissement des cinq principaux hyperscalers américains du secteur de l’IA
+ En milliards USD (gauche) ; en % (droite)
+ 675 Prévision 90
+ 600 80
+ 525 70
+ 450 60
+ 375 50
+ 300 40
+ 225 30
+ 150 20
+ 75 10
+ 0 0
+ ’04 ’06 ’08 ’10 ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+ Total des dépenses d’investissement Part des flux de trésorerie d’exploitation
+
+ Source : Bloomberg, J.P. Morgan Asset Management. Le graphique montre les dépenses totales d’investissement d’Alphabet, de Meta, de
+ Microsoft et d’Oracle, ainsi qu’une estimation des dépenses d’AWS (Amazon). Les flux de trésorerie d’exploitation représentent les flux de trésorerie
+ avant les dépenses d’investissement. Données au 31 octobre 2025.
+
+8 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 9
+
+EMOA
+
+Les optimistes diront que Nvidia utilise ses liquidités pour Le point positif est qu’en attendant beaucoup plus longtemps
+simplement anticiper la demande future. Pourtant, plus les avant d’entrer en bourse, les entreprises ont renforcé
+entreprises sont liées entre elles, plus grand est le risque l’ensemble des fondamentaux du secteur technologique coté.
+qu’une seule défaillance fasse s’écrouler l’écosystème tout L’inconvénient est que les investisseurs qui n’accèdent au
+entier. thème de l’IA que par les marchés cotés risquent de passer à
+ côté de certains futurs gagnants de long terme, aujourd’hui
+Structure du marché : un biais croissant en uniquement accessibles via des stratégies de capital-
+faveur des marchés privés exige une approche investissement.
+différente Profits exceptionnels : une « norme » pourrait
+Les introductions en bourse constituent une autre
+différence majeure aujourd’hui. La bulle Internet se s’avérer difficile à maintenir
+caractérisait notamment par des introductions en bourse Contrairement à la fin des années 1990, lorsque les
+frénétiques : en 1999, le rendement médian au premier jour valorisations s’envolaient alors que les bénéfices stagnaient,
+pour les 476 entreprises américaines qui sont entrées en la hausse actuelle des cours est beaucoup plus portée par la
+bourse était de 57 %, contre seulement 7 % en moyenne progression des résultats. Ce n’est pas qu’une question de
+entre 1980 et 2024. Ces rendements exceptionnels ont chiffre d’affaires : il faut aussi prendre en compte les marges :
+incité les entreprises à se ruer sur le marché beaucoup plus celles du secteur technologique américain sont actuellement
+rapidement qu’à l’ordinaire (voir le graphique 11). plus de deux fois supérieures à celles du S&P 500. Les
+Si les introductions en bourse ont repris au second investisseurs supposent aujourd’hui que les entreprises
+semestre 2025, l’activité reste nettement plus limitée. Cela technologiques génèreront des bénéfices exceptionnels par
+reflète en partie la tendance croissante des entreprises à rapport au reste de l’indice.
+
+rester non cotées, en raison d’un fardeau réglementaire plus Certes, la rentabilité des grands noms de l’IA sur les marchés
+léger et de la large disponibilité des capitaux privés, comme privés est généralement beaucoup plus faible, mais la
+nous l’expliquons dans le chapitre N’ayez pas peur d’investir croissance de leur chiffre d’affaires reste impressionnante.
+sur les marchés privés. OpenAI générerait désormais un chiffre d’affaires annuel
+ dépassant 13 milliards de dollars, mais compte tenu de
+ ses dépenses massives de R&D, la société ne devrait pas
+ atteindre la rentabilité avant l’horizon 2030.
+
+ Graphique 11 : L’activité d’introductions en bourse est Graphique 12 : Le boom américain des investissements
+ aujourd’hui moins vigoureuse dans le schiste bitumineux a été suivi d’un effondrement
+ Rendement médian au premier jour des introductions en Prix du pétrole brut WTI et nombre de plateformes de forage
+ bourse aux États-Unis
+ % Prix en USD par baril (gauche) ; nombre de plateformes (droite)
+ 70 120 1 800
+
+ 60 100 1 500
+
+ 50 80 1 200
+
+ 40 60 900
+
+ 30 40 600
+
+ 20 20 300
+
+ 10 0 0
+ 0 ’10 ’11 ’12 ’13 ’14 ’15 ’16 ’17
+ ’80 ’84 ’88 ’92 ’96 ’00 ’04 ’08 ’12 ’16 ’20 ’24 Cours du pétrole Plateformes pétrolières
+
+ Source : Jay Ritter – Université de Floride, J.P. Morgan Asset Management. Source : Baker Hughes, Bloomberg, J.P. Morgan Asset Management.
+ Les performances passées ne sont pas un indicateur fiable des résultats Les performances passées ne sont pas un indicateur fiable des
+ actuels et futurs. Données au 31 octobre 2025. résultats actuels et futurs. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 9
+
+## Page 10
+
+EMOA
+
+La poursuite de cette croissance des bénéfices dépend Les architectes de l’IA communiquent sur la croissance
+à la fois de la demande finale et de la capacité des astronomique de leur base d’utilisateurs, mais l’acquisition
+entreprises technologiques à maintenir leurs marges d’utilisateurs payants s’avère bien plus difficile. Dans le cas
+exceptionnelles. Les cycles de surinvestissement conduisent d’OpenAI, ChatGPT a battu tous les records en matière de
+malheureusement bien souvent à des surcapacités, qui rapidité d’adoption technologique, mais seulement 5 % de
+finissent par peser sur les marges. Le boom du schiste des ses 800 millions d’utilisateurs sont actuellement des clients
+années 2010 en est un excellent exemple : des percées dans payants, selon le Financial Times.
+les techniques de forage ont provoqué une forte hausse de Les résultats d’une récente enquête sont tout aussi mitigés.
+l’offre de pétrole, avant qu’un effondrement brutal des prix Selon un sondage mené par l’US Census Bureau au sujet
+n’entraîne une vague de faillites (voir le graphique 12). de l’IA, seulement 9 % des entreprises américaines utilisent
+
+Le principal défi pour les hyperscalers dans l’estimation l’IA pour produire des biens et des services. Et les disparités
+précise de la demande future réside dans le nombre élevé de sont grandes selon les secteurs. Fait quelque peu inquiétant,
+variables en jeu. D’ici 2030, l’intensité en ressources de l’IA lorsque l’on examine plus en détail les réponses récentes,
+actuelle aura-t-elle nettement diminué ? Aurons-nous réalisé on s’aperçoit que la demande des plus grandes entreprises
+des avancées majeures en matière d’intelligence artificielle pourrait commencer à ralentir (voir le graphique 13).
+générale (AGI) ? Et à quelle vitesse le matériel dédié à l’IA D’autres études laissent entrevoir des perspectives
+deviendra-t-il obsolète face à de nouveaux développements beaucoup plus réjouissantes. L’indice Ramp AI, par exemple,
+technologiques ? Aucune de ces questions n’a aujourd’hui montre que 44 % des entreprises interrogées paient pour
+de réponse précise, ce qui implique une marge d’erreur un abonnement à l’IA (voir le graphique 14), ou l’enquête
+importante dans les estimations concernant les futurs trimestrielle Pulse de KPMG qui met en évidence une
+besoins en dépenses d’investissement et les bénéfices. augmentation constante du déploiement d’agents d’IA
+La demande finale : la question la plus conçus pour améliorer la productivité des employés.
+importante, et la plus difficile
+Si l’IA permet in fine aux entreprises de créer de nouvelles
+et importantes sources de revenus et de réduire
+considérablement leurs coûts de main-d’œuvre, les
+bénéfices des géants de la tech continueront de croître de
+manière impressionnante. Pourtant, si les consommateurs
+et les entreprises devaient s’avérer plus réticents à dépenser
+de grosses sommes dans les nouvelles technologies de
+l’IA, il sera beaucoup plus difficile d’obtenir un retour sur les
+investissements massifs réalisés aujourd’hui.
+
+ Graphique 13 : Certains signes semblent indiquer une Graphique 14 : Les données de facturation brossent un
+ baisse de l’investissement des grandes entreprises dans l’IA portrait plus optimiste de l’adoption de l’IA
+ Les entreprises américaines utilisant l’IA pour produire des Mesures d’adoption de l’IA
+ biens et des services, par taille
+ En %, moyenne mobile sur 12 semaines En %, part des entreprises
+ 16 50
+ 14
+ 12 40
+
+ 10 30
+ 8
+ 6 20
+ 4
+ 2 10
+
+ 0 0
+ Déc. 23 Juin 24 Déc. 24 Juin 25 ’23 ’24 ’25
+ 1-4 employés 5-9 employés 10-19 employés Entreprises qui ont souscrit un abonnement payant à un
+ 20-49 employés 50-99 employés 100-249 employés service d’IA (indice Ramp AI)
+ Plus de 250 employés Entreprises déclarant adopter l’IA (Census Bureau)
+
+ Source : Bureau du recensement, J.P. Morgan Asset Management. Source : Census Bureau, indice Ramp AI, J.P. Morgan
+ Données au 31 octobre 2025. Asset Management. Données au 31 octobre 2025.
+
+10 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 11
+
+EMOA
+
+Les facteurs susceptibles de retourner d’affaires entre le 1er trimestre 2023 et le 2e trimestre 2025.
+ Si les résultats ont pendant un temps largement dépassé
+les marchés les attentes, l’écart diminue cependant à mesure que
+Voyons maintenant ce qui pourrait retourner l’engouement ces dernières augmentent, et il ne faut pas oublier que le
+actuel des investisseurs pour les valeurs liées à l’IA. rythme de croissance des dépenses d’investissement des
+ hyperscalers est censé ralentir (voir les graphiques 15 et 16).
+Un faux pas très médiatisé Si l’une de ces méga-capitalisations du secteur de l’IA devait
+Compte tenu du nombre croissant d’interconnexions au sein faire un faux pas important, les répercussions pourraient
+de l’écosystème de l’IA, un « flop » très médiatisé pourrait affecter de nombreuses entreprises du secteur. Autre
+être très dommageable pour l’ensemble des acteurs du exemple : si OpenAI maintenait ses plans d’introduction en
+secteur. Les publications des résultats sont la première bourse pour 2026 et rencontrait des difficultés pour atteindre
+chose à vérifier. NVIDIA, par exemple, a systématiquement la valorisation souhaitée.
+dépassé les attentes en termes de bénéfices et de chiffre
+
+ Graphique 15 : L’écart entre les résultats des entreprises et les attentes s’amenuise à mesure que ces dernières augmentent
+ La croissance trimestrielle du chiffre d’affaires et des bénéfices de NVIDIA dépasse les attentes
+ Points de % de différence par rapport au consensus
+ 30
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ 0 T1 2023 T1 2024 T1 2025
+
+ Bénéfices Chiffre d’affaires
+
+ Source : LSEG Datastream, J.P. Morgan Asset Management. Données au 31 octobre 2025.
+
+ Graphique 16 : La croissance des dépenses d’investissement des hyperscalers devrait ralentir
+ Croissance des dépenses d’investissement des cinq principaux hyperscalers d’IA américains
+ Variation en % (en glissement annuel)
+ 70
+ Prévision
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+ 20
+
+ 10
+
+ 0
+
+ -10
+ ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+
+ Source : Bloomberg, J.P. Morgan Asset Management. Le graphique montre la croissance annuelle des dépenses totales d’investissement
+ d’Alphabet, de Meta, de Microsoft et d’Oracle, ainsi qu’une estimation des dépenses d’AWS (Amazon). Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 11
+
+## Page 12
+
+EMOA
+
+Des contraintes de capacité 2. Se diversifier au niveau régional : L’exposition particulière
+La question de la capacité des fournisseurs d’énergie et des indices américains au thème de l’IA plaide en faveur
+de matières premières à répondre à la demande future en d’une diversification régionale, comme nous l’expliquons
+capacités de calcul a, jusqu’à présent, reçu bien moins dans Diversifiez de manière sélective au sein des actions
+d’attention du marché, alors qu’elle est tout aussi essentielle. mondiales. Premièrement, les grands gagnants de la
+Des articles de presse faisant état de pannes d’électricité course à l’IA seront peut-être dans d’autres parties du
+liées à l’expansion des centres de données, ou d’une pénurie monde, notamment en Asie. Deuxièmement, si l’attention
+de minéraux essentiels à la fabrication de puces, sont du marché passe des producteurs d’IA aux utilisateurs
+deux exemples de problèmes susceptibles de modifier le d’IA, le mix sectoriel européen pourrait en bénéficier. À
+sentiment du marché. l’inverse, si le sentiment lié à l’IA se détériore, la faible
+ exposition à la technologie de marchés comme le
+Une crise de liquidité Royaume-Uni et la Suisse deviendrait soudainement plus
+ attrayante.
+Un choc extérieur, indépendant du secteur de la technologie,
+pourrait aussi être le catalyseur d’une correction. Du fait de 3. Se diversifier sur les marchés publics et privés : À travers
+leurs valorisations importantes, les valeurs technologiques se l’histoire, nombreux sont les créateurs de nouvelles
+négocient de plus en plus comme un thème à bêta élevé, qui technologies qui ont été évincés par des start-ups plus
+surperforment les marchés en hausse et sous-performent dynamiques et plus jeunes. Si la création de valeur se
+les marchés en baisse. Si notre scénario de risque extrême, concentre finalement davantage sur les développeurs
+celui d’un choc d’inflation qui déclenche une hausse des des outils capables d’exploiter l’IA, plutôt que sur les
+rendements obligataires, se concrétise, nous pensons que fournisseurs d’infrastructures, les gagnants à long terme
+les actions liées à l’IA seront particulièrement touchées. pourraient bien se trouver aujourd’hui encore sur les
+ marchés privés. C’est l’une des raisons pour lesquelles
+ nous adoptons une position structurellement positive sur
+Comment se positionner le capital-investissement (voir le chapitre N’ayez pas peur
+Avec un sentiment lié à l’IA qui constitue aujourd’hui un d’investir sur les marchés privés).
+moteur dominant des marchés, les investisseurs ne peuvent
+clairement pas se permettre d’attendre de voir comment va Conclusion
+évoluer la demande pour se positionner sur les marchés.
+En général, dans un contexte imprévisible, la diversification Les géants de la tech ont enregistré des bénéfices très
+est une approche avisée. S’agissant de l’imprévisibilité liée solides, mais les perspectives concernant la demande
+à l’IA, nous voyons trois façons spécifiques de stimuler la future d’IA restent très incertaines et, par conséquent, il est
+diversification. également très incertain que ces attentes élevées seront
+ satisfaites. Il est, par ailleurs, encore plus difficile de savoir
+1. Se diversifier dans l’écosystème : Les risques et les quand ces déceptions pourraient avoir lieu. C’est pourquoi
+ opportunités auxquels sont confrontées les entreprises nous mettons en garde contre les portefeuilles trop fortement
+ du secteur de l’IA peuvent varier considérablement. Si, positionnés à la hausse ou à la baisse. La diversification
+ par exemple, les hyperscalers surestiment la demande au sein de l’écosystème de l’IA, des régions et entre les
+ future de capacité de calcul, ce surinvestissement pourrait marchés publics et privés devrait offrir le meilleur ratio
+ exercer une pression à la baisse sur les prix, au détriment risque/rendement, en aidant les investisseurs à gérer les
+ de leurs marges et au bénéfice des consommateurs changements que cette nouvelle révolution technologique
+ de cette capacité de calcul. Nous pouvons également pourrait engendrer.
+ constater qu’il y a des gagnants et des perdants dans
+ chaque segment de l’IA. Dans le segment matériel,
+ par exemple, le temps dira si l’écosystème de l’IA peut
+ permettre à plusieurs fabricants de puces (comme
+ Nvidia, Broadcom et AMD, entre autres) de coexister, ou
+ si ces acteurs sont, in fine, confrontés à un scénario de
+ domination totale par un seul acteur.
+
+12 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 13
+
+EMOA
+
+ Diversifiez de manière sélective au sein des actions mondiales
+
+Alors que les responsables politiques du monde entier Valeurs européennes : des bénéfices en
+renforcent la dynamique économique, nous sommes positifs hausse
+quant à un élargissement de la croissance mondiale. Ces
+perspectives économiques devraient soutenir les marchés Les actions européennes ont bien commencé l’année 2025,
+boursiers en dehors des États-Unis. Les investisseurs grâce à l’important écart de valorisation avec les États-Unis, un
+devraient donc veiller à ce que leurs portefeuilles ne soient pas sous-positionnement en Europe et un changement radical de
+trop concentrés sur les valeurs technologiques américaines la politique budgétaire allemande. Mais les bénéfices décevants
+(voir le chapitre Gérez avec prudence la concentration du ont entraîné un ralentissement des performances depuis juin.
+portefeuille dans le secteur technologique ), même si la hausse
+des cours outre-Atlantique pourrait se poursuivre en 2026. Après sept mois de révisions à la baisse, les estimations
+Il est important de noter que la diversification régionale ne de bénéfice par action (BPA) européen semblent s’inverser
+permet pas seulement d’atténuer les risques ; elle peut pour 2026 et les prévisions ascendantes tablent sur une
+également améliorer les rendements. La diversification croissance de 12 % en glissement annuel. Une croissance
+contribuera bien sûr à protéger les portefeuilles contre comprise entre 4 et 6 % nous semble plus réaliste et cohérente
+le risque d’un repli du sentiment à l’égard de l’IA et de la avec le rythme habituel des révisions à la baisse du consensus.
+correction de marché qui pourrait en découler. Mais la Le principal moteur de la croissance des bénéfices devrait être
+diversification peut aussi stimuler les rendements dans un un ralentissement ou un arrêt probable de l’appréciation de
+monde où la progression haussière des valeurs liées à l’IA se
+poursuit, comme nous l’avons vu en 2025 (voir le graphique 17). l’euro en 2026. Cela devrait aider les entreprises européennes,
+En 2026, il conviendra de privilégier les marchés dont les car environ la moitié de leur chiffre d’affaires provient de leurs
+fondamentaux s’améliorent, ainsi que, dans une certaine activités à l’international. L’euro s’est apprécié de manière
+mesure, ceux qui sont moins corrélés au sentiment lié à significative par rapport au dollar américain en 2025. Ce
+l’IA. Les rendements seront probablement de plus en plus phénomène s’explique davantage par la faiblesse du dollar que
+tributaires des bénéfices plutôt que de la croissance des par de meilleures perspectives de croissance européennes.
+multiples, dans la mesure où les valorisations des actions sont Cette appréciation de l’euro a contribué à une révision à la baisse
+élevées dans de nombreuses régions (voir le graphique 18). Les de 17 % des estimations de BPA pour 2025 dans les secteurs
+investisseurs doivent également prendre en compte l’impact exportateurs européens, tandis que les secteurs domestiques
+des mouvements de change sur les rendements. ont vu leurs estimations relevées de 1 % (voir le graphique 19).
+
+ Graphique 17 : La diversification régionale a porté ses Graphique 18 : Les valorisations des actions sont élevées
+ fruits en 2025 sur la plupart des marchés
+ Rendement total depuis le début de l’année Ratio P/E anticipé à 12 mois
+ % de rendement total en EUR x, multiple
+ Petites cap. US 24
+ États-Unis 22
+ Japon 20
+ Sept magnifiques 18
+ Royaume-Uni 16
+ Europe hors 14
+ Royaume-Uni 12
+ Tech. chinoise
+ Chine 10
+ Italie 8
+
+ Espagne
+ Banques Europe
+ Défense Europe
+ Actuel Point 25e-75e 10e-90e
+ 0 20 40 60 80 100 120 médian centile centile
+
+ Source : BME, FTSE, LSEG Datastream, MSCI, Russell, S&P Global, STOXX, Source : FTSE, IBES, LSEG Datastream, MSCI, S&P Global, Bourse de Tokyo,
+ Bourse de Tokyo, J.P. Morgan Asset Management. Les valeurs utilisées J.P. Morgan Asset Management. Les valeurs utilisées pour l’Asie hors
+ pour la Chine, le secteur technologique chinois et l’Europe hors Royaume - Japon, la Chine, les marchés développés, les marchés émergents,
+ Uni proviennent de l’indice MSCI. Banques européennes : STOXX 600 l’Europe hors Royaume-Uni et le monde proviennent de l’indice MSCI.
+ Banks ; défense européenne : panier d’actions européennes de défense ; Japon : TOPIX ; Royaume-Uni : FTSE 100 ; États-Unis : S&P 500. La
+ Italie FTSE MIB ; Japon : TOPIX ; Espagne : IBEX ; Royaume-Uni : FTSE 100 ; valorisation correspond au ratio cours/bénéfices anticipés à 12 mois, tel
+ États-Unis : S&P 500 ; petites capitalisations américaines : Russell 2000. que publié par IBES. Fourchette et médiane calculées sur les 20 dernières
+ Les performances passées ne sont pas un indicateur fiable des résultats années. Données au 31 octobre 2025.
+ actuels et futurs. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 13
+
+## Page 14
+
+EMOA
+
+Par ailleurs, la plus grande stabilité des prix de l’énergie devrait de croissance des bénéfices entre les deux régions se rétrécit.
+également porter les bénéfices des sociétés européennes, Après la crise financière mondiale, les bénéfices des entreprises
+compte tenu du poids des secteurs liés aux matières premières américaines ont augmenté en moyenne 8 points de pourcentage
+dans les revenus des entreprises incluses dans l’indice. plus vite que les bénéfices de leurs homologues européennes
+En Europe, les estimations de BPA de ces secteurs pour (en annualisé), mais cet écart devrait se réduire à 2 points de
+l’année 2025 ont été révisées à la baisse de 27 % en raison de la pourcentage entre 2025 et 2027. Ainsi, selon les prévisions
+baisse du cours du pétrole. En 2026, la croissance du BPA des actuelles du consensus, les investisseurs peuvent payer un
+secteurs de l’énergie et des matériaux devrait rebondir à 7 et multiple de 16x les bénéfices anticipés en Europe (hors Royaume-
+31 %, respectivement, et les dernières révisions sont à la hausse. Uni), ou de 23x aux États-Unis, pour des bénéfices attendus
+Ce n’est pas seulement la dissipation des vents contraires relativement similaires.
+qui devrait permettre un retour à la croissance des bénéfices Rester sélectif
+européens. L’économie européenne pourrait également Bien que nous soyons globalement positifs sur l’Europe, nous
+surprendre à la hausse. Les prévisions de croissance du PIB recommandons néanmoins aux investisseurs de rester sélectifs
+de la zone euro sont déjà orientées à la hausse, et la politique et de se concentrer sur trois segments principaux : les banques,
+budgétaire devrait apporter un soutien supplémentaire, en les bénéficiaires des politiques budgétaires et les GRANOLAS. 1
+particulier en Allemagne où nous anticipons une progression
+de la croissance, de zéro à un niveau nettement supérieur Premièrement, les valeurs bancaires européennes sont
+au potentiel (voir le chapitre Une croissance portée par les attractives. Malgré un rendement de près de 200 %, dividendes
+politiques monétaires et budgétaires). compris, depuis le début de 2022, nous pensons que le secteur
+Toujours « moins cher », voire franchement bénéficie encore de vents favorables. Les valeurs bancaires
+ européennes se négocient à un ratio cours/valeur comptable
+bon marché raisonnable de 1,1x, ce qui est bien en dessous de leur moyenne
+Les valorisations européennes restent attractives par rapport d’avant la crise financière mondiale, et offrent un rendement
+aux actions américaines et aux autres actifs. L’indice MSCI solide pour les actionnaires (rachats plus dividendes) de 8 %.
+Europe ex-UK est le seul indice boursier majeur dont le ratio P/E La croissance des bénéfices a été plus de deux fois supérieure
+anticipé à 12 mois est actuellement inférieur à ce qu’il était à celle de l’indice depuis 2019, et les prévisions révisées du
+début 2022 (voir le graphique 20). Les multiples européens sont consensus pour le BPA de 2026 montrent que cette robustesse
+actuellement 35 % inférieurs à ceux des États-Unis, ce qui est devrait perdurer. Une croissance nominale plus forte et des
+proche du plus grand écart jamais enregistré. Cependant, l’écart courbes de rendement plus pentues que dans les années 2010
+ devraient également soutenir les bénéfices bancaires.
+
+1 GSK, Roche, ASML, Nestlé, Novartis, Novo Nordisk, L’Oréal, LVMH, AstraZeneca, SAP et Sanofi.
+
+ Graphique 19 : Les entreprises tournées vers l’export Graphique 20 : L’Europe est l’une des rares régions où
+ et liées aux matières premières ont fortement freiné les les valorisations n’ont pas enregistré de croissance
+ bénéfices en 2025 depuis 2022
+ Estimations des bénéfices pour 2025 Décomposition des rendements depuis début 2022
+ Niveau d’indice, base 100 au 31 octobre 2024 %, sources de rendement total en monnaie locale
+ 105 100
+
+ 100 80
+
+ 95 60
+
+ 90 40
+
+ 85 20
+
+ 80 0
+
+ 75 -20 Japon États- Royaume
+ Unis -Uni Europehors Marchés Chine
+ 70 Royaumeémergents
+ Nov ’24 Jan ’25 Mars ’25 Mai ’25 Juil ’25 Sept.’25 Nov ’25 -Uni
+ STOXX Europe 600 Secteurs domestiques Évolution des attentes en matière de bénéﬁces Dividendes
+ Secteurs d’exportation Secteurs des matières premières Variation des multiples Performance totale
+
+ Source : IBES, LSEG Datastream, STOXX, Source : FTSE, IBES, LSEG Datastream, MSCI, S&P Global, Bourse de
+ J.P. Morgan Asset Management. Les secteurs domestiques sont ceux Tokyo, J.P. Morgan Asset Management. Les valeurs utilisées pour la
+ qui génèrent plus de 50 % de leur chiffre d’affaires en Europe. Les Chine, les marchés émergents et l’Europe hors Royaume-Uni
+ secteurs exportateurs sont ceux qui génèrent moins de 50 % de leur proviennent de l’indice MSCI. Japon : TOPIX ; Royaume-Uni : FTSE 100 ;
+ chiffre d’affaires en Europe. Données au 31 octobre 2025. États-Unis : S&P 500. Les performances sont exprimées en devises
+ locales (Europe hors Royaume-Uni en EUR), à l’exception de celles des
+ marchés émergents qui sont exprimées en dollars américains. Les
+ multiples correspondent au ratio cours/bénéfices anticipés à 12 mois et
+ les prévisions de bénéfices anticipés sont à 12 mois, tels que publiés
+ par IBES. Les performances passées ne sont pas un indicateur fiable
+ des résultats actuels et futurs. Données au 31 octobre 2025.
+
+14 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 15
+
+EMOA
+
+ Chine : une perspective d’investissement
+ dans l’IA à un prix plus raisonnable
+ Nos perspectives sont modérément positives à l’égard de
+Les entreprises européennes du secteur la Chine. Alors que le marché chinois a progressé de près
+ de 80 % depuis son plus bas début 2024, nous pensons que
+de la défense devraient enregistrer la hausse peut continuer, quoiqu’à un rythme plus modéré,
+une croissance de leurs bénéfices porté à la fois par les bénéfices et les valorisations.
+bien plus rapide que leurs homologues Focus sur la tech et les exportateurs
+américaines au cours des prochaines Le contexte sous-jacent s’améliore pour les actions chinoises,
+années. Comparées à la croissance grâce au secteur technologique. Selon les prévisions du
+ consensus, la croissance du BPA de l’indice MSCI China devrait
+récente des dépenses militaires, les passer de 2 % en 2025 à 15 % en 2026 et en 2027, ce qui est
+dernières hausses des valorisations bien au-dessus de la moyenne de 10 % enregistrée au cours
+ de la dernière décennie. Les entreprises technologiques sont
+semblent plus raisonnables. les principaux moteurs de cette croissance des bénéfices :
+ les prévisions du consensus concernant le BPA du secteur
+ technologique chinois pour l’année 2026 ont été révisées à
+Deuxièmement, les bénéficiaires des politiques budgétaires la hausse de 4 % cette année, et la croissance annualisée
+semblent bien positionnés. L’Union européenne prévoit de des bénéfices devrait dépasser les 30 % au cours des deux
+dégager des fonds importants pour la défense, la sécurité prochaines années. Les actions technologiques chinoises se
+énergétique et les infrastructures au cours des prochaines négocient à des multiples inférieurs à ceux de leurs homologues
+années. Les entreprises de ces secteurs ont fortement américaines (25x contre 31x les bénéfices anticipés), tout en
+progressé : un panier de valeurs européennes de la défense étant censées afficher une croissance des bénéfices plus forte.
+
+affiche une hausse de plus de 100 % depuis le début de Les entreprises de la tech chinoises sont également bien
+l’année, et les entreprises de biens d’équipement impliquées placées pour tirer parti du développement de l’IA. Dans un
+dans les infrastructures liées à l’IA et les services publics ont récent sondage, 93 % des Chinois ont déclaré utiliser de
+également enregistré de fortes avancées. Nous pensons que manière intentionnelle l’IA au travail en 2024, contre 67 %
+ce rallye peut se poursuivre, car les investisseurs restent, aux États-Unis.2 La capacité des centres de données devrait
+selon nous, sceptiques quant à la mise en œuvre des croître plus rapidement en Chine qu’aux États-Unis au
+dépenses européennes. Les entreprises européennes du cours des prochaines années (voir le graphique 21). Nous
+secteur de la défense devraient enregistrer une croissance pensons que la Chine rencontrera moins de contraintes
+de leurs bénéfices bien plus rapide que leurs homologues réglementaires susceptibles de freiner une adoption
+américaines au cours des prochaines années. Comparée à généralisée de l’IA que d’autres pays, qui pourraient
+la croissance des dépenses militaires, la récente hausse des privilégier une approche plus réfléchie et donc plus lente.
+valorisations semble plus raisonnable. Les entreprises chinoises du secteur de la tech bénéficient
+
+Troisièmement : les GRANOLAS affichent un retard de également du soutien de l’État, dont le dernier plan
+performance, mais restent attractives. Ces entreprises, qui quinquennal met l’accent sur la technologie. Le soutien
+représentent les 11 plus grandes capitalisations européennes public a déjà aidé certains secteurs industriels chinois,
+des secteurs de la santé, des produits de première comme celui des véhicules électriques, à développer des
+nécessité, de la technologie et du luxe, ont sous-performé économies d’échelle impressionnantes que les concurrents
+depuis début 2022 alors que les rendements ont fortement internationaux n’ont pas été en mesure d’égaler. Les
+augmenté, que l’euro s’est renforcé et que la croissance en véhicules électriques chinois représentent maintenant près
+Chine a ralenti. Affichant désormais un ratio P/E anticipé des deux tiers des ventes mondiales (voir le graphique 22),
+de 19x, les GRANOLAS se négocient avec une décote par et la part de la Chine dans les ventes européennes de ces
+rapport au S&P 500 et avec une prime plus faible qu’au cours véhicules est six fois plus élevée qu’en 2020.
+des dernières années par rapport au reste de l’Europe. Ils Au-delà du secteur de la technologie, nous sommes optimistes
+offrent une couverture contre les variations du sentiment lié sur les exportateurs chinois en général. Le gouvernement chinois
+à l’IA, leur corrélation avec les Sept Magnifiques étant faible. continue de stimuler les secteurs qui ont sa préférence, dont
+Certains facteurs propres aux secteurs concernés pourraient beaucoup sont orientés vers l’exportation, comme la fabrication
+également s’améliorer. Les entreprises européennes du de panneaux solaires. Les efforts visant à réduire la concurrence
+secteur du luxe, qui ont sous-performé de près de 25 % excessive (à savoir la politique dite « anti-involution ») peuvent
+depuis début 2023, pourraient profiter d’une reprise de la conduire à une consolidation dans des secteurs à forte
+demande chinoise du fait de la remontée des actions et de la concurrence, tels que la fabrication de véhicules électriques, et
+reprise du marché immobilier, qui contribuent à stabiliser la soutenir ainsi les marges des grandes entreprises.
+richesse des ménages.
+
+2 Gillespie, N., Lockey, S., Ward, T., Macdade, A. et Hassed, G. (2025). Trust, Attitudes and Use of Artificial Intelligence: A Global Study 2025 (en anglais).
+ Université de Melbourne et KPMG.
+
+J.P. Morgan Asset Management 15
+
+## Page 16
+
+EMOA
+
+ Graphique 21 : La Chine devrait construire des centres Graphique 22 : La politique industrielle de Pékin a
+ de données à un rythme soutenu souvent des implications mondiales
+ Prévisions de croissance de la capacité installée des Ventes mondiales de véhicules électriques
+ centres de données technologiques.
+ %, de 2024 à 2030 (estimation) En millions
+ 250 20
+
+ 200 16
+
+ 150 12
+
+ 8
+ 100
+
+ 4
+ 50
+ 0
+ 0 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’24
+ Europe États-Unis Chine Chine États-Unis Europe Reste du monde
+
+ Source : IEA, J.P. Morgan Asset Management. Données au 31 octobre 2025. Source : IEA, J.P. Morgan Asset Management. Données au 31 octobre 2025.
+
+Les exportateurs chinois ont également démontré leur Autres marchés émergents : la
+capacité à réacheminer leurs marchandises malgré la
+situation tendue sur le front du commerce international. Les réorientation des exportations freine la
+exportations chinoises ont fortement augmenté en 2025. progression
+Les pertes de parts de marché aux États-Unis ont été plus La résilience chinoise pourrait se faire au détriment des
+que compensées par des gains ailleurs, en particulier sur autres marchés émergents : une hausse soutenue des
+les marchés émergents (voir le graphique 5 au chapitre Une exportations chinoises vers d’autres pays risque de peser
+croissance tirée par les politiques monétaires et fiscales).
+La Chine occupe également une position dominante dans sur les bénéfices des marchés émergents autres que la
+les chaînes d’approvisionnement mondiales des terres Chine. Pour adopter une position plus positive, il faudrait
+rares, des panneaux solaires, des batteries au lithium et constater une croissance plus solide des bénéfices dans les
+des véhicules électriques. Par conséquent, les secteurs secteurs financier et des matières premières. Cependant,
+tournés vers l’export devraient stimuler la croissance des l’assouplissement général de la politique monétaire dans les
+bénéfices des entreprises de l’indice MSCI China en 2026. Le marchés émergents limite la contribution des banques aux
+consensus table sur une croissance du BPA pour les secteurs bénéfices, alors que les prix des matières premières devraient
+technologique et de l’automobile avoisinant les 40 % pour le rester stables mais faibles.
+premier et dépassant les 80 % pour le second.
+Deux risques majeurs pour notre scénario sur les actions Une exception à ce constat concerne l’Asie du Nord – la Corée
+chinoises sont le sentiment lié à l’IA et la réglementation du Sud, Taïwan et Hong Kong. Ces marchés ont tendance à
+chinoise. Si le sentiment envers l’IA s’affaiblit, les entreprises bien se comporter lorsque la Réserve fédérale réduit ses taux,
+technologiques chinoises pourraient en souffrir en raison de en raison de leur nature cyclique et de leur concentration
+leur corrélation avec les valeurs technologiques américaines. dans des secteurs à duration longue, tels que la technologie,
+Et tout changement réglementaire des autorités chinoises, les biens d’équipement et la santé.
+semblable à celui de fin 2021, pourrait interrompre la reprise du
+marché chinois, même si ce n’est pas notre scénario central.
+ Actions japonaises : profiter de la reflation,
+ tout en surveillant le risque de change
+ Nous voyons également des opportunités dans les actions
+ japonaises. Plusieurs facteurs pourraient profiter au marché
+Il est important de noter que la japonais : l’amélioration de la situation politique intérieure, la
+diversification régionale ne permet pas poursuite de la réforme de la gouvernance des entreprises,
+ une forte dynamique des bénéfices (voir le graphique 23)
+seulement d’atténuer les risques ; elle et une marge d’expansion des valorisations. Cependant,
+peut également améliorer les rendements. les investisseurs doivent rester attentifs à la façon dont
+ l’évolution du yen pourrait affecter les rendements.
+
+16 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 17
+
+EMOA
+
+Politiques et fondamentaux favorables Selon nous, il existe également un fort potentiel pour les
+L’élection de Sanae Takaichi au poste de Première ministre le 21 banques japonaises. Elles ont surperformé le TOPIX depuis
+octobre prolonge un contexte politique relativement favorable 2021, portées par la reflation, mais se négocient encore
+au Japon. Ses positions pro-croissance ainsi que sa volonté de à un ratio cours/valeur comptable d’environ 1x. Bien que
+renforcer la sécurité nationale et la coopération entre États- S. Takaichi encourage la BoJ à maintenir des taux bas, la
+Unis et Japon, ont été accueillies positivement par les marchés. prochaine décision de la banque centrale devrait être une
+Depuis son élection, les anticipations de hausses de taux de la hausse, ce qui soutiendrait les marges du secteur financier.
+Banque du Japon (BoJ) ont été repoussées. Les révisions des bénéfices des entreprises japonaises du
+ secteur financier ont été très positives, dépassant celles de
+Comme pour l’Europe, nous estimons que la valorisation leurs homologues américaines.
+des actions japonaises peut encore progresser. Certes, les Le principal risque pour les actions japonaises reste le yen.
+valorisations actuelles peuvent sembler élevées par rapport Étant donné que 40 % du chiffre d’affaires des entreprises
+aux vingt dernières années, mais cette période inclut les du TOPIX sont faits à l’étranger, les performances des actions
+années qui ont suivi l’éclatement de la bulle des prix d’actifs, japonaises sont généralement corrélées négativement au yen
+lesquelles ont pesé sur les multiples. Sur une période plus (voir le graphique 24). Pour les investisseurs européens, les
+large, le rapport P/E anticipé du TOPIX, qui est de 15,8x, est pertes liées aux fluctuations du yen sont souvent compensées
+sensiblement inférieur à sa moyenne depuis 1990 (24x) par les gains réalisés sur le marché actions, et inversement.
+et toujours en deçà de son pic de 16,3x atteint au cours
+de la période « Abenomics ». La hausse des rendements
+obligataires profite également aux bénéfices du secteur Conclusion
+financier, qui représente environ 15 % du TOPIX. Nous pensons que la diversification régionale des
+Privilégier la défense et les banques, surveiller portefeuilles actions peut à la fois améliorer les rendements
+ et protéger contre les risques de concentration, en
+le yen particulier si le sentiment lié à l’IA devient moins favorable.
+Au sein des actions japonaises, nous privilégions les valeurs En dehors des États-Unis, les meilleures opportunités se
+liées à la défense , qui devraient bénéficier de l’augmentation situent selon nous dans certains segments des marchés
+des dépenses militaires mondiales et de l’orientation plus européen, japonais et chinois dont les fondamentaux sont
+offensive de la politique étrangère de la nouvelle Première portés par une tendance favorable, notamment les banques
+ministre. Les actions japonaises liées à la défense se européennes et japonaises, les entreprises technologiques et
+négocient sur des bénéfices anticipés à 12 mois de 20x, exportatrices chinoises, les valeurs liées à la défense et celles
+contre 22x pour leurs équivalents américains. bénéficiant des dépenses publiques .
+
+ Graphique 23 : Les bénéfices ont été fortement revus à la Graphique 24 : Les performances des actions japonaises
+ hausse au Japon sont généralement corrélées négativement au yen
+ Ratios de révision des bénéfices TOPIX et yen par rapport au dollar américain
+ %, ratio sur 13 semaines des relèvements et abaissements Niveau de l’indice (gauche) ; JPY par USD (droite)
+ d’estimations de bénéfices.
+ 30 3 600 180
+
+ 20 3 000 160
+ 10 Dépréciation du yen
+ 2 400 et hausse du TOPIX 140
+ 0
+
+ -10 1 800 120
+
+ -20 1 200 100
+
+ -30
+ -40 600 80
+
+ -50 0 60
+ ’23 ’24 ’25 ’00 ’03 ’06 ’09 ’12 ’15 ’18 ’21 ’24
+ États-Unis Europe Japon Chine TOPIX USDJPY
+
+ Source : LSEG Datastream, MSCI, S&P Global, STOXX, Bourse de Tokyo, Source : LSEG Datastream, Bourse de Tokyo, J.P. Morgan
+ J.P. Morgan Asset Management. Chine : MSCI China ; Europe : Asset Management. Les performances passées ne sont pas un
+ STOXX 600 ; Japon : TOPIX ; États-Unis : S&P 500. Les ratios de révision indicateur fiable des résultats actuels et futurs. Données au
+ des bénéfices sont basés sur les anticipations de bénéfices à 12 mois 31 octobre 2025.
+ publiées par IBES. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 17
+
+## Page 18
+
+EMOA
+
+ N’ayez pas peur d’investir sur les marchés privés
+
+Les marchés privés ont connu une croissance rapide au
+cours de la dernière décennie. Les actifs sous gestion du
+marché privé ont quintuplé depuis 2010, pour atteindre plus
+de 13 000 milliards de dollars à l’échelle mondiale (voir le
+graphique 25). Cette croissance des capitaux privés, qui sont
+moins transparents que les capitaux des marchés publics, Pour faire simple, là où auparavant
+laisse craindre que les problèmes puissent perdurer dans les la croissance se manifestait après
+angles morts du système financier. l’introduction en bourse, elle se produit
+
+Les classes d’actifs financiers qui enregistrent une aujourd’hui avant.
+croissance rapide devraient attirer l’attention. Mais interpréter
+ces évolutions uniquement sous l’angle de l’« excès » nous
+ferait passer à côté d’un élément important de l’histoire Là où les entreprises dépendaient autrefois des marchés
+du marché privé, à savoir qu’au cours des deux dernières publics pour accroitre leur capital, elles peuvent désormais
+décennies, la nature du financement des entreprises a accéder à de vastes quantités de capitaux privés par le biais du
+profondément changé. capital-risque et du capital-investissement. Par conséquent,
+
+ une part plus importante du parcours vers la maturité des
+ entreprises s’est déplacée des marchés publics vers les
+ marchés privés (voir le graphique 26). Ce qui peut ressembler à
+ de l’exubérance est, à bien des égards, le reflet d’une nouvelle
+ norme en matière de financement des entreprises.
+
+ Graphique 25 : Les marchés privés ont connu une croissance rapide
+ Actifs sous gestion des marchés privés mondiaux
+ En milliers de milliards USD
+ 14
+
+ 12
+
+ 10
+
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+ ’00 ’01 ’02 ’03 ’04 ’05 ’06 ’07 ’08 ’09 ’10 ’11 ’12 ’13 ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’24 ’25
+ Capital-investissement Crédit privé
+
+ Source : Preqin, J.P. Morgan Asset Management. Les actifs sous gestion sont la somme de la valeur latente et des fonds non investis. Les données
+ de 2025 correspondent au premier trimestre 2025. Données au 31 octobre 2025.
+
+ Graphique 26 : Du public au privé : Comment le modèle de levée de capitaux a évolué
+ Évolution schématique de la start-up à la grande entreprise cotée à grande capitalisation
+ Autrefois
+
+ Start-up Intro. Petite Moyenne Grande
+ en bourse cap. cap. cap.
+
+ Aujourd’hui
+
+ Start-up Capital- Capital- Rachat Intro. Grande
+ risque développement en bourse cap.
+
+ Source : J.P. Morgan Asset Management, novembre 2025.
+
+18 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 19
+
+EMOA
+
+L’essor des marchés privés d’être vendues plusieurs fois tout en restant privées.
+Pour comprendre l’essor des marchés privés, il est utile Ensemble, ces segments des marchés privés fournissent
+de rappeler comment les entreprises se développaient désormais les financements qu’apportaient autrefois les
+autrefois. Il y a 20 ans, une entreprise levait généralement marchés publics des petites et moyennes capitalisations.
+des fonds auprès d’investisseurs privés pour démarrer son En résumé, alors qu’autrefois la croissance intervenait après
+activité, entrait assez rapidement en bourse, puis continuait l’introduction en bourse, elle se produit désormais en amont.
+
+à se développer sur les marchés publics. Amazon, Apple et Pourquoi les entreprises choisissent de rester
+Google, trois des Sept magnifiques, sont toutes entrées en
+bourse moins de cinq ans après leur création, créant des privées
+milliers de milliards de dollars de valeur pour les investisseurs La principale raison qui explique que les entreprises se
+des marchés publics au cours des décennies qui ont suivi. tournent désormais davantage vers les marchés privés n’est
+Aujourd’hui, ce parcours de croissance passe par les pas qu’elles ne parviennent pas à entrer en bourse. Elles le
+marchés privés. Les entreprises restent désormais privées font surtout par choix. Les marchés publics apportent certes
+plus longtemps et atteignent une bien plus grande échelle des liquidités et de la visibilité, mais ils s’accompagnent
+avant d’entrer en bourse, lorsqu’elles le font. À la fin des également d’obligations réglementaires plus importantes,
+années 90, l’âge médian des entreprises américaines lors d’un examen plus minutieux via des rapports trimestriels,
+de leur introduction en bourse était d’environ cinq ans et et de la volatilité propre aux marchés publics. Pour les
+demi. En 2024, il est passé à 14 ans. En 1996, il y avait plus de entreprises à croissance rapide, le fait de rester privées
+8 000 sociétés cotées en bourse aux États-Unis ; aujourd’hui, permet plus de flexibilité et une prise de décision à plus long
+il y en a moins de 6 000. Rien qu’au cours de la dernière terme sans la pression du cycle des rapports trimestriels.
+décennie, le nombre de « licornes » privées, des start-ups Pendant ce temps, les investisseurs institutionnels (fonds de
+financées par du capital-risque et évaluées à plus d’un pension, assureurs, fonds de dotation et fonds souverains)
+milliard de dollars, a été multiplié par huit. recherchent activement des actifs privés pour améliorer
+Cette tendance à des introductions en bourse beaucoup leurs rendements. Avec cet afflux de capitaux, le marché
+plus tardives a été rendue possible par la croissance des privé s’est lui-même renforcé. En effet, l’augmentation des
+capitaux disponibles sur les marchés privés. Les marchés capitaux entraîne des transactions sur le marché privé plus
+du capital-risque et de la croissance ont progressé à mesure importantes, ce qui permet aux entreprises de rester privées
+que les innovations dans la technologie, la santé et les biens plus longtemps, et la croissance du marché privé qui en
+de consommation ont fait émerger de nouvelles opportunités résulte attire encore plus de capitaux. C’est cette migration
+d’investissement. Les fonds de « rachat » se sont structurelle des capitaux qui explique en grande partie la
+développés, afin de permettre aux entreprises intégrées à croissance des marchés privés.
+des portefeuilles de capital-risque ou d’actions de croissance
+
+ Graphique 27 : La majorité des activités de
+ capital-investissement concerne encore les petites et
+ moyennes entreprises
+ Investissements dans les entreprises américaines de
+ capital-investissement, par taille
+ %, part annuelle des investissements totaux, 2008-2025 Les valorisations du capital -
+ 60 investissement sont élevées, la
+
+ 50 concurrence pour les transactions
+
+ 40 reste intense, et les liens croissants
+ entre le capital -investissement et
+ 30 le crédit privé signifient que toute
+
+ 20 difficulté dans une partie du marché
+
+ 10 peut se répercuter dans une autre.
+
+ 0 Mais ce ne sont toujours que des
+
+ <25 M $ 25-100 M $ 100-500 M $ > 500 M $ risques à surveiller et non des
+ Fourchette Point médian Actuel preuves d’excès.
+
+ Source : LCD, Pitchbook, J.P. Morgan Asset Management. Les données
+ de 2025 correspondent au deuxième trimestre 2025. Données au
+ 31 octobre 2025.
+
+J.P. Morgan Asset Management 19
+
+## Page 20
+
+EMOA
+
+PME : la vraie source de croissance Les risques
+On croit souvent que le capital-investissement est Nous sommes d’avis que la croissance du capital-
+principalement utilisé pour des rachats de très grande investissement et du crédit privé a été rendue possible grâce à
+envergure, par exemple pour les transactions de plusieurs des changements structurels dans la nature du financement
+milliards de dollars qui font les gros titres. La réalité est très des entreprises. Cela ne veut pas dire que les marchés privés
+différente : la plupart des transactions concernent les secteurs sont sans risque. Les valorisations du capital-investissement
+des PME, où les valeurs des sociétés (capitalisation boursière sont élevées, la concurrence pour les transactions reste intense,
+d’une entreprise plus sa dette en circulation) sont généralement et les liens croissants entre le capital-investissement et le crédit
+inférieures à 500 millions de dollars (voir le graphique 27). privé signifient que toute difficulté dans une partie du marché
+Dans cette partie du marché du capital-investissement, la peut se répercuter dans une autre. Cependant, à notre avis, il
+création de valeur relève moins de l’ingénierie financière que de s’agit de risques à surveiller plutôt que d’indices d’excès.
+l’amélioration des opérations des entreprises. Celles-ci peuvent Concernant les valorisations, les multiples de rachat
+se tourner vers des gestionnaires de capital-investissement bien mondiaux (VE/EBITDA)2 des entreprises de taille moyenne
+établis et expérimentés qui les aident à améliorer et à élargir sont inférieurs à leur pic de 2021, mais toujours supérieurs
+leur offre de produits, à réduire les coûts et à atteindre une plus aux moyennes à long terme (voir le graphique 28), à
+grande échelle se développant sur de nouveaux marchés. environ 13x. Cela laisse moins de marge à une expansion
+ des multiples pour soutenir les rendements du capital-
+ investissement, rendant ceux-ci davantage tributaires
+Crédit privé : la seconde face de l’histoire de la croissance des bénéfices et des améliorations
+Les facteurs à l’origine de la croissance du crédit privé1 sont opérationnelles. Pourtant, par rapport aux marchés publics,
+en grande partie les mêmes que ceux qui ont façonné le les valorisations sur les marchés privés ne sont pas hors
+capital-investissement. Le durcissement de la réglementation norme : le multiple médian VE/EBITDA du S&P 500 de
+qui a suivi la crise financière mondiale a conduit les banques l’année dernière était d’environ 14x. En d’autres termes, les
+à se retirer des marchés du crédit. Les autres prêteurs ont valorisations du capital-investissement sont élevées, mais
+par conséquent eu toute latitude pour combler le déficit de restent néanmoins en ligne avec celles des marchés publics.
+financement des entreprises, en particulier dans les PME, qui L’émergence des « continuation vehicles » de capital-
+constituaient autrefois le pré carré des banques. Avec le temps, investissement a également soulevé des inquiétudes au sujet
+ces prêteurs directs sont devenus une source essentielle de des marchés privés, compte tenu de la part croissante de sorties
+capital tout au long du cycle de vie des entreprises. de capital-investissement qu’ils représentent dans le monde
+Une grande partie des capitaux levés sur les marchés du (voir le graphique 29). Un fonds de continuation (continuation
+crédit privé aujourd’hui est prêtée à des sociétés détenues vehicles) est un nouveau fonds créé par un gestionnaire de
+ou contrôlées par des fonds de capital-investissement, ce capital-investissement. Il est destiné à conserver une ou
+qui représente la composante « dette privée » correspondant plusieurs sociétés en portefeuille au-delà de la durée de vie
+au capital fourni par ces fonds. Le crédit privé permet aux du fonds initial. Les sceptiques soutiennent que l’utilisation
+entreprises de refinancer leurs emprunts, de modifier la croissante des fonds de continuation (continuation vehicles)
+composition de leur financement et de se développer sans est due au fait que les gestionnaires essaient de cacher des
+se tourner vers les marchés publics. Pour les investisseurs, problèmes avec les sociétés en portefeuille, des problèmes
+le crédit privé offre un gain net de rendement attractif empêchant ces sociétés d’être vendues au prix souhaité par le
+par rapport au crédit public en contrepartie de la mise à gestionnaire de capital-investissement.
+disposition d’un capital patient et de long terme. Là encore, nous pensons que ce scepticisme à l’égard des
+Le crédit privé sert deux objectifs différents sur les marchés fonds de continuation (continuation vehicles) passe à côté de
+privés. Premièrement, il finance la croissance, par des prêts l’essentiel. Si les fonds de continuation (continuation vehicles)
+aux entreprises qui cherchent à se développer, à investir permettent aux gestionnaires de capital-investissement de
+ou à se refinancer. Deuxièmement, le crédit privé peut détenir des actifs plus longtemps pour éviter de vendre sur un
+aider à financer des rachats, dans le sens où il permet à marché déprimé, ils ne se réduisent pas à des opérations où
+des sociétés de capital-investissement d’accéder à des les gestionnaires « se vendraient des actifs à eux-mêmes ».
+capitaux sous forme de prêts afin de financer l’acquisition Dans presque tous les cas, une transaction de « continuation
+d’entreprises. Aujourd’hui, environ 90 % des rachats vehicles » nécessite un acheteur secondaire indépendant
+d’entreprises américaines de taille moyenne sont financés pour valider la valorisation et engager de nouveaux capitaux.
+par le crédit privé, contre environ 50 % en 2017. C’est cette Ces acheteurs secondaires sont généralement des
+dernière tendance (le financement des rachats de capital- investisseurs institutionnels avertis ou des fonds secondaires
+investissement par le biais du crédit privé) qui a récemment dédiés, qui effectueront une diligence raisonnable complète
+retenu l’attention des acteurs du marché. sur la société en portefeuille concernée avant d’accepter de
+ s’impliquer.
+
+1 Le crédit privé est composé d’une vaste classe d’actifs qui peut englober plusieurs types de crédits non bancaires. Ici, sauf indication contraire, le terme
+ « crédit privé » désigne les prêts directs, que des prêteurs autres que des banques accordent à des entreprises sans intermédiaires. Il s’agit désormais
+ de la composante la plus importante de la classe d’actifs de « crédit privé » au sens large.
+2 Le ratio de la valeur d’une entreprise (VE, soit la capitalisation boursière d’une entreprise plus sa dette en circulation) par rapport à son EBITDA (bénéfice
+ avant intérêts, impôts, amortissements).
+
+20 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 21
+
+EMOA
+
+ Graphique 28 : Les valorisations des marchés privés Graphique 29 : L’utilisation de fonds de continuation
+ ne semblent pas désalignées par rapport à celles des (continuation vehicles) par les sociétés de capital-
+ marchés publics. investissement n’est pas nécessairement un motif
+ d’inquiétude.
+ Multiples de rachat de société privée par rapport au S&P 500 Part des fonds de continuation (continuation vehicles) dans
+ les sorties de capital -investissement dans le monde
+ x, ratio VE/EBITDA médian, multiple sur 12 mois %
+ 18 20
+
+ 16
+
+ 14 15
+
+ 12
+
+ 10 10
+
+ 8
+
+ 6 5
+
+ 4
+ ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’24
+
+ Petites capitalisations Marchés intermédiaires 0
+ Grandes capitalisations S&P 500 ’20 ’21 ’22 ’23 ’24 ’25
+
+ Source : LCD, Pitchbook, S&P Global, J.P. Morgan Asset Management. Source : Dealogic, Jefferies, J.P. Morgan Asset Management. 2025
+ Le VE/EBITDA est le ratio de la valeur d’entreprise par rapport au correspond au 1er semestre 2025. Les estimations des volumes de
+ bénéfice avant intérêts, impôts, dépréciation et amortissements. transactions de sortie réalisées avec le concours d’un sponsor ont été
+ Données au 31 octobre 2025. fournies par Dealogic et incluent les produits des opérations de
+ fusions-acquisitions et des introductions en bourse. Ces
+ pourcentages représentent le volume de transactions des
+ continuation vehicles divisé par le volume de transactions de sortie
+ réalisées avec le concours d’un sponsor. Données au 31 octobre 2025.
+
+La plupart des transactions secondaires récentes (de Conclusion
+continuation) ont été évaluées avec une décote de quelques En somme, nous restons positifs à l’égard du capital-
+pourcents par rapport à la valeur nette d’actif de la société, investissement et du crédit privé.
+ce qui correspond aux fourchettes d’évaluation habituelles.
+Pendant une période où l’activité d’introductions en bourse La baisse des taux d’intérêt américains rendra les emprunts
+et de fusions-acquisitions sur les marchés publics est restée moins chers, ce qui contribuera à stimuler les rendements
+atone, les fonds de continuation (continuation vehicles) ont et soutiendra les valorisations actuelles du capital-
+offert de la liquidité et favorisé la découverte des prix sur les investissement. Les segments des petites et moyennes
+marchés privés, offrant davantage d’options aux investisseurs entreprises du marché du capital-investissement, ainsi que
+privés. Encore une fois, nous pensons que l’émergence des les transactions secondaires (continuation vehicles), offrent
+fonds de continuation (continuation vehicles) de capital- toujours aux investisseurs des moyens attractifs d’accéder
+investissement n’est rien de plus qu’un autre exemple de la au thème de l’intelligence artificielle à des valorisations plus
+façon dont le système de financement des entreprises évolue. raisonnables, potentiellement avec une minoration par rapport
+L’interconnexion croissante du capital-investissement et à la valeur nette d’actif. En Europe, la fragmentation plus
+du crédit privé est un autre débat. Il est vrai que le capital- marquée des marchés financiers et la moindre concurrence
+investissement et le crédit privé sont de plus en plus pour les prêts font des marchés privés une source intéressante
+étroitement liés, le crédit privé finançant souvent des rachats d’alpha potentiel. La pondération relativement plus élevée de la
+de capital-investissement, ou soutenant les sociétés en technologie sur les marchés privés européens par rapport aux
+portefeuille de capital-investissement en les refinançant. indices boursiers publics est également attractive.
+Cependant, les investisseurs du crédit privé perçoivent une Dans le secteur du crédit privé, la baisse des taux d’intérêt
+rémunération attractive pour ces services. Les marchés américains va alléger les coûts du service de la dette, contribuant
+du crédit privé affichent des rendements de départ élevés, ainsi à atténuer certains risques de défaut, même si cela réduit
+souvent à deux chiffres pour les prêts directs de premier rang progressivement les rendements nominaux. Comme toujours, il
+(qui ont la priorité la plus élevée pour le remboursement). Ils est conseillé aux investisseurs de diversifier les gestionnaires et
+offrent par conséquent un matelas non négligeable en cas les millésimes (l’année de création d’un prêt ou d’un fonds) pour
+de pertes. Même si les taux de défaillance augmentaient aider à réduire la concentration et le risque idiosyncratique. Dans
+modestement, des taux de recouvrement historiquement le crédit privé, combiner les prêts directs avec une exposition à
+élevés pourraient contribuer à compenser une grande partie la dette d’infrastructures et à la dette immobilière peut élargir les
+de la baisse. Il faudrait une détérioration grave et prolongée sources de rendement, tandis que des allocations à des fonds
+des sociétés en portefeuille de capital-investissement pour opportunistes ou spécialisés dans la dette en difficulté peuvent
+générer des pertes importantes au sein du crédit privé. s’avérer précieuses si un ralentissement économique important
+ devait entraîner des tensions sur le marché.
+
+J.P. Morgan Asset Management 21
+
+## Page 22
+
+EMOA
+
+ Protégez -vous contre les déraillements de l’économie
+
+Comme nous l’avons vu dans le chapitre Une croissance Un tel scénario pourrait entraîner l’économie américaine
+portée par les politiques monétaires et budgétaires, dans la récession, et inciter la Réserve fédérale (Fed) à
+l’économie et les actifs à risque sont soutenus par réduire fortement ses taux. Pendant la bulle Internet et la
+une relance sans précédent en « temps de paix ». Les crise financière mondiale, les bons du Trésor américain
+investisseurs seraient confrontés à deux risques majeurs si à long terme ont produit des rendements de 29 % et 17 %
+cet excès venait à poser problème : un changement marqué respectivement (voir le graphique 30). Lors de l’éclatement de
+du sentiment vis-à-vis de l’intelligence artificielle (IA) et le la bulle technologique, les obligations d’entreprise de haute
+retour de l’inflation. Dans ce chapitre, nous examinerons les qualité à long terme ont également offert une protection.
+stratégies qui permettent d’atténuer ces risques. Les investisseurs non américains doivent également tenir
+Que faire en cas de bulle ? compte de l’évolution des devises. Le dollar américain
+ ressort souvent plus fort des périodes de tension du marché,
+Dans le chapitre Gérez avec prudence la concentration du mais compte tenu du rôle de premier plan des entreprises
+portefeuille dans le secteur technologique , nous avons vu que américaines dans le développement de l’IA, son statut de
+nous ne savons tout simplement pas à ce stade quelle sera la refuge n’est ici pas assuré. Selon les coûts de couverture,
+demande finale pour l’IA et si les entreprises technologiques des obligations souveraines locales à long terme pourraient
+de grande capitalisation seront en mesure de continuer à constituer une alternative aux bons du Trésor américain,
+afficher les profits exceptionnels que le marché attend. Les même si le potentiel de rendement lié à la baisse des
+investisseurs qui craignent que ces sociétés très valorisées rendements sera probablement plus faible dans la zone euro
+ne répondent pas aux attentes de croissance à long terme et au Royaume-Uni qu’aux États-Unis.
+disposent de deux principales options de couverture.
+
+Les obligations de haute qualité et de longue duration
+devraient fournir un matelas substantiel en cas de crise
+liée aux technologies et à l’IA, une crise qui serait fortement
+désinflationniste. Si la demande en infrastructures d’IA
+est surestimée et que le retour sur investissement est Les obligations de haute qualité et de
+décevant, nous pourrions assister à l’apparition d’une longue duration devraient apporter une
+surcapacité, à une chute des prix, à une diminution des
+marges et à une baisse de l’investissement, comme au protection importante en cas de crise
+début des années 2000. Les cours des actions chuteraient, liée aux technologies et à l’IA.
+entraînant des effets négatifs sur la richesse, et les dépenses
+de consommation se contracteraient. Les marchés privés
+seraient également touchés, puisque 36 % du capital-
+investissement et 25 % du crédit privé sont exposés à la tech.
+
+ Graphique 30 : Les cours des obligations devraient progresser sensiblement en cas d’effondrement des valeurs
+ technologiques
+ Rendements des obligations américaines lors des ventes massives d’actions
+ %, rendement total au cours de la période où le S&P 500 reculait
+ 30
+ 25
+ 20
+ 15
+ 10
+ 5
+ 0
+ -5
+ -10
+ Éclatement de la bulle Internet Crise ﬁnancière mondiale
+ US Aggregate Bons du Trésor américain Bons du Trésor américain à long terme
+ Obligations d’entreprises américaines investment grade
+
+ Source : Bloomberg, LSEG Datastream, S&P Global, J.P. Morgan Asset Management. Éclatement de la bulle Internet : août 2000 - sept. 2002 ; crise
+ financière mondiale : oct. 2007 - fév. 2009. Bons du Trésor américains : Bloomberg US Aggregate - Treasuries ; Bons du Trésor américain de
+ longue duration : Bloomberg US Treasury : Long (plus de 10 ans) ; Obligations d’entreprises américaines investment grade : Bloomberg US
+ Aggregate - Corporate. Les performances passées ne sont pas un indicateur fiable des résultats actuels et futurs. Données au 31 octobre 2025.
+
+22 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 23
+
+EMOA
+
+Les investisseurs doivent également penser aux risques de peuvent alimenter l’inflation si elles coïncident avec une forte
+concentration au sein des actions mondiales. Les secteurs de demande privée ou des pénuries d’offre. Cette inflation pourrait
+la technologie et des services de communication représentent prendre la forme d’un choc aigu ou d’une dérive chronique,
+maintenant 37 % de l’indice MSCI All Country World Index. chaque scénario favorisant des classes d’actifs différentes.
+
+Se diversifier en sortant simplement des secteurs Inflation aiguë : les leçons de 2022
+technologiques et assimilés ne suffit pas. Un ralentissement
+de l’IA aurait de vastes répercussions économiques, et les Comme nous l’avons dit plus haut, nous restons prudents
+risques de valorisation seraient généralisés. À l’époque de la quant au potentiel des largesses budgétaires à déclencher
+bulle Internet, les secteurs cycliques ont offert une certaine un retour de l’inflation. Les réductions d’impôts découlant de
+protection. Cependant, depuis 2022, les valorisations la One Big Beautiful Bill et les éventuelles mesures de relance,
+des secteurs cycliques (à l’exclusion des secteurs qui pourraient être prises avant les élections de mi-mandat,
+technologiques) sont passées de 13x à 22x les bénéfices pourraient stimuler la demande et, par voie de conséquence,
+anticipés à 12 mois, laissant ces secteurs vulnérables si la faire remonter les prix aux États-Unis. Par ailleurs, même si
+surcapacité d’infrastructures d’IA ralentit la croissance. la trajectoire actuelle de la politique commerciale semble
+ plus clémente, l’impact inflationniste total des droits de
+Les secteurs défensifs, après une période de sous- douane reste à venir, et il existe un risque supplémentaire de
+performance, affichent maintenant des valorisations perturbations de l’offre liées à de nouveaux droits de douane
+raisonnables. Leurs bénéfices sont également moins liés américains ou des représailles des pays partenaires.
+au développement des infrastructures technologiques et
+à l’activité économique en général. Ces secteurs sont donc Dans ce cas de figure, la Fed pourrait être contrainte d’arrêter
+mieux protégés contre tout ralentissement de la tech (voir le son cycle de réduction des taux et potentiellement les relever
+graphique 31). Les portefeuilles constitués pour une bonne pour maintenir sa crédibilité. La hausse des rendements
+part d’actions défensives devraient donc s’avérer relativement obligataires obligerait à réévaluer largement les actifs, ce qui
+résilients si l’engouement autour de l’IA s’estompe. nuirait aux marchés financiers publics.
+
+ Les actifs réels comme le bois et les infrastructures de base
+Une inflation induite par des dépenses offriraient la meilleure protection en cas de choc d’inflation aigü
+ (voir le graphique 32). Les actifs traditionnels utilisés pour se
+publiques trop généreuses diversifier contre l’inflation, comme l’immobilier et les obligations
+Le deuxième risque important est l’inflation. Les politiques indexées, ont tendance à sous-performer, car les ajustements
+budgétaires, lorsqu’elles sont laxistes, exercent une pression de revenu accusent un retard par rapport aux pertes en
+sur les marchés obligataires, avec une offre en hausse et une capital. Le FTSE 100, fortement pondéré en matières premières,
+détérioration de la solvabilité souveraine. Les dépenses publiques surperformerait probablement les autres marchés actions.
+
+ Graphique 31 : Les actions défensives devraient également offrir une protection en cas de décrochage du secteur
+ technologique
+ Performances sectorielles mondiales lors des phases de ventes massives
+ %, rendement total en USD durant la période où le S&P 500 était en baisse
+ 0
+ -10
+ -20
+ -30
+ -40
+ -50
+ -60
+ -70
+ -80
+ -90
+ Éclatement de la bulle Internet Crise ﬁnancière mondiale
+ MSCI World Defensives MSCI World Cyclicals hors tech MSCI World tech MSCI World High Dividend MSCI World
+
+ Source : FTSE, LSEG Datastream, MSCI, S&P Global, J.P. Morgan Asset Management. Éclatement de la bulle Internet : août 2000 - sept. 2002 ; crise
+ financière mondiale : oct. 2007 - fév. 2009. Défensives : produits de consommation de base, santé et services publics ; secteurs cycliques hors tech :
+ énergie, matériaux, industrie, consommation discrétionnaire, finances et immobilier ; secteurs technologiques : technologies de l’information et
+ services de communication. Les performances passées ne sont pas un indicateur fiable des résultats actuels et futurs. Données au 31 octobre 2025.
+
+J.P. Morgan Asset Management 23
+
+## Page 24
+
+EMOA
+
+Inflation chronique : l’érosion des rendements que plus importante, puisque les gestionnaires de réserves du
+réels monde se détourneraient du dollar.
+
+L’inflation pourrait s’avérer moins un choc bref et marqué Cependant, la couverture offerte par l’or en cas de choc
+qu’un problème rampant, chaque année se concluant par inflationniste soudain est d’une efficacité mitigée. Les
+un nouveau dépassement modeste de l’objectif. Dans les rendements moyens ont été boostés par les solides
+années 50 et 60, les états ont réussi à faire fondre leur dette performances de la fin des années 70, quand les investisseurs
+grâce à une série de petits épisodes inflationnistes inattendus : étaient déjà très attentifs à l’inflation, mais ils ont été négatifs
+les taux d’intérêt nominaux inférieurs à la croissance du PIB lorsque l’inflation a bondi en 1990 et 2022, à la surprise des
+nominal ont lentement déplacé le fardeau de la dette des marchés. Compte tenu de cette performance mitigée, le risque
+contribuables vers les détenteurs d’obligations, dont les de déception est plus important pour les investisseurs qui se
+rendements ont été dévorés par l’inflation. tournent vers l’or pour se protéger des chocs inflationnistes.
+
+Avec l’inflation chronique, le risque est donc une érosion
+progressive des rendements réels plutôt qu’une réévaluation Conclusion
+rapide. Historiquement, dans les périodes d’inflation Notre scénario de base est que les politiques monétaires et
+chronique et rampante, l’immobilier a surperformé les fiscales actuelles continuent pour le moment de stimuler la
+actions, tandis que les obligations indexées sur l’inflation croissance économique. Mais il y a un risque que « les excès »
+ont surperformé leurs homologues nominaux (voir le de ces politiques entraînent une bulle financière ou de l’inflation.
+graphique 33). Sans pertes en capital immédiates, les Les investisseurs ont tout intérêt à réfléchir soigneusement à la
+ajustements à l’inflation inhérents aux flux de revenus de ces mise en place d’une protection contre ces risques.
+deux actifs peuvent aider à protéger les rendements réels. Pour se prémunir contre un décrochage des actions
+
+Un autre actif à considérer est l’or. Dans les périodes d’inflation technologiques, les investisseurs devraient envisager des
+chronique, ses propriétés de réserve de valeur en font un obligations de haute qualité à long terme et des actions
+important atout de diversification de portefeuille. Il sert dans des secteurs défensifs. Et pour se protéger du risque
+également de couverture contre les inquiétudes liées à la d’inflation, les investisseurs devraient se tourner vers
+crédibilité institutionnelle des États-Unis ou aux risques associés des actifs alternatifs capables de résister à des périodes
+aux monnaies fiduciaires. Si la crédibilité institutionnelle des d’inflation aiguë ou chronique.
+États-Unis était remise en question, la demande d’or n’en serait
+
+ Graphique 32 : 2022 nous a montré que la meilleure Graphique 33 : Les actifs traditionnels de diversification
+ protection contre les chocs inflationnistes réside dans fonctionnent mieux contre l’inflation chronique
+ les actifs alternatifs
+ Rendements de certains marchés publics et privés en 2022 Rendements de classes d’actifs sélectionnés par régime
+ d’inflation
+ %, performance totale en USD %, rendement total annualisé moyen sur trois ans
+ Matières premières 20
+ Bois
+ Transport 16
+ Infrastructures Immobilier de
+ base aux États -Unis
+ Prêts directs 12
+ Or
+ Capital-investissementImmobilier de
+ base en Europe 8
+ Hedge funds
+ Haut rendement mondial 4
+ MSCI Europe
+ Global Aggregate
+ S&P 500 0
+ Capital-risque 1,5-2,5 % 2,5-3,5 % >3,5 %
+ sur l’inflationObligations mondiales indexées Régime d’inﬂation
+ -30 -20 -10 0 10 20 Bons du Trésor américain S&P 500 Or Immobilier
+ Titres à revenu fixe Actions Produits alternatifs Obligations indexées sur l’inﬂation
+
+ Source : Bloomberg, Burgiss, Cliffwater, FactSet, HRFI, Source : Bloomberg, BLS, LSEG Datastream, NCREIF, S&P Global,
+ LSEG Datastream, MSCI, NCREIF, S&P Global, J.P. Morgan J.P. Morgan Asset Management. Inflation : IPC global ; bons du Trésor
+ Asset Management. Les indices obligataires et de matières premières américain : Bloomberg US Aggregate - Treasury ; immobilier : NCREIF
+ sont ceux de Bloomberg, sauf le High Yield, qui vient de l’ICE BofA Global National Property Index ; obligations indexées sur l’inflation :
+ High Yield. Hedge funds : HRFI Fund Weighted Composite ; Immobilier Bloomberg US TIPS. Les régimes d’inflation sont définis sur la base du
+ de base aux États-Unis : NCREIF Property – Open End Diversified Core taux de croissance annualisé de l’IPC sur trois ans et excluent les
+ Equity ; Immobilier de base en Europe : MSCI Global Property Fund – périodes de désinflation. Les données sur les rendements
+ Continental Europe ; Prêts directs : Cliffwater ; infrastructures : commencent en 1976, à l’exception des obligations indexées sur
+ MSCI Global Quarterly Infrastructure Asset (équipondéré) ; Bois : l’inflation, dont les données commencent en 1997. Les performances
+ NCREIF Timberland Total Return. Le capital-investissement et le capital - passées ne sont pas un indicateur fiable des résultats actuels et
+ risque sont des rendements pondérés dans le temps provenant de futurs. Données au 31 octobre 2025.
+ Burgiss. Les performances passées ne sont pas un indicateur fiable
+ des résultats actuels et futurs. Données au 31 octobre 2025.
+
+24 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 25
+
+EMOA
+
+ Scénarios et risques
+
+Avec les politiques de soutien et de relance récemment mises en place, toutes les régions du monde devraient profiter d’un
+regain de croissance en 2026. Selon nous, l’économie américaine devrait profiter des effets positifs des gains de pouvoir
+d’achat aux États-Unis, des baisses de taux et des investissements continus dans l’intelligence artificielle (IA). La croissance
+européenne devrait s’accélérer compte tenu des récentes politiques de soutien monétaires et fiscales mises en œuvre.
+
+Il existe toutefois des risques baissiers dont il faut tenir compte. Si les actions technologies cèdent du terrain, cela pourrait avoir
+des conséquences importantes sur le marché et l’économie. L’inflation pourrait également s’installer pour durer. Il est fortement
+recommandé de se constituer des portefeuilles bien diversifiés afin de se protéger à la fois contre le risque de ralentissement de
+la croissance si l’engouement pour les valeurs technologiques s’affaiblit, et contre le risque de rebond plus marqué qu’attendu
+de l’inflation.
+
+ Scénario de base : la croissance mondiale se généralise
+
+ Macroéconomie : l’activité économique gagne plusieurs régions du monde. La croissance européenne surprend à
+ la hausse et réduit l’écart avec la croissance américaine en 2026, grâce à une relance budgétaire considérable et
+ au soutien continu des précédentes baisses de taux. La croissance américaine se poursuit, soutenue par un nouvel
+ assouplissement de la Réserve fédérale (Fed). L’économie chinoise est stimulée par la stabilisation du marché
+ immobilier, tandis que les autorités soutiennent la croissance de la technologie d’IA domestique.
+
+ Marchés : en matière d’actions, la diversification est essentielle, que ce soit au sein de l’écosystème de l’IA, au niveau
+ géographique, ou par rapport aux marchés publics et privés. Le dollar américain continue de chuter face à un large panier de
+ devises. Et bien qu’il le fasse de manière ordonnée, les investisseurs non américains devraient évaluer l’impact potentiel des
+ mouvements de change sur les rendements. La baisse des taux américains profite au capital-investissement et au crédit privé.
+
+ Risque baissier : l’inflation repart à la hausse
+
+ Macroéconomie : l’inflation accélère, de manière brutale ou plus feutrée. Une inflation soudaine pourrait se produire si
+ les effets des droits de douane sur les prix aux États -Unis s’avéraient plus importants que ce que l’on craignait, c’est-
+ à-dire si les entreprises répercutaient la hausse des coûts sur les consommateurs. Les remboursements de l’impôt
+ sur le revenu au début de 2026, ainsi que toute autre réduction d’impôt à l’approche des élections de mi-mandat,
+ aggraveraient l’inflation. Une inflation chronique et rampante pourrait résulter de déficits budgétaires persistants et de
+ doutes sur l’indépendance de la Fed.
+
+ Marchés : un environnement négatif pour les actions, les secteurs sensibles aux taux d’intérêt étant les plus durement
+ impactés. La hausse des rendements des obligations core entraîne des pertes, sous l’effet d’une corrélation obstinément
+ positive entre actions et obligations. En cas d’inflation aiguë, les actifs réels, tels que le bois et les infrastructures de base,
+ offriraient la meilleure protection. En cas d’inflation chronique, l’or a toute sa place sans les portefeuilles.
+
+ Risque baissier : les actions technologiques faiblissent
+
+ Macroéconomie : l’engouement pour l’IA s’affaiblit, car il devient clair que la demande en infrastructures d’intelligence
+ artificielle a été surestimée. S’en suivent une surcapacité, une chute des prix et une diminution des marges, alors que le
+ retour sur investissement des dépenses engagées déçoit. La croissance économique américaine ralentit alors que les
+ dépenses liées à l’IA stagnent et qu’une liquidation des actions nuit à la richesse des ménages américains.
+
+ Marchés : l’environnement est très négatif pour les actions, en particulier américaines. Les actions défensives
+ surperforment les actions cycliques et la corrélation négative entre actions et obligations fait son grand retour. En
+ revanche, il s’agit d’un environnement positif pour les obligations à long terme et de haute qualité. De leur côté, le capital-
+ investissement et le crédit privé connaissent des difficultés en raison de leur exposition aux valeurs technologiques.
+
+J.P. Morgan Asset Management 25
+
+## Page 26
+
+EMOA
+
+ Risque haussier : boom de la productivité
+
+ Macroéconomie : La croissance s’accélère sensiblement grâce à un boom de la productivité induit par l’IA. L’inflation est
+ maîtrisée par la hausse de la productivité et, potentiellement, par la baisse des prix de l’énergie consécutive à la résolution
+ du conflit Russie-Ukraine. Les banques centrales peuvent ainsi réduire les taux d’intérêt de manière plus agressive que ce
+ qui est actuellement anticipé par les marchés.
+
+ Marchés : l’environnement est très positif pour les actions mondiales. Les marchés obligataires enregistrent également de
+ solides performances, en raison de la baisse des taux d’intérêt et du resserrement des spreads de crédit qui atteignent de
+ nouveaux niveaux record.
+
+26 Perspectives d’investissement pour 2026 | Les moteurs des marchés
+
+## Page 27
+
+EMOA
+
+Auteurs
+
+ Karen Ward Tilmann Galler Lucía Gutiérrez-Mellado
+ Stratégiste en chef Stratégiste des Stratégiste des marchés
+ des marchés, EMOA marchés mondiaux mondiaux
+
+ Maria Paola Toschi Hugh Gimber Lilia Peytavin
+ Stratégiste des Stratégiste des Stratégiste des
+ marchés mondiaux marchés mondiaux marchés mondiaux
+
+ Aaron Hussein Max McKechnie
+ Stratégiste des Stratégiste des
+ marchés mondiaux marchés mondiaux
+
+ Natasha May Zara Nokes
+ Analyste des marchés Analyste des marchés
+ mondiaux mondiaux
+
+Le Programme Market Insights fournit des données et des commentaires détaillés sur les marchés financiers internationaux sans aucune référence à des produits
+d’investissement . Conçu comme un outil permettant aux clients d’appréhender les marchés et d’accompagner leur prise de décision en matière d’investissement, le
+programme examine les répercussions des statistiques économiques actuelles et de l’évolution des conditions de marché. Dans le cadre de la réglementation MiFID II, les
+programmes JPM Market Insights et JPM Portfolio Insights sont des outils de communication marketing et ne relèvent pas des obligations de la MiFID II et du MiFIR
+spécifiquement liées à la recherche en investissement . Par ailleurs, les programmes JPM Market Insights et JPM Portfolio Insights ne constituant pas une recherche
+indépendante, ils n’ont pas été préparés conformément aux obligations légales destinées à promouvoir l’indépendance de la recherche en investissement et ne sont soumis à
+aucune interdiction de négociation en amont de la diffusion de la recherche en investissement .
+Il s’agit d’un document de communication fourni à titre purement informatif. Il s’agit d’un document à caractère pédagogique qui n’a pas vocation à servir de conseil ou de
+recommandation concernant un produit d’investissement, une stratégie, une caractéristique d’un placement ou une autre finalité dans quelque juridiction que ce soit,
+ni ne constitue un engagement de la part de J.P. Morgan Asset Management ou de l’une de ses filiales à participer à des transactions qui y seraient mentionnées. Les
+exemples cités sont d’ordre générique et hypothétique, et sont fournis à titre d’illustration uniquement . Ce document ne comporte pas d’informations suffisantes pour
+étayer une décision d’investissement et nous vous conseillons de ne pas le considérer comme base d’évaluation d’un investissement dans des titres ou produits
+financiers. En outre, il est conseillé aux utilisateurs de procéder à une évaluation indépendante des conséquences juridiques, réglementaires, fiscales, de crédit et
+comptables et de déterminer, avec l’aide de leur propre conseiller, si les investissements mentionnés dans le présent document sont adaptés à leurs objectifs personnels .
+Les investisseurs doivent s’assurer de disposer de toutes les informations existantes avant de prendre leur décision. Toute prévision, donnée chiffrée ou technique et
+stratégie d’investissement évoquée est présentée à titre d’information exclusivement, sur la base de certaines hypothèses et des conditions de marché actuelles. Elles
+sont soumises à modification sans préavis. Toutes les informations présentées sont considérées comme exactes à la date de rédaction, mais aucune garantie n’est
+donnée quant à leur exactitude et aucune responsabilité n’est assumée en cas d’erreur ou d’omission. Nous attirons votre attention sur le fait que la valeur des
+placements et le revenu que ces derniers génèrent sont susceptibles de fluctuer en fonction des conditions de marché et des conventions fiscales et il se peut que
+les investisseurs ne récupèrent pas la totalité des sommes investies. Les performances et les rendements passés ne préjugent pas des résultats actuels et futurs. J.P.
+Morgan Asset Management est le nom commercial de la division de gestion d’actifs de JPMorgan Chase & Co. et son réseau mondial d’affiliés . Dans la mesure où la loi
+nous le permet, nous sommes susceptibles d’enregistrer les conversations téléphoniques et de surveiller les courriers électroniques afin de respecter nos obligations
+légales et réglementaires et nos politiques internes . Les données à caractère personnel seront collectées, stockées et traitées par J.P. Morgan Asset Management
+conformément à nos politiques de confidentialité, qui sont disponibles sur la page am.jpmorgan .com/global/privacy . Cette communication est émise par les entités
+suivantes : aux États-Unis, par J.P. Morgan Investment Management Inc. ou J.P. Morgan Alternative Asset Management, Inc., toutes deux réglementées par la Securities
+and Exchange Commission ; en Amérique latine, pour l’utilisation des destinataires prévus uniquement, par les entités locales de J.P. Morgan, selon les cas ; au Canada,
+pour l’utilisation des clients institutionnels uniquement, par JPMorgan Asset Management (Canada) Inc., qui est un Gestionnaire de portefeuille enregistré et un Courtier
+sur le marché dispensé dans toutes les provinces et tous les territoires canadiens, à l’exception du Yukon, et qui est également enregistré en tant que Gestionnaire
+de fonds d’investissement en Colombie-Britannique, en Ontario, au Québec et à Terre-Neuve-et-Labrador . Au Royaume-Uni, par JPMorgan Asset Management (UK)
+Limited, qui est agréée et réglementée par la Financial Conduct Authority ; dans les autres juridictions européennes, par JPMorgan Asset Management (Europe) S.à r.l.
+En Asie-Pacifique (« APAC »), par les entités émettrices suivantes et dans les juridictions respectives dans lesquelles elles sont principalement réglementées : JPMorgan
+Asset Management (Asia Pacific) Limited, ou JPMorgan Funds (Asia) Limited, ou JPMorgan Asset Management Real Assets (Asia) Limited, chacune d’entre elles étant
+réglementée par la Securities and Futures Commission de Hong Kong ; JPMorgan Asset Management (Singapore) Limited (numéro d’enregistrement 197601586K), cette
+publicité ou publication n’a pas été révisée par l’Autorité monétaire de Singapour ; JPMorgan Asset Management (Taiwan) Limited ; JPMorgan Asset Management (Japan)
+Limited, qui est membre de l’Investment Trusts Association, Japon, la Japan Investment Advisers Association, la Type II Financial Instruments Firms Association et la Japan
+Securities Dealers Association, et qui est réglementée par la Financial Services Agency (numéro d’enregistrement « Kanto Local Finance Bureau (Financial Instruments
+Firm) 330 ») ; en Australie uniquement à l’attention des clients professionnels tels que définis aux sections 761A et 761G de la Corporations Act de 2001 (Commonwealth),
+par JPMorgan Asset Management (Australia) Limited (ABN 55143832080) (AFSL 376919). Pour tous les autres pays de la région, ce document est exclusivement réservé aux
+destinataires concernés. Pour les États-Unis uniquement : si vous êtes en situation de handicap et avez besoin d’une aide supplémentaire pour consulter les documents,
+veuillez nous appeler au 1-800-343-1113 pour obtenir une assistance.
+Copyright 2025 JPMorgan Chase & Co. Tous droits réservés.
+Source des images : Shutterstock
+
+LV–JPM57187 | 11/25 | FR | 242b49f1-a2cc-11f0-a802-81f1f9b0331c

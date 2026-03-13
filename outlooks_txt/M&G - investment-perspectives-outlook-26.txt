@@ -1,0 +1,800 @@
+Source file: M&G - investment-perspectives-outlook-26.pdf
+Source path: outlooks/M&G - investment-perspectives-outlook-26.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-13T14:06:06.935089+00:00
+Page count: 33
+
+---
+
+## Page 1
+
+Marketing Communication.
+For Professional Investors only.
+
+ Investment Perspectives
+ 2026 Outlook: Searching
+ for value amid the euphoria
+
+ December 2025
+
+## Page 2
+
+Co nte nts
+
+Introduction � � � � � � � � � � � � � � � � � � � � � � � � � � � �3
+
+Can the wave of optimism continue? � � � � � � � � � � � � �4
+
+Valuation framework: Assessing valuation
+signals across a spectrum of asset classes � � � � � � � � �9
+
+CIO Perspective: Are we in an AI bubble?
+That’s the wrong question� � � � � � � � � � � � � � � � � � � 13
+
+CIO Perspective: Income is back � � � � � � � � � � � � � � � 18
+
+CIO Perspective: Expansion,
+innovation and resilience � � � � � � � � � � � � � � � � � � � 23
+
+Recover y underway
+but uneven; reinvention wins � � � � � � � � � � � � � � � � � 28
+
+The value of investments will fluctuate, which will cause prices to fall as well as rise and you may not get back the original amount you invested. Wherever mentioned, past performance is not a guide to future performance.
+The views expressed in this document should not be taken as a recommendation, advice or forecast and they should not be considered as a recommendation to purchase or sell any particular security.
+
+ 2
+
+## Page 3
+
+Introduction
+
+As 2025 draws to a close, investors are digesting Valuations will also be a focus, certainly for equity markets,
+the disruptive events they were forced to navigate� where there is an unmistakable feeling of ner vousness given
+Extreme volatility was all too often the prevailing backdrop; recent performance� However, while elevated, most equity
+the ‘Liberation Day’ tariffs crash, ongoing geopolitical markets are not presently at extreme or unprecedented
+conflict, a US credit rating downgrade and increasing levels� Within private markets, a favoured destination for
+questions about AI-led market momentum� investors in recent years, the factors driving support are not
+Most asset classes delivered stellar performance this transitor y, but multi-year and enduring�
+
+year, but investor focus is now clearly on the year ahead� The CIOs from our Equities, Fixed Income and Private Market
+We believe many of last year’s drivers will remain primary teams discuss all these issues in this year-end edition of
+catalysts for 2026� Markets are perhaps moving more Investment Perspectives� Their conclusion? Now more than
+into a ‘show-me’ mode regarding AI-led productivity ever selectivity will be key to securing investment success
+assumptions embedded in some equity valuations� There is in 2026� Pockets of opportunity always exist across asset
+a clear expectation of further rate cuts in the US, but this is classes for investors prepared to focus on the fundamentals
+not inevitable with inflation remaining sticky� And who knows rather than ride market momentum�
+if and when the conflict in Ukraine will eventually come to
+a conclusion� Clarity on all these factors will undoubtedly
+impact markets over the next 12 months�
+
+ 3
+
+## Page 4
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+Can the wave of optimism continue? Ke y ta k e aw ay s
+
+ ● Most major asset classes performed well in 2025,
+Tristan Hanson , despite repeated shocks� As we approach 2026, investor
+Co -Manager, M&G Episode Macro Strategy concerns have grown about elevated valuations, credit
+ quality and sovereign debt levels�
+
+ ● Unlike the 1999/2000 dotcom bubble, today’s artificial
+ intelligence (AI)-focused companies are profitable and
+ showing strong growth� However, there is scope for
+ disappointment if some of the planned expenditure on
+ AI proves excessive or somewhat cyclical�
+
+ ● Central bank policy and inflation will be pivotal in
+ 2026; anticipated US rate cuts may be challenged if
+ inflation remains above target, impacting both bonds
+ and equities�
+
+ ● There will be unforeseen events in the year ahead and
+ success will depend on how investors react to surprises,
+ rather than on predictions�
+
+ 4
+
+## Page 5
+
+2025 has been a tremendous year for many investors� Despite buoyant markets, towards year end, a sense 2025: A year of mostly positive returns
+At the time of writing, most of the major asset classes have of unease has grown among investors� Elevated equity
+delivered very strong investment returns, with many stock valuations, abrupt volatility in precious metal prices and
+markets reaching record highs� worries over credit quality have been added to a list of
+Markets have been resilient through repeated shocks, existing concerns that included policy unpredictability and
+not least Liberation Day in April� Some of the outcomes are sovereign debt levels�
+
+surprising� Among equity markets, South Korea’s c�70% rise So what are we to make of the current investment backdrop?
+stands out, especially as the market narrative at the start of With the caveat that we can’t predict the future, what are
+the year was focused on US exceptionalism� The S&P 500 the key issues that investors need to think about in 2026?
+Index rose but lagged many other markets, including the --
+UK, Japan and emerging markets�
+
+ Source: LSEG Datastream, 20 November 2025. US: S&P 500; Europe: Stoxx 600;
+ UK: FTSE All-Share; Japan: Topix; EM: MSCI EM; Korea: Kospi; Global Bonds:
+ Bloomberg Global Aggregate; US Long Treasuries: Bloomberg US Long Treasury;
+ Global Credit: Bloomberg Global Corporate; US Dollar: Dollar Spot Index (DXY);
+ Crude Oil: West Texas Intermediate; Gold: LBM $ per troy oz. Returns in local
+ currencies unless stated. Past performance is not a guide to future performance.
+
+ 5
+
+## Page 6
+
+Valuations – boom or bubble? At present, investors appear focused on returns rather than With considerable excitement about the potential of certain
+ worrying about the risk of loss� This suggests a degree companies to make money from AI, there is scope for
+One of the big questions investors are asking is whether of complacency� disappointment if some of the planned expenditure proves
+valuations have become too elevated� The S&P 500 Index is excessive or somewhat cyclical�
+currently trading on a 12-month forward price-to-earnings This time is different
+ratio of around 23, significantly above its long-term average Although elevated asset price valuations do not necessarily
+of 16 times1� There are also concerns about valuations in the Today’s situation is often compared to the 1999/2000 signal a bubble, they could mean potentially lower future
+bond market, where credit spreads have narrowed near to dotcom bubble� My investment career started at the very returns� There is also less compensation for risk if things do
+their lowest levels in 20 years² � end of the 1990s� At the time, it felt like a gold rush for not turn out as expected�
+ internet stocks, most of which were deeply unprofitable� In 2025, the best performing markets proved to be the ones
+In particular, there are concerns that we might be in an AI In that sense, today’s environment is definitely different: the
+bubble, inflated by soaring prices of AI-related technology companies at the centre of this AI story are reporting very that had low expectations at the start of the year� In 2026,
+and semiconductor stocks� strong revenue and earnings growth� could we see a similar pattern as investors seek to diversif y
+ beyond expensive AI stocks and consider more attractively
+Whether we are in a boom or a bubble is hard to know� What Recent commentary from a leading technology company valued stocks in the rest of the market or even look for value
+is arguably more helpful is to try and assess the degree suggests spending on AI will only increase in the years in regions such as Europe and emerging markets?
+of optimism reflected in market prices and look for signs ahead, although as time passes investors will focus on
+of emotionally driven behaviour: do we see fear of price whether such spending is generating a sufficient return
+declines or fear of missing out (FOMO)? on investment�
+
+¹Source: John Butters, ‘Highest Forward 12-Month P/E Ratio For the S&P 500 in More Than 5 Years’, (insight.factset.com), November 2025.
+²Duncan Lamont, ‘Schroders Credit Lens October 2025: your go-to guide to global credit markets’, (schroders.com), October 2025. 6
+
+## Page 7
+
+Central banks back in focus Debt and deficits This is arguably one of the reasons many investors are
+ mindful of risk in government bonds� However, given that
+AI has dominated investment discussions lately, but central The appointment of a new Fed chair next year could also the real (inflation-adjusted) yields available on long-dated
+bank policy is likely to become more important in 2026� influence the direction of interest rates� President Trump government bonds are more attractive than they have been
+Where inflation goes in the coming months will likely play has repeatedly called for lower interest rates and he may in many years, might investors look more favourably on
+a pivotal role for investment portfolios� use this opportunity to select a candidate who is aligned government bonds in 2026, especially if rates fall?
+The market is expecting roughly 100 basis points of interest with his thinking�
+
+rate cuts in the US next year, despite a forecast that inflation Given the scale of the US government debt – over US$38
+will be closer to 3% than 2%3� If inflation data is problematic trillion4 – lower borrowing costs would make a significant
+in 2026 then those rate cuts will come into question, difference to government finances� However, the US is not
+which will pose a challenge both to bonds and equities� alone in facing budget pressures from deficits and ageing
+If inflation remains persistently above the Federal Reser ve’s populations; France was in the headlines this year but most
+(Fed) 2% target in 2026, while the labour market continues developed economies are grappling with rising debt levels�
+
+to weaken, policymakers may find themselves with
+a difficult decision�
+
+3S&P Global, ‘Global Economic Outlook Q1 2026: AI Tailwinds Boost Otherwise Weak Growth’, (HYPERLINK “https://www.spglobal.com/ratings/en/regulatory/article/global-economic-outlook-q1-2026-ai-tailwinds-boost-otherwise-weak-growth-s101659149”spglobal.com), November 2025.
+U.S. Treasury Fiscal Data, ‘What is the national debt?’, (HYPERLINK “https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/#:~:text=What%20is%20the%20national%20debt,3”fiscaldata.treasury.gov), November 2025.
+4U.S. Treasury Fiscal Data, ‘What is the national debt?’, (HYPERLINK “https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/#:~:text=What%20is%20the%20national%20debt,3”fiscaldata.treasury.gov), November 2025. 7
+
+## Page 8
+
+Resilience and diversification Inevitably, there will be unforeseen events in the year
+ ahead� However, there are reasons to believe markets
+There are plenty of challenges facing the world in 2026, but can remain resilient but we may also discover if investors’
+the global economy has shown resilience in recent years� optimism is justified� In this complex environment, adopting
+The consensus among economists is for a year of moderate a disciplined, diversified approach could potentially help
+growth and inflation in 2026, although forecasts rarely play investors find long-term value in the year ahead�
+out as anticipated�
+
+US economic growth is relatively solid, and the combination
+of lower interest rates and tax cuts from President Trump’s
+One Big Beautiful Bill could provide tailwinds in the year
+ahead� However, inflation, consumer confidence and
+employment trends will be things to keep an eye on in 2026�
+
+Beyond the US, the German fiscal stimulus and increased
+defence spending could start to have a positive impact on
+the German and European economies� In Asia, countries,
+including China, will have to negotiate Trump’s trade
+policies, but unlike their developed counterparts they are
+not facing fiscal challenges�
+
+ 8
+
+## Page 9
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+Valuation framework: Key observations
+
+ ● The main story of 2025 has been strong performance
+Assessing valuation signals across of ‘cheaper’ equity markets (particularly those that had
+
+ previously been unloved)�
+a spectrum of asset classes
+ ● Assets that had seemed less attractive, such as US and
+Stuart Canning , European credit (spreads) and equity markets in the US,
+ Australia and India, remain at similar valuations�
+Global Macro Fund Manager
+ ● This has left most global assets looking relatively neutrally
+ priced, with some pockets looking more stretched�
+
+ ● Policy rate cuts have resulted in lower real rates on cash
+ in the US, UK and Europe�
+
+ ● However, government bond yield cur ves have steepened,
+ most notably in Japan, Germany and France�
+
+ 9
+
+## Page 10
+
+The valuation framework compares the real yields of Real yield against an assessment of fair value
+a spectrum of global assets with an assessment of their Sample of assets, showing a real yield against an assessment of neutrality
+‘fair value’, which is calculated using the M&G Global Macro
+team’s proprietar y analysis�
+
+When an asset’s real yield is higher than the estimate of fair
+value, it is considered to be attractively valued; if lower, the
+asset’s current valuation would be considered expensive�
+Such valuation signals typically have low predictive power
+over shorter time periods but can be a guide to prospective
+returns over the longer term�
+ __ ,_._
+
+ ■ ■ ■ ■ ■
+
+ *Real yields. Cash/bonds are nominal yields deflated by 10y breakeven inflation. Exceptions are Switzerland and India (no breakeven) and UK (breakeven is RPI) where
+ 20y average CPI figure is used. • Equities use 12m forward EPS deflated by Bloomberg consensus 12m forward inflation expectation over price. The above data
+ is a hypothetical representation for illustrative purposes only and is not representative of any M&G product or strategy. No representation is being made that any
+ account, product, or strategy will or is likely to achieve profits, losses, or results similar to those shown. Source: Bloomberg as at 14 November 2025.
+ 10
+
+## Page 11
+
+Valuation overview
+
+The following obser vations relate to the valuation framework�
+
+ The bigger picture Cash
+
+ Fewer obviously ‘cheap’ assets today – Areas that had offered higher than normal Policy easing has reduced pressure on other assets – Cuts to policy rates have
+ compensation for risk have delivered ver y strong gains in 2025� Regions like China, made cash a less compelling proposition versus other assets, particularly as
+ Korea, Mexico and Brazil were standouts� inflation remains a concern� This has been a factor in the strong returns investors
+ Less margin of safety for many assets – Credit spreads in the US and Europe have enjoyed in most assets this year�
+
+ remain tight and valuations in the US, Indian and Australian equity markets also European real cash close to zero – Policy easing by the European Central Bank has
+ look relatively unattractive versus histor y� taken prevailing cash rates to ver y low levels once again� Perhaps surprisingly given
+ Real cash rates lower and cur ves steeper – Relatively material cuts to policy rates conventional wisdom at the start of the year, this has not been associated with euro
+ in 2025, coming as they did without major growth shocks, were supportive for the weakness relative to the US dollar, which has faced its own ‘debasement’ narrative�
+
+ valuation of most assets� Longer duration bonds now offer a more attractive pick Japanese real cash rates relatively unchanged despite the noise – Much has
+ up versus cash� been made of structural, political and policy changes in Japan though prevailing
+ cash rates have changed little so far�
+
+ 11
+
+## Page 12
+
+Bonds Equities
+
+Steeper yield curves – While policy rates have generally fallen, longer term Strong gains in previously unloved areas – There was a huge amount of negativity
+government debt yields have risen slightly� Concerns about sovereign indebtedness around markets like Mexico, China, Brazil, and Korea, at the start of 2025 given fears
+have been one factor behind this steepening� of tariff action from the US� Such fears can often provide the set up for strong returns,
+Many emerging market bonds and currencies have performed well – As investors and there were blockbuster gains from each of these markets�
+
+have generally been happy to hold equity and credit markets at lower levels of yield, General comfort with equity risk today – Though most equity markets still look
+so emerging market bonds (and currencies) have performed well in the main� reasonably valued after the strong gains of 2025, many markets are at the least
+Bouts of bond volatility – Developed market long-dated bonds have traded in attractive they have been for some time� That investors have apparently become
+a range, with bouts of sharp weakness from time to time� In Brazil, yields are slightly more comfortable with equity risk against a backdrop of Trump tariffs, geopolitical
+higher today than November 2024 but are much recovered from a sharp sell off in risks, government shutdowns and the like, gives the lie to the ‘markets hate
+December, which set up investors for strong returns in 2025 were they prepared to uncertainty’ cliché�
+
+step in� Greater reliance on profits delivery – Markets like the US, Taiwan, and India that
+ appeared less attractive were able to deliver strong returns in 2025 due to the strength
+ of earnings delivery� With fewer markets trading at ‘cheap’ levels (with the possible
+ exception of areas like global healthcare or more ‘defensive’ European stocks) even
+ more markets are likely to be reliant on profits deliver y from here�
+
+ 12
+
+## Page 13
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+CIO Perspective: Ke y ta k e aw ay s
+
+ ● We are only at the ver y start of the widespread application
+Are we in an AI bubble? of AI, yet ‘AI bubble’ has been a much-used expression
+
+ of late�
+That’s the wrong question
+ ● If there is an AI bubble, it is not in the technology but in
+Fabiana Fedeli , the valuations of a specific group of companies�
+
+ ● Where companies go from here will depend on
+CIO Equities, Multi Asset and Sustainability
+ supply bottlenecks and the displacement potential of
+ new technologies�
+
+ ● As the tide that lifted all boats starts to recede, we
+ believe this is the time to let go of passive exposure to
+ AI stocks and take a more active investment approach�
+
+ ● There are still areas where we believe markets are not yet
+ pricing AI’s contribution to productivity transformation�
+
+ ● As we enter 2026, the question for investors should not
+ be ‘Are we in an AI bubble?’, but rather ‘Can we identif y
+ the companies that are quietly taking advantage of what
+ AI has to offer, and whose valuations allow for upside?’�
+ 13
+
+## Page 14
+
+AI has become the biggest driver of markets since late AI is not a bubble� Let’s agree on that� AI is a technology that Mind you, this doesn’t feel like 2000� At 35x trailing 12m price
+2022, when ChatGPT launched� Over that period, the S&P has developed into a powerful tool, generative AI, capable to earnings (P/E), Nasdaq’s valuations may feel high, but
+500 has added roughly 24 trillion dollars in market value� of bringing structural change to the way we live and work� they are not as high as the c�100x trailing 12m P/E reached
+Approximately 75% of that increase is linked to companies AI’s power is in its pervasiveness, its ability to be applied in 2000 (data from those days shows various levels up to
+involved in AI infrastructure, semiconductors or hyper to so many of our daily processes, products and services� 200x, depending on whether or not unprofitable companies
+scaling5� More recently, many of our clients have been asking Whether it is in helping us manage our email inbox, improving were included)�
+us if the AI bonanza is about to come to a sudden halt� the depth and breadth of healthcare research, raising the For those of us who lived through the dotcom fiasco,
+Hence, looking at 2026, we thought it would make sense to efficiency of cargo routes, or even replacing our better halves investors appear more discerning now than at that time,
+tackle the growing headlines of an ‘AI bubble’ about to burst� in creating itineraries for holidays� More timely, accurate and, as many of the top performing companies this year are
+ for sure, less opinionated than my husband� And it doesn’t actually profitable� Whether this time is different or not
+ leave bookings to the last minute� (in our experience it’s never completely different), what are
+
+ We are only at the ver y start of broader application� And yet, the likely market outcomes for those stocks that have seen
+ ‘AI bubble’ has been a much-used expression of late� If there significant rerating?
+ is a bubble, it is not in the technology but in the valuations of
+ a specific group of companies – both private and listed� As is
+ typical at the start of new structural developments, investors
+ have flocked to the best known and most telegraphed names
+ associated with AI�
+
+5M&G Investments, Bloomberg, November 2025. 14
+
+## Page 15
+
+Then and now: Today’s valuations Where to now for stocks that have
+are far from 2000 levels seen a significant rerating?
+
+ One possible outcome is that such companies continue to
+ print ever better earnings, even in the near term – deeming
+ current valuations, and related optimistic expectations,
+ “If there is a bubble, simply realistic� In this scenario, all the current doom and
+ gloom would have been for nothing�
+ it is not in the A second potential outcome – and we have seen this before
+ technology but in the – is that investors have overestimated the near-term growth
+ opportunities of AI-derived earnings for the companies
+ valuations of a specific that make the essential hardware and build the critical
+ group of companies.” infrastructure, from chips to data centres�
+
+ ■ ■ Perhaps bottlenecks in hardware production or power
+
+Source: Bloomberg, November 2025. *Top of the dotcom bubble is 24 March 2000. supply will drive a slowdown in development and adoption�
+ This would imply a temporar y fall in share prices followed by
+ a rebound once fundamentals catch up�
+
+ 15
+
+## Page 16
+
+The third possible outcome is that the current technology All of this, however, will take time� In the short term, there is As investors, we know that getting the timing right is just
+supporting AI is, at some point, displaced by a more powerful no choice but to continue optimising the existing architecture as crucial as investing in the right asset� The answer, for
+one and the winners of today will be replaced by the leaders based on the GPU+HBM6 model as far as physics will allow� us, is to cast a wider investment net to capture AI-related
+of tomorrow� The bottlenecks that could slow the adoption Also, a new technology will not necessarily displace the opportunities� Importantly, as the tide that lifted all boats
+of AI, mentioned in the second scenario, may trigger a shift current incumbents, as they could adapt to new technology starts to recede, this is the time to let go of passive exposure
+in the technology supporting AI in the search for efficiency� and maintain leadership even if and when a new, more to AI stocks, and take a more active investment approach�
+In a recent piece ‘From Electrons to Photons ’, our Co-Head efficient technological medium replaces the current one�
+
+of Asia Pacific Equities, Carl Vine, argues that one avenue to What does this all mean
+solve energy bottlenecks in AI development is by changing for investors?
+the compute medium from electrons to photons� Across
+academia and industr y, there is accelerating development in While it is always interesting to ponder the future, in the
+photonic computing and optical interconnects� end, our job as investors is to figure out how to make
+ returns in the present, accounting for all possible scenarios�
+ Any of the three outcomes discussed above have a decent
+ chance of occurring� Of course, higher valuations make the
+ first outcome more difficult to realise, albeit not impossible�
+ And the likelihood of the third outcome is higher over the
+ longer term�
+
+6The GPU+HBM model refers to the integration of high-performance graphic processing units (GPUs) with High Bandwidth Memory (HBM) technology, which significantly enhances memory bandwidth and performance in AI and machine learning applications. 16
+
+## Page 17
+
+Potential AI winners These are companies that are not deploying enormous Separating hype from substance
+ amounts of capital to build their AI, rather, they are utilising as a recipe for investment returns
+Besides the companies that we refer to as AI ‘enablers’ the AI infrastructure of other companies� Many of these firms
+(companies supplying the key technology – manufacturing have not seen the same valuation uplift as the enablers, as in 2026?
+semiconductors, providing data collection, data management, markets are not yet pricing AI’s contribution to productivity As investors, we have learnt that painting the whole market
+communication services or cybersecurity), we believe there transformation� Yet, we are already seeing AI productivity with the same broad brush is not the best recipe to deliver
+are two other sets of winners: those firms that deploy AI to enhancements across different areas, such as call centres, returns� The question we ask ourselves as we enter 2026
+reallocate economic resources more efficiently, and those software coding, predictive analytics, and advertising� should not be whether we’re in an AI bubble, but can we
+firms that support such reallocation through their ser vices� identify which companies are quietly taking advantage of
+ As AI solutions mature, we believe there will be a step
+ function increase in the use of AI in corporate settings that what AI has to offer, and whose attractive valuations allow
+ will unleash growth acceleration and margin improvements� for upside� As always, the key is rigorous due diligence to
+ Companies across different sectors have already started separate hype from substance and identify the winners
+ this journey� of tomorrow�
+
+ 17
+
+## Page 18
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+CIO Perspective: Ke y ta k e aw ay s
+
+ ● From the low-interest rate doldrums of the 2010s, fixed
+Income is back income is delivering income once more� With attractive
+
+ real yields, we believe government bonds can offer
+Andrew Chorlton , investors an attractive source of income, without taking
+CIO, Fixed Income on additional credit risk�
+
+ ● Central bankers are still walking the delicate tightrope
+ between growth and inflation� With increasing political
+ pressure and the appointment of a new chair of the
+ Federal Reserve, 2026 will likely be an important year
+ for central bank independence, paving the path for the
+ years ahead�
+
+ ● As the developed world continues to face
+ macroeconomic challenges, diversification will be more
+ important than ever� Supported by generally lower debt
+ levels, both in sovereigns and corporates, continued
+ strong growth and decreasing dependency on the dollar
+ and the US economic cycle, the emerging market debt
+ universe appears an increasingly attractive alternative to
+ US assets� 18
+
+## Page 19
+
+Paradigm shift biggest opportunity in government bond yields, which Government bond curves globally have steepened
+ currently make up about 80% of the all-in yield in IG credit� dramatically in the last 12 months, partly driven by fiscal
+In a year marked by political, trade and economic Furthermore, given the level of outstanding government sustainability concerns� This has revitalised a lever that has
+uncertainty, fixed income markets have delivered robust debt and the issuance to come, it is truly a buyer’s market long been forgotten about by many active bond managers –
+returns� This reflects not only balanced fundamentals, but for bond investors� These elevated yields could offer bond cur ve trades� We feel that the combination of these factors
+also a paradigm shift� investors an attractive source of income without taking on means that we are in the midst of a fantastic opportunity
+The decade following Global Financial Crisis was defined by additional credit risk, especially as rates fall and we wait for for active management in global bond markets, which could
+low interest rates and quantitative easing (QE)� During this historically tight credit spreads to widen� offer performance-driving returns in portfolios; bonds are
+period, fixed income was manipulated, as central banks We believe that there is an asymmetric risk/return profile no longer just a boring ‘need to have’ allocation�
+bought bonds during QE to artificially force the yield in duration at the moment� The general direction of rates
+curve lower and stimulate economies� As a result, risk was is more likely to be downwards given the underwhelming
+repriced to the point that there was ver y little compensation level of growth in developed markets and weakness that we
+for buying bonds� By contrast, 2025 has seen yields on are seeing in the labour market� Given that the fiscal policy
+government bonds at a healthy starting place� lever – which has been the weapon of choice when growth
+Given the attractive real yields (the yield after accounting issues have been encountered over the last 25 years – is
+for inflation) on offer across fixed income markets now exhausted, central banks will need to turn to monetar y
+globally, bonds offer good value compared to equities, policy in order to stimulate the economy� This is supportive
+in our view� Given uniformly tight credit spreads across for duration, and for fixed income investors�
+investment grade (IG) and high yield (HY), we see the
+
+ 19
+
+## Page 20
+
+Global government bond yields A difficult balance
+Yields remain attractive, curves steeper on back of fiscal concerns Despite the likely continuation of monetar y easing in 2026,
+
+ central bankers across the world are walking a difficult
+ tightrope� That is, the balance between keeping inflation
+ l around their target rate and sluggish growth rates across
+ I the developed world� We can see visible signs of a softening
+ in the economy, particularly a weakening labour market�
+ However, mismanaged inflation remains a potentially
+ corrosive force, one that central banks may not yet have
+ control of and is front of mind given the recent battle scars
+ of 2021-22� Central bankers are under a lot of pressure both
+ from electorates and the governments – most notably in the
+ I I US – to continue their rate cutting cycle� However, there is
+ a risk that cutting rates before inflation is firmly under control
+
+ ■ ■ ■ ■ ■ ■ ■ ■ could anchor inflation expectations higher; the longer term
+
+Source: Bloomberg, October 2025. implications of which are much more serious�
+
+ 20
+
+## Page 21
+
+This balancing act is made more complicated by the While the European Central Bank may have reached a pause Diversifying into emerging markets
+renewed political pressure the Fed has come under this in its cutting cycle, the region received a longer-term growth
+year, ranging from open criticism from the President to impetus in 2025� Germany decided to release its ‘debt brake’, In a contrast to the macroeconomic uncertainty, fiscal
+attempts to oust members of the Board of Governors� a hard ceiling on deficit spending, as well as committing deterioration, and volatility that has challenged developed
+2026 will be an important year in maintaining the central to government spending on defence and infrastructure� markets, emerging markets (EM) have exhibited significant
+bank’s independence as Jerome Powell’s term as Fed Chair While this move should provide a boost to growth over the resilience over the last few years, proving a compelling
+comes to an end in May 2026� In the short-term, there is next decade, it also marks a first step to joining other EU alternative to DM�
+a concern that the President could use the process to extol countries in pursuing fiscal profligacy� It is yet to be seen Supported by generally lower debt levels, both in sovereigns
+the need for further interest rate cuts which would help whether the spending boost will counteract the negative and corporates, continued strong growth and decreasing
+him boost the economy� However, the long-term impact impact on its debt-to-GDP ratio� This again presents an dependency on the dollar and the US economic cycle,
+would be an undermining of credibility in arguably the most opportunity for active managers to generate alpha in global EM debt has emerged as an attractive space for fixed income
+important central bank in the world� bond markets, in our view� investors, particularly for those seeking diversification�
+
+As different regions grapple with the various economic Credible monetary and fiscal frameworks are becoming
+moving parts, there is likely to be continued divergence in more widespread, helping to build investor confidence�
+the pace and scale of central bank easing cycles, offering We recognise that EM is no longer as defined by broad
+the opportunity for an active manager to take advantage of regional themes but by country-specific stories, policy
+regional differences� credibility, and differentiated growth paths� This is where
+ we see the greatest opportunity, particularly for investors
+ who take a bottom-up approach to countr y selection�
+
+ 21
+
+## Page 22
+
+GDP growth and gross debt Looking to Asian bonds
+Emerging markets robust economic growth supported by a lower debt burden relative to developed markets Over the past decade, the Asian bond universe has grown
+
+ significantly, both in terms of breadth and depth; growing
+ from US$10�5 trillion in 2014 to $34�0 trillion in 2024�
+ Today, Asia’s local currency market alone has surpassed that
+ -------===----===--___.J~------- of the EU in size, while its hard currency market is similar to
+ the size of the US HY market�
+
+ For investors searching for positive risk-adjusted returns
+ ~___:=:::::::::::==:::::::::===------- and diversification away from the US, Asian bond markets
+ -------- stand out� Strong economic fundamentals, supply chain
+
+ flexibility, as well as resilient domestic consumption provide
+ a stable growth backdrop� At the same time, accommodative
+
+ r monetar y conditions will continue to support local currency
+
+ ■ ■ ■ ■ bonds� Meanwhile, improved credit fundamentals and
+
+Source: M&G, IMF, July 2025. Latest available data. government support provide headroom for Asian credit
+ issuers to ride through bouts of volatility� Because if there
+ is one thing that is certain, it is that there is always more
+ uncertainty on the horizon�
+
+ 22
+
+## Page 23
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+CIO Perspective: Ke y ta k e aw ay s
+
+ ● The recovery within private markets continues with
+Expansion , innovation fundamentals intact and market dynamics supporting
+
+ its long-term appeal�
+and resilience
+ ● European rather than US private credit may prove a more
+Emmanuel Deblanc, reassuring allocation for private credit investors in 2026�
+
+ ● New fund structures and appreciation of the merits
+C I O, Pr ivate Ma rk e ts
+ of the asset class is increasing the investor base for
+ private markets�
+
+ 23
+
+## Page 24
+
+The momentum continues Within private equity, underwriting has become more
+ disciplined, and private credit continues to expand,
+Over the last few years, private markets have certainly continuing to blur the lines between public and private
+been on a journey� Propelled by a trough in interest rates lending� There is also pent up demand across private
+post COVID in 2020, institutional investors enthusiastically markets to deploy dr y powder and exit a backlog of mature
+embraced the asset class� This positive momentum was assets, which may drive near term deal activity levels�
+then sustained over the next 12-months driven by a surplus
+of capital chasing a limited number of deals� However, Private credit – momentum or
+momentum then slowed, principally due to ongoing “Growth is being reset?
+macroeconomic and geopolitical factors� While it is fair to
+say there has been a modest rebound throughout 2025, this driven by enduring , Focusing on private credit, this continues to be one of
+recover y has been uneven: fundraising remains a challenge the most dynamic segments within private markets and
+in some areas, distributions (in private equity) are lagging, long-term factors.” as we enter 2026, with momentum remaining strong with
+and liquidity pressures persist� increasing investor interest� The underlying drivers for
+Looking forward to 2026, however, I think there are private credit are not disappearing – the desire for increased
+grounds for optimism� The interest rate environment diversification, yield enhancement and its floating rate
+now appears more stable, the IPO market is beginning to appeal – these are all enduring qualities which investors
+re-open (facilitating a recycling of capital), and there is should continue wanting�
+
+evidence of a renewed focus on operational value creation�
+
+ 24
+
+## Page 25
+
+What is evident though is the increasing chatter about the However, for those who remain cautious, as we head into Loan returns – Europe versus US market
+potential for systemic risk to be emerging in private credit� 2026, it is important to recognise investors have options,
+Addressing this head-on, a sense of perspective is called both in the area of the market they choose to invest in, and
+for� Yes, this is an asset class which has grown rapidly over in the kind of manager they want to work with� There are
+a relatively brief period of time, but not without reason� two principal markets for private credit, the US and
+The retrenchment by banks from certain lending areas has Europe� Comparing both, Europe has historically offered
+created broader financing needs that private credit has superior risk-adjusted returns relative to the US� Not only
+been well placed and able to fill� But this dynamic has far are European returns higher, but credit quality is superior
+further to go, particularly in Europe� Growth is being driven with Europe offering higher interest cover and lower
+by enduring, long-term factors� default rates7�
+
+ Thoughtful selection of an investment partner remains
+ key for investors with manager approach, resources and
+ risk tolerance all being potential differentiators, to name
+ a few factors� In our view, selectivity, credit vigilance and ■ ■
+
+ *Europe: Credit Suisse Western European Leveraged Loan Index (CS WELLI Index, annualised).
+ experience remain critical in ensuring delivery of the best **US: Credit Suisse US Leveraged Loan Index (CS US LL Index, annualised).
+ client outcomes in private credit� Source: M&G Investments, 30 September 2025
+
+7Interest cover: Pitchbook, LBO Interest Rate coverage Ratios, 10-year average as of 30 September 2025. Default rates: LCD ELLI and US LLI 10-year default rates by issuer count as of 30 September 2025. 25
+
+## Page 26
+
+Diversification is Private equity – in transition US I P Os
+driving opportunity Private equity continues to reset post the 2021 peak with
+
+Other private market strategies present investors with fundraising, deal activity and exits all firmly below 2021
+differentiated sources of risk and return, an important levels (albeit in line with pre-2021 levels)� Encouragingly,
+attribute in the current macro and political environment� underlying operating performance remains healthy with
+Within structured credit, asset-backed finance, for example, high single digit annualised sales and EBITDA growth
+offers opportunities across a diverse array of credit pools reported across private market indices� There are also signs
+– from consumer finance to equipment leasing – typically the IPO market is mounting a partial rebound and demand
+providing lower correlations to traditional credit markets� is clearly there – evidence recent Circle Internet Group IPO
+As with private credit, the trends driving structured credit 25X oversubscribed� What seems apparent is that there is
+are not transient, rather long-term factors which are being a long tail of pent-up IPOs� If the rise in IPO activity continues
+accelerated by innovation across the asset class� into 2026, coupled with potentially some out-sized PE
+ exits (top 5 VC backed companies are presently valued at Source: StockAnalysis, as of 7 November 2025.
+ c�US$900billion8), top-line exit figures should improve and
+ with it, investor confidence�
+
+8Pitchbook, Caplight, Notie.co estimated average as of 31 March 2025. 26
+
+## Page 27
+
+Considering the optimal private equity strategy heading into 2026: Transformation
+2026, I see the most compelling opportunities sitting within and opportunity
+truly transformative sectors� Tech-centric industries such as
+climate tech, fintech, cybersecurity and health tech, as well While uncertainty (as always) persists, I am confident the
+as those innovating within energy transition and leading “Further interest rapid growth witnessed over the last few years within
+environmental and societal change, are poised to deliver private markets is set to continue� If anything, it may even
+highly attractive returns� Further interest rate cuts will also rate cuts will prove accelerate as the ‘democratisation of private markets’
+likely prove a tailwind for private equity in 2026 supporting a tailwind for private becomes far more of a reality� The launch of LTAFs and
+both transaction and exit activity� Lower borrowing costs ELTIFs, together with the wider adoption of private market
+reduce the cost of financing transactions as well as boost equity in 2026.” Evergreen funds, is certainly opening up this asset class to
+companies’ bottom lines by supporting higher valuations� a far broader range of investors� This greater accessibility,
+ coupled with improving market dynamics, should ensure
+ private markets remain a core focus for investors in the
+ year ahead�
+
+ 27
+
+## Page 28
+
+INVESTMENT PERSPECTIVES 2026 OUTLOOK: SEARCHING FOR VALUE AMID THE EUPHORIA
+
+Recovery underway Ke y ta k e aw ay s
+
+ ● An uneven recover y, but structural forces, not short-term
+but uneven; reinvention wins rebounds, will define next cycle�
+
+ ● Capital is moving toward certainty and resilience,
+Richard Gwilliam ,
+Head of Property Research favouring assets that can withstand volatility and deliver
+ sustainable growth�
+
+ ● Outperformance will hinge on reinvention through ESG
+ integration, technology adoption and strategies aligned
+ with demographic and supply chain shifts�
+
+ 2828
+
+## Page 29
+
+Finding its footing volumes reaching €37 billion and full-year forecasts pointing
+ to €210 billion – up 7% year-on-year� Prime yields have begun
+After a turbulent two-year stretch defined by falling to compress; investors are increasingly drawn to assets with
+valuations and frozen liquidity, global real estate is finding its durable income and long-term growth drivers, even as overall
+footing� The sharp repricing which began in 2022, triggered volumes remain below historical norms�
+by surging interest rates and geopolitical uncertainty,
+forced investors to rethink strategies, rebalance portfolios ‘Europe’s structural Real estate markets in Asia Pacific (APAC) are also seeing
+and confront structural shifts that were already reshaping improving conditions� Cross-border investment surged
+the market� As 2025 draws to a close, the picture looks reforms and APAC’s 88% in the first three quarters, as global capital reallocated
+markedly different� Yields have rebased, sentiment is toward markets offering policy support and lower financing
+strengthening and recovery is in motion� While challenges pro -growth policies costs� South Korea has emerged in recent years as a key hub
+remain, the conditions for a new cycle are beginning to alongside Japan and Australia, as institutional investors see its
+take shape� are reinforcing office and logistics markets growing in liquidity, transparency
+Capital finds new pathways their appeal.’ and scale�
+
+ Meanwhile, sentiment toward US real estate has started to
+beyond the US cool� Policy volatilit y, trade frictions and concentration risk have
+Transaction activity is returning as refinancing pressures ease prompted some institutional investors to consider diversif ying
+and pricing stabilises, signalling renewed confidence across away from an overweight US allocation� Europe’s structural
+key markets� In Europe, deal flow is recovering, with Q3 reforms and APAC’s pro-growth policies are reinforcing their
+ appeal as regions combining stability with growth potential�
+
+ 29
+
+## Page 30
+
+Sector outlooks reflect Hybrid work reinforces gap between core CBD and peripheral locations
+uneven recovery
+
+The rebound is far from uniform� Offices exemplify the
+bifurcation now defining much of the market� In Europe,
+prime central business district (CBD) space dominates,
+accounting for the bulk of leasing activity, while demand
+for secondary locations continues to slide� Vacancy rates
+are stabilising for best-in-class assets, but weaker offices
+face mounting obsolescence risk amid hybrid work, ESG
+pressure and costly repositioning�
+
+This divergence is also happening in APAC� For instance, in
+Sydney, net absorption in the last four years has focused
+mainly in the prime districts and the gap between prime
+and secondar y rents has widened to a record 50% in 2025,
+up from 30% in 2022� The message is clear: quality, location
+and ESG compliance are non-negotiable in the new cycle�
+ • •
+ Source: M&G Real Estate based local broker reports, as of Q2 2025.
+
+ 30
+
+## Page 31
+
+For investors, closing this gap calls for value-add The living sector remains one of real estate’s most resilient Rental growth defies downturn
+strategies that transform secondary assets – especially investment strategies, underpinned by chronic undersupply with residential set to lead ahead
+through brown-to-green repositioning – into competitive, and demographic shifts� In Europe, private rented housing
+future-proof properties� demand continues to outstrip supply, with permits still
+Logistics is shifting from broad-based growth to a more far below estimated need despite a modest rebound�
+selective, resilience-driven phase� In Europe, occupier This imbalance will likely sustain rental growth over the
+demand remains steady overall but uneven, with Germany long-term� APAC reflects similar dynamics, driven by
+accelerating while France and Italy lag� Annual rental urbanisation, rising incomes and policy initiatives to attract
+growth has moderated following the very significant international students and young professionals into cities�
+strength of recent years, yet tight prime vacancies and Multifamily and purpose-built student accommodation
+shrinking speculative supply pipelines should underpin (PBSA) are gaining traction as core investment themes,
+pricing for core assets� In APAC, recover y is underway after while demographic trends point to growing opportunities in
+a period of oversupply, with vacancy rates falling and rents senior living�
+ -
+turning positive in key hubs such as Seoul and Sydney� ■ ■ ■
+Structural drivers – e-commerce, nearshoring, supply chain Source: PMA, Autumn 2025. *2016-onwards only.
+modernisation – remain intact, but performance is polarising
+between core urban hubs and peripheral corridors� The ext
+cycle will favour ESG-compliant, well-located assets�
+
+ 31
+
+## Page 32
+
+Retail, often cast as a laggard, is showing pockets of and senior living� Logistics will continue to evolve as This means the playbook is changing� Investors who rely on
+recovery� In Europe, after a significant rebasing of rents automation and reshoring rewrite supply chain strategies, yesterday’s assumptions – cheap leverage, indiscriminate
+and capital values, high streets are leading the recovery, potentially elevating the importance of mega-hubs and yield compression – will struggle� Outperformance will come
+supported by experiential formats as retailers pivot toward urban infill sites� Sustainability has become a defining filter from strategies that anticipate transformation: embedding
+engagement and immersion� In APAC, structural population for capital allocation, with compliant assets commanding ESG as a value driver, leveraging technology to future-proof
+growth and urban vibrancy are supporting a retail recover y premia and laggards facing a steep path to relevance� portfolios and targeting sectors where demographic and
+in Australia, particularly in dominant regional centres� supply chain shifts create durable demand� In short, the
+While omni-channel pressures persist, assets positioned Beyond recovery, driving winners of the next cycle will not be those who simply ride
+for experience-led consumption and last-mile fulfilment are th e n ext cy cl e the recovery, but those who reinvent their approach to risk,
+best placed to capture demand going forward� return and relevance�
+ Global real estate is entering a cycle where structural forces
+Structural themes shaping 2026 – rather than a rapid cyclical rebound – will dictate outcomes�
+ The past two years have reset valuations and exposed
+Looking ahead, several structural themes will shape vulnerabilities, but they have also clarified what matters most:
+performance� Artificial intelligence is redefining workplace resilience, adaptability and alignment with long-term trends�
+dynamics, making collaboration and connectivity more Capital is no longer focused on geography� It is now chasing
+valuable, and pushing demand toward prime CBD offices certainty in assets that can withstand volatility and deliver
+while leaving secondary stock increasingly vulnerable� sustainable growth�
+Demographic trends will sustain pressure on housing
+markets globally, driving investment in multifamily, PBSA
+
+ 32
+
+## Page 33
+
+DM&G
+ Investments
+
+Marketing Communication for Professional Investors only. Not for onward distribution. No other persons should rely on any information contained within. This information does not constitute an offer or a solicitation to buy shares in any of M&G’s funds. This document reflects M&G’s present
+opinions reflecting current market conditions. They are subject to change without notice and involve a number of assumptions which may not prove valid. It has been written for informational purposes only and should not be considered as investment advice, a forecast or guarantee of future results,
+or as a recommendation of any security, strategy or investment product. Where relevant, any reference to individual companies is for illustrative purposes only and should not be considered a recommendation to buy or sell securities of those companies. Information is derived from proprietary and
+non-proprietary sources which have not been independently verified for accuracy or completeness. While M&G Investments believes the information to be accurate and reliable, we do not claim or have responsibility for its completeness, accuracy, or reliability. Statements of future expectations,
+estimates, projections, and other forward-looking statements are based on available information and management’s view as of the time of these statements. Accordingly, such statements are inherently speculative as they are based on assumptions which may involve known and unknown risks and
+uncertainties. Actual results, performance or events may differ materially from those expressed or implied in such statements. All forms of investments carry risks. Such investments may not be suitable for everyone. This document has not been reviewed by any regulatory authority. For Australia only:
+This document is intended for wholesale clients as defined under the Corporations Act 2001. For Hong Kong only: This document is for professional investors only. For Singapore only: This document is for institutional Investors as defined under the Securities and Futures Act (Cap. 289) of Singapore
+only. For Taiwan only: This document is for institutional investors only. For Japan only: This document is for Institutional Investors only. This document is provided to you for the purpose of providing information with respect to investment management business capabilities of M&G Investments Japan
+Co., Ltd (the ‘Company’) and its offshore group affiliates. For the Republic of Korea only: This document is for Qualified Professional Investors only. For the United States only: M&G Investment Management Limited is registered as an investment adviser with the Securities and Exchange Commission
+of the United States of America under US laws, which differ from UK and FCA laws. For Canada only: Upon receipt of these materials, each Canadian recipient will be deemed to have represented to M&G Investment Management Limited, that the investor is a ‘permitted client’ as such term is defined
+in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations. In the UK, the United States, Canada and Australia, this Financial Promotion is issued by M&G Investment Management Limited, registered in England and Wales under number 936683,
+registered office 10 Fenchurch Avenue, London EC3M 5AG. M&G Investment Management Limited is authorised and regulated by the Financial Conduct Authority. In Hong Kong and Korea, this financial promotion is issued by M&G Investments (Hong Kong) Limited. Office: Unit 1002, LHT Tower, 31
+Queen’s Road Central, Hong Kong; in Singapore by M&G Investments (Singapore) Pte. Ltd. (UEN 201131425R), regulated by the Monetary Authority of Singapore; In Taiwan, independently operated by M&G Investments (Taiwan) Limited, regulated by Financial Supervisory Commission of Taiwan, R.O.C.
+(113-gingwantougu-009). Address: Rm B1, 33F., Taipei 101 Tower, No. 7, Sec. 5, Xinyi Rd., Xinyi Dist., Taipei, 110, Taiwan. Tel: +886-02-81010600; in Japan by M&G Investments Japan Co., Ltd. Investment Management Business Operator, Investment Advisory and Agency Business Operator, Type II
+Financial Instruments Business Operator Director-General of the Kanto Local Finance Bureau (Kinsho) No. 2942. Membership to Associations: Japan Investment Advisers Association, Type II Financial Instruments Firms Association. Elsewhere issued by M&G Luxembourg S.A. Registered Office: 16,
+boulevard Royal, L-2449, Luxembourg. DEC 25 / W1615501-101249402
