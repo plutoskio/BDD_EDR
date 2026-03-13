@@ -15,7 +15,9 @@ This README is the fast orientation file. Agents should start here instead of op
 - The most advanced analysis file is [competitor_selection.md](/Users/milo/Desktop/BDD_EDR/competitor_selection.md). Despite the filename, it is not just competitor selection: it is a structured Step 2 comparison matrix covering EdRAM plus 20 competitors, with macro, allocation, theme, and source-reference tables.
 - The grading instructions for the written outputs are in [deliverable_2.md](/Users/milo/Desktop/BDD_EDR/deliverable_2.md) and [deliverable_3.md](/Users/milo/Desktop/BDD_EDR/deliverable_3.md).
 - The dashboard folder does not contain an implemented app at this stage. It currently contains product and UX notes in [dashboard/README.md](/Users/milo/Desktop/BDD_EDR/dashboard/README.md).
-- The canonical Step 2 manual data foundation now lives in [foundation/README.md](/Users/milo/Desktop/BDD_EDR/foundation/README.md), with a long evidence table, a wide master table, and a macro codebook.
+- The canonical Step 2 manual data foundation now lives in [foundation/README.md](/Users/milo/Desktop/BDD_EDR/foundation/README.md), with:
+  - completed macro foundation files
+  - positioning and themes scaffolding for the next extraction pass
 - The raw outlook source pack is stored in [outlooks](/Users/milo/Desktop/BDD_EDR/outlooks).
 - Agent-friendly text extractions of that source pack are stored in [outlooks_txt](/Users/milo/Desktop/BDD_EDR/outlooks_txt).
 - The extraction pipeline that generated the text mirror lives in [scripts/extract_outlooks.py](/Users/milo/Desktop/BDD_EDR/scripts/extract_outlooks.py).
@@ -59,6 +61,7 @@ This README is the fast orientation file. Agents should start here instead of op
   - Healthcare, resilience, sovereignty/defense, and selective China or EM exposure matter.
 - The competitor comparison file already groups firms into direct peers, market giants, and regional or institutional players.
 - The comparison is intentionally strict about missing disclosures: if a source does not publish a clean number, the matrix keeps it qualitative or marks it not disclosed rather than inferring precision.
+- The `foundation/` folder is now the operational base for Step 2 extraction work. Use the macro files for forecasts and the positioning files for allocation, currencies, commodities, and themes.
 
 ## Data Inventory
 

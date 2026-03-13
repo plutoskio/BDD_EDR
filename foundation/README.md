@@ -2,7 +2,10 @@
 
 This folder holds the canonical manual data foundation for Step 2 from [business_case_brief.md](/Users/milo/Desktop/BDD_EDR/business_case_brief.md).
 
-The goal is to maximize quantitative coverage while keeping every filled value traceable to a page and raw wording in the source.
+It currently has two layers:
+
+- a macro layer for normalized economic forecasts
+- a positioning and themes layer for portfolio views and thematic calls
 
 ## Files
 
@@ -15,26 +18,34 @@ The goal is to maximize quantitative coverage while keeping every filled value t
   - this is the wide comparison table for analysis, dashboards, and downstream work
 - `macro_codebook.md`
   - the rules for metric definitions and controlled numeric filling
+- `positioning_evidence.csv`
+  - raw source-backed extraction table for allocation, currencies, commodities, and themes
+- `positioning_master.csv`
+  - normalized comparison table with one row per manager and canonical topic
+- `positioning_codebook.md`
+  - the rules for topic coverage and view normalization
 
 ## Working Rule
 
-Use `macro_evidence.csv` as the source of truth.
+Use the matching evidence table as the source of truth for each layer.
 
 Recommended workflow:
 
 1. Search the candidate source in `outlooks_txt/`.
 2. Verify the final statement in the original file in `outlooks/`.
-3. Fill the row in `macro_evidence.csv`.
-4. Mirror the final selected value into `macro_master.csv`.
+3. Fill the relevant row in `macro_evidence.csv` or append evidence to `positioning_evidence.csv`.
+4. Mirror the final selected output into `macro_master.csv` or `positioning_master.csv`.
 
 ## Design Choices
 
-- We intentionally keep a numeric `value` column even when some values are proxied from qualitative wording.
+- The macro layer keeps a numeric `value` column even when some values are proxied from qualitative wording.
+- The positioning layer keeps a normalized `view` field rather than forcing fake numeric precision into allocation and theme calls.
 - We intentionally do not keep `method` or `confidence` columns in the data tables.
 - Rigor is preserved through:
   - `page`
   - `raw_wording`
   - a fixed codebook in `macro_codebook.md`
+  - a fixed codebook in `positioning_codebook.md`
 
 ## Scope
 
@@ -54,3 +65,17 @@ The current macro foundation covers 12 metrics:
 - `eur_usd_2026`
 
 If the scope expands later, add new metrics to both `macro_evidence.csv` and `macro_master.csv` only after updating the codebook first.
+
+## Positioning Scope
+
+The current positioning and themes foundation covers five buckets:
+
+- `equities`
+- `fixed_income`
+- `currencies`
+- `commodities`
+- `themes`
+
+The canonical topic list lives in `positioning_codebook.md`.
+
+`positioning_evidence.csv` starts as an empty audit log by design. Append raw statements there as they are found, then normalize them into the prefilled grid in `positioning_master.csv`.
