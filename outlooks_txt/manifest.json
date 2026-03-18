@@ -1,13 +1,35 @@
 {
-  "generated_at_utc": "2026-03-13T14:06:11.343906+00:00",
+  "generated_at_utc": "2026-03-17T21:46:19.402094+00:00",
   "source_dir": "/Users/milo/Desktop/BDD_EDR/outlooks",
   "output_dir": "/Users/milo/Desktop/BDD_EDR/outlooks_txt",
   "counts": {
-    "total": 21,
-    "success": 21,
+    "total": 31,
+    "success": 31,
     "failed": 0
   },
   "files": [
+    {
+      "source": "outlooks/!Global+Investment+Outlook_New+Year+2026_EN-1.pdf",
+      "output": "outlooks_txt/!Global+Investment+Outlook_New+Year+2026_EN-1.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 83,
+      "characters": 221513,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/2026-global-outlook.pdf",
+      "output": "outlooks_txt/2026-global-outlook.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 15,
+      "characters": 61099,
+      "warnings": [],
+      "error": null
+    },
     {
       "source": "outlooks/AMUNDI - Perspectives d'investissement 2026.pdf",
       "output": "outlooks_txt/AMUNDI - Perspectives d'investissement 2026.txt",
@@ -49,6 +71,17 @@
       "success": true,
       "pages": 42,
       "characters": 72638,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/Back-to-business-January-2026.pdf",
+      "output": "outlooks_txt/Back-to-business-January-2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 12,
+      "characters": 38669,
       "warnings": [],
       "error": null
     },
@@ -198,6 +231,17 @@
       "error": null
     },
     {
+      "source": "outlooks/MAM_2026_Outlook_-_Opportunity_beyond_the_obvious.pdf",
+      "output": "outlooks_txt/MAM_2026_Outlook_-_Opportunity_beyond_the_obvious.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 17,
+      "characters": 39454,
+      "warnings": [],
+      "error": null
+    },
+    {
       "source": "outlooks/Oddo BHF - outlook 2026.pdf",
       "output": "outlooks_txt/Oddo BHF - outlook 2026.txt",
       "kind": "pdf",
@@ -205,6 +249,17 @@
       "success": true,
       "pages": 2,
       "characters": 7665,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/PGIM-2026-Market-Outlook.pdf",
+      "output": "outlooks_txt/PGIM-2026-Market-Outlook.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 22,
+      "characters": 65185,
       "warnings": [],
       "error": null
     },
@@ -249,6 +304,39 @@
       "error": null
     },
     {
+      "source": "outlooks/docu-2026-robeco-investment-outlook.pdf",
+      "output": "outlooks_txt/docu-2026-robeco-investment-outlook.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 27,
+      "characters": 45678,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/investment-outlook-2026.pdf",
+      "output": "outlooks_txt/investment-outlook-2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 27,
+      "characters": 90986,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/io-investor-en.pdf",
+      "output": "outlooks_txt/io-investor-en.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 7,
+      "characters": 12519,
+      "warnings": [],
+      "error": null
+    },
+    {
       "source": "outlooks/lazard_outlook_2026.pdf",
       "output": "outlooks_txt/lazard_outlook_2026.txt",
       "kind": "pdf",
@@ -257,6 +345,30 @@
       "pages": 21,
       "characters": 51500,
       "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/lgt_capital_partners_-_investment_outlook_2026.pdf",
+      "output": "outlooks_txt/lgt_capital_partners_-_investment_outlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 32,
+      "characters": 66879,
+      "warnings": [],
+      "error": null
+    },
+    {
+      "source": "outlooks/royal_london_outlook_2026.pdf",
+      "output": "outlooks_txt/royal_london_outlook_2026.txt",
+      "kind": "pdf",
+      "method": "pypdf-layout",
+      "success": true,
+      "pages": 27,
+      "characters": 81376,
+      "warnings": [
+        "page_27_empty"
+      ],
       "error": null
     }
   ]

@@ -2,7 +2,7 @@ Source file: lazard_outlook_2026.pdf
 Source path: outlooks/lazard_outlook_2026.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:06:11.343259+00:00
+Extracted at UTC: 2026-03-17T21:46:18.219822+00:00
 Page count: 21
 
 ---

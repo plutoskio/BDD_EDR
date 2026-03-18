@@ -2,7 +2,7 @@ Source file: Candriam - outlook 2026.docx
 Source path: outlooks/Candriam - outlook 2026.docx
 Type: docx
 Extraction method: pandoc
-Extracted at UTC: 2026-03-13T14:05:55.557807+00:00
+Extracted at UTC: 2026-03-17T21:46:00.058104+00:00
 
 ---
 

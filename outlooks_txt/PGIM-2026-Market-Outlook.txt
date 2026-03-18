@@ -1,0 +1,833 @@
+Source file: PGIM-2026-Market-Outlook.pdf
+Source path: outlooks/PGIM-2026-Market-Outlook.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:12.539322+00:00
+Page count: 22
+
+---
+
+## Page 1
+
+2026
+
+PGIM is the principal asset management business of Prudential Financial, Inc. and a
+trading name of PGIM, Inc. and its global subsidiaries and affiliates. Prudential Financial,
+Inc. of the U.S. is not affiliated with Prudential plc, incorporated in the United Kingdom or
+with Prudential Assurance Company, a subsidiary of M&G plc, incorporated in the United
+Kingdom. All investments involve risk, including the possible loss of capital.
+ GLOBAL MARKET OUTLOOK │ PGIM 1
+
+## Page 2
+
+CONTENTS KEY THEMES
+
+1. Global Macroeconomic 3Our outlook assesses the impact of key themes across
+2. Fixed Income 7global economies and markets in 2026:
+
+ The Era of Fiscal Dominance…and the End of Central Bank Innocence
+3. Real Estate 9 Geopolitical rivalry is expensive. Record defense budgets, expanding industrial
+ policy, and rising populism will compel major economies to run historically high
+4. Fundamental Eq u i t y 12deficits. Accompanying demands for low monetary policy rates erode central
+ banks’ inflation-fighting credibility. Repriced term premia will increasingly
+ determine the level of long-term rates.
+5. Multi-Asset 15
+ Carry On: Lean Into Structural Growth
+6. Asset Class Outlook Summaries 18 Steeper yield curves, stretched market valuations, and economies reconfigured for
+ structural growth warrant diversified portfolios constructed for carry and income.
+ and Capital Market Assumptions Productivity Boost Redux
+
+ The $7 trillion global AI buildout threatens near-term over-investment risks. Yet,
+ historical precedent suggests it will ultimately seed a productivity boost that
+ determines growth trajectories, debt dynamics, and the future winners and losers
+ across global industries and corporations.
+
+ The Convergence of Public and Private Markets
+ As the delineation between public and private markets fades, expanding sources of
+ capital can support borrowers’ credit profiles. As risk and return profiles converge,
+ investors will likely benefit from assessing relative value across the public and
+ private credit continuum.
+
+ GLOBAL MARKET OUTLOOK │ PGIM 2
+
+## Page 3
+
+GLOBAL MACROECONOMIC OUTLOOK Click here to read our
+WHEN SECULAR AND CYCLICAL FORCES COLLIDE full macroeconomic outlook
+
+A new year may prompt investors to rationalise the intersection of major secular vulnerable sectors are absorbing a low inflation—remains further out on
+themes—such as a global era of fiscal dominance and a potential productivity bigger hit. For example, the recent the horizon and is not our base case for
+boost—with near -term cyclical developments. The following global economic increase in the unemployment rate for the U.S. economy in 2026. However,
+outlook addresses this relationship by providing regional context to key secular tech workers in the 20- to 30-year signs of a potential boost exist as
+themes as well as their impact on our global scenarios for the coming 12 months. cohort is far greater than the industry’s observed in the stronger-than-
+ overall rate. expected Q3 GDP report.
+U. S .—Two Sides of AI-related Capex “Muddle Through” base case for the With that context, a potential Accelerating growth amid weak
+ U.S. economy (see our 12-month productivity boom—a market-friendly employment indicates that the
+The intersection of secular and global economic scenarios here). The combination of accelerating growth and economy is expanding through
+cyclical themes is readily apparent longer-term effects may be better
+across the U.S. economy viewed from the relationship between
+The moderation in labor conditions is these two trends.
+occurring against—and perhaps partially With about 40% of global jobs exposed Exhibit 1: Data center-related capex should continue to support U.S. GDP in
+caused by—the boom in AI-related to AI, one of the first-order effects for the quarters ahead.
+capex as the technologies are integrated the most exposed U.S. sectors, such as
+into workplaces. In addition to the technology and data processing, is faster 5
+resiliency of high-end consumers, AI- productivity growth relative to the pre-
+related capex has also provided a solid existing trend.1 3
+contribution to GDP growth. In the
+first half of 2025, the AI-capex Augmentation is also accelerating
+impact on U.S. GDP growth wage growth—and possibly 1
+amounted to about 60 bps, and we contributing to sticky inflation
+expect that trend to continue in conditions—within the sectors that -1
+2026 (Exhibit 1). are most affected by AI adoption. Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+ However, some tentative evidence 2022 2023 2024 2025
+In the near term, the intersection of Real GDP growth ( 2Q M A; %) Contribution from data centers (2 Q MA ; pp)
+secular and cyclical forces point to a indicates that early-career workers in
+
+ Source: Macrobond
+1 Data on global jobs exposure is from the IMF and the International Labour Organisation
+
+ GLOBAL MARKET OUTLOOK │ PGIM 3
+
+## Page 4
+
+GLOBAL MACROECONOMIC OUTLOOK
+
+efficiency gains rather than labor sovereign bond spreads over bunds. Japan—Reassessing Neutral? resilient to the U.S. tariff shock than
+accumulation. Yet, further As Germany seeks an economic While Japan is certainly part of an era of anticipated. This was likely a key factor
+confirmation will be needed before renaissance through industrial policy, fiscal dominance, the Bank of Japan re- behind the BoJ’s decision to raise rates
+heralding the arrival of a productivity its substantial fiscal boost is expected asserted itself on the monetary policy sooner than initially expected.
+boom. to contribute to euro area growth given front in 2025. The BoJ raised its policy Multiple questions accompanied the
+Eu r o A r e a—Tailwinds May Forestall the positive spillovers for Italy as well rate to 0.75% in December, marking its BoJ’s December rate hike. Was the BoJ
+ as interconnected central and eastern highest level in nearly 30 years. As in simply pulling a policy decision
+Looming Risks European economies. All told, we see forward as certain risks failed to
+Euro area growth of 1.4% through late relatively solid euro area growth of other relatively open developed markets,
+ 1.2% in 2026 against a backdrop of the Japanese economy has been more materialise? Or, in the face of greater
+2025 approached potential with
+inflation essentially at target. This leaves benign inflation.
+the ECB in a good place early in 2026. Whilst the euro area macro picture Exhibit 2: A relatively low effective tariff rate on EU exports to the U.S. likely
+Europe’s shock from higher tariffs appears benign from the top down, contributed to the region’s resiliency.
+was less damaging than feared, cracks remain below the surface:
+perhaps partially alleviated by the private sector dynamism remains weak 40 % 38.58% 38.67%
+relatively low effective tariff rates with rising unemployment in Germany
+applied on EU exports to the U.S. and France.
+(Exhibit 2) as well as the lack of EU France remains a prime example of the 30 %
+retaliation. However, that premise era of fiscal dominance as political
+could be challenged if the U.S. seeks divides prevent it from reining in large
+subsequent adjustments to 20.02% 19.88% 19.01% 18.55%
+tariff rates. budget deficits and a rising debt -to- 20 %
+ GDP ratio. Political fragmentation 14.03%
+Momentum in periphery economies, is not unique to France, with Spain 11.41% 9.71%
+such as Spain, Portugal and Greece, is unable to agree a budget for the 10 % 8.47%
+expected to remain through 2026, even third year running. But these appear
+as the deadline for post-pandemic EU to be problems for another day. For
+funds expires. As a result, we see now, the combination of inertia in the 0%
+continued fiscal discipline in the periphery and Germany’s pending EU MEX CN CA AS E ANJP SK IN UK Wo r l d
+periphery driving further fiscal impulse (contributing to steep
+improvements in credit ratings, yield curves) should support investor Ef fe ct i ve ta r i ff r a te o n ke y U.S . t r a din g pa r tne r s
+which in turn should support interest in the region. Source: Macrobond and WTO. As of December 2025.
+further compression of periphery
+
+ GLOBAL MARKET OUTLOOK │ PGIM 4
+
+## Page 5
+
+GLOBAL MACROECONOMIC OUTLOOK
+
+economic resilience and the limited Fiscal weakness and populist policy
+effects from policy normalization to tendencies, partially related to the Exhibit 3: As it normalises policy, the BoJ may reassess its estimated neutral
+date, has the BoJ re-assessed its upcoming EM election calendar, policy rate.
+estimated neutral policy range? Such a underscore vulnerabilities. Brazil and 2.5
+re-assessment would rhyme with other Colombia have upcoming elections, and BoJ's current
+increases in estimated global neutral rates both have polarised political policy estimated neutral
+since 2020. outlooks coupled with large fiscal risks. 1.5 range of 1.0-2.5%
+Ref erences t o st rong capex, incl uding Wh i l e t h e r e a r e r a t i n g s r i s k s t o b o t h
+in AI, could support an upward countries, we do not anticipate 0.5
+revision to the top end of the BoJ’s downgrades that lead to major upheaval.
+estimated range of neutral between 1- Wh e n v i e we d t h r o u g h t h e l e n s o f -0.5
+2.5% (Exhibit 3). Al l of whi c h s ugge s t s geopolitical dynamics, election outcomes 199 8 20 01 20 04 20 07 20 10 20 13 20 16 20 19 20 22 20 25
+that the current policy rate may be some may result in investment opportunities.
+distance from neutral and that the BoJ's This is particularly true for U.S./Latin BoJ monetary policy rate ( %)
+gradual approach could hardwire it to be Ame ri c a re l a t i ons , whe re U. S. pol i c y Source: Macrobond
+behind the curve, perhaps as indicated by priorities related to immigration, trade,
+recent weakness in the yen and bear and security enabled some Central and Exhibit 4: China leads the resilience in global trade after the increase in
+steepening along the JGB yield curve. South American countries to benefit (see U.S. tariffs.
+Chi na and EM—Gl obal Trade Strength our views on Venezuela in our economic
+ outlook). 170
+Despite the U. S.-imposed increase in Whi l e e f f e c t i v e t ar i f f r at e s wi l l r e mai n
+tariffs, global trade rose in 2025 with higher than before, other factors
+China and other emerging economies should limit their impact. EM supply 140
+largely fuelling the improvement (Exhibit chain and trade diversion tactics will
+4). Much of the increase in Chinese evolve and impact tech exports, such as
+exports reflects trade redirected from the those in Asia. 110
+U. S. towards Asia, Af rica, and Europe as
+authorities adapt to higher tariffs via Commodity-rich countries are
+export diversification. This has supported beneficiaries of changing geopolitics. 80
+Chinese growth, even as domestic Fragmentation is a risk, but many EMs are 20 19 20 21 20 23 20 25
+demand remains sluggish. EM inflation less vulnerable as they typically have Ad v a n c ed e co n o m i e sChinaEMs Wo r l d
+has generally stabilized near target, multiple trading partners, are diversif ied in
+allowing most EM central banks to what they trade, and have differing levels
+conclude their easing cycles. of exposure to the U.S. Source: Macrobond. Based on trade volumes, indexed to 100; December 2019=100
+
+ PGIM FOURTH QUARTER 2023 OUTLOOK │ 5 GLOBAL MARKET OUTLOOK │ PGIM 5
+
+## Page 6
+
+GLOBAL MACROECONOMIC OUTLOOK
+
+2026 Economic Scenarios—More by high-income consumers. The 1.4%) as rising real incomes and fiscal see the balance of risks tilted to the
+Muddling with an Eye on Over heatingscenario includes a Fed funds rate that support underpin the consumer, while upside (a 5 pp increase for the
+ gradually progresses towards neutral of exports and investment remain “Productivity Boost” scenario to 15%)
+Given the preceding context, our ~3.0-3.25% as the labor market challenged. A mild, but extended, period considering productivity gains, policy
+12-m onth economic scenarios generally continues to cool while elevated where inflation undershoots the ECB’s easing, and potential for U.S. economic
+remain intact from late last year with inflation remains sticky. Our key 2% target may incentivise the ECB to overheating. The main downside risk
+some updated probabilities across the economic risk resides in the right tail of implement another 25 bps rate cut to in China is through U.S.-China
+distribution. the distribution with a 25% probability bring the deposit rate to the lower side trade tensions.
+Indeed, w e continue to see a “Muddle on an “Overheating” scenario amid the of neutral at 1.75%. Our increased For emerging markets, we assume a
+Through” base case for the U.S. (still potential combination of accelerating probability for the base case came from “global growth” construct by taking a
+40%), the Euro Area (raised from 45% monetary and fiscal stimulus that a 5 percentage point reduction in an
+ prompts a material, above-trend “Overheating” scenario, with weighted average of the U.S. (35%),
+to 55%), and China (increased from 60% acceleration in growth while inflation “Recession” remaining the key Europe (35%), and China (30%). As a
+to 65%). exceeds 3.5%. downside risk with a 15% probability. result, “Muddle Through” remains the
+In the U.S., our base case assumes that base case for EMs as well, with nearly
+growth of 1.7% remains close to trend In Europe, our base case also Although we raised our base-case equal probabilities for the risks of
+amid AI-r elated capex and expenditures anticipates near-trend growth (~1.2- probability for China, we continue to “Overheating” and “Recession.”
+
+Exhibit 5: PGIM’s 12-month global economic scenarios
+
+n Recession
+ 15 15 10 15 15 10 13 14
+n Mild Stagflation 5 5
+ 5 15 5 5 16
+n Muddle Through (base case) UNITED EMERGING
+ 25 STATES EUROPE CHINA MARKETS*
+n Overheating
+
+n Productivity Boost 40 52
+ 55 65
+
+Source: PGIM. *Probabilities for EM may not sum to 100% due to rounding. For EM we assume a ‘global growth’ scenario by taking a weighted average of the U.S., Europe, and China using the following weights: U.S. (35%), Europe
+(35%) and China (30%).
+
+ GLOBAL MARKET OUTLOOK │ PGIM 6
+
+## Page 7
+
+FIXED INCOME OUTLOOK Click here to read our
+ full fixed income outlook
+THE YIELD IS DESTINY BULL MARKET: WELCOME TO YEAR 4
+
+With 2026 underway, a few factors are readily apparent across global Exhibit 1: While Treasuries underperformed cash since 2022 (top panel), duration
+fixed income markets: the slow-going bull market remains in the sweet spot; contributed to returns last year (bottom panel) amid a positive yield curve and a range -
+attractive yield levels may translate into solid returns over the intermediate to bound market, highlighting two points: 1) bonds should outperform cash on yield; 2)
+longer term; and the unusual geopolitical backdrop and asynchronous central bank sentiment swings underscore duration management as a tactical alpha driver.
+cycles should continue to create opportunities to add value 155
+through active management.
+Bull Market Year 3: Smooth Sailing curves have steepened and turned 135
+Thanks to the bear market of 2022 lifting positive, improving the odds of bonds
+long-term yields back to historically outperforming cash going forward. 115
+
+attractive levels, the “yield is destiny ” Thanks to the positive yield curve
+bond bull market has rolled along with and a slight drop in yields, Treasuries 95
+the broad market benchmarks notching finally outperformed cash and joined 20 22 20 23 20 24 20 25
+their third calendar year of solid returns the bull market last year (Exhibit 1,
+(Exhibit 1, top panel). bottom panel). So, while we expect a 115
+Since late 2022, the incremental income smaller return contribution from spread
+from spread product along with capital product going forward, long-term fixed
+appreciation from spread compression income should pick up a tailwind 10 6
+almost entirely fueled the bull market. from the yield advantage and roll
+ down benefits provided by the
+Meanwhile, until 2025, Treasuries were a newly-positive yield curves.
+bit of a drag on returns, underperforming Central Banks on the Clock 97
+cash as a result of range-bound long rates Dec 20 24 Feb 20 25 Ap r 2 02 5Ju n 2 0 2 5Au g 2 0 2 5Oct 202 5Dec 20 25
+and generally inverted yield curves. Coming into 2025 and throughout the U.S. T-B ills U.S. Agg. U.S. IG Cor ps.
+However, the situation changed in 2025. first half of the year, virtually all EM and EM Ha r d C ur r enc y U.S. HY C orps . U.S. Tr e asur ie s
+Thanks to central bank rate cuts in DM central banks were in sync and
+the U.S. and around the world, yield widely expected to continue cutting Source: Bloomberg. Indexed to 100; top: October 1, 2022 = 100. Bottom: January 1, 2024 = 100.
+ rates from their post-COVID peaks. In
+
+ GLOBAL MARKET OUTLOOK │ PGIM 7
+
+## Page 8
+
+FIXED INCOME OUTLOOK
+
+our stylized central bank clock in Spreads are tighter, and the bulk of the Putting it all Together: Year Four of ongoing accumulation of yield
+Exhibit 2, most were clustered around capital gains potential from narrowing the Bull Market Ahead? itself.
+3 o’ clock: somewhere in the middle of spreads is well behind us at this point Furthermore, spread product looks set
+their respective rate-cutting cycles of the cycle. We are in a carry While we can hardly be certain as to deliver positive, but perhaps
+(except Japan, which was and remains environment (see our fixed income to what this year will bring, our narrower, excess returns—albeit by
+in the mid-innings of a hiking cycle). asset class summary for more). expectation is more of the same: thinner margins and with more
+ high and range-bound yields look idiosyncratic risk. Additionally, as
+Su d d e n l y I t W a s L a t e r t h a n Fire Over Iceset to persist, allowing this slow-go
+it Seemed… With spreads in the vicinity of all time bull market to continue, where mentioned earlier, newly positive
+ tights, the market is scanning for returns accrue not by a quick yield curves should give long-term
+Yet, expected rate paths shifted potential cracks in the foundation of increase in prices and decrease in fixed income a performance
+meaningfully in the second half of ‘25. yields, but rather thanks to the advantage relative to cash in the
+Indeed, much of the field shifted from the heretofore fundamentally firm quarters ahead.
+the 3 o’clock “rate cut” quadrant down credit environment. In addition to the
+to 6 o’clock, i.e., towards the hawkish usual free-floating, late-cycle
+“rates rising” half of the clock (Exhibit recession anxiety, concerns Exhibit 2: Central banks are on the clock, and it’s getting late.
+2). The principal cause of these continue to mount regarding
+shifts from dovish to neutral (or growing M&A risks, the massive AI
+hawkish) can be attributed to a infrastructure buildout, and an
+combination of hitting neutral unpredictable geopolitical
+earlier than expected while backdrop. However, our primary
+inflation has remained concern is fire over ice.
+above target. That is, should economic cycles turn
+Sp r e a d s : t h e n e w “ S t e a d y f o r up, resulting in a combination of
+Now” State? stronger growth and/or higher
+ inflation that forces more central banks
+Although excess returns from spread towards tighter policy, fixed income
+products were once again positive in could encounter a temporary buyers
+2025—as they have been throughout strike that would likely push yields
+the three-year bull market—they were higher and spreads wider.
+more muted last year.
+ Source: PGIM. As of December 2025.
+
+ GLOBAL MARKET OUTLOOK │ PGIM 8
+
+## Page 9
+
+REAL ESTATE OUTLOOK Click here to read our
+REAL ESTATE’S NEW CYCLE: A COMPELLING VINTAGE full real estate outlook
+
+Global real estate markets are set for a rebound in 2026, supported by expectations of Ultimately, though, real estate rents expectations in the living sectors.
+gradual improvements to the global economy and lower short-term market interest are a product of ability to pay and After a period of low supply growth
+rates. These factors are driving renewed capital inflows, increasing liquidity, and scarcity—and there are factors linked to elevated build costs and
+ongoing resilient occupier performance. After a significant value correction, signs supporting both. The ability of falling values, high-quality space is in
+indicate that 2026 should represent one of the peak investment vintages of the next commercial occupiers to pay higher short supply—scarcity is driving
+cycle, with values at or close to their lows in most markets around the world. In rents (e.g., on office, retail, and competition for space that is pushing
+addition, there is growth potential from structural demand factors, such as aging industrial properties) is being boosted up rents, especially for higher-quality
+ by rising productivity, while higher grade A buildings.
+demographics and digitalization, along with expectations of rising rents on grade A incomes support rental growth
+property due to persistently low supply and vacancy, as well as rising productivity. The
+expansion of the institutional investment opportunity set to encompass more operating
+sectors offers a potential route to outsized returns. Exhibit 1: Seven-Year Forward Total Returns—MSCI Global Core Quarterly
+ Property Fund Index
+Market Rebound in 2026 the future, the scale of value declines
+After a tough few years, private real recorded globally in recent years are 12% -20%
+ consistent with strong investment
+estate is starting to look attractively vintages, represented by seven-year -10%
+valued in a broader financial context. forward total returns of global core 8% 0%
+With short-term interest rates falling funds in Exhibit 1. In the past, when
+and the outlook for global returns real values have dropped 15% below 4% 10%
+improving further, there are signs that their estimated trend level, unlevered 20%
+capital inflows are returning. Deal core returns have been in the 10-12%
+volume, loan originations, and capital per annum range. 0% 30%
+raising ticked up in the fourth quarter, 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+while a jump in sentiment points to a Grade A Rents Rising 7- Y ea r F or wa rd T ot al R e t u rn - M S C I G l o ba l C or e Q ua rt erl y Pr op er t y Fu nd I n de x
+rebound in market activity in 2026. While global economic conditions are Rea l Ca pi ta l V al ue s, Re la ti ve to Tr en d S i nce 2 000 ( +1 Y ear , RH S , I n vert ed )
+A Compelling Vintage gradually improving, real estate demand Sources: INREV, ANREV, NCREIF, CoStar, JLL, PMA, PGIM. As of January 2026.
+While history is an imperfect guide to remains subdued, hovering at or around Forecasts may not be achieved and are not a guarantee or reliable indicator of future results.
+ its long-term average level.
+ GLOBAL MARKET OUTLOOK │ PGIM 9
+
+## Page 10
+
+REAL ESTATE OUTLOOK
+
+Structural Versus Tactical Themes more favorable for traditional property gradually re-enters the sector. for data centers and apartments, for
+ types, such as office and retail for Needs-based living continues to offer a which demand is strong, supported
+Renewed cyclical momentum means which demand for grade A space is significant opportunity set for equity by structural tailwinds. Rental growth
+the investment opportunity set is once increasing, but supply is very limited and credit strategies, notably in prospects are also improving for
+again becoming broad-based. There (click here to view our 2026 REIT demographic-driven senior living and retail and office where supply is low,
+are two key groups of opportunities: outlook). build-to-rent, where vacancy is falling and occupiers are competing for grade-
+structural, driven by long-term shifts in and rental growth is strengthening. A space.
+demand patterns for certain types of DIFFERENT REGIONS, DIFFERENT Demand for data center space remains
+real estate, and cyclical, where shorter- broad based. Asia Pacific
+term pricing or demand-supply DYNAMICS In 2026, real estate returns across Asia
+imbalances are the key driver (click Retail and office appear to be past their Pacific should strengthen, driven by
+here for a summary of our structural PGIM’s outlook for the 2026 global inflection point and offer an improving
+and tactical views). real estate landscape continues to returns outlook—sentiment appears to improving investor sentiment and
+ highlight how opportunities are be picking up and there should be an lower interest rates. There are
+Structural: Demographic patterns and country, capital, sector, style and opportunity to precede renewed variances across cities and sectors
+structural shortages of housing supply submarket specific, with diverse market momentum and acquire assets linked to differing demand -supply
+continue to drive a high conviction investment themes across regions. at compelling valuations. dynamics and economic outlooks,
+around opportunities and growth Early-cycle investments in the United creating a broad spectrum of
+potential in the living sector, including States and Mexico, rental growth in Eu r op e investment opportunities.
+for affordable family housing as well as Europe, and economic drivers of Europe's real estate market in 2026 A resilient consumer story supports
+specialist senior and student living growth in Asia Pacific are all shaping could benefit from rental growth, some rising hotel occupancy rates and
+concepts that are more operational and real estate markets. Meanwhile, private further yield compression, and ongoing rental growth for retail and
+can deliver higher returns. commercial real estate credit markets structural demand, creating a wide city core/urban logistics markets. The
+Demand for data center space worldwide may offer elevated yields range of investment opportunities. As living sector opportunity set is
+continues to rise rapidly on the back of and liquidity, supported by stabilizing interest rates are stabilizing at lower expanding into higher-density rental
+cloud computing and AI expansion, financing conditions and evolving levels and liquidity is improving on the sectors like co-living and student
+while last-mile logistics needs continue investor confidence. back of rising investor sentiment, a accommodation. A flight to quality
+to grow as consumer adoption of Un i t e d S t a t e s pick-up in returns could emerge. among tenants and the need for
+technology expands. Low vacancy is a key theme after a modernization may drive a stronger
+Tactical: Low values may provide a Early-cycle investment opportunities in weak building cycle and stock office investment outlook, especially
+tailwind to many strategies, but cyclical the U.S. real estate market are expected withdrawals in sectors like retail and for grade A assets.
+momentum is once again becoming to persist throughout 2026 as capital office. Supply shortfalls are opening up
+
+ GLOBAL MARKET OUTLOOK │ PGIM 10
+
+## Page 11
+
+REAL ESTATE OUTLOOK
+
+Mexico The opportunity set continues to
+ deepen for private lenders as banks
+The industrial play remains the key retreat due to regulations. As market
+focus in Mexico, while its maturing conditions improve, lending to
+capital markets and broadening developments and transitional projects
+institutional buyer base increase its looks attractive, while there are
+attractiveness as a long -term expansion opportunities around agency
+destination for capital. financing in the United States and
+The market has weathered trade policy NPLs in Germany, for example.
+uncertainty well and there are tailwinds
+around export demand linked to
+higher-value manufacturing and
+domestic e-commerce penetration.
+
+Private CRE Credit
+
+Private commercial real estate credit
+markets in 2026 could offer elevated
+income yields, supported by stabilizing
+financing costs, positive leverage, and
+diverse investment opportunities.
+Rising equity inflows signal deepening
+opportunities for private CRE credit.
+
+ GLOBAL MARKET OUTLOOK │ PGIM 11
+
+## Page 12
+
+FUNDAMENTAL EQUITY OUTLOOK Click here to read our
+EYEING BREADTH IN EQUITY PERFORMANCE full fundamental equity o utlook
+
+While it’s customary to offer informed predictions as we look ahead to a new year, Exhibit 1: Market Index Performance
+2025 was a year that seemed to be more unpredictable than many in recent
+memory, especially from a U.S. policy and political standpoint. With the 140
+anticipation of consequential events in 2026, that unpredictability is unlikely
+to diminish. 120
+
+Against this backdrop, we continue to Supply-chain stability will remain a
+adhere to our disciplined investment central consideration for technology 100
+approach by staying focused on high- firms that operate within complex
+quality companies with enduring global ecosystems. Energy management 80
+competitive advantages. We continually has also gained prominence, as AI Fe b 2 0 25 Apr 2025 Ju n 202 5 Aug 2025 Oc t 2 0 2 5 De c 2 0 2 5
+monitor the evolving environment for workloads expand across data center
+new opportunities, while maintaining an footprints and increase overall power SP5 00 MSC I ACWI Ex US MSC I Emerging Markets
+emphasis on long-term growth and requirements. Regulatory developments As of December 31, 2025. Source: Jennison, FactSet, MSCI.
+risk management. may shape data usage or competitive
+ dynamics, yet technology’s role at the Exhibit 2: Style Index Performance (%)
+Looking ahead, the technology sector center of global innovation appears 4Q25 Trailing 1-Year
+ Value Core GrowthCore Growth
+entered 2026 on stable footing, with secure, which points toward disciplined, 3.8 2.4 1.1Value15.9 17.4 18.6
+expectations more balanced between innovation-led growth over the
+ongoing innovation and valuation medium term. 1.4 0.2 -3.711.0 10.6 8.7
+discipline. Easing monetary policy and 3.3 2.2 1.212.6 12.8 13.0
+continued enterprise adoption of digital Semiconductor or hardware leaders Trailing 3-Year Trailing 10- Year
+and AI technologies provide important continue to manufacture advanced Value Core Growth Value Core Growth
+structural tailwinds, while investors chips or systems that power AI models, 13.9 22.7 31.210.5 14.6 18.1
+remain focused on earnings visibility, data centers, or edge devices, while 12.3 14.4 18.69.8 11.0 12.5
+free cash flow generation, and the considerations around energy 11.7 13.7 15.69.3 9.6 9.6
+conversion of large-scale infrastructure constraints now play a larger role in
+investment into durable software and deployment decisions. As of December 31, 2025. Source: Jennison, FactSet, MSCI.
+services revenue.
+ GLOBAL MARKET OUTLOOK │ PGIM 12
+
+## Page 13
+
+FUNDAMENTAL EQUITY OUTLOOK
+
+Cloud computing has solidified its supported by improving sentiment, The industry’s multi-year outlook drive the sector’s earnings going
+role as foundational infrastructure for operational resilience, and continued for revenue and earnings growth is forward. Strong fundamentals and
+global business operations. Spending innovation. more promising today than at any macro factors underscore the
+growth became more disciplined in the time during the past 30 years, in opportunity in the sector, especially
+fourth quarter, but AI-enhanced cloud While we expect SMID-cap biotech our view. given what remains a lower-than-
+services, cost optimization, and hybrid momentum to continue, we remain average interest-rate environment.
+architectures supported steady demand vigilant, closely monitoring FDA We believe strong long-term
+as enterprises balanced efficiency with dynamics, M&A discipline, and capital fundamentals and still-reasonable Areas of focus in the utilities sector
+ongoing innovation. markets quality. We continue to view valuations underscore the opportunity include regulated utilities, particularly
+ SMID-cap biotech as a stock picker’s in the utilities sector. Continued solid companies operating in favorable
+As macro conditions grew more market and remain focused on execution, along with the potential regulatory environments and
+selective, digital initiatives increasingly companies with underappreciated, growth opportunities from renewable geographies, with above-average
+emphasized measurable outcomes, transformative therapies. energy investments, should help to projected earnings and/or dividend
+with investment guided by clearer
+return-on-investment expectations and Across medtech, healthcare services,
+a focus on operational resilience. and life science tools and services, we
+ have seen positive contributions as Exhibit 3: S&P 500® Index - NTM P/E
+Innovation in AI-based features, next- fundamentals show early signs of
+generation wearables, and more improvement and policy overhangs 25
+immersive digital experiences helped for pharmaceutical customers begin
+support longer-term demand within to dissipate.
+consumer technology. 20
+ Finally, while healthcare cost trends
+The healthcare sector continues to remain elevated, uncertainties persist,
+trade at a large discount to the broader including potential enrollment declines
+market, creating what we believe are in the individual exchange market and 15
+compelling long-term value related pressures on hospital operators.
+opportunities. As positive momentum By contrast, we remain more
+continues, we expect a gradual re- constructive on payors with Medicare 10
+rating of the sector. While challenges exposure, supported by a more Jan 2006 Jan 201 0 Jan 201 4 Jan 201 8 Jan 202 2 Jan 202 6
+remain, we believe 2026 could offer favorable funding environment and
+some of the most attractive single- disciplined pricing and benefit design. As of December 31, 2025. Source: Jennison, FactSet, MSCI. The cyan line represents the average
+stock opportunities in many years, over the period.
+
+ GLOBAL MARKET OUTLOOK │ PGIM 13
+
+## Page 14
+
+FUNDAMENTAL EQUITY OUTLOOK
+
+growth driven by regulatory rate-base We believe, over the longer term, based business opportunities, and
+investment. midstream energy companies will play continued efficiency improvements
+ an important role in our energy future. through better use of technology
+In the renewables space, we believe With physical steel in the ground, and AI.
+the energy transition is driving ongoing midstream energy infrastructure
+investment and usage of renewables companies have difficult-to-replicate
+and should continue to provide distinct asset networks with high barriers to
+investment opportunities over the entry, and whose adaptability to
+long-term. transport other energy sources is
+Within the midstream energy underappreciated.
+
+infrastructure sector, we still strongly In financials, we continue to see solid
+believe that long-term natural gas fundamentals across a broad range of
+demand growth remains a positive business models, along with an
+tailwind and recent bolt-on investment improving global macro backdrop
+projects have the potential to drive (primarily among credit conditions and
+accelerated cash flow growth over the a resilient consumer).
+next three to five years. The sector
+continues to generate well-above- Overall, the large money center,
+average free cash flow yields yet trades consumer finance, and super-regional
+at a valuation discount to the broader banks are significantly better
+market. positioned today across a broad range
+ of balance sheet, capital, and risk
+We think this disconnect presents an management metrics.
+opportunity given the significant
+transformation in the sector and the Valuations in the sector have
+market. A larger investor base has normalized. Tailwinds for future
+been taking notice, especially with earnings growth will be primarily
+management teams continuing driven by solid revenue trends and
+to reiterate shareholder-friendly credit controls, growing net-interest
+capital policies. margins, ongoing expansion of fee-
+
+ GLOBAL MARKET OUTLOOK │ PGIM 14
+
+## Page 15
+
+MULTI-AS SET OUTLOOK Click here to read our
+RISK ASSETS MAY BENEFIT FROM MACRO TAILWINDS full mu lti-a sset outlook
+
+We expect several dominant themes from 2025 to persist into the new year, the yen was essentially flat against the Global equities remain supported by
+including stepped-up fiscal spending and widening deficits by major economies, a USD despite a significant move in a solid earnings outlook. A key
+technology-driven investment boom in both the U.S. and China, and a supportive Japanese rates and narrowing of the feature of the current expansion has
+liquidity backdrop that underpins major asset classes. U.S.-Japan short-term rate differential. been rising productivity, which supports
+ Uncertainty around the BoJ’s neutral earnings growth. Even if the Atlanta
+While global activity remained below While the labor market is gradually rate guidance has made it difficult for Fed’s Q4 GDP tracking estimate of
+trend in late 2025, resilience and gradual softening, it has not deteriorated currency markets to price in higher rates 5.1% falls short, muted job growth
+acceleration are evident, supported by meaningfully, and inflation remains beyond the next policy meeting or two. would still suggest another quarter of
+cumulative interest rate cuts since 2024. elevated. This has left the Fed divided
+Tariffs are slowly fading as a concern, between those advocating proactive cuts Exhibit 1: Attentiveness to Unemployment and Inflation
+and the cyclical improvement in growth and those favoring a more cautious
+momentum is broad-based, though not stance. Proprietary indicators from our 16
+booming in absolute terms. In the U.S., investment team suggest the Fed’s tone
+economic growth remains supported by on inflation is slightly hawkish, while its 2025-Sep
+AI-related capital expenditures and growth tone is roughly neutral. Another 12
+consumer spending. However, indicator, attentiveness to 2025-Dec
+consumption spending has been sharply unemployment and inflation (Exhibit 1),
+bifurcated.1 With additional uncertainty shows that focus on inflation has 8 2025-Nov 2024-Jul
+from tariffs, companies face an fallen sharply from its 2025 highs, 2025-Aug 2022-Jul
+environment that encourages caution on while attention to unemployment 2025-Oct
+payrolls, resulting in a “low-hire, low- remains elevated. 4 2025-Jul 2024-Apr
+fire” labor market. Overall, our high- 2022-Jun
+frequency U.S. recession sentiment In currencies, in 2025, the U.S. dollar
+indicator is near its lowest level in index (-9.4%) posted its worst year since
+several years and well below the peaks 2017, weakening against most G10 0
+seen at times in 2025 and 2024. currencies. The exception was Japan: 0 2 4 6 8 10 12
+ Attentiveness to Inflation
+
+1 https://www.bostonfed.org/publications/current -policy- perspectives/2025/why-has-consumer-spending-remained-Sources: PGIM and Bloomberg
+resilient.aspx
+
+ GLOBAL MARKET OUTLOOK │ PGIM 15
+
+## Page 16
+
+MULTI-AS SET OUTLOOK
+
+significant productivity gains. Our tariffs. China’s pivot toward export Exhibit 2: Earnings Expectations & Transcript Sentiment
+corporate sentiment indicator (Exhibit diversification supports growth even as
+2) dipped post-Liberation Day but domestic demand remains subdued. 320 66 %
+stabilized and improved well above Productivity gains, policy easing, and
+2024 highs. potential spillovers from U.S. growth 30 0 62 %
+ could provide upside surprises. Across 58 %
+The earnings resilience story extends EM, inflation has largely stabilized near
+beyond the U.S. Earnings growth in target, and central banks have 280
+Europe, Australia, and the Far East is 54 %
+expected to be around 10% in the next concluded easing cycles, creating
+ a stable monetary backdrop for 260 50 %
+12 months, while emerging markets’ equity valuations. Dec 20 24 Feb 20 25 Ap r 2 02 5Ju n 2 0 2 5Au g 2 0 2 5Oct 202 5Dec 20 25
+earnings growth is projected to be Ne xt 12-M on th Ear nings (LHS) U.S. Tr ansc r ipt Se nt ime nt ( RHS )
+around 18%. European equities offer Commodities delivered strong
+more attractive valuations compared to returns in 2025, posting gains Sources: PGIM and Bloomberg
+the U.S., but face headwinds from comparable to equities and Exhibit 3: Cross-asset Correlations (see the following page for details)
+subdued economic momentum, fiscal outperforming during periods of
+tightening, and tariff uncertainty. heightened inflation concerns and 1.0
+Japanese earnings expectations point to geopolitical tensions. Our positive view
+double-digit growth, supported by the on commodities persists in 2026, 0.6
+Takaichi administration’s fiscal supported by elevated inflation and
+expansion and corporate governance potential fiscally-driven demand
+reforms aimed at reducing excessive pressures. While commodity carry is 0.2
+cash holdings, which should boost moderate relative to other asset classes,
+shareholder returns. momentum, risk, and liquidity factors -0.2
+ remain favorable. After spectacular
+Emerging market assets are gains in precious metals in 2025,
+positioned to benefit from resilient returns across the commodity complex -0.6
+global growth and trade dynamics, Dec 20 23 Ap r 2 02 4Au g 2 0 2 4Dec 20 24Ap r 2 02 5Au g 2 0 2 5Dec 20 25
+ are likely to be more broad- based Equi t y/ Bo nd Equi t y/ Co m m o di ty Equi t y/ D XY
+despite headwinds from higher U.S. in 2026.
+
+ Sources: PGIM and Bloomberg
+
+ GLOBAL MARKET OUTLOOK │ PGIM 16
+
+## Page 17
+
+MULTI-AS SET OUTLOOK
+
+From an asset allocation
+perspective, portfolios can benefit
+from monitoring cross-asset
+correlation patterns (see Exhibit 3
+on the previous page). Stock-bond
+correlation is expected to remain the
+anchor of portfolio construction.
+
+After mixed trends in recent years
+when inflation worries roiled markets,
+stock-bond correlation was modestly
+negative for most of 2025. Barring
+a resurgence of extreme inflation
+concerns, which seems less likely,
+we believe diversification across major
+asset classes should continue to add
+value in the new year.
+
+Commodities can provide ballast
+during pockets of inflation worries or
+geopolitical stress, as they did in 2025.
+Finally, the dollar-equity correlation
+fluctuated between significant positives
+(post-April’s tariff announcements)
+and negatives through 2025 and has
+been mildly positive more recently. If
+correlation remains mildly positive,
+hedging by non-U.S. investors will
+likely be driven more by volatility
+control considerations, whereas a
+return to negative correlation would
+likely prompt the hedging of U.S. asset
+exposures to protect returns.
+
+ GLOBAL MARKET OUTLOOK │ PGIM 17
+
+## Page 18
+
+SUMMARY OF FIXED INCOME OUTLOOKS
+
+This summary consists of fixed income sector outlooks (1-year). The accompanying rating is based on a scale of 1-5 MARKET RATING:  Carry
+with an accompanying description that indicates our expectation for the sector’s total excess return.1
+
+ DM Rates: Monitoring for higher volatility and repricing of term premia across developed market government yield curves,  U.S.  UK
+ particularly as global central bank policies diverge. Steeper curves should enhance roll and carry opportunities.  Europe  Japan
+
+ Agency MBS: Carry conditions. MBS carry remains intact vs. intermediate Treasuries despite tight spreads. We favor a barbell  Agency MBS
+ position consisting of near- par coupon and low coupon 30-year issues, while avoiding the middle of the stack. We are
+ underweight higher coupons amid call risk concerns, and we continue to prefer specified pools over TBAs for better
+ fundamental value and convexity.
+ Securitized Credit: Carry conditions. Spreads generally widened in 2025, yet remain tighter than average. Given the sector’s flat  CMBS  RMBS
+ credit curves, valuations on high-quality securitized assets remain attractive relative to other fixed income sectors. Our  CLOs  ABS
+ outlooks for CMBS, RMBS, CLOs, and ABS reflect tighter- than-average spreads and stabilizing or weakening underlying asset
+ fundamentals, supporting carry conditions with limited potential for capital appreciation. We continue to focus on tranches at
+ or near the top of capital structures and remain highly selective of more credit-sensitive positions as downside risks outweigh
+ the rewards. Positive ABF flows continue, and we are targeting structures suited to perform through the cycle in residential,
+ commercial, and prime consumer subsectors.
+ Global IG Corporates: Carry conditions. While spreads may widen in the short term, economic resilience, supportive yields,  U.S. Corps. 1-10  European Corps. 1-5
+ sound technicals, and stable credit fundamentals should help keep spreads near historical tights. However, the current  U.S. Corps. 10+  European Corps. 5+
+ environment is considered ripe for M&A—especially as companies seek AI -related cost efficiencies. We generally anticipate
+ that heavier issuance will lead to some softening in technicals and credit fundamentals.
+ Global Leveraged Finance: Carry conditions. We expect spreads to maintain a range near historical tights as strong technicals and  U.S. High Yield 1-5  Euro High Yield BB
+ a robust credit environment offset prevailing global macro risks. While still constructive overall, we maintain our close- to-  U.S. High Yield 5+  Euro High Yield B & below
+ home defensive positioning across all regions. Late- cycle conditions in direct lending warrant greater selectivity on new deals,
+ heightened attention to lender protections, and an emphasis on add-on opportunities with existing portfolio companies.  U.S. Leveraged Loans  Euro Leveraged Loans
+
+ EM Debt: Modest spread tightening and attractive carry conditions. EM economic growth and improving fundamentals  Sov. Hard Currency IG  EMFX2
+ continue to attract flows into the sector despite tight spread levels. With the appropriate identification of bottom-up alpha  Sov. Hard Currency HY  Corps. IG
+ opportunities, EM hard currency returns could still reach the high-single digit range. The return trajectory for EM corporates
+ should also remain positive. Due to stretched valuations, we are cautious on EM rates, and, in EMFX, we expect the U.S.  Local rates2  Corps. HY
+ dollar to maintain its weakening bias.
+ Municipal Bonds: Carry conditions. All-in yields, healthy fundamentals, and relative value opportunities will likely support  Taxable
+ demand going forward. The combined effect of anticipated Fed rate cuts and steep muni curves should help to mitigate
+ potential volatility and encourage investors to extend duration.
+
+ KEY TO MARKET RATINGS |  Sell Off Correction  Carry  Modest Tightening  Bull Market
+
+Source: PGIM as of December 2025. 1 The positioning in a respective portfolio may not be identical to the long-term ratings. The ratings and information herein is for comparison purposes.
+2 The scores on the indicated asset classes are based on expectations for total excess returns.
+
+ PGIM FOURTH QUARTER 2023 OUTLOOK │ 18 GLOBAL MARKET OUTLOOK │ PGIM 18
+
+## Page 19
+
+SUMMARY OF HIGH-CONVICTION REAL ESTATE CALLS
+
+ As a long-term investment asset class, our highest conviction real estate strategies shown below continue to focus on parts of t he market for which demand is driven by
+ basic needs and benefits from favorable structural tailwinds that offer resilience to uncertain market conditions. At the same time, the recent market value correction, a
+ lack of new supply, and structural shifts in lending markets are opening up tactical opportunities that reflect mispricing as a value recovery gets underway.
+
+ Theme Sector Target sub-sectors U. S. EuropeAsia Pacif icMe xi c o
+
+ Structural Living Build-to-rent, senior housing, co-living, student   
+
+ Logistics Urban/infill, last mile, manufacturing-related    
+
+ Data Centers Hyperscale, colocation   
+
+ Credit Senior, transitional financing, bridge-to-agency    Key to ratings
+
+ Tactical Retail Basic needs, discount formats, high street     HIGHEST CONVICTION
+ THEMES, most resilient to
+ Office Grade A, high value submarkets, modernization    evolving market conditions.
+  CONTINGENT THEMES,
+ Hospi tal i ty Mid-market, open-air  selective approach needed.
+ Credit Gap financing, development, NPLs  SELECTIVE THEMES, market
+    headwinds affecting execution.
+
+Source: PGIM as of December 2025
+
+ GLOBAL MARKET OUTLOOK │ PGIM 19
+
+## Page 20
+
+Click here for more on our
+10-YEAR CAPITAL MARKET ASSUMPTIONS CMA methodology and o utput
+
+Relative to Q4 2025, our 10-year outlook for fixed income assets has Our 10-year forecasts for equity markets declined modestly across regions
+broadly improved across both sovereign and spread exposures: as last quarter’s 3.3% gain in global equities weighed on valuations:
+• U.S. Aggregate Bonds: Revised to 4.7% from 4.6% last quarter. • U.S. Large-Cap Equities: Revised to 5.2% from 5.3% last quarter.
+• U.S. Long Treasury Bonds: Revised to 5.6% from 5.2% last quarter. • International Equities ex-U.S.: Revised to 6.7% from 7.1% last quarter.
+• U.S. High Yield Bonds: Revised to 4.8% from 4.3% last quarter. • Emerging Markets Equities: Revised to 7.5% from 8.1% last quarter.
+
+Based on our long-term forecasts, a balanced portfolio of 60% Global Equities unhedged and 40% Global Aggregate Bonds (dark gree n dot below)
+hedged is forecast to return 5.7% annually over the next 10 years, a decrease of 0.1% from our forecast for the fourth quarte r of 2025.
+10-Year Forecast Returns and Volatility
+ 10 Fixed Income Equities Real Assets Private Assets 60/40 Portfolio
+
+ U.S. Private Real Estate - Opportunistic
+
+ 9
+
+ Global Private Infrastructure
+ 8 U.S. Private Real Estate - Core U.S. Private Equity - Venture Capital
+
+ UK Equities Unhedged EM Equities Unhedged
+ 7 Developed International ex- U.S. Private Equity - Buyout
+ U.S. Equities Unhedged U.S. REITs Developed REITs Unhedged
+ Japan Equities Unhedged
+ 6 U.S. Securitized - RMBS - Non-Agency Residential Mortgages - Private Europe ex-UK Equities Unhedged
+ Private Placement (IG) U.S. Securitized - CMBS Global Equities Unhedged
+ U.S. Securitized - ABS U.S. Long Treasury60/40 Portfolio U.S. Small Cap
+ 5 Public CLO U.S. Investment Grade Bonds U.S. Equities
+ U.S. Aggregate Bonds U.S. Private Debt - Mezzanine
+ Global Treasury Bonds Hedged U.S. TIPS U.S. High Yield Bonds
+ U.S. Treasury Bonds Global Aggregate Bonds Hedged Commodities
+ 4
+ 0 5 10 15 20 25 30
+ Expected Volatility (%)
+
+This information is not intended as a recommendation to invest in any particular asset class or strategy.
+Forecasts may not be achieved, subject to change and are not a guarantee or reliable indicator of future results. Source: PGIM as of Dec 31, 2025. GLOBAL MARKET OUTLOOK │ PGIM 20
+
+## Page 21
+
+Source(s) of data (unless otherwise noted): PGIM as of January 2026.
+All investments involve risk, including the possible loss of capital. Past performance is not a guarantee or a reliable indicator of future results.
+
+PGIM is the principal asset management business of Prudential Financial, Inc. (PFI), and a trading name of PGIM, Inc. and its global subsidiaries and affiliates. PGIM, Inc. is an investment adviser registered with the U.S.
+Securities and Exchange Commission (SEC). Registration with the SEC does not imply a certain level of skill or training. Prudential Financial, Inc. of the United States is not affiliated in any manner with Prudential plc, incorporated
+in the United Kingdom or with Prudential Assurance Company, a subsidiary of M&G plc, incorporated in the United Kingdom. Prud ential, PGIM, their respective logos and the Rock symbol are service marks of PFI and its related
+entities, registered in many jurisdictions worldwide.
+
+These materials are for informational or educational purposes. The information is not intended as investment advice and is not a recommendation about managing or investing assets. In providing these materials,
+PGIM is not acting as your fiduciary. Clients seeking information regarding their particular investment needs should contact their financial professional.
+
+This document may contain confidential information and the recipient hereof agrees to maintain the confidentiality of such information. Distribution of this information to any person other than the person to whom it was originally
+delivered and to such person’s advisers is unauthorized, and any reproduction of this document, in whole or in part, or the divulgence of any of its content, without PGIM’s prior written consent, is prohibited. These materials
+represent the views, opinions and recommendations of the author(s) regarding the economic conditions, asset classes, securities, issuers or financial instruments referenced herein. Certain information has been obtained from
+sources that PGIM believes to be reliable as of the date presented; however, PGIM cannot guarantee the accuracy of such information, assure its completeness, or warrant such information will not be changed. This information,
+including projections and forecasts, is current as of the date of issuance (or an earlier referenced date) and is subject to change without notice. PGIM has no obligation to update such information; nor do we make any express or
+implied warranties or representations as to the completeness or accuracy or accept responsibility for errors. Any information presented regarding the affiliates of PGIM is presented purely to facilitate the organizational overview
+and is not a solicitation on behalf of any affiliate.
+
+These materials are not intended as an offer or solicitation with respect to the purchase or sale of any security or other financial instrument or any investment management services. These materials do not
+constitute investment advice and should not be used as the basis for any investment decision.
+
+These materials do not take into account individual client circumstances, objectives or needs. No determination has been made regarding the suitability of any securit ies, financial instruments or strategies for particular clients or
+prospects. The information contained herein is provided on the basis and subject to the explanations, caveats and warnings set out in this notice and elsewhere herein. Any discussion of risk management is intended to describe
+PGIM’s efforts to monitor and manage risk but does not imply low risk. No risk management technique can guarantee the mitigation or elimination of risk in any market environment. Any risk metrics or portfolio characteristics
+provided are not, and should not be construed as, the past or projected performance of the strategy presented or any investment, which will be impacted by a number of factors not reflected herein. These materials do not purport
+to provide any legal, tax or accounting advice. These materials are not intended for distribution to or use by any person in any jurisdiction where such distribution would be contrary to local law or regulation.
+
+Any financial indices referenced herein as benchmarks are provided for informational purposes only. The use of benchmarks has limitations because portfolio holdings and characteristics will differ from those of the benchmark(s),
+and such differences may be material. You cannot make a direct investment in an index. Factors affecting portfolio performance that do not affect benchmark performance may include portfolio rebalancing, the timing of cash flows,
+credit quality, diversification, and differences in volatility. In addition, financial indices do not reflect the impact of fees, applicable taxes or trading costs which reduce returns. Unless otherwise noted, financial indices assume
+reinvestment of dividends.
+
+Any forecasts, estimates and certain information contained herein are based upon proprietary research and should not be interpreted as investment advice, as an offer or solicitation, nor as the purchase or sale of any financial
+instrument. Forecasts and estimates have certain inherent limitations, and unlike an actual performance record, do not reflec t actual trading, liquidity constraints, fee. These materials are not intended as an offer or solicitation with
+respect to the purchase or sale of any security or other financial instrument or any investment management services and should not be used as the basis for any investment decision. PGIM and its affiliates may make investment
+decisions that are inconsistent with the recommendations or views expressed herein, including for proprietary accounts of PGIM or its affiliates.
+
+Any performance targets contained herein are subject to revision by PGIM and are provided solely as a guide to current expectations. There can be no assurance that any product or strategy described herein will
+achieve any targets or that there will be any return of capital. Target annualized excess returns are presented on both a gross and net basis solely for the purpose of detailing the anticipated risk and reward characteristics of
+the strategy in order to facilitate comparisons with other investment types. Gross targets do not reflect the deduction of fees and other expenses to be borne by accounts using the strategy, which will reduce returns and, in the
+aggregate, may be substantial. Net targets reflect the deduction of model fees and expenses equal to the highest fees borne by a portfolio utilizing the strategy. The target returns presented herein are not a prediction, projection,
+expectation or guarantee of future performance. There are significant risks and limitations in using target returns, including targets that are based upon assumptions regarding future events and situations, which may prove not to
+be accurate or may not materialize. Further, the target returns stated herein are based on an assumption that economic, market and other conditions will not deteriorate and, in some cases, will improve. The target returns are also
+based on models, estimates and assumptions about performance believed to be reasonable under the circumstances, but actual returns of the strategy and its investments will depend on, among other factors, the ability to
+consummate attractive investments, future operating results, the value of the assets and market conditions at the time of disposition, any related transaction costs and the timing and manner of sale, all of which may differ from the
+assumptions and circumstances on which the targeted returns are based. PGIM believes that the target returns for the strategy and each investment type reflect in part a measure of the risk PGIM will be taking with respect to the
+strategy and investments in that investment type. There can be no assurance that any investments, any of the investment types or the strategy will achieve comparable returns to those targeted herein or that PGIM will be able to
+implement its investment strategy and investment approach or achieve its investment objectives. Target returns do not take into account cash flows into and out of the portfolio, as well as other factors, which could have an impact
+on actual performance of a client utilizing the strategy. Accordingly, target returns should not be used as a primary basis for an investor's decision to invest in the strategy.
+.
+
+## Page 22
+
+Tracking Error (TE) is one possible measurement of the dispersion of a portfolio's returns from its stated benchmark; it is the standard deviation of such excess returns. TE figures are representations of statistical expectations
+falling within "normal" distributions of return patterns. Normal statistical distributions of returns suggests that approximately two thirds of the time the annual gross returns of the accounts will lie in a range equal to the benchmark
+return plus or minus the TE if the market behaves in a manner suggested by historical returns. Targeted TE therefore applies statistical probabilities (and the language of uncertainty) and so cannot be predictive of actual results. In
+addition, past tracking error is not indicative of future TE and there can be no assurance that the TE actually reflected in your accounts will be at levels either specified in the investment objectives or suggested by our forecasts.
+
+In the United Kingdom, information is issued by PGIM Limited with registered office at Grand Buildings, 1-3 Strand, Trafalgar Square, London, WC2N 5HR, which is authorised and regulated by the Financial Conduct Authority
+(“FCA”) of the United Kingdom (Reference No. 193418). In theEuropean Economic Area (“EEA”), information may be issued by PGIM Investments (Ireland) Limited, PGIM Netherlands B.V. or PGIM Limited depending on the
+jurisdiction. PGIM Investments (Ireland) Limited, with registered office at 2nd Floor, 5 Earlsfort Terrace, Dublin 2, Ireland, is authorised and regulated by the Central Bank of Ireland (Reference No. C470709) and operates on the
+basis of a European passport and through its branches in Italy, Germany and the Netherlands. PGIM Netherlands B.V., with registered office at Eduard van Beinumstraat 6, 1077CZ, Amsterdam, The Netherlands, is authorised by
+the Autoriteit Financiële Markten (“AFM”) in the Netherlands (Registration No. 15003620) and operates on the basis of a European passport. In certain EEA countries, information is, where permitted, presented by PGIM Limited in
+reliance on provisions, exemptions or licenses available to PGIM Limited including those available under temporary permission arrangements following the exit of the United Kingdom from the European Union. This information is
+issued by PGIM Limited, PGIM Investments (Ireland) Limited and/or PGIM Netherlands B.V. to persons in the UK who are professional clients as defined under the rules of the FCA and/or to persons in the EEA who are
+professional clients as defined in the relevant local implementation of Directive 2014/65/EU (MiFID II). InSwitzerland, information is issued by PGIM Limited, through its representative office in Zurich with registered office at
+Limmatquai 4, 8001 Zürich, Switzerland, which is authorised and regulated by the Swiss Financial Market Supervisory Authority (“FINMA”). This information is issued to persons in Switzerland who are professional or institutional
+clients within the meaning of Art.4 para 3 and 4 FinSA. In Singapore, information is presented by PGIM (Singapore) Pte. Ltd., a regulated entity with the Monetary Authority of Singapore under a Capital Markets Services License
+to conduct fund management and an exempt financial adviser. In Japan, information is presented by PGIM Japan Co. Ltd., registered investment adviser with the Japanese Financial Services Agency. In South Korea, information
+is presented by PGIM, Inc., which is licensed to provide discretionary investment management services directly to South Korean investors. In Hong Kong, information is provided by PGIM (Hong Kong) Limited, a regulated entity
+with the Securities & Futures Commission in Hong Kong to professional investors as defined in Section 1 of Part 1 of Schedule 1 of the Securities and Futures Ordinance (Cap.571). In Australia, information is issued by PGIM
+(Australia) Pty Ltd (“PGIM Australia”) for the general information of its wholesale clients (as defined in the Corporations Act 2001). PGIM Australia is an Australian financial services ("AFS") licence holder (AFS licence number
+544946). In Canada, pursuant to the international adviser registration exemption in National Instrument 31 -103, PGIM, Inc. is informing you that: (1) PGIM, Inc. is not registered in Canada and is advising you in reliance upon an
+exemption from the adviser registration requirement under National Instrument 31-103; (2) PGIM, Inc.’s jurisdiction of residence is New Jersey, U.S.A.; (3) there may be difficulty enforcing legal rights against PGIM, Inc. because it
+is resident outside of Canada and all or substantially all of its assets may be situated outside of Canada; and (4) the name and address of the agent for service of process of PGIM, Inc. in the applicable Provinces of Canada are as
+follows: in Québec: Borden Ladner Gervais LLP, 1000 de La Gauchetière Street West, Suite 900 Montréal, QC H3B 5H4; in British Columbia: Borden Ladner Gervais LLP, 1200 Waterfront Centre, 200 Burrard Street, Vancouver,
+BC V7X 1T2; in Ontario: Borden Ladner Gervais LLP, 22 Adelaide Street West, Suite 3400, Toronto, ON M5H 4E3; in Nova Scotia: Cox & Palmer, Q.C., 1100 Purdy’s Wharf Tower One, 1959 Upper Water Street, P.O. Box 2380
+-Stn Central RPO, Halifax, NS B3J 3E5; in Alberta: Borden Ladner Gervais LLP, 530 Third Avenue S.W., Calgary, AB T2P R3.
+
+Conflicts of Interest: Key research team staff may be participating voting members of certain PGIM fund and/or product investment committees with respect to decisions made on underlying investments or transactions. In
+addition, research personnel may receive incentive compensation based upon the overall performance of the organization itself and certain investment funds or products. At the date of issue, PGIM and/or subsidiaries and affiliates
+may be buying, selling, or holding significant positions in real estate, including publicly traded real estate securities. PGIM subsidiaries and affiliates may develop and publish research that is independent of, and different than, the
+recommendations contained herein. PGIM personnel other than the author(s), such as sales, marketing and trading personnel, may provide oral or written market commentary or ideas to PGIM’s clients or prospects or proprietary
+investment ideas that differ from the views expressed herein. Additional information regarding actual and potential conflicts of interest is available in Part 2 of PGIM’s Form ADV.
+
+© 2026 PFI and its related entities, registered in many jurisdictions worldwide.
+ 2026-0717

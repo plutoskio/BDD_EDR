@@ -2,7 +2,7 @@ Source file: Carmignac - perspectives-2026-3539-12373.pdf
 Source path: outlooks/Carmignac - perspectives-2026-3539-12373.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:05:55.610530+00:00
+Extracted at UTC: 2026-03-17T21:46:00.110950+00:00
 Page count: 6
 
 ---

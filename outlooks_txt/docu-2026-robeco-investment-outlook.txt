@@ -1,0 +1,1206 @@
+Source file: docu-2026-robeco-investment-outlook.pdf
+Source path: outlooks/docu-2026-robeco-investment-outlook.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:16.462173+00:00
+Page count: 27
+
+---
+
+## Page 1
+
+2026 INVESTMENT OUTLOOK
+The synchronized
+shift
+
+WHEN ECONOMIES PLAY
+A RARE HARMONY
+
+Marketing materials for professional investors only,
+not for onward distribution. November 2025
+
+## Page 2
+
+2026 INVESTMENT OUTLOOK
+The synchronized
+shift
+
+ Contents
+
+ 1. Introduction 3
+ 2. Base case: The synchronized shift 6
+ 3. Bear and bull case 14
+ 4. Financial markets outlook 17
+ 5. Summary 24
+
+The 2026 Investment Outlook has been compiled by Peter van der Welle (Multi-Asset
+Strategist) and Colin Graham (Head of Multi-Asset Strategies).
+
+## Page 3
+
+1. Introduction
+
+ Great classical composers like Bach, Schuber t, Mozar t and Chopin all
+ used a single, dramatic chord (several harmonious musical notes
+ played together) in their most famous compositions to stir the
+ attention of their listeners: the Neapolitan chord. A strikingly odd,
+ seemingly off-key harmony, the Neapolitan chord signaled a pivotal
+ moment in their compositions before returning to the home key.
+ Likewise, in our base case, we expect the economic cycle to enjoy a
+ Neapolitan moment in 2026. A rare, shor t-lived synchronized late-
+ cycle upswing, driven by easing trade tensions, an uptick in the global
+ manufacturing cycle and lagged effects of global central bank easing.
+
+3 Robeco | 2026 Investment Outlook
+
+## Page 4
+
+INTRODUCTION
+
+ Our thesis of a synchronized shift has strong reminiscences with 2017 when the global
+ economy, especially emerging markets, enjoyed a temporary upswing on the back of
+ easy financial conditions, a depreciating dollar, stabilizing energy prices and a
+ re-accelerating global economy with improving business and consumer confidence.
+ Our metric shows that around 2017 more than 80% of G19 economies accelerated at
+ an above 2% pace in terms of real GDP.
+
+ Figure 1: Percentage of G19 countries growing above steady state
+ (four-quar ter percentage change in real GDP)
+ 120%
+
+ 100%
+
+ 80%
+
+ 60%
+
+ 40%
+
+ 20%
+
+ 0%
+ 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ The K-shaped economy is an unstable equilibrium
+ We are not experiencing a 2017 redux yet. The percentage of G19 economies growing
+ faster than 2% is only 42% at the moment. Our thesis last year, ‘This is not a landing’,
+ called for the possibility of a powerful stagflationary twist arising from US trade
+ policies into an otherwise resilient economy. ‘Resilience’ has been the key word here
+ as the IMF stressed the resilience of the global economy in its latest World Economic
+ Outlook despite the tariff headwinds. Still, Liberation Day left its mark. With the
+ effective US tariff rate around 11%, we are still expecting to see a higher pass-through
+ of tariffs from corporates to the US consumer into early 2026 (from the current 20% to
+ 50%), challenging lower-income cohor ts in the world’s largest economy.
+
+ Simultaneously, as the US Consumer Price Index (CPI) remains well above target, the
+ US economy is experiencing a K-shaped constellation of accelerating real activity but
+ a notable slowdown in jobs growth. An outright stagflationary outcome remains a real
+ possibility. The split in the US’s consumption growth, with high incomes continuing to
+ spend while lower-income households are belt-tightening as job growth decelerates,
+ adds to this contrast.
+
+4 Robeco | 2026 Investment Outlook
+
+## Page 5
+
+INTRODUCTION
+
+ The K-shaped dynamic might drag on for a while, but it is inherently an unstable
+ equilibrium. Either job growth recovers or the real economy will drag jobs growth down
+ well into recession territory. The K-shaped economy poses a conundrum: are we
+ seeing the beginnings of broader, AI-driven productivity growth or are employers
+ holding off on hiring, pushing their workforce harder to squeeze out more efficiency
+ gains amid prevailing trade uncer tainty?
+
+ Figure 2: The K-shaped US economy
+ 250 Liberation day 6
+
+ 200 4
+
+ 150 2
+
+ 100 0
+
+ 50 -2
+
+ 0 -4
+ 2023 2024 2025
+
+ 3M moving average of 1M actual change of All Emps - Nonfarm Industries Total (Payroll Survey): US
+ GDPNow: GDP Nowcast: United States (RH scale) Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Figure 3: Accelerating expansion in major economies; could China be joining in 2026?
+
+ Tracking economic lifecycles of the last two years
+ OECD: Main economic indicator as of September 2025
+ 1.0
+ Weak/expanding Strong/expanding
+
+ 0.5
+
+ 0.0
+
+ -0.5
+
+ -1.0
+ Weak/contracting Strong/contracting
+
+ 98.0 98.599.099.5100.0100.5 101.0 101.5 102.0
+ Level
+ China Germany Japan United States
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+5 Robeco | 2026 Investment Outlook
+
+## Page 6
+
+2. Base case:
+ The synchronized shift
+
+ Our base case view is that we are already seeing some glimpses of
+ accelerating productivity growth. The declining hiring rate among
+ young graduates suggests AI is star ting to gradually substitute a
+ specific segment of the labor market. While technological
+ unemployment – a phenomenon already forewarned by Keynes in the
+ 1930s – might challenge a specific cohor t of workers, it might be a
+ boon for the US economy overall. Improving output per hour worked
+ introduces a positive supply element that might par tly offset negative
+ supply shocks emanating from remaining trade-related uncer tainty
+ and constrained migration for the US in 2026. US consumption growth
+ has averaged 2.6% over the past four years. We expect to see some
+ deceleration to 2.3% (tariffs and repayment of student loans play a
+ role here), leaving overall US real GDP growth for 2026 at 2.1%.
+
+6 Robeco | 2026 Investment Outlook
+
+## Page 7
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Four pillars of strength: What’s propping up global consumption?
+ We see four reasons for global consumer resilience and a diminishing split in US
+ consumption as 2026 progresses. First, the uncer tainty shock from tariffs dissipates
+ fur ther in 2026, removing a strong dampener on consumption growth and CEO
+ confidence to invest and hire. A fur ther 1 STD (standard deviation) decline in US policy
+ uncer tainty could boost US consumption growth by 0.8%. Recession probabilities
+ during 2025 have been very much tied to uncer tainties related to Trump’s tariff policy.
+
+ Second, expansive fiscal policy through the OBBBA (One Big Beautiful Bill Act)
+ facilitates government spending to be frontloaded in 2026. No tax on over time, tips,
+ car interest and child tax credits will help lower-income households recover.
+
+ Thirdly, one shouldn’t underestimate the wealth effect generated by the historical
+ +25% rally since 10 April 2025, on top of US household net wor th already sitting at 7.8
+ times disposable income around Q2 2025.1 Households have ample buffers, both in
+ the US and Europe. With stock markets up double digits this year, higher-income
+ households could raise their spending by 0.25%-0.5% in 2026 assuming an average
+ marginal propensity to consume out of wealth.
+
+ Lastly, the International Energy Agency sees a rising supply glut2 in energy markets
+ into 2026, with oil prices dropping below 60 USD per barrel. While we deem a
+ sub-USD 60 oil price to be unstainable throughout 2026, oil prices in the USD 60-70
+ range are suppor tive for global consumers.
+
+ Europe’s growth engine roars back
+ Meanwhile, other developed market (DM) economies are also expanding. Germany
+ leapfrogged into expansion in H2 2025 based on OECD leading indicators, joining
+ Japan in showing accelerating real activity from a strong base. Our base case
+ foresees a fur ther catch-up in Germany versus the US growth rates in 2026. There is
+ still ample room for non-inflationary growth, as we expect to see the eurozone grow
+ 1.6% in 2026. The lagged impact of past ECB easing, spending of excess household
+ savings (2% above 20-year average), a higher fiscal impulse (contributing 0.6% to
+ growth in 2026) and recovering expor t demand are likely drivers here.
+
+ 1. LSEG Datastream, Q2 2025
+ 2. October 2025 Oil Market Report IEA
+
+7 Robeco | 2026 Investment Outlook
+
+## Page 8
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Figure 4: Eurozone M1 growth still supportive
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ 0
+
+ -5
+
+ -10
+
+ -15
+ 2000 20052010201520202025
+
+ 1Y % change of GDP (EA20)(WDA)(ESA2010): Eurozone
+ 4Q lead of 1Y % change of money supply: M1 (EP): Eurozone Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Figure 5: Waiting for pent-up demand to be unlocked
+ 26
+
+ 24
+
+ 22
+
+ 20
+
+ 18
+
+ 16
+
+ 14
+
+ 12
+
+ 10
+ 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+ Household sector - savings ratio: Eurozone Forecast
+ Average of household sector - savings ratio: Eurozone Forecast
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ While a stronger euro poses a headwind to external competitiveness, fiscal multiplier
+ effects from defense- and infrastructure-related expenditures strengthen internal
+ competitiveness. Germany’s current industrial overcapacity allows for higher fiscal
+ multipliers. A lull in the turbulent political discourse in France, with pension reform now
+ postponed until after the 2027 Presidential elections, no longer weakens Europe’s core.
+
+ China at a crossroads: From deflation to domestic revival?
+ China is still seeing subdued activity levels, gyrating between contraction and
+ expansion as the country still battles deflationary pressures. Yet, the second half of
+ 2026 might see more promising signs of higher domestic consumption as the
+ Chinese housing market deleveraging cycle reaches its final phase against a backdrop
+ of stronger domestic fiscal stimulus.
+
+8 Robeco | 2026 Investment Outlook
+
+## Page 9
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Figure 6: China’s money growth suggests China’s residential housing market improving
+ 30 15
+
+ 25
+ 10
+ 20
+
+ 15 5
+
+ 10 0
+
+ 5
+ -5
+ 0
+
+ -5 -10
+ 2012 2014 2016 2018 2020 2022 2024
+
+ Money supply - M1 YoY % change: China (Mainland)
+ Second residential BLDGS prices (%YoY, 70 medium & large cities): China (Mainland) (RH scale)
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Inflation’s next move: Will the synchronized upswing spark a fire?
+ The key question is what a synchronized upswing in global real activity implies for the
+ inflation picture. Regional differences in pre-existing slack could lead to differences in
+ inflationary pressures if global aggregate demand were to improve from here. China
+ (and to a lesser extent Europe) has more room for non-inflationary growth compared
+ to the US.
+
+ For the US and Japan the picture is far more nuanced. If the US labor market stays
+ broadly balanced, with unemployment averaging around 4.5% through 2026, the scope
+ for non-inflationary growth will be limited. However, a par tial offset could emerge from
+ declining unit labor costs as AI-driven productivity gains outpace nominal wage growth.
+
+ Figure 7: We expect the US labor market to remain broadly balanced in 2026
+ 10
+ Alpha: 7.995
+ Beta: 0.83
+ 8 Correlation coefficient R: -0.716
+ R Squared: 0.512
+ Standard deviation: 0.51
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+ 2 4 6 8 10 12 14 16
+ Unemployment rate: United States
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+9 Robeco | 2026 Investment Outlook
+
+## Page 10
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Figure 8: Creating a high-pressure economy?
+
+ 400
+ Positive inflation surprises, Positive inflation surprises,
+ low-pressure economy high-pressure economy
+ 300
+
+ 200
+ 2017 2022
+
+ 100
+
+ 2020 2007
+ 0
+
+ -100 Negative inflation surprises, Negative inflation surprises,
+
+ low-pressure economy high-pressure economy
+ -200
+ -15 -10 -5 0 5 10 15
+ Dev from trend Capacity Utilization Rate US
+ Dev from trend Capacity Utilization Rate US vs. Citi Inflation Surprise Index - US, EZ, JP
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Each dot illustrates a specific historical combination between developed market inflation surprises and the
+ deviation from trend capacity utilization in the US. The upper right-hand quadrant is the ‘high-pressure
+ economy’ quadrant as above trend capacity utilization in the US often coincides with higher inflation surprises.
+ The red dot is the latest value with the arrows depicting the three most plausible directions of travel in 2026.
+
+ Fed governor Stephen Miran recently argued for 200 bps of rate cuts as he sees a
+ lower neutral rate and fur ther disinflation. While rent inflation may trend lower due to
+ falling net migration, we disagree with his analysis for a lower neutral rate. In our view,
+ productivity is likely improving and capex demands are rising relative to the existing
+ level of US savings. Therefore, the risk is that even a below-but-close-to 3.75% policy
+ rate amounts to excessive easing against the backdrop of continued procyclical fiscal
+ policy, constrained migration pushing up labor costs in sectors like agriculture and
+ housing, and an AI boom in the US.
+
+ Slow burn: Inflation’s delayed spark
+ While excessive easing could bring positive inflation surprises in 2026 compared to
+ consensus inflation expectations, it will take time for a second inflation wave to
+ develop. We therefore might not end up in the upper RH quadrant of Figure 8, but in
+ the LH upper quadrant with more modest inflation surprises joined by capacity
+ utilization below but close to trend on the back of improvements in productivity.
+
+ First, from the monetary point of view, money growth is still contained in developed
+ economies, growing around 5% per annum. Moreover, money velocity has been
+ trending down, in sharp contrast to the post-Covid aftermath. Second, the fiscal
+ impulse in 2026 is likely going to be far less pronounced compared to the post-Covid
+ fiscal push. This lowers the risk of core inflation reaching 4% again in the next 12
+ months, an inflation level that historically proves to be a major inflection point for
+ equity returns3 (see Table 1 on page 18). Our base case is for the US CPI to show a
+ random walk around 3%, with eurozone inflation almost 100 bps lower.
+
+ 3. Past performance is no guarantee of future results. The value of your investments may fluctuate.
+
+10 Robeco | 2026 Investment Outlook
+
+## Page 11
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Figure 9: Money growth not yet conducive to see the next inflation wave in 2026 already
+
+ 400 30
+
+ 300 25
+
+ 20
+ 200
+ 15
+ 100
+ 10
+
+ 0 5
+
+ -100 0
+
+ -200 -5
+
+ 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+
+ Citi inflation surprises US, Eurozone, Japan
+ 1Y lag of 1Y % change of Money Supply M2: United States (RH scale)
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Figure 10: Money velocity is low
+ 20
+
+ 10
+
+ 0
+
+ -10
+
+ -20
+
+ -30
+ 1960 1970 1980 1990 2000 2010 2020
+
+ 1Y % change of (GDP(AR): United States/Money Supply M2: United States)
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ In terms of inflation dynamics in underlying inflation components, we think goods
+ inflation could still see cyclical upside both from a lagged tariff impact and a
+ reinvigorated global manufacturing cycle. However, its long-run trend is still mildly
+ disinflationary as long as China struggles with industrial overcapacity. Housing
+ inflation is expected to come down and offers a par tial offset to a rising services
+ (ex-rent) inflation.
+
+11 Robeco | 2026 Investment Outlook
+
+## Page 12
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Figure 11: Eurozone negotiated wages below 4% in H1 2026, catching down initially
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+
+ -2
+ 1995 2000 2005 2010 2015 2020 2025
+
+ Indicator of negotiated wages (YoY % change): Eurozone
+ CPI - Services excluding goods (% Yo Y): Eurozone
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Figure 12: US likely sees accelerating services inflation into 2026
+ 90 10
+
+ 80 8
+
+ 70 6
+
+ 60 4
+
+ 50 2
+
+ 40 0
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+ 1Q lag of ISM Non-Manufacturers Survey Index: Prices paid: United States
+ 1Y % change of CPI - Services Less Rent of Shelter: United States (RH scale)
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Central banks in the spotlight: Navigating the easing maze
+ As the Fed considers itself still to be “modestly restrictive” at the current juncture, we
+ expect more Fed cuts (75 bps toward the end of 2026). However, as we remain in a
+ sticky inflation environment with medium-term inflation risks increasingly skewed to
+ the upside as 2026 progresses, we expect the Fed funds rate to end above the current
+ consensus 3% estimate by the end of 2026. Fed president Powell’s term ends in May
+ 2026. The next Fed president could prove to be more susceptible to the Trump
+ agenda by adopting policy rates that end up below a Taylor rule-implied policy rate.
+ This would see policy rates below the formerly Powell-led Fed, ceteris paribus.
+
+12 Robeco | 2026 Investment Outlook
+
+## Page 13
+
+BASE CASE: THE SYNCHRONIZED SHIFT
+
+ Yet, the market might be overpricing the amount of for thcoming rate cuts. First, due
+ to constrained migration, the breakeven NFP (Nonfarm Payrolls) level is now
+ estimated around 50K, suggesting that sub-100K NFP levels may still be broadly
+ consistent with full employment. Second, while we expect rent inflation to decline,
+ this is likely more than offset by services inflation ex rent. Third, sticky inflation has
+ contributed to Trump’s falling approval rating. Facing the midterms, US administration
+ could show a waning desire to weaken the dollar.
+
+ While the ECB judges itself to be “in a good place” at the moment, we expect one
+ more rate cut (25 bps) in 2026 even as the European recovery strengthens on the
+ back of fiscal stimulus. First, given the degree of slack in (German) industry, there is
+ still room for non-inflationary growth. Second, the historical lead-lag between ECB and
+ Fed rate cuts is ten months. With the Fed expected to cut by 75 bps, pressures for
+ another ECB cut will build in 2026. While pass-through is lower than historical norms,
+ euro appreciation could amplify impor ted disinflation. Third, we haven’t seen eurozone
+ prices chasing wages this cycle, rather the other way around. This dynamic might
+ ease concerns about second-round effects even as German unemployment improves.
+
+ We think that the market is underpricing the risk of additional rate hikes by the Bank
+ of Japan (BoJ) in 2026. After experiencing deflation for a generation, Japanese
+ society sees inflation as a mounting problem. A tight domestic labor market, cheap
+ yen and higher pass-through of impor t prices into final CPI threatens to keep inflation
+ sticky. Moreover, the new Prime Minister Sanae Takaichi might not deliver an exact
+ copy of the Abenomics template, giving more leeway for the BoJ to hike.
+
+ For central banks in emerging markets, we think they will largely mimic the easing
+ stance we foresee for the Fed into 2026 as stronger currencies allow fur ther rate
+ cutting toward underlying neutral policy rates. For the People’s Bank of China, our
+ view of decelerating disinflation and a weaker yuan reduce urgency for aggressive
+ cuts.
+
+13 Robeco | 2026 Investment Outlook
+
+## Page 14
+
+3. Bear and bull case
+
+ Bear case: Double decrescendo
+
+ According to the IMF, the risks are tilted to the downside in 2026. Prolonged
+ uncer tainty, more protectionism, and labor supply shocks could reduce growth.
+ However, risks to growth are not limited to the causes the IMF cites. We agree the
+ potential for negative supply shocks could usher in a stagflationary outcome as
+ potential output drops faster relative to aggregate demand. But almost equally likely is
+ a negative consumption shock in a scenario where the AI bubble bursts as Magnificent
+ Seven earnings delivery star ts to disappoint. The impact of a bursting AI bubble on
+ growth and inflation is very distinct from a negative supply shock emanating from
+ US policy. However, a common thread in both cases is fading US exceptionalism.
+
+ Figure 13: Weakness begets weakness
+ 2,000
+
+ 1,000
+
+ 0
+
+ -1,000
+
+ -2,000
+
+ -3,000
+
+ -4,000
+
+ -5,000
+ 1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+ 3M moving average of 1M actual change of All Emps - Recession
+ Non-Farm Industries Total (Payroll Survey): United States
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+14 Robeco | 2026 Investment Outlook
+
+## Page 15
+
+BEAR AND BULL CASE
+
+ Figure 14: Several indicators hint at a further rise in US unemployment
+
+ 35 16
+
+ 30 14
+
+ 25 12
+
+ 20 10
+
+ 15 8
+
+ 10 6
+
+ 5 4
+
+ 0 2
+ 1990 1995 2000 2005 2010 2015 2020 2025
+
+ NFIB Survey: Single most important problem - poor sales: United States
+ Unemployment rate: United States (RH scale) Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ The odds of fading US exceptionalism are non-negligible in the near term. Our
+ recession monitor flags a 20% US recession risk. Moreover, a 29,000 three-month
+ average payroll number as we saw in October 2025 in the US has almost always been
+ a harbinger of US recession. The only exception has been a lucky escape in 1962
+ where payrolls dipped to 17,0004 but the expansion remained on track. In addition,
+ there are a bunch of leading indicators that do point at a substantial fur ther
+ weakening of the US labor market. For instance, an NFIB survey among smaller and
+ mid-sized companies in the US increasingly repor ts “poor sales” as the most
+ impor tant problem for these companies.
+
+ On the back of greater margin absorption during a persisting high-tariff regime, the
+ weakness in the small-cap sector could spill over to larger companies. In that case,
+ US unemployment jumps more than 1%, which would be consistent with a mild US
+ recession. While typically job losses of this extent exer t a disinflationary pressure, the
+ nature of the shock (combination of negative supply shocks) leading to the downturn
+ shows similarities with a recession caused by an oil price shock.5 In contrast, an
+ AI-driven bubble bursting would see a milder unemployment impact as well as the
+ more typical net disinflationary impact.
+
+ 4. LSEG Datastream, November 2025.
+ 5. IMF paper (2008) shows that oil-price-induced recessions typically have seen a 50 bps jump in CPI
+ during oil-shock-induced recessions.
+
+15 Robeco | 2026 Investment Outlook
+
+## Page 16
+
+BEAR AND BULL CASE
+
+ Bull case: Full crescendo
+
+ In the bull case scenario, a high-pressure economy develops with inflation surprising
+ to the upside for developed economies with US real GDP growth reaching 2.9%. US
+ exceptionalism re-establishes itself with the dollar strengthening as the debasement
+ trade fades. The Fed has less room to cut below 3.5% given a higher neutral rate with
+ US unemployment falling back to 4.0%. Instead, in this scenario, with inflation
+ surprising even more strongly to the upside in developed markets compared to our
+ base case, financial markets are frontloading another tightening cycle. Even for a
+ more Trump-loyal Fed, inflation creeping toward 4% is getting too high for comfor t.
+
+ First, shocks that have held back economies get resolved. We see economic slack
+ diminishing more rapidly in the eurozone as easing geopolitical threats proves to be a
+ powerful catalyst to unlock pent-up demand in Europe. That diminishing slack fully
+ offsets a slowdown on the fiscal impetus from defense expenditures. Second, a trade
+ deal between China and the US sticks, with the US effective tariff rate declining in the
+ course of 2026, boosting smaller and mid-sized companies in the US. Trade flows to
+ the US recover, benefiting emerging economies’ expor t growth. Third, next to strong
+ expor t growth, China benefits from reflationary pressures. This is caused by both a
+ recovering residential housing market following increased household formation and
+ also the return of buyers on improved affordability.
+
+16 Robeco | 2026 Investment Outlook
+
+## Page 17
+
+4. Financial markets
+ outlook
+
+ Equities: Dancing with the bulls – Are equities set for a melt-up?
+ Where are we in the equity cycle? First, a resumed monetary easing cycle in absence
+ of immediate recession risk typically sees equities continue to perform well above
+ their steady-state return of 7%.* After the Fed resumed easing after an initial pause,
+ the S&P 500 has typically ended up 20% higher 12 months onward.
+
+ Figure 15: Resumed Fed easing cycles have seen +20% upside in next 12 months
+ 140
+
+ 130
+
+ 120
+
+ 110
+
+ 100
+
+ 90
+ 0 20D 40D 60D 80D 100D 120D 140D 160D 180D 200D 220D 240D 260D
+
+ Slice for S&P 500 Composite from: 31/01/1996 to 31/01/1997 17/09/2025 to 17/09/2026
+ 22/03/1985 to 22/03/1986 30/03/1999 to 30/03/2000 Mean
+
+ * Past performance is no guarantee of future results. The value of your investments may fluctuate.
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+17 Robeco | 2026 Investment Outlook
+
+## Page 18
+
+FINANCIAL MARKETS OUTLOOK
+
+ While another +20% S&P 500 rally in 2026 would be astonishing judging from the
+ already immense rally YtD, it does signal potential for a melt-up. Second, we believe
+ the guidance from a more Trump-loyal Fed governor taking the helm of the Fed in
+ 2026 might also be more conducive for equity risk taking compared to the typical non-
+ recessionary induced Fed easing cycles in the past. Third, as we hold that developed
+ markets inflation will remain above target, but will crucially not exceed 4% in 2026, we
+ are still in the sweet spot for harvesting strong real equity returns,* assuming no US
+ recession materializes.
+
+ Table 1: Real returns 1875-2021
+
+ Asset class Inflation <0% 0%-2% 2%-4% Inflation >4%
+ Equities 5.5 9.8 8.2 -1.7
+ Bonds 8.4 3.4 1.6 -4.6
+ Cash 5.9 1.5 0.5 -4.3
+
+ * Past performance is no guarantee of future results. The value of your investments may fluctuate.
+ Source: Baltussen, Swinkels, Van Vliet, and Van Vliet (2023).
+
+ Buzzing or bursting? The AI bubble and market sentiment
+ Back in the late 1990s under the Greenspan Fed, a whole literature genre emerged
+ about whether central banks should pinch asset bubbles.6 However, current Fed
+ president Powell refused to comment on whether the stock market is overvalued in
+ his press conference in October. Powell’s evasion makes sense as one of the best
+ ex-ante predictors of equity returns, the Shiller CAPE, only captures 8% of the
+ subsequent return variance on a 24-month horizon. Moreover, the out-of-sample
+ predictive power is negligible at a 12-month forward horizon; still anything can
+ happen from here despite stretched US valuations.7
+
+ Looking at where we are in the equity market cycle from a sentiment angle, we have
+ not entered irrational exuberance territory given subdued consumer sentiment and the
+ AAII retail relative bullishness in the 0.3rd percentile. This is impor tant as bursting
+ bubbles have often been preceded by peak levels of confidence and retail margin
+ accounts in conjunction with stretched stock market valuation levels; fear the
+ absence of fear.
+
+ Given a global implied equity risk premium well below historical averages and the
+ Shiller CAPE at 40, a level only exceeded once (1999) in the past 135 years, earnings
+ delivery will be crucial in 2026. While historically stretched valuations make for a
+ challenging star ting point to 2026, a more synchronized re-acceleration of the global
+ economy bodes well for the earnings outlook. The key focus will remain on whether
+ the steep increase in capex to sales ratios among the hyperscalers is warranted.
+
+ 6. See for instance Cecchetti, Genberg, Lipsky & Wadhwani (2000).
+ 7. See for instance Campbell & Thompson (2008); Goyal & Welch (2008).
+
+18 Robeco | 2026 Investment Outlook
+
+## Page 19
+
+FINANCIAL MARKETS OUTLOOK
+
+ Will the incremental investment spend keep delivering? While current elevated
+ sales-to-capex ratios in the US technology sector might not indicate margin
+ compression in the next 12 months, historically the likelihood of margin compression
+ rises afterwards. Increasingly, energy constraints emerge as the bottleneck for scaling
+ AI, raising marginal costs. Yet, so far expected earnings growth of the hyperscalers
+ has remained in lockstep with growth in their capital expenditures. We do not see
+ signs of overcapacity yet. Capex is still predominantly financed by cashflows rather
+ than debt. We are not “par tying like it’s 1999”. For now, the US tech sector exhibits a
+ buzzing instead of a bursting bubble.8
+
+ Global equity rotation: Beyond the US – Where will the next winners emerge?
+ Zooming out from the US, we find that the MSCI World ex US outperformed the US in
+ 69% of calendar years9 that saw a depreciation of the trade-weighted dollar. Declining
+ rate differentials and a catching up in terms of real activity of other G10 economies
+ likely will see a lower trade-weighted dollar overall (even as there will be bouts of
+ dollar strength). Like in 2017, this also bodes well for high-beta equity markets that
+ are notably cheaper compared to the US equity market against a backdrop of easing
+ global trade policy uncer tainty.
+
+ We are constructive on the global profit cycle, specifically seeing upside risk to the
+ consensus 12-month forward global EPS estimate of 8% as mid-cycle cuts usually
+ bring subsequent global earnings upgrades. Global profit margins remain above trend.
+ For the US, we expect some margin contraction from here until the next 12 months
+ from peak levels but this corroborates with early late-cycle bull markets. The 1990’s
+ NBER expansion that saw the formation of the IT bubble saw profit margins peak
+ already two and a half years before the SPX peaked in September 2000.
+
+ Figure 16: Highly unusual to see a US recession without preceding q-o-q slump in margins
+
+ Profit margin during NBER expansion phases
+ 14 x 0.01
+
+ 13
+
+ 12
+
+ 11
+
+ 10
+
+ 9
+
+ 8 IT bubble
+
+ 7
+
+ 6
+ 0 5Q 10Q 15Q 20Q 25Q 30Q 35Q 40Q
+
+ US profit margins from: 01/04/75 to 01/01/80 01/04/91 to 01/01/01 01/09/09 to 29/11/19
+ 01/03/61 to 01/12/69 01/01/82 to 01/01/90 01/10/01 to 01/10/07 01/04/20 to 29/11/25
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ 8. See the insight ‘Bursting or buzzing bubbles?’ published in September 2024 on the Robeco website.
+ 9. Past performance is no guarantee of future results. The value of your investments may fluctuate.
+
+19 Robeco | 2026 Investment Outlook
+
+## Page 20
+
+FINANCIAL MARKETS OUTLOOK
+
+ Figure 17: Mid-cycle cuts see subsequent global EPS upgrades
+
+ 60 6
+
+ 40 5
+
+ 4
+ 20
+
+ 3
+ 0
+ 2
+
+ -20
+ 1
+
+ -40 0
+
+ 1990 1995 2000 2005 2010 2015 2020 2025
+
+ PPP-weighted G7 policy rate 18M lag of AC World - Weighted Av erage EPS 12-months trailing
+ Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Like in 2017, we expect to see fur ther upward earnings revisions for the technology
+ sector in 2026, leading the way for higher earnings revisions in other sectors toward
+ 2027. We expect some broadening out of earnings growth delivery in 2026. First, capex
+ beneficiaries like industrials, utilities and energy companies are having a strong tailwind
+ from initiated capex by the hyperscalers. While market views are widely dispersed about
+ which sector stands out to benefit most from AI adoption, increasingly there are signs
+ that Financials and Healthcare are benefiting. Second, a fur ther reduction in trade-
+ related uncer tainty could especially help small and mid-sized companies to catch up
+ in terms of earnings growth. Lastly, the benefits of the current easing cycle compound
+ dispropor tionally on the more rate-sensitive smaller companies, lowering their cost
+ of capital.
+
+ Figure 18: Global EPS revisions catching up with technology sector revisions
+ 3.0
+
+ 2.5
+
+ 2.0
+
+ 1.5
+
+ 1.0
+
+ 0.5
+
+ 0
+ 2011 2013 2015 2017 2019 2021 2023 2025
+
+ IBES MSCI ACWIF IT -12m fwd EPS revision ratio IBES MSCI AC World - 12m fwd EPS revision ratio
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+20 Robeco | 2026 Investment Outlook
+
+## Page 21
+
+FINANCIAL MARKETS OUTLOOK
+
+ In fur ther analogy to 2017, an additional weakening of the trade-weighted dollar could
+ see emerging market equities accelerating versus developed market counterpar ts. As
+ we expect earnings revisions in China to improve relative to the MSCI EM ex China, we
+ hold there is potential for rerating of China versus EM ex China in 2026. Consensus
+ expectations of China outperforming the rest of EM in 2026 are also subdued, making
+ this a more contrarian trade.
+
+ We like eurozone equities on attractive valuations, weaker dollar, moderate energy
+ prices, a fur ther acceleration in eurozone growth spurred by fiscal stimulus, positive
+ money growth and improving consumer sentiment.
+
+ Yield curves and crossroads: Navigating the bond market in 2026
+ Our 10Y US fair model sees nominal yields10 upward of 4.5%, signaling downside risks
+ for US Treasuries. In addition, a Fed resumption of rate cuts saw 10Y yields 100 bps
+ higher in 1996 and 1999 12m onward. While nominal yields might end 2026 higher
+ compared to today’s 4% level, real yields could see downward pressure. With Trump
+ loyalists at the Fed gaining influence in 2026, we expect a notable decline in real yields.
+ Historically, central banks that have yielded to pressure from their country’s leader on
+ interest rate decisions have often faced the consequence of elevated inflation.11
+
+ We therefore think current market-implied medium-term inflation expectations will
+ increase in 2026. We also expect a further build of term premium as the market
+ recalibrates the possibility the Fed will end up behind the curve (again). In addition,
+ while lower real yields improve aggregate (labor) demand, they may accelerate asset
+ price inflation.
+
+ Figure 19: Breakeven inflation likely higher by end-2026
+
+ US inflation breakeven rates
+ 4.0
+
+ 3.5
+
+ 3.0
+
+ 2.5
+
+ 2.0
+
+ 1.5
+
+ 1.0
+
+ 0.5
+
+ 0.0
+ 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+ 5yr/5yr forward inflation breakeven % 5yr inflation breakeven % Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ 10. Past performance is no guarantee of future results. The value of your investments may fluctuate.
+ 11. See for instance BIS Working Paper No. 1028.
+
+21 Robeco | 2026 Investment Outlook
+
+## Page 22
+
+FINANCIAL MARKETS OUTLOOK
+
+ While technicals remain healthy, investment grade spreads are tight. Our view of
+ long-end yields ending 2026 higher, reinforces a preference for shor ter (spread)
+ duration exposure. High yield (HY) spreads are historically stretched but financial
+ conditions are still very easy and hint on the possibility of even fur ther compression
+ into 2026. A broadening out of earnings delivery will be helpful in this respect. In the
+ early 2000s expansion, it took four years of stretched valuations before HY corrected
+ toward its fair value spreads.
+
+ Leverage levels are still looking benign from a historical perspective with the global
+ net debt-to-equity ratio around 2.5. This might limit the degree of any spread blowout
+ following a systemic risk event. Yet the margin for error is narrowing and with spreads
+ staying well below 500 bps in 2026 in our view, HY is unlikely to outperform equities.
+ We therefore see more relative upside in equities if our base case materializes.
+ Meanwhile, our underweight in HY will also give us downside protection if our bear
+ case materializes. For EMD, an asset class sitting in between HY and investment
+ grade (IG), we expect inflows persisting in an environment of monetary easing, a
+ weaker dollar and reasonable carry especially versus developed market investment
+ grade alternatives.
+
+ Figure 20: It took four years of overvaluation before HY corrected (2004-2008)
+ 600
+
+ 400
+
+ 200
+
+ 0
+
+ -200
+
+ -400
+ 2000 2005 2010 2015 2020 2025
+
+ ICE BofA Global High Yield Index - Option-adjusted spread - HY fair value - predicted values
+ Recession
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+22 Robeco | 2026 Investment Outlook
+
+## Page 23
+
+FINANCIAL MARKETS OUTLOOKFINANCIAL MARKETS OUTLOOK
+
+ Figure 21: Still room for further compression
+
+ 450 -0.20
+
+ 400 -0.25
+
+ -0.30
+ 350 -0.35
+
+ 300 -0.40
+
+ 250 -0.45
+
+ -0.50
+ 200 -0.55
+
+ 150 -0.60
+ 2023 2024 2025
+
+ ADJ NATL Financial Conditions Index: United States (RH scale)
+ ICE BofA US High Yield 100 Index - Option-adjusted spread
+
+ Source: LSEG Datastream, Robeco, 7 November 2025.
+
+ Show me your mettle
+ In light of a synchronized cyclical upswing, we think that industrial metals have room
+ to rally. A cyclical growth proxy, the copper/gold ratio, is subdued versus the ISM
+ manufacturing confidence indicator. As such, industrial metals could star t to
+ outperform gold once the global manufacturing cycle star ts to improve. Gold still has
+ secular upside as gold miner capex is not overextended and worries about Fed
+ independence and sticky inflation flare up in 2026. Capping upside for gold in 2026 are
+ a disappointing number of Fed cuts and our synchronized shift in real activity alleviating
+ fears about stagflation.
+
+ Figure 22: Historical beta of 1Y returns to 1Y change in ISM manufacturing
+
+ US Benchmark 10-year DS Govt. Index -0.41
+ US Dollar Index DX Y-0.26
+ MSCI World Equity Reits $ -0.23
+ Gold, USD FX Comp. U$/Troy Oz -0.07
+ ICE BofA Global Corporate Index 0.04
+ Crude Oil BFO M1 Europe FOB $/BBI 0.10
+ Euro Stoxx 0.16
+ JPM GBI-EM Global Diversified Composite 0.17
+ Hang Seng Index 0.19
+ MSCI EM U$ 0.23
+ Nikkei 225 Stock Average 0.23
+ LME-Copper Grade A Cash U$/MT 0.24
+ S&P 500 Composite 0.38
+ ICE BofA Global High Yield Index 0.49
+ -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6
+ -5Y
+
+ Past performance is no guarantee of future results. The value of your investments may fluctuate. Source:
+ LSEG Datastream, Robeco, 7 November 2025.
+
+23 Robeco | 2026 Investment Outlook
+
+## Page 24
+
+5. Summary
+
+ Tail risks and triggers: What could derail the rally in 2026?
+ First, risk that was deemed idiosyncratic could become systemic. For example, recent
+ bankruptcies in the US automotive sector have been shrugged off as episodic.
+ However, FRED data shows allowances for loan and lease losses across US
+ commercial banks have been showing a steady build. Second, both our bull and our
+ bear case pose challenges for risky assets. Our bull case of a high-pressure economy
+ with inflation surprises surging is not as benign for risky assets as it might seem.
+
+ Assuming institutional guardrails at the Fed are still present, US core PCE trending
+ above 3.75% again will star t to ring alarm bells, giving the Fed cause to think about
+ hiking instead of cutting. Assessing a sustained increase in core PCE again as
+ “transitory” might not resonate well with financial markets. Our bear case of a mild US
+ recession could see a 30-40% equity sell-off if history rhymes. There is a clear
+ negative correlation between ex-ante CAPE levels and the magnitude of recession-
+ induced S&P 500 peak-to-troughs over the past 125 years. Also, equity markets do
+ tend to wobble around midterm US elections. Mind the tail.
+
+ Please note that due to the US government shutdown, US official economic data which might have been
+ relevant for assessing the 2026 outlook, has not been available for analysis.
+
+24 Robeco | 2026 Investment Outlook
+
+## Page 25
+
+SUMMARY
+
+ When the music plays on
+ Financial markets are procyclical by nature. As long as the music is playing, you’ve
+ got to get up and dance (a quote from former Citigroup’s CEO Charles Prince in 2007).
+ Right now, the music is still playing. While the emergence of the synchronized shift
+ might herald the transition toward the finale, it is (like the Neapolitan chord) not an
+ ending.
+
+ Table 2: Six top-of-mind risks for the tactical outlook
+
+ # Scenario Growth Inflation
+ 1. US recession due to a breaking rather than bending labor market
+ 2. A high-pressure global economy and captured Fed
+ 3. AI ecosystem implosion, gold crash; a bursting instead of a ‘buzzing’ bubble
+
+ 4. Renewed trade-related uncertainty (Supreme court rulings, US-China deal breakdown)
+
+ 5. European NATO member calls in Article 5
+ 6. The potential for systemic events stemming from private (credit) markets
+
+ Source: Robeco, 7 November 2025.
+
+ Table 3: Investment Solutions portfolio preferences as of 1 November 2025
+
+ Asset class Overall
+ United States equity –
+ Equity Europe equity +
+ Emerging markets equity +
+ Government bonds - United States =
+ Government bonds - Europe =
+ Government bonds - Emerging markets +
+ Corporate investment grade - United States =
+ Fixed income Corporate investment grade - Europe =
+ Corporate investment grade - Emerging markets =
+ High yield - United States –
+ High yield - Europe –
+ High yield - Emerging markets –
+
+ Commodities Gold +Oil =
+
+ US dollar –
+ Currencies-FX Euro +
+ Ye n +
+ Emerging markets - local +
+
+ Source: Robeco, 1 November 2025.
+
+25 Robeco | 2026 Investment Outlook
+
+## Page 26
+
+IMPORTANT INFORMATION
+
+Impor tant information – Capital at risk
+
+This information refers only to general information about New Zealand
+Robeco Holding B.V. and/or its related, affiliated and subsidiary In New Zealand, this document is only available to “wholesale
+companies (“Robeco”), Robeco’s approach, strategies and investors” within the meaning of clause 3(2) of Schedule 1 of
+capabilities. This is a marketing communication solely intended the Financial Markets Conduct Act 2013 (‘FMCA’). This
+for professional investors, defined as investors qualifying as document is issued by Robeco Hong Kong Limited which does
+professional clients, who have requested to be treated as not have a place of business in New Zealand.
+professional clients or who are authorized to receive such
+information under any applicable laws. Unless otherwise stated, Hong Kong
+the data and information repor ted is sourced from Robeco, is, This document is issued by Robeco Hong Kong Limited, which
+to the best knowledge of Robeco, accurate at the time of is regulated by the Hong Kong Securities and Futures
+publication and comes without any warranties of any kind. Any Commission (“SFC”). The contents of this document have not
+opinion expressed is solely Robeco’s opinion, it is not a factual been reviewed by the SFC. Investment involves risks. This
+statement, and is subject to change, and in no way constitutes information does not constitute an offer to sell, a solicitation of
+investment advice. This document is intended only to provide an offer to buy, or a recommendation for any security.
+an overview of Robeco’s approach and strategies. It is not a
+substitute for a prospectus or any other legal document Singapore
+concerning any specific financial instrument. The data, This information is for informational purposes only and should
+information, and opinions contained herein do not constitute not be construed as an offer to sell or an invitation to buy any
+and, under no circumstances, may be construed as an offer or securities or products, nor as investment advice or
+an invitation or a recommendation to make investments or recommendation. The contents of this document have not been
+divestments or a solicitation to buy, sell, hold or subscribe for reviewed by the Monetary Authority of Singapore (“MAS”).
+financial instruments or as financial, legal, tax, or investment Robeco Singapore Private Limited holds a capital markets
+research advice or as an invitation or to make any other use of services licence for fund management issued by the MAS and
+it. All rights relating to the information in this document are and is subject to cer tain clientele restrictions under such licence. An
+will remain the proper ty of Robeco. This document may not be investment will involve a high degree of risk, and you should
+copied or used with the public. No par t of this document may consider carefully whether an investment is suitable for you.
+be reproduced or published in any form or by any means
+without Robeco’s prior written permission. Robeco Institutional US
+Asset Management B.V. has a license as manager of UCITS and This document may be distributed in the US by Robeco
+AIFs of the Netherlands Authority for the Financial Markets in Institutional Asset Management US, Inc. (“Robeco US”), an
+Amsterdam. investment adviser registered with the US Securities and
+ Exchange Commission (SEC). Such registration should not be
+United Kingdom interpreted as an endorsement or approval of Robeco US by the
+This information is provided by Robeco Institutional Asset SEC. Robeco B.V. is considered “par ticipating affiliate” and
+Management UK Limited, 30 Fenchurch Street, Par t Level 8, some of their employees are “associated persons” of Robeco
+London EC3M 3BD, registered in England no.15362605. Robeco US as per relevant SEC no-action guidance. Employees
+Institutional Asset Management UK Limited is authorised and identified as associated persons of Robeco US perform
+regulated by the Financial Conduct Authority (FCA – Reference activities directly or indirectly related to the investment advisory
+No: 1007814). services provided by Robeco US. In those situations, these
+ individuals are deemed to be acting on behalf of Robeco US.
+Switzerland SEC regulations are applicable only to clients, prospects and
+Robeco Switzerland Ltd is licensed by the Swiss Financial investors of Robeco US. Robeco US is wholly owned subsidiary
+Market Supervisory Authority FINMA as a manager of collective of ORIX Corporation Europe N.V. (“ORIX”), a Dutch Investment
+assets. Management Firm located in Rotterdam, the Netherlands.
+ Robeco US is located at 230 Park Avenue, 33rd floor, New York,
+Australia NY 10169.
+This document is distributed in Australia by Robeco Hong Kong
+Limited (ARBN 156 512 659) which is exempt from the © Q3/2025 Robeco
+requirement to hold an Australian financial services license
+under the Corporations Act 2001 (Cth) pursuant to ASIC Class
+Order 03/1103. Robeco Hong Kong Limited is regulated by the
+Securities and Futures Commission under the laws of Hong
+Kong and those laws may differ from Australian laws.
+
+26 Robeco | 2026 Investment Outlook
+
+## Page 27
+
+Please visit the Robeco website
+ for more information

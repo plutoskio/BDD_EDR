@@ -1,0 +1,1523 @@
+Source file: investment-outlook-2026.pdf
+Source path: outlooks/investment-outlook-2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:17.233695+00:00
+Page count: 27
+
+---
+
+## Page 1
+
+Au thor s
+Karen Ward In brief
+Chief Market S trategist EME A • Global markets remain resilient despite geopolitical noise,
+ with fiscal and monetar y stimulus fuelling grow th across the US,
+Tilmann Galler Europe, and Asia. We expect the expansion to continue in 2026,
+Global Market S trategist with activit y broadening across regions.
+
+Lucía Gutiérrez-Mellado • However, this abundance of liquidit y is not without risks. Histor y
+Global Market S trategist suggests that excessive stimulus t ypically shows up in one of two
+Maria Paola Toschi forms: inflation, and/or asset bubbles.
+Global Market S trategist • In this environment, we see several strategies that investors can
+ deploy. Our 2026 Investment Outlook includes four calls to action:
+Hugh Gimber
+Global Market S trategist – Navigate tech concentration carefully
+
+Lilia Pey tavin – Diversif y selectively across global equities
+Global Market S trategist – Don’t be fear ful of private markets
+
+Aaron Hussein – Protect against derailment
+Global Market S trategist
+
+Ma x McKechnie
+Global Market S trategist
+
+Natasha May
+Global Market Analyst
+
+Zara Nokes
+Global Market Analyst
+
+## Page 2
+
+Monetar y and fiscal fuel is powering expansion
+
+With President Trump returning to the White House Alongside middle- and higher-income households,
+and trade hostilities back on the agenda, one might businesses are also spending at pace, par ticularly
+have thought markets would be challenged in 2025. technology companies. The hundreds of billions of
+Instead, global equities look set to close out the year dollars of capex we hear about during US earnings calls
+with yet another double-digit gain. are tangibly adding to US growth.
+
+Markets have understood that while geopolitical Activity should also meaningfully accelerate in
+hostilities dominate the headlines, other forces are also continental Europe in 2026. The enormous fiscal
+at play. The bigger story is the ever-increasing monetary stimulus announced in Germany in 2025 will star t
+and fiscal fuel being delivered to an already healthy to feed through into economic data. This spending
+economic engine. covers a very wide range of potential projects, from
+Indeed, never before have we seen fiscal deficits, or rate defence to transpor t infrastructure and industrial
+cuts of this magnitude, delivered outside of recessions suppor t measures. The investment-focused nature of
+(see Exhibits 1 and 2 ).Germany’s plans should aid manufacturing activity and
+ broader growth.
+US citizens will star t to feel the personal benefits of The rest of Europe is also looking to spend more
+fiscal stimulus when the One Big Beautiful Bill results on defence, having pledged to increase military
+in significant tax rebates early in 2026. This cash flow expenditure to 3.5% of GDP (5% including other
+boost adds to the wealth effects being generated associated infrastructure spending) by 2035. In 2024,
+by double-digit stock and house price gains. European Union (EU ) defence spending reached €343
+Under intense political pressure, the Federal Reserve billion, up 19% year on year, and by the end of 2027 it is
+(Fed ) now seems likely to bring interest rates back to set to hit €400 billion. The EU has announced plans to
+‘neutral’ – a level which it believes to be around 3%. help member states achieve this, including the €150
+It is impor tant to note that not all US citizens are feeling billion ‘S ecurity Action for Europe’ (SAFE ) programme
+the benefits of fiscal stimulus and lower interest rates, that provides loans for defence procurement, as well
+with spending increasingly driven by middle- and as tweaks to its fiscal rules.
+higher-income households rather than those on lower
+incomes. Exhibit 3 depicts why the US has recently been
+termed the K-shaped economy.
+
+ Exhibit 1: Unprecedented fiscal stimulus given low Exhibit 2: … and now in Germany
+ unemployment in the US…
+ US fiscal balance and unemployment rate Germany fiscal balance and unemployment rate
+ % of nominal GDP (LHS); % (RHS) % of nominal GDP (LHS); % (RHS)
+ 3 2 4 4
+
+ 0 4 2 6
+
+ -3 6 0 8
+
+ -6 8
+ -2 10
+ -9 Forecast 10
+ -12 12 -4 12
+ Unemployment Unemployment
+ -15 increasing and 14 -6 increasing and 14
+ deﬁcit widening Forecast
+ deﬁcit widening
+ -18 16 -8 16
+ ’90 ’95 ’00 ’05 ’10 ’15 ’20 ’25 ’30 ’35’97 ’02 ’07 ’12 ’17 ’22 ’27
+ Fiscal balance Unemployment (inverted) Fiscal balance Unemployment (inverted)
+
+ Source: Bloomberg, CBO, J.P. Morgan Asset Management. The fiscal Source: Bloomberg, Destatis, J.P. Morgan Asset Management. The
+ balance forecast is based on the CBO’s latest budget and economic fiscal balance forecast is from Destatis. Data as of 31 October 2025.
+ outlook. Data as of 31 October 2025.
+
+ 2 Investment Outlook 2026 | Fuel in the engine
+
+## Page 3
+
+As European Central Bank (ECB) President Lagarde Trade is also likely to be less of a drag on European
+has noted, defence spending can be productivity- growth in 2026. The ‘ front-loading’ of European expor ts
+enhancing if research and development spills over to ahead of the introduction of US tariffs in spring 2025 led
+innovation. Historically, European defence spending to depressed expor ts over the remainder of the year but
+has tilted towards personnel, but future plans look likely as this effect fades, trade is likely to normalise.
+to focus on procurement from European-domiciled Germany – having been termed the sick man of Europe
+firms, suppor ting activity. in recent years – therefore looks set to finally star t
+
+Investors shouldn’ t underestimate the potency of fiscal growing.
+policy. In our view, the lack of fiscal stimulus in Europe The French political situation remains a blight on the
+relative to the US goes a long way towards explaining European landscape, but tough decisions – and fiscal
+the growth differential between the two regions over the consolidation – have now largely been postponed until
+past 15 years (see Exhibit 4). Fiscal stimulus also helps the 2027 presidential election. France is, therefore,
+explain why southern Europe, which received most of unlikely to derail the European recovery in 2026. With
+the EU’s Recovery Fund, has been performing so well in France fundamentally ‘ too big to fail’, we suspect EU
+recent years. The fact that Germany is joining the fiscal solutions may be found to ease this pressure, such as
+par ty – with growth in government investment forecast the SAFE programme to suppor t defence spending
+to hit 20% year on year in 2026 – is therefore big news. using the EU balance sheet.
+
+Europe is also benefiting from monetary stimulus. The outlook looks slightly less perk y in the UK, with both
+The ECB was quick to lower interest rates as inflation monetary and fiscal options more limited. As in France,
+risks receded. The eurozone is still an economy there are political constraints to restraining government
+sensitive to shor t-term interest rates, and past rate spending, so fur ther tax rises will likely weigh on near-
+cuts continue to suppor t credit growth in the region term growth. However, slow activity may finally star t
+– both household and corporate loan growth have to bring down inflation, which would at least allow the
+marched higher this year. In Germany, increased Bank of England to ease its foot off the brake.
+activity in the housing market is likely to be followed by
+more spending on furniture and home improvement,
+which should fur ther suppor t domestic demand.
+
+ Exhibit 3: Higher income groups account for the majority Exhibit 4 : Germany’s former fiscal restraint likely played
+ of US spending a key role in its underperformance
+ Average weekly spend by annual income bracket Government debt
+ Four-week moving average, indexed to 100 at the star t of 2023 % of nominal GDP
+ 110 140
+
+ 105 120
+
+ 100
+ 100 Forecast
+
+ 80
+ 95
+ 60
+
+ 90
+ Jan ’23 Jul ’23 Jan ’24 Jul ’24 Jan ’25 Jul ’2540
+ Those earning over $250k annually ’10 ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+ Those earning less than $75k annually US Germany
+
+ Source: J.P. Morgan Asset Management. The char t is based on select Source: Bank for International Set tlements, BE A , Eurostat, IMF, LSEG
+ internal Chase data. Data as of 31 October 2025. Datastream, J.P. Morgan Asset Management. Debt refers to gross
+ debt at face value. Dot ted lines represent IMF forecasts. Data as of 31
+ October 2025.
+
+J.P. Morgan Asset Management 3
+
+## Page 4
+
+Asia is also providing monetary and fiscal fuel. Potential derailments: Inflation
+The election of a new pro-growth prime minister in Such unprecedented ‘peacetime’ stimulus is not
+Japan with strong views on the need for ongoing loose without risks, however. These risks will be impor tant for
+monetary and fiscal policy has reduced the prospect of investors to monitor to ensure that while they enjoy the
+meaningfully higher Japanese interest rates, securing ride, they are not blinded by potential issues coming
+the country’s place as the ongoing provider of cheap down the track that could derail returns.
+capital to the world.
+China has been trying to combine monetary History suggests that excessive stimulus can prove
+stimulus with targeted fiscal suppor t, but with little problematic if it feeds either rising consumer prices
+success until recent months. Both corporate and (par ticularly challenging in the 1970s and early 2020s),
+household confidence has been subdued since the or asset bubbles ( the 1920s and 1990s).
+
+Covid pandemic, and the government’s regulatory We have been worried about inflation proving
+interventions during its shif t towards a ‘common problematic, and remain so over the medium term.
+prosperity’ narrative appear to have structurally dented At present, however, a sufficiently subdued labour
+Chinese corporates’ appetite to take risk. market and moderating pay requests are providing
+However, China’s outlook appears to be at a turning central banks comfor t that any fur ther uptick in
+point. The emergence of the ar tificial intelligence (AI) headline inflation will not become embedded via higher
+company DeepS eek was a reminder to the world of inflation expectations and wage growth.
+
+China’s entrepreneurial spirit. The recovery in Chinese The risk, therefore, for 2026 is that as activity gains
+growth stocks sparked by DeepS eek ’s progress momentum, workers star t to feel more confident asking
+has lif ted the overall Chinese market, and alongside for higher pay and inflation does become a bigger
+a stabilisation in home prices this should help lif t issue. We are mindful that economists generally have
+consumer sentiment. China’s trade has also not really a poor track record of forecasting inflation spikes.
+suffered, despite the headlines, as Chinese goods are The magnitude and persistence of the inflation rise that
+either redirected to other markets or rerouted via other occurred in 2022, which proved so traumatic for both
+regions to US consumers (see Exhibit 5). stocks and bonds, was not predicted by consensus
+Overall, with more and more fuel being added to forecasts (see Exhibit 6).
+
+the economic engine, global activity should regain
+momentum and broaden out regionally in 2026.
+
+ Exhibit 5: China’s expor ts to the US have suffered but Exhibit 6: Consensus expects US inflation to remain
+ trade elsewhere has compensated subdued, but didn’ t forecast the last spike
+ China expor ts by destination US headline CPI and consensus forecasts
+ USD billions, actual change year on year % change year on year
+ 60 10
+
+ 45 8
+
+ 30
+ 6
+ 15
+ 4
+ 0
+
+ -15 2
+
+ -30 0
+ ’20 ’21 ’22 ’23 ’24 ’25’19 ’20 ’21 ’22 ’23 ’24 ’25
+ US Europe EM Headline CPI Consensus forecasts
+
+ Source: China Customs, LSEG Datastream, National Bureau of Source: Bloomberg, BLS, LSEG Datastream, J.P. Morgan Asset
+ Statistics of China, J.P. Morgan Asset Management. Data as of 31 Management. Data as of 31 October 2025.
+ October 2025.
+
+ 4 Investment Outlook 2026 | Fuel in the engine
+
+## Page 5
+
+If inflation does firm fur ther, Western central banks
+would surely have to postpone the idea of fur ther rate
+cuts. S ome might argue that political pressures would
+lead central banks to push on with easing regardless.
+However, bond markets may then get jittery about the Histor y suggests that excessive stimulus
+monetary authorities’ commitment to price stability, can prove problematic if it feeds either
+leading to higher long-run yields.
+ rising consumer prices or asset bubbles.
+The Fed will be under par ticular scrutiny in 2026.
+A combination of the review of the regional Reserve
+Bank presidents in February, and the replacement of Our nex t chapter addresses private credit and private
+Jerome Powell as Chairman in May, offers the Trump equity, two markets that have also faced questions
+administration oppor tunities to exer t significant recently as the potential recipients of excess liquidity
+influence over monetary policy. If the administration that could lead to problems ahead. We find the
+is successful in removing Governor Cook, and the narrative here less troubling than recent headlines
+current Trump appointees play ball, there exists a might suggest – see Don’ t be fearful of private markets.
+possibility that it could find itself being able to appoint
+all 12 Reserve Bank presidents and three out of seven
+governors including the chair. Bet ter destinations may yet be ahead
+This is not our core scenario, but if US central bank It is not a given that abundant liquidity will lead to either
+independence really comes into question, the asset rampant inflation or an asset price bubble. A benign
+that might suffer most acutely is the dollar. We remind scenario of fur ther sustainable economic expansion is
+investors again to think carefully about their currency possible, if all this stimulus serves to expand the supply
+exposure since, as in 2025, dollar moves have the side of the global economy.
+potential to be a major contributor to final returns. This will be the case if AI and other new technologies
+ enhance the productivity of a wide range of companies.
+Potential derailments: Asset bubbles The earnings of the tech giants today could eventually
+Excess liquidity does not always show up in consumer be shared with the global corporate universe.
+prices. S ometimes, it finds its way into asset prices. These benefits might also then be shared with a
+With equity markets sitting on high valuations and more productive labour force. To complete this happy
+house prices soaring in countries like the US and outlook, finance ministers would also find themselves
+Germany, this is a risk wor th scrutinising. awash with tax receipts from a thriving corporate
+ and household sector, enabling them to repay their
+The trouble is that identifying the point when rational earlier spending.
+excitement becomes irrational exuberance is hard. This outlook is possible. We conclude, therefore,
+Gauging the timing of a turn from euphoria to despair with the guidance to remain on the risk train while fuel
+is even harder. For this reason, we have devoted an is still being added to its engine. But we also suggest
+entire chapter of this outlook to the lof tiest par t of that investors remain very mindful of how things
+today’s stock market – see Navigate tech concentration could go wrong, and to select their carriage carefully
+carefully. We continue to be nervous about the high – see Protect against derailment. If inflation causes a
+degree of concentration towards tech in equity derailment, both stocks and bonds will likely struggle.
+benchmarks, given questions about the return on A safer onward journey that mitigates against inflation
+investment of the enormous amount of capex these shocks must include the suite of alternatives that
+companies are under taking, as well as the gradual rise provide genuine inflation protection, in our view. If tech
+in leverage now appearing to suppor t this spending. falters, those investing passively in US or global equities
+We have also dedicated a chapter to where we see more will find themselves in the front carriage on impact.
+compelling risk /reward oppor tunities outside of the US Investors should therefore think carefully about how
+market – see Diversify selectively across global equities. they are allocating to ensure they enjoy the ride but also
+
+ have sufficient protection should the train derail.
+
+J.P. Morgan Asset Management 5
+
+## Page 6
+
+Navigate tech concentration carefully
+
+Ar tificial intelligence (AI) bubble talk is back. Megacap We’ll call our third group the AI architects. These
+tech stocks have had another strong year, but with focus companies develop large language models (LLMs)
+intensifying on the circular nature of recent high-profile and other AI applications that can be used for
+deals and unprecedented concentration in US equity everything from video creation, to chatbots, to complex
+benchmarks, investors are once again concerned medical research. OpenAI’s ChatGPT is arguably
+around the potential for a major correction in AI stocks. the most famous LLM to date, but there are many
+ other popular examples, such as Anthropic’s Claude,
+The AI ecosystem Google’s Gemini, xAI’s Grok, and Mistral’s Le Chat.
+
+To address these concerns, first we must get a grip of While these buckets neatly encompass the supply side
+the increasingly sprawling AI ecosystem (see Exhibit 7). of AI infrastructure, it is far harder to apply a blanket
+ definition to the demand side. Users range from
+The hardware manufacturers sit at the bottom of individuals (e.g., using ChatGPT ), to enterprises (e.g.,
+the tech stack. This group includes companies a call centre using AI chatbots), to companies that
+such as Nvidia (which designs highly sophisticated place AI at the hear t of their service offering, such as
+chips), TSMC (which manufactures chips for Nvidia, sof tware companies who sell AI-driven tools.
+among others) and ASML (which creates precision tools
+that are used in chip manufacturing). In a well-functioning, mature ecosystem, the money
+ spent by end users must be sufficient to generate
+Nex t come the ‘hyperscalers’. This group includes profits throughout the system. Take the example of a
+industry titans such as Alphabet, Amazon, Meta, weekly supermarket shop. The money you spend at
+Microsof t and Oracle.1 These companies build and the till should be enough for the supermarket, the real
+operate data centres that are the backbone of AI and estate operator, the food manufacturers and the
+cloud computing more broadly. With an estimated farmers to all take their cut.
+half of AI-related capex typically being spent on
+chips, the hyperscalers are critical customers for the
+hardware manufacturers.
+
+1 While the link to data centres of ten receives most emphasis, the picture is muddied by these companies also featuring in many other par ts of the
+ ecosystem. Take Microsof t: A zure is Microsof t’s cloud computing plat form, Microsof t 365 Copilot is an AI-driven productivit y assistant and the company
+ has also invested in OpenAI since 2019.
+
+ Exhibit 7: There are many dependencies across the AI ecosystem
+ The AI ecosystem
+
+ Demand ﬂow Key players Critical inputs
+
+ Business and consumer
+ Demand for the users
+ end technology
+ AI architects Compute capacity to train
+ e.g. Anthropic, Mistral, OpenAI, xAI and run AI models
+
+ Demand for
+ computing capacity Huge power and cooling
+ Hyperscalers requirements to operate
+ e.g. Alphabet, Amazon, Meta, Microsof t, Oracle the data centres
+
+ Demand for chips
+ Hardware Rare ear ths critical
+ e.g. AMD, ASML, Broadcom, Nvidia, TSMC to semiconductor
+ supply chains
+
+ Source: J.P. Morgan Asset Management, as of November 2025.
+
+ 6 Investment Outlook 2026 | Fuel in the engine
+
+## Page 7
+
+Bubble watch
+ Given the incredible run-up in tech share prices since
+ the pandemic, it is no surprise that comparisons are
+Investment booms do have an being made to prior investment bubbles.
+unfor tunate habit of leading to Valuations: High, but not prohibitively so if
+overcapacit y, which in turn damages earnings deliver
+margins . While today’s valuations are not as ex treme as the
+ dotcom bubble, the S&P 500’s 12-month forward P/E
+ ratio of 23x is not far off the peak valuation in 2000,
+ while the tech sector trades on 31x forward earnings
+In today’s AI ecosystem, the demand from end (see Exhibit 8).
+users, both individuals and enterprises, is currently
+insufficient for all the other players to turn a profit. Hardware names currently sit on higher valuations (35x
+For several years, the hyperscalers have been largely 12-month forward earnings) than the hyperscalers (30x).
+footing the bill, using revenues from other par ts of their For the AI architects, however, valuations are harder to
+businesses to fund the build out of AI capacity, which in compare given that major players such as Anthropic,
+turn has created profits for the hardware players. Mistral and OpenAI are still private today. This lack of
+Whether end demand can accelerate fast enough visibility makes accurately assessing the fundamentals
+to generate a reasonable return on investment right of a group integral to the entire ecosystem much
+across the value chain is the million/billion/trillion- more challenging.
+dollar question.
+
+ Exhibit 8: Valuations are high, but still below the Exhibit 9: Getting to the top is tough, staying there is
+ dotcom peak even harder
+ US equit y valuations How the most popular tech stocks fared post 2000
+ x , multiple
+ 60 P/ E a t Return since
+ Peak dotcom valuation Company Statusdotcom peakdotcom peak
+ 50
+ Microsof t Sur vived 5 0 .9 x 1 412 %
+ 40
+ Cisco Sur vived 105.4x 42%
+ 30 Peak dotcom valuation Intel Sur vived 39.6x 1%
+
+ 20 Oracle Sur vived 1 0 3 .9 x 653%
+
+ 10 IBM Sur vived 2 3 .9 x 409%
+
+ 0 Lucent Merged 4 3 .9 x 2%
+ ’95 ’00 ’05 ’10 ’15 ’20 ’25Te c h n o l o g i e s
+
+ S&P 500 S&P 500 Tech Nor tel Bankrupt 8 7. 6 x -
+ Networks
+
+ S&P 500 - 22.6x 620%
+
+ Source: LSEG Datastream, S&P Global, J.P. Morgan Asset Source: LSEG Datastream, S&P Global, J.P. Morgan Asset
+ Management. Data as of 31 October 2025. Management. The dotcom peak is 24 March 2000. Past per formance
+ is not a reliable indicator of current and future results. Data as of 31
+ October 2025.
+
+J.P. Morgan Asset Management 7
+
+## Page 8
+
+Two key lessons can be drawn from prior run-ups in
+tech valuations. The first is that high valuations do
+not automatically prohibit future returns. An investor
+who purchased Microsof t at a peak valuation of 68x
+in December 1999 would be up over 1,000% over Whether end demand can accelerate
+the following 25 years (provided that they held the fast enough to generate a reasonable
+stock through a 65% drawdown in 2000). The second
+lesson, however, is that stock markets generally do return on investment right across the
+a very poor job of predicting future winners during value chain is ultimately the million/
+technology revolutions. Looking at the most popular billion/trillion- dollar ques tion.
+tech companies in the S&P 500 at the dotcom peak in
+2000, only Microsof t retained its place in the largest 10
+companies a decade later (see Exhibit 9). Identifying Critically, this financial strength has so far allowed
+long-term winners in real time is an incredibly many of the hyperscalers to fund their AI-related
+complex task. capex from free cash flow. We note, however, that
+ capex commitments planned for the coming years will
+Financial health: Much improved versus 2000, eat fur ther into available cash piles (see Exhibit 10).
+but with cracks beginning to emerge Recent high profile moves from Meta, Oracle and xAI to
+The financial strength of the AI megacaps is arguably tap both public and private debt markets bear watching
+the biggest reason to downplay comparisons with the in this regard.
+dotcom bubble. Unlike the flimsy nature of corporate The increasingly circular nature of AI deals over recent
+balance sheets 25 years ago, Amazon, Apple, Alphabet, months does, however, have some echoes of the late
+Meta, Microsof t and Nvidia are today sat on a cash pile 90s. S eptember ’s announcement that Nvidia plans to
+to the tune of $450 billion. Given that tightening credit invest up to $100 billion in OpenAI was arguably the
+conditions have of ten been a major trigger for prior highest profile of these investment deals. OpenAI in
+bubbles to burst, this suggests that today’s tech titans turn will funnel much of this investment into securing
+are in much better shape. new compute capacity, which will then drive demand for
+ Nvidia’s chips.
+
+ Exhibit 10: Capex commitments are eating into cash piles
+ Capital spending from the five major US AI hyperscalers
+ USD billions (LHS); % (RHS)
+ 675 Forecast 90
+ 600 80
+ 525 70
+ 450 60
+ 375 50
+
+ 300 40
+ 225 30
+ 150 20
+ 75 10
+ 0 0
+ ’04 ’06 ’08 ’10 ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+ Total capex Share of operating cash ﬂow
+
+ Source: Bloomberg, J.P. Morgan Asset Management. The char t shows the total company capex for Alphabet, Meta, Microsof t and Oracle, as well
+ as an estimate of Amazon’s AWS spend. Operating cash flow represents cash flow before capital expenditures. Data as of 31 October 2025.
+
+ 8 Investment Outlook 2026 | Fuel in the engine
+
+## Page 9
+
+Optimists would argue that Nvidia is using the cash The good news from companies waiting much
+on its balance sheet to simply bring forward future longer to IPO is that this has strengthened the overall
+demand. Yet the more that the fate of individual fundamental picture of the listed tech sector. The bad
+companies becomes inter twined, the greater the risk news is that for investors accessing the AI theme only
+that a single failure could lead the broader system via public markets, they may well miss out on exposure
+to unravel. to some of the long-term AI winners that are only
+ accessible via private equity strategies currently.
+Market structure: A greater skew towards
+private markets requires a dif ferent approach Earnings: Supernormal profit deliver y has
+Initial public offering (IPO) activity is another major point become the norm, but could be tough to
+of difference today. Exuberant IPO activity was a key maintain
+feature of the dotcom bubble: in 1999, the median first- Unlike in the late 1990s, when valuations surged while
+day return for the 476 US companies that went public earnings lagged, today’s run-up in share prices has
+was a whopping 57%, compared to just 7% on average been driven far more by expanding earnings. This is
+between 1980-2024. These bumper returns enticed not only a revenue story, but also a margin one: US tech
+companies to rush into the market far quicker than sector margins are currently more than double that of
+normal (see Exhibit 11). the broad S&P 500. Investors now assume that tech
+While IPO activity has picked up in the second half of companies will deliver supernormal profits compared to
+2025, the situation remains far more muted. In par t, the rest of the index.
+this reflects a growing preference from companies to Admittedly, the profitability of the AI names in the private
+stay private, given the combination of a lower regulatory markets is generally far weaker, but their revenue
+burden and ample availability of private capital, as we growth has still been impressive. OpenAI is repor ted to
+discuss in Don’ t be fear ful of private markets. now be generating annual revenues nor th of $13 billion,
+ although given the company’s huge R&D spend, it is
+ not expected to reach profitability until much closer
+ to 2030.
+
+ Exhibit 11: IPO activity is less exuberant today Exhibit 12: The US shale investment boom was followed
+ by a bust
+ Median first-day return for US IPOs W TI crude oil price and oil rig count
+ % USD per barrel (LHS); number of rigs (RHS)
+ 70 120 1,800
+
+ 60 100 1,500
+
+ 50 80 1,200
+
+ 40 60 900
+
+ 30 40 600
+
+ 20 20 300
+
+ 10 0 0
+
+ 0 ’10 ’11 ’12 ’13 ’14 ’15 ’16 ’17
+ ’80 ’84 ’88 ’92 ’96 ’00 ’04 ’08 ’12 ’16 ’20 ’24Oil priceOil rigs
+
+ Source: Jay Rit ter – Universit y of Florida, J.P. Morgan Asset Source: Baker Hughes, Bloomberg, J.P. Morgan Asset Management.
+ Management. Past per formance is not a reliable indicator of current Past per formance is not a reliable indicator of current and future
+ and future results. Data as of 31 October 2025. results. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 9
+
+## Page 10
+
+Whether this earnings growth can continue depends on new AI tech, achieving a return on today’s surging
+on both end demand, as well as whether the tech firms investment will be far more challenging.
+can maintain their supernormal margins. Investment The AI architects have been keen to stress the
+booms do have an unfor tunate habit of leading astronomical growth in their user base, although paid
+to overcapacity, which in turn damages margins. users have been much harder to come by. In OpenAI’s
+The shale boom of the 2010s is a prime example: case, ChatGPT has eclipsed all records for the pace of
+breakthroughs in drilling techniques led to a surge in technology adoption, yet only 5% of the 800m users of
+oil supply, before a sharp collapse in oil prices led to a ChatGPT are currently paying customers, according to
+wave of bankruptcies (see Exhibit 12). the Financial Times.
+
+The biggest challenge for the hyperscalers in accurately Survey data presents a similarly mixed picture. The US
+estimating future demand is the many variables Census Bureau’s AI survey suggests that only 9% of
+involved. By 2030, will the resource intensity of current US businesses are using AI to produce goods and
+AI have reduced materially? Will we have made major services, with large variation across sectors. S omewhat
+breakthroughs in ar tificial general intelligence (AGI)? concerningly, when breaking out this survey by
+And how quickly will AI hardware be made obsolete business size, recent responses suggest that demand
+by new technological developments? None of these from the largest companies may be star ting to slow
+questions have concrete answers today, leading to (see Exhibit 13).
+wide error bars around estimates for both future capex
+needs and earnings overall. Other surveys point to a much more positive outlook,
+ such as the Ramp AI Index that shows 44% of surveyed
+End demand: The most impor tant question, businesses pay for an AI subscription (see Exhibit 14),
+and the most dif ficult or KPMG’s Quar terly Pulse Survey that evidences
+If AI ultimately allows companies to create major new a steady increase in the deployment of AI agents
+revenue streams and significantly cut back on their designed to boost employee productivity.
+labour costs, the tech giants will continue to generate
+impressive earnings growth. Yet if consumers and
+corporates prove more resistant to spending big sums
+
+ Exhibit 13: Large businesses are showing signs of pulling Exhibit 14 : Invoicing data paints a prettier picture of
+ back on AI AI adoption
+ US businesses using AI to produce goods and ser vices Measures of AI adoption
+ by size
+ %, 12-week moving average %, share of businesses
+ 16 50
+ 14
+ 12 40
+
+ 10
+ 8 30
+
+ 6 20
+ 4
+ 2 10
+ 0
+ Dec ’23 Jun ’24 Dec ’24 Jun ’250
+ 1-4 employees 5-9 employees 10-19 employees ’23 ’24 ’25
+ 20-49 employees 50-99 employees 100-249 employees Companies with paid AI subscriptions (Ramp AI Index)
+ 250+ employees Companies reporting AI adoption (Census Bureau)
+
+ Source: Census Bureau, J.P. Morgan Asset Management. Data as of 31 Source: Census Bureau, Ramp AI Index, J.P. Morgan Asset
+ October 2025. Management. Data as of 31 October 2025.
+
+ 10 Investment Outlook 2026 | Fuel in the engine
+
+## Page 11
+
+Triggers for a turn in sentiment of the beats has been diminishing as expectations
+We now focus our attention on identifying potential ramp up, and we should also consider that the pace
+triggers that could lead market positivity around the AI of capex growth from the hyperscalers is set to slow
+theme to reverse. (see Exhibits 15 and 16). A big miss from any of the AI
+ megacaps would likely create significant concern
+A high-profile miss tep about firms across the industry. Another example would
+Given the increasing number of interlinkages within be if OpenAI pressed ahead with IPO plans in 2026
+the AI ecosystem, one high-profile ‘ flop’ could be and subsequently faced difficulties in achieving its
+very damaging for the broader universe. Earnings desired valuation.
+
+repor ts are the most obvious place to look. Nvidia, for
+example, beat both earnings and revenue expectations
+in every quar ter from Q1 2023 to Q2 2025. The size
+
+ Exhibit 15: Big beats are becoming harder to come by as expectations rise
+ Nvidia quar terly revenue and earnings grow th beats
+ % point dif ference vs. consensus
+ 30
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ 0
+ Q1 2023 Q1 2024 Q1 2025
+ Earnings Revenues
+
+ Source: LSEG Datastream, J.P. Morgan Asset Management. Data as of 31 October 2025.
+
+ Exhibit 16: Hyperscaler capex growth is set to slow
+ Capex grow th from the five major US AI hyperscalers
+ % change year on year
+ 7 0
+ Forecast
+ 60
+
+ 5 0
+
+ 40
+
+ 30
+
+ 20
+
+ 10
+
+ 0
+
+ -10
+ ’12 ’14 ’16 ’18 ’20 ’22 ’24 ’26 ’28
+
+ Source: Bloomberg, J.P. Morgan Asset Management. The char t shows the annual grow th in total company capex for Alphabet, Meta, Microsof t
+ and Oracle, as well as an estimate of Amazon’s AWS spend. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 11
+
+## Page 12
+
+Capacit y constraints 2. Diversify regionally: The par ticular exposure of US
+Whether the provision of energy and raw materials can indices to the AI theme makes a strong case for
+keep up with the demand for future compute capacity regional diversification, as we lay out in Diversify
+is a question that has so far received far less market selectively across global equities. First, we may find
+attention, but is another crucial one. News repor ts of that the ultimate winners of the AI race are situated in
+electricity blackouts linked to data centre expansion, other par ts of the world, most notably Asia. S econd,
+or a shor tage of critical minerals that are essential to if the market’s attention shif ts from AI producers
+chip manufacturing, are both examples of issues that to AI users, Europe’s sector mix could benefit.
+could potentially shif t sentiment. Alternatively, if AI sentiment turns altogether, the low
+ exposure to technology of markets like the UK and
+A liquidi t y event Switzerland suddenly looks more appealing.
+
+We must also consider that an ex ternal shock, 3. Diversify across public and private markets: History
+independent of technology, could be the catalyst for provides many examples of those responsible for the
+a correction. With valuations elevated, technology build out of a new technology later being ousted by
+is increasingly trading as a ‘high beta’ theme, more dynamic, younger star t-ups. If value creation is
+outperforming in rising markets and underperforming ultimately more focused in the developers of the tools
+when markets fall. If our tail risk scenario of an that can harness AI, rather than the infrastructure
+inflation shock that triggers higher bond yields providers, the long-term winners could well still be
+plays out, we would expect AI-related stocks to be hit lurking in the private markets today. This is one of the
+par ticularly hard. reasons we are structurally positive on private equity
+ – see Don’ t be fear ful of private markets.
+How to p osi tion
+With AI sentiment such a dominant driver of markets Conclusion
+today, clearly investors do not have the luxury of The earnings of the tech giants have been incredibly
+waiting to see how demand develops before taking impressive, but the outlook for future AI demand
+a view. Typically, when faced with unpredictable remains highly uncer tain and, in turn, it is highly
+outcomes, diversification is a shrewd approach. For uncer tain whether high expectations will be fulfilled.
+AI unpredictability, we see three specific ways to boost Moreover, navigating the timing of when we could
+diversification. encounter such disappointments is even harder.
+1. Diversify across the ecosystem: The risks and For these reasons we would warn against positioning
+ oppor tunities facing AI-related companies can por tfolios strongly in either direction. Diversification
+ vary substantially. If, for example, hyperscalers across the AI ecosystem, across regions, and across
+ overestimate the future demand for compute, public and private markets should provide the best
+ this overinvestment could lead to downward risk /reward, helping investors manage whichever
+ pressure on prices, hur ting hyperscaler margins twists and turns this latest technology revolution
+ while benefitting the consumers of this compute throws at us.
+
+ capacity. We may also find that there are winners and
+ losers within each AI bucket. In the hardware bucket,
+ for example, time will tell whether the AI ecosystem
+ can sustain multiple chip manufacturers, or whether
+ Nvidia, Broadcom and AMD (among others) are
+ ultimately facing a ‘winner takes all’ scenario.
+
+12 Investment Outlook 2026 | Fuel in the engine
+
+## Page 13
+
+Diversif y selectively across global equities
+
+With policymakers globally adding fuel to the economic European equities: Earnings
+engine, we are positive about a broadening of global improvement
+growth. This economic outlook should suppor t equity European equities had a strong star t to 2025, fuelled
+markets outside the US. Investors should therefore by a large valuation gap with the US, under-positioning
+ensure their por tfolios are not overly concentrated in US in Europe, and a sharp shif t in Germany’s fiscal policy.
+tech (see Navigate tech concentration carefully), even if But disappointing earnings have caused performance
+the US rally could successfully ex tend into 2026. to stall since June.
+
+Impor tantly, regional diversification does not just Af ter seven months of negative revisions to earnings
+mitigate risk; it can also be return enhancing. Of per share (EPS) forecasts, Europe’s 2026 EPS estimate
+course, diversification will help hedge por tfolios is now being revised up and bottom-up forecasts point
+against the risk of a retrenchment in sentiment towards to growth of 12% year on year. Mid-single digit growth
+ar tificial intelligence (AI) and subsequent market seems more realistic to us, consistent with the typical
+correction. But diversification can also boost returns pace of downgrades to consensus EPS expectations.
+in a world where the AI rally continues, as we’ve seen in
+2025 (see Exhibit 17). The first driver of positive profit growth is a likely slowing
+In 2026, the focus should be on markets with improving or stalling of euro appreciation in 2026, which should
+fundamentals, and to some degree those less offer relief to European companies given they generate
+correlated with AI sentiment. Returns will likely be about half their revenues internationally. The euro
+increasingly driven by earnings rather than by multiple has appreciated meaningfully versus the US dollar in
+expansion, given equity valuations are elevated in many 2025, driven more by dollar weakness than by stronger
+regions (see Exhibit 18). Investors must also weigh the European growth prospects. This has contributed
+impact that currency moves might have on returns. to the 17% downward revision in 2025 EPS estimates
+ for European expor ting sectors, versus a 1% upward
+ revision for domestic sectors (see Exhibit 19).
+
+ Exhibit 17: Regional diversification has paid off in 2025 Exhibit 18: Equity valuations are elevated across most
+ markets
+ Total returns year to date 12-month for ward P/E ratios
+ % total return in EUR x , multiple
+ US small cap 24
+ US 22
+ Japan 20
+ Magniﬁcent Seven 18
+ UK 16
+ Europe ex-UK 14
+ China technology 12
+ China 10
+ Italy 8
+ Spain
+ Europe banks
+ Europe defence
+ Current Median 25th-75th 10th-90th
+ 0 20 40 60 80 100 120percentilepercentile
+
+ Source: BME, F TSE, LSEG Datastream, MSCI, Russell, S&P Global, Source: F TSE, IBES, LSEG Datastream, MSCI, S&P Global, Tok yo Stock
+ STOX X, Tok yo S tock E xchange, J.P. Morgan Asset Management. China, E xchange, J.P. Morgan Asset Management. Asia ex-Japan, China, DM,
+ China technology and Europe ex-UK are MSCI. Europe banks: STOX X EM, Europe ex-UK and Global are MSCI. Japan: TOPIX; UK: F TSE 100;
+ 600 Banks; Europe defence: basket of selected European defence US: S&P 500. Valuation is price to 12-month for ward earnings, as
+ stocks; Italy: F TSE MIB; Japan: TOPIX; Spain: IBE X; UK: F TSE 100; US: S&P published by IBES. Range and median calculated over last 20 years.
+ 500; US small cap: Russell 2000. Past per formance is not a reliable Data as of 31 October 2025.
+ indicator of current and future results. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 13
+
+## Page 14
+
+S econd, more stable energy prices should also suppor t narrowing. Af ter the global financial crisis, US earnings
+European profits, given the weight of commodity- have grown on average 8 percentage points faster
+related sectors in index earnings. European commodity than European earnings (annualised ), but this gap is
+sectors have seen their 2025 EPS estimates revised expected to shrink to 2 percentage points from 2025 to
+down 27% this year as oil prices have fallen. In 2026, EPS 2027. Thus, on current consensus forecasts, investors
+growth for the energy and materials sectors is forecast can pay a multiple of 16x forward earnings in Europe
+to rebound to 7% and 31% respectively, and revisions (ex-UK ), or 23x in the US, for relatively similar future
+have recently turned positive. earnings streams.
+
+It is not just the removal of headwinds that should S tay selective
+return European earnings to growth. The European While we are broadly positive on Europe, we none-
+economy could also surprise to the upside. Eurozone theless recommend investors are selective, focusing on
+GDP growth expectations are already on an upward three main areas: banks, fiscal beneficiaries, and the
+trajectory, and fiscal policy should provide a fur ther GRANOLAS.1
+boost, especially in Germany where we expect
+growth to pick up from zero to well above potential First, European banks are attractive. Despite returning
+(see Monetary and fiscal fuel is powering expansion). nearly 200% including dividends since the star t of 2022,
+ we believe the sector still has tailwinds. European banks
+S till ‘less expensive’, if not outright cheap trade at a reasonable price-to-book ratio of 1.1x, well
+European valuations remain attractive relative to US below their pre-global financial crisis average, and offer
+equities and other assets. The MSCI Europe ex-UK a robust shareholder yield ( buybacks plus dividends)
+Index is the only major equity index with a 12-month of 8%. Profit growth has been more than double that of
+forward P/E ratio currently below its star t-2022 level the broad index since 2019, and revisions to consensus
+(see Exhibit 20). European multiples are currently 35% 2026 EPS forecasts show continued strength. Stronger
+lower than in the US, close to all-time wides. Yet the nominal growth and steeper yield curves than in the
+earnings growth gap between the two regions is 2010s should fur ther suppor t bank earnings.
+
+1 GSK , Roche, ASML, Nestle, Novar tis, Novo Nordisk, L’Oréal, LVMH, AstraZeneca, SAP and Sanofi.
+
+ Exhibit 19: Expor ters and commodities were a major drag Exhibit 20: Europe is rare in seeing no valuation
+ on 2025 earnings expansion since 2022
+ 2025 earnings es timates Return decomposition since star t-2022
+ Index level, rebased to 100 on 31 October 2024 %, sources of total return in local currency
+ 105 100
+
+ 100 80
+
+ 95 60
+
+ 90 40
+
+ 85 20
+
+ 80
+ 0
+ 75
+ 70 -20
+ Nov ’24 Jan ’25 Mar ’25 May ’25 Jul ’25 Sep ’25 Nov ’25Japan US UK EuropeEM China
+ ex-UK
+ STOXX Europe 600 Domestic sectors Exporting sectors Change in earnings expectations Change in multiple
+ Commodity sectors Dividends Total return
+
+ Source: IBES, LSEG Datastream, STOX X, J.P. Morgan Asset Source: F TSE, IBES, LSEG Datastream, MSCI, S&P Global, Tok yo Stock
+ Management. Domestic sectors are those with more than 50% of E xchange, J.P. Morgan Asset Management. China, EM and Europe
+ revenues generated within Europe. E xpor ting sectors are those with ex-UK are MSCI. Japan: TOPIX; UK: F TSE 100; US: S&P 500. Returns are
+ less than 50% of revenues generated within Europe. Data as of 31 shown in local currency (Europe ex-UK in EUR), with the exception of
+ October 2025. EM which is in US dollars. Multiple is price to 12-month for ward
+ earnings and earnings expectations are 12-month for ward, as
+ published by IBES. Past per formance is not a reliable indicator of
+ current and future results. Data as of 31 October 2025.
+
+ 14 Investment Outlook 2026 | Fuel in the engine
+
+## Page 15
+
+China: The AI investment case at a more
+ reasonable price
+ We are modestly positive on China. While the Chinese
+Europe’s defence firms are expected to market has rallied nearly 80% since its low in early 2024,
+grow their earnings much faster than we believe that the bull market can continue, albeit
+ at a more moderate pace, driven by both earnings
+their US peers over the nex t few years. and valuations.
+When compared to the recent grow th Focus on tech and expor ters
+in militar y spending, recent valuation The fundamental backdrop is improving for Chinese
+expansion appears more reasonable. equities, powered by the tech sector. Consensus
+ forecasts expect MSCI China EPS growth to pick up
+ from 2% in 2025 to 15% in 2026, and maintain this
+S econd, fiscal beneficiaries look set to do well. strength in 2027, well above last decade’s average
+The European Union plans to release significant funds of 10%. Technology firms are key drivers of this profit
+over the coming years for defence, power security growth: consensus 2026 EPS forecasts for China’s
+and infrastructure. Companies in these sectors have tech sector have been revised up 4% this year, and
+surged: a basket of European defence names is up annualised earnings growth over the nex t two years is
+over 100% year to date, and capital goods firms involved expected to be over 30%. Chinese tech stocks trade on
+in AI infrastructure and utilities have also gained lower multiples than their US counterpar ts (25x vs. 31x
+strongly. We believe this rally has fur ther to run, as in forward earnings) yet are expected to deliver stronger
+our view investors are still sceptical about the delivery earnings growth.
+of European spending. Europe’s defence firms are Chinese tech firms are also well positioned to take
+expected to grow their earnings much faster than their advantage of future AI development. In a recent
+US peers over the nex t few years. When compared to the survey, 93% of Chinese par ticipants repor ted using AI
+growth in military spending, recent valuation expansion intentionally at work in 2024, compared to 67% in the
+appears more reasonable. US. 2 Data centre capacity is expected to grow faster
+Third, the GRANOLAS are attractive laggards. These in China than in the US over the nex t few years (see
+firms, which represent Europe’s 11 largest stocks across Exhibit 21). We suspect there will be fewer regulatory
+the healthcare, staples, tech and luxury sectors, have frictions slowing broad AI integration in China than in
+underperformed since early 2022 as yields rose sharply, other countries, which may take a more considered
+the euro strengthened, and growth in China slowed. but therefore slower approach.
+Now on a 19x forward P/E ratio, the GRANOLAS trade at Chinese tech firms also benefit from state suppor t,
+a discount to the S&P 500 and at a smaller premium with the government’s latest five-year plan highlighting
+to the rest of Europe than in recent years. They offer a technology as an area of focus. State suppor t has
+hedge against shif ts in AI sentiment, as their correlation previously helped Chinese industries such as electric
+with the Magnificent S even is low. S ome sector-specific vehicles (EVs) develop astonishing economies of scale
+factors may also improve. European luxury companies, which international competitors have been unable to
+which have underperformed by c. 25% since the star t of match. Chinese EVs now make up nearly two-thirds
+2023, could benefit from a pickup in Chinese demand of global sales (see Exhibit 22), and China’s share of
+as an equity rally and housing market recovery help European EV sales sits six times higher than in 2020.
+stabilise household wealth. Beyond tech, we are positive on Chinese expor ters
+
+ more broadly. The Chinese government continues
+ to provide stimulus to its favoured industries, many
+ of which are expor t-oriented such as solar module
+ manufacturing. Effor ts to reduce excessive competition
+ (‘anti-involution’) may lead to consolidation in high-
+ competition sectors such as EVs, suppor ting larger
+ companies’ net income margins.
+
+2 Gillespie, N., Lockey, S., Ward, T., Macdade, A ., & Hassed, G. (2025). Trust, Attitudes and Use of Artificial Intelligence: A Global Study 2025 . The Universit y
+ of Melbourne and KPMG.
+
+J.P. Morgan Asset Management 15
+
+## Page 16
+
+Exhibit 21: China is expected to build data centres at Exhibit 22: Beijing’s industrial policy often has global
+ pace implications
+ Forecast grow th in tech data centre installed capacit y Global E V sales
+ %, 2024 to 2030e Millions
+ 250 20
+
+ 200 16
+
+ 150 12
+
+ 8
+ 100
+
+ 4
+ 50
+ 0
+ 0 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’24
+ Europe US ChinaChinaUSEuropeRest of world
+
+ Source: IE A , J.P. Morgan Asset Management. Data as of 31 October 2025. Source: IE A , J.P. Morgan Asset Management. Data as of 31 October 2025.
+
+Chinese expor ters have also demonstrated their ability O ther emerging markets: E xpor t
+to reroute their goods despite global trade headwinds. rerouting a headwind
+China’s expor ts have grown strongly in 2025, with Chinese resilience could come at the expense of other
+losses in the US more than offset by gains elsewhere, emerging markets (EM): a sustained rise in Chinese
+par ticularly to emerging markets (see Exhibit 5 in expor ts to other nations would weigh on EM ex-China
+Monetary and fiscal fuel is powering expansion). profits. To become more positive, we would need to
+China also holds a dominant position in global supply see stronger earnings growth in the financial and
+chains for rare ear th metals, solar modules, lithium commodities sectors. However, with EM central banks
+batteries and EVs. Thus, expor t sectors are expected generally easing policy rates, banks are unlikely to drive
+to drive MSCI China’s profit growth in 2026, with profits, and commodity prices are expected to remain
+consensus EPS growth for the technology and autos stable but low.
+sectors sitting at near 40% and over 80% respectively.
+Two key risks to our view on Chinese equities are AI One exception to this view is Nor th Asia – S outh Korea,
+sentiment and Chinese regulation. If sentiment towards Taiwan and Hong Kong. These markets tend to perform
+AI weakens, Chinese tech firms could suffer due to their well when the Federal Reserve is cutting rates, due to
+correlation with US tech stocks. And any regulatory their cyclical nature and concentration in long-duration
+shif t from Chinese policymakers, similar to late 202 1, sectors, such as technology, capital goods and
+could derail the China rally, though this is not our healthcare.
+base case.
+ Japan equities: Ride reflation, be aware
+ of currency risk
+ We also see oppor tunities in Japanese equities.
+ An improving domestic political environment,
+Impor tantly, regional diversification continued corporate reform, strong earnings
+ momentum (see Exhibit 23), and room for valuation
+does not just mitigate risk; it can also be expansion should suppor t the Japanese market.
+return enhancing. However, investors should remain aler t to how yen
+ moves could affect returns.
+
+ 16 Investment Outlook 2026 | Fuel in the engine
+
+## Page 17
+
+Policy and fundamentals suppor tive We also see strong potential for Japanese banks.
+The election of Sanae Takaichi as prime minister on Japanese banks have outperformed the TOPIX since
+2 1 October ex tends the relatively suppor tive political 202 1, aided by reflation, but still trade at a price-to-book
+backdrop in Japan. The new prime minister ’s pro- ratio of just 1x. Although Takaichi is encouraging the
+growth stance, plus her focus on US-Japan cooperation BoJ to keep interest rates low, the bank ’s nex t move is
+and national security, was taken positively by markets. still likely a hike, which would suppor t financial sector
+Since her election, expectations of hikes from the Bank margins. Earnings revisions for Japanese financials
+of Japan (BoJ ) have been pushed out. have been very positive, surpassing those of their
+ US peers.
+As in Europe, in our view Japanese equity valuations The key risk for Japanese equities remains the yen.
+still have room to expand. While current valuations Given 40% of TOPIX revenues come from overseas,
+may seem high compared to the past 20 years, this Japanese equity performance is typically negatively
+period includes the af termath of the asset price correlated with the yen (see Exhibit 24). For European
+bubble, which depressed multiples. Looking at a investors, what is lost via yen moves is of ten gained
+broader timeframe, the TOPIX’s forward P/E ratio of on the equity market, and vice versa.
+15.8x is well below its average since 1990 (24x), and still
+below its Abenomics peak of 16.3x. Rising bond yields
+are also benefiting earnings in the financial sector, Conclusion
+which makes up about 15% of the TOPIX. We believe diversifying equity por tfolios regionally
+Favour defence and banks, watch the yen can both enhance returns and protect against
+ concentration risks, par ticularly if AI sentiment turns
+Within Japanese equities, we favour defence-related less positive. Outside the US, we see the strongest
+stocks, which are set to benefit from increased global oppor tunities in select areas of the European, Japanese
+military spending and the new prime minister ’s and Chinese markets with fundamental tailwinds,
+hawkish foreign policy stance. Japanese defence- including European and Japanese banks, Chinese tech
+related stocks trade on 20x 12-month forward earnings, and expor ters, defence names, and fiscal beneficiaries.
+compared to 22x for a US defence basket.
+
+ Exhibit 23: Earnings revisions have been strong in Japan Exhibit 24 : Japanese equity performance has typically
+ been negatively correlated with the yen
+ Earnings revision ratios TOPIX and the yen vs. US dollar
+ %, 13-week ratio of earnings estimate upgrades to downgrades Index level (LHS); JPY per USD (RHS)
+ 30 3,600 180
+
+ 20 3,000 160
+ 10 Yen depreciating
+ 2,400 and TOPIX rising 140
+ 0
+
+ -10 1,800 120
+
+ -20 1,200 100
+
+ -30
+ -40 600 80
+
+ -50 0 60
+ ’23 ’24 ’25’00 ’03 ’06 ’09 ’12 ’15 ’18 ’21 ’24
+ US Europe Japan China TOPIX USDJPY
+
+ Source: LSEG Datastream, MSCI, S&P Global, STOX X, Tok yo Stock Source: LSEG Datastream, Tok yo Stock E xchange, J.P. Morgan Asset
+ E xchange, J.P. Morgan Asset Management. China: MSCI China; Management. Past per formance is not a reliable indicator of current
+ Europe: STOX X 600; Japan: TOPIX; US: S&P 500. Earnings revision and future results. Data as of 31 October 2025.
+ ratios are based on 12-month for ward earnings expectations, as
+ published by IBES. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 17
+
+## Page 18
+
+Don’t be fear ful of private markets
+
+Private markets have grown rapidly over the past
+decade. Private market assets under management
+have grown five-fold since 2010, reaching over
+$13 trillion globally (see Exhibit 25). This expansion
+of private capital, which is more opaque than public Put simply, where grow th once
+market capital, has prompted concern that problems happened af ter initial public of fering,
+may be lingering in the shadows of the financial system.
+ it now happens beforehand.
+Rapid growth in a financial asset class should attract
+scrutiny. But interpreting these developments purely
+through the lens of ‘excess’ misses a key par t of Where companies once depended on public markets
+the private market story, which is that over the past for capital to grow, they can now access vast pools
+two decades, the nature of corporate financing has of private money through venture capital and private
+changed profoundly. equity. As a result, a larger par t of the pathway to
+ maturity for businesses has shif ted from the public
+ to the private domain (see Exhibit 26). What looks like
+ exuberance is, in many respects, the reflection of a new
+ normal in corporate finance.
+
+ Exhibit 25: Private markets have grown rapidly
+ Global private markets assets under management
+ USD trillions
+ 14
+
+ 12
+
+ 10
+
+ 8
+
+ 6
+
+ 4
+
+ 2
+
+ 0
+ ’00 ’01 ’02 ’03 ’04 ’05 ’06 ’07 ’08 ’09 ’10 ’11 ’12 ’13 ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’24 ’25
+ Private equity Private credit
+
+ Source: Preqin, J.P. Morgan Asset Management. Assets under management are the sum of unrealised value and dr y powder. 2025 data is as of
+ Q1 2025. Data as of 31 October 2025.
+
+ Exhibit 26: From public to private: How the capital raising model evolved
+ St ylised journey from star t-up to large cap public company
+ Then
+
+ Star t-up IPO Small Mid Large
+ cap cap cap
+
+ Now
+
+ Star t-up Venturecapital Growthequity Buyout IPO Largecap
+
+ Source: J.P. Morgan Asset Management, as of November 2025.
+
+ 18 Investment Outlook 2026 | Fuel in the engine
+
+## Page 19
+
+The rise of private markets markets now provide the financing that small- and
+To understand the rise of private markets, it helps to mid-cap public markets once supplied. Put simply,
+remember how companies used to grow. Two decades where growth once happened af ter a firm’s IPO, it now
+ago, a business would typically raise early-stage funds happens beforehand.
+
+from private investors, go public relatively quickly, and Why companies choose to stay private
+then continue to scale through the public markets. The shif t to private markets is not primarily about
+Amazon, Apple and Google – three of the Magnificent companies being unable to go public. It is more about
+S even – all listed within five years of being founded, firms choosing not to. Listing on a public exchange
+creating trillions of dollars in value for public market can offer liquidity and visibility, but it also brings a
+investors over the decades that followed. higher regulatory burden, greater scrutiny via quar terly
+
+Today, that growth sequence has migrated to the repor ts, and the share price volatility that comes with
+private markets. Companies now stay private for longer public markets. For fast-growing companies, staying
+and reach far larger scale before listing – if they list private can provide more flexibility and allow longer-
+at all. In the late 1990s, the median age of a company term decision making without the pressure of the
+at its initial public offering (IPO) in the US was around quar terly repor ting cycle.
+five and a half years. In 2024, that had risen to 14 years. Meanwhile, institutional investors – pension funds,
+In 1996, there were over 8,000 publicly listed companies insurers, endowments and sovereign wealth funds
+in the US; today, there are fewer than 6,000. Over the – have actively sought out private assets to enhance
+last decade alone, the number of private ‘unicorns’ their returns. That influx of capital has created a self-
+– venture capital-backed star t-ups valued at over reinforcing ecosystem. More capital leads to larger
+$1 billion – has increased eight-fold. private market deals; larger deals enable companies
+
+This trend towards listing publicly much later to remain private for longer ; and the resulting private
+has been made possible by the growth of capital market expansion attracts yet more capital. It is this
+available in private markets. The venture capital and structural migration of capital that explains much of the
+growth equity markets have grown as technology, growth in private markets.
+healthcare and consumer innovations have created
+new investable oppor tunities. ‘Buyout’ funds have
+expanded, to allow companies in venture capital or
+growth equity por tfolios to be sold multiple times while
+remaining private. Together, these areas of the private
+
+ Exhibit 27: The majority of private equity activity is still in
+ small to medium-sized companies
+ US private equit y investments by size
+ %, annual share of total investments, 2008-2025
+ 60
+
+ 50
+ Private equit y valuations are high,
+ 40 competition for deals remains intense,
+
+ 30 and the growing links bet ween private
+
+ 20 equit y and private credit mean that
+ stress in one corner of the market can
+ 10 af fect another. But these are risks to
+
+ 0 monitor, not evidence of excess.
+ <$25M $25-100M $100-500M >$500M
+ Range Median Current
+
+ Source: LCD, Pitchbook, J.P. Morgan Asset Management. 2025 data is
+ as of Q2 2025. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 19
+
+## Page 20
+
+Where the grow th really happens: Small and Where the risks lie
+mid-market activit y Our view is that the growth of both private equity
+A common misconception is that private equity is and private credit has occurred thanks to structural
+primarily about very large buyouts – the kind of multi- changes in the nature of corporate financing. This is
+billion-dollar transactions that make headlines. not to suggest that private markets are without risk.
+The reality is very different, with most of the deal activity Private equity valuations are high, competition for deals
+taking place in the small and mid-market areas, remains intense, and the growing links between private
+where enterprise values (a company’s market cap plus equity and private credit mean that stress in one corner
+its outstanding debt) are typically below $500 million of the market may spread into another. However, in our
+(see Exhibit 27). view these remain risks to monitor, rather than evidence
+In this par t of the private equity market, creating value of excess.
+is less about financial engineering and more about Star ting with valuations, global buyout multiples
+improving company operations. Firms benefit from (EV/EBITDA)2 for mid-market companies are below
+access to well-established and experienced private their 202 1 peak but still above long-term averages
+equity managers that help improve and expand their (see Exhibit 28), at around 13x. That implies less room
+product offerings, reduce costs, and reach greater for multiple expansion to drive private equity returns,
+scale by entering new geographies. making returns more dependent on rising earnings
+ growth and operational improvements. Yet relative to
+Private credit: The other half of the stor y public markets, private market valuations are not out
+The expansion of private credit 1 is due to many of the of line: the median EV/EBITDA multiple for the S&P 500
+same forces that have reshaped private equity. Greater last year was approximately 14x. In other words, private
+regulation af ter the global financial crisis led banks equity valuations are high, but nonetheless in line with
+to retrench from lending markets. This opened the public market comparators.
+
+door for non-bank lenders to fill the gap in corporate The rise of private equity ‘continuation vehicles’ has
+financing, par ticularly in the small and mid-market also been cited as a cause for concern about private
+where banks once dominated. Over time, such direct markets, given their rising share of global private equity
+lenders have become an essential source of capital exits (see Exhibit 29). A continuation vehicle is a new
+across company’s lifecycles. fund set up by a private equity manager to hold on to
+Much of the capital raised in private credit markets today one or more por tfolio companies beyond the life of
+is lent to private equity-backed companies, effectively the original fund. S ceptics argue that the increasing
+providing the private debt counterpar t to private equity use of continuation vehicles reflects managers trying
+capital. Private credit allows companies to refinance to hide problems with por tfolio companies, problems
+loans, change the mix of their financing, and expand preventing those companies being sold on at the
+without turning to public markets. For investors, private private equity manager ’s desired valuation.
+
+credit offers an attractive yield pickup over public credit Again, we think this scepticism about continuation
+in exchange for providing patient, long-term capital. vehicles misses the point. While continuation vehicles
+Private credit ser ves two dif ferent purposes within do allow private equity managers to hold assets for
+private markets. First, it provides grow th financing longer, to avoid selling in a depressed market, they do
+– loans to companies looking to expand, invest or not simply represent managers ‘selling assets to
+refinance. Second, private credit can help finance themselves’. In almost all cases, a continuation vehicle
+buyouts – that is, it can supply loans to finance private transaction requires an independent secondary buyer
+equit y groups acquiring a company. Today, around to validate the valuation and commit new capital.
+90% of US mid-market buyouts are financed by private These secondary buyers are typically sophisticated
+credit, up from around 50% in 2017. It’s this lat ter trend institutional investors or dedicated secondary funds,
+– the financing of private equit y buyouts through private who will conduct full due diligence on a por tfolio
+credit – that has drawn recent scrutiny. company before agreeing to get involved.
+
+1 Private credit is a broad asset class that can encompass several t ypes of non-bank lending. Here, unless other wise specified ‘private credit’ refers to
+ direct lending, where lenders other than banks make loans to companies without intermediaries – the largest component of the broader ‘private credit’
+ asset class.
+2 The ratio of a firm’s enterprise value (E V, a company’s market cap plus its outstanding debt) to its EBITDA (earnings before interest, ta x, depreciation
+ and amor tisation).
+
+20 Investment Outlook 2026 | Fuel in the engine
+
+## Page 21
+
+Exhibit 28: Valuations in private markets don’ t look out of Exhibit 29: PE companies using continuation vehicles
+ kilter with public markets isn’ t necessarily cause for concern
+ Private company buyout multiples vs. S&P 500 Continuation vehicles as a share of global PE exit activit y
+ x , median E V/EBITDA ratio, trailing 12-month multiple %
+ 18 20
+
+ 16
+
+ 14 15
+
+ 12
+
+ 10 10
+
+ 8
+
+ 6 5
+
+ 4
+ ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21 ’22 ’23 ’240
+ Small cap Mid market Large cap S&P 500 ’20 ’21 ’22 ’23 ’24 ’25
+
+ Source: LCD, Pitchbook, S&P Global, J.P. Morgan Asset Management. Source: Dealogic, Jef feries, J.P. Morgan Asset Management. 2025 is
+ E V/EBITDA is the ratio of enterprise value to earnings before interest, as of H1 2025. Sponsor-backed exit deal volume estimates are from
+ ta xes, depreciation and amor tisation. Data as of 31 October 2025. Dealogic and include M& A and IPO proceeds. Percentage represents
+ continuation vehicle transaction volume divided by sponsor-backed
+ exit deal volume. Data as of 31 October 2025.
+
+Most recent secondary (continuation) deals have been Conclusion
+priced at small, single-digit discounts to the company’s All told, we remain constructive on private equity and
+net asset value, well within typical valuation ranges. private credit.
+During a period when IPO and merger and acquisition
+activity in public markets has been slow, continuation In private equity, falling US interest rates will make
+vehicles have offered liquidity and price discovery in borrowing cheaper, helping boost returns and
+the private markets, giving private investors options. suppor ting current valuations. The small and mid-
+Again, we think the rise of private equity continuation market segments of the private equity market, along
+vehicles simply represents another example of how the with secondaries (continuation vehicles), still offer
+system of corporate financing is developing. investors attractive ways to access the ar tificial
+The growing interconnectedness of private equity intelligence theme at more reasonable valuations,
+and private credit is another area of debate. It is true potentially at discounts to net asset value. In Europe,
+that private equity and private credit are increasingly more fragmented financing markets and less strident
+inter twined, with private credit of ten financing private competition to lend make private markets a compelling
+equity buyouts, or suppor ting private equity por tfolio source of potential alpha. European private markets’
+companies with refinancing. relatively higher weight to technology than public equity
+ indices is also attractive.
+However, private credit investors are receiving a good In private credit, declining US interest rates will ease
+fee for these services. There are high star ting yields on debt servicing costs, helping mitigate some default
+offer in private credit markets, of ten in the low double risk even as this gradually compresses headline yields.
+digits for senior ( highest priority for repayment) direct As always, investors should diversify across managers
+lending. This provides a meaningful buffer against and vintages ( the year a loan or fund was originated )
+potential losses. Even if default rates were to rise to help reduce concentration and idiosyncratic risk.
+modestly, historically strong recovery rates would Within private credit, combining direct lending with
+help offset much of the downside. It would take a exposure to infrastructure and real estate debt can
+severe and prolonged deterioration in private equity broaden investors’ sources of return, while allocations
+por tfolio companies to generate material losses within to oppor tunistic or distressed debt funds may prove
+private credit. valuable if a material economic slowdown results in
+ market stress.
+
+J.P. Morgan Asset Management 21
+
+## Page 22
+
+Protect against derailment
+
+As we lay out in Monetary and fiscal fuel is powering Such a scenario could push the US economy towards
+expansion, unprecedented ‘peacetime’ stimulus recession, prompting the Federal Reserve (Fed ) to cut
+is suppor ting both the economy and risk assets. rates sharply. During the dotcom bubble and the global
+Investors face two key risks should all this excess financial crisis, long-dated US Treasuries delivered
+create problems: a major shif t in ar tificial intelligence returns of 29% and 17% respectively (see Exhibit 30).
+(AI) sentiment, and the resurgence of inflation. In this In the bursting of the tech bubble, high-quality, long-
+chapter, we examine the strategies available to duration corporate bonds also offered protection.
+investors who wish to mitigate against these risks. Non-US investors should also consider currency
+
+ movements. The US dollar typically strengthens during
+What if it is a bubble? market stress but given the leading role of US firms in
+As discussed in Navigate tech concentration carefully, the AI story, its safe-haven status is not assured in this
+we simply don’ t know at this stage what the end demand scenario. Depending on hedging costs, long-duration
+for AI will be and whether the large-cap tech companies local government bonds could be an alternative to US
+will be able to sustain the supernormal profits that Treasuries, though the return potential from falling
+the market expects. Investors who are concerned that yields in the eurozone and the UK is likely lower than in
+these highly valued companies may not meet long-term the US.
+growth expectations have two main hedging options.
+
+High-quality, long-duration bonds should provide a
+substantial buffer in the event of a tech and AI-driven
+crisis, which would be deeply disinflationary. If demand
+for AI infrastructure is overestimated and the return on High- qualit y, long- duration bonds
+this investment disappoints, we could see overcapacity, should provide a substantial buf fer in
+falling prices, shrinking margins, and lower investment,
+echoing the early 2000s. Stock prices would fall, driving the event of a tech and AI-driven crisis.
+negative wealth effects, and consumer spending would
+contract. Private markets would also be affected, as
+36% of private equity and 25% of private credit are
+exposed to tech.
+
+ Exhibit 30: Bond prices should rise meaningfully in the event of a tech crash
+ US fixed income returns during equit y market sell-of fs
+ %, total return during the period when the S&P 500 was falling
+ 30
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+ 0
+
+ -5
+
+ -10
+ Dotcom crash Global ﬁnancial crisis
+ US Aggregate US Treasuries Long-duration US Treasuries US investment grade corporates
+
+ Source: Bloomberg, LSEG Datastream, S&P Global, J.P. Morgan Asset Management. Dotcom crash: Aug ’00 to Sep ’02; global financial crisis: Oct
+ ’07 to Feb ’09. US Treasuries: Bloomberg US Aggregate - Treasuries; Long-duration US Treasuries: Bloomberg US Treasur y: Long (10+ years); US
+ investment grade corporates: Bloomberg US Aggregate - Corporate. Past per formance is not a reliable indicator of current and future results.
+ Data as of 31 October 2025.
+
+22 Investment Outlook 2026 | Fuel in the engine
+
+## Page 23
+
+Investors should also think about the concentration acute shock or instead a chronic creep, with different
+risks within global equities. The tech and assets best positioned in each scenario.
+communication services sectors now account for 37%
+of the MSCI All Country World Index. Acute inflation: Lessons from 2022
+Simply diversifying outside of tech and tech-related As previously discussed, we are wary of the potential
+sectors is insufficient. An AI slowdown would have for fiscal largesse to trigger a resurgence of inflation.
+broad economic implications, and valuation risks Tax rebates from the One Big Beautiful Bill, and
+are widespread. Cyclical sectors offered protection possible fur ther stimulus ahead of the midterms,
+during the dotcom era. However, since 2022, cyclical could stimulate demand-driven price pressures in the
+sector valuations (excluding technology sectors) have US economy. Also, while the current trajectory for trade
+expanded from 13x to 22x 12-month forward earnings, policy appears more benign, the full inflationary impact
+leaving these sectors vulnerable if an oversupply of AI of tariffs is yet to be felt, and there remains the risk of
+infrastructure slows growth. fur ther supply-side disruptions from new US tariffs or
+ par tner retaliation.
+Defensive sectors, af ter a period of underperformance, In this scenario, the Fed could be forced to halt its
+now sit on undemanding valuations. Their earnings cutting cycle and potentially hike rates to maintain
+are also less tied to tech infrastructure build out credibility. Rising bond yields would force broad asset
+and economic activity more generally, making these repricing, hur ting public markets.
+sectors better insulated from any tech downturn (see
+Exhibit 31). Por tfolios with a high share of defensive Real assets such as timber and core infrastructure
+stocks should therefore prove relatively resilient if AI would offer the best protection during an acute inflation
+exuberance fades. shock (see Exhibit 32). Traditional inflation diversifiers,
+ such as real estate and inflation-linked bonds,
+Largesse induced inflation struggle as income adjustments lag behind capital
+The second key risk is inflation. Loose fiscal policy losses, while the commodity-heavy FTSE 100 would
+is pressuring bond markets with rising supply likely outperform other equity markets.
+
+and deteriorating sovereign creditwor thiness.
+Government consumption can fuel inflation if it
+coincides with strong private demand or supply
+shor tages. Such inflation could take the form of an
+
+ Exhibit 31: Defensive stocks should also protect in the event of a tech bust
+ Global sector per formance during equit y market sell-of fs
+ %, total return in USD during the period when the S&P 500 was falling
+ 0
+ -10
+ -20
+ -30
+ -40
+ -50
+ -60
+ -70
+ -80
+ -90
+ Dotcom crash Global ﬁnancial crisis
+ MSCI World Defensives MSCI World Cyclicals ex-tech sectors MSCI World tech sectors
+ MSCI World High Dividend MSCI World
+
+ Source: LSEG Datastream, MSCI, S&P Global, J.P. Morgan Asset Management. Dotcom crash: Aug ’00 to Sep ’02; global financial crisis: Oct ’07 to
+ Feb’09. Defensives: consumer staples, healthcare and utilities; C yclicals ex-tech sectors: energy, materials, industrials, consumer discretionar y,
+ financials and real estate; tech sectors: information technology and communication ser vices. Past per formance is not a reliable indicator of
+ current and future results. Data as of 31 October 2025.
+
+J.P. Morgan Asset Management 23
+
+## Page 24
+
+Chronic inflation: Erosion of real returns for gold as international reserve managers diversified
+Inflation could prove less of a shor t, sharp shock and away from the dollar.
+more of a creeping problem, as each year closes out However, gold’s performance as a diversifier against
+with yet another modest target miss. Governments acute inflation shocks is mixed. Average returns are
+were very successful in the 1950s and 1960s at inflating boosted by strong performance in the late 1970s when
+away their debt via a series of small inflation surprises: investors were already hyper-focused on inflation, but
+nominal interest rates below nominal GDP growth returns were negative when inflation spiked in 1990
+slowly shif ted the burden of debt away from taxpayers and 2022 as inflation surprised markets. This mixed
+and towards bondholders, whose returns were eaten performance raises the risk that investors looking to
+away by inflation. gold for protection against an inflation shock could
+With chronic inflation, the risk is therefore a gradual be disappointed.
+erosion of real returns rather than rapid repricing.
+Historically, in periods of chronic, creeping inflation Conclusion
+real estate outperformed stocks, while inflation-linked Our base case is that monetary and fiscal fuel
+bonds outperformed their nominal counterpar ts continues to power an economic expansion. But there
+(see Exhibit 33). Without sharp upfront capital losses, is a risk that policy ‘excess’ leads to either an asset
+the inflation adjustments inherent in these two assets’ bubble, or inflation. Investors should think carefully
+income streams can help protect real returns. about building up protection against these outcomes.
+
+Gold is another asset to consider. In chronic inflation To protect against a fall in tech stocks, investors
+scenarios, its store-of-value proper ties make it an should consider high-quality, long-duration bonds and
+impor tant por tfolio diversifier. It also serves as a hedge defensive equity sectors. To protect against inflation
+against concerns around US institutional credibility, risk, investors should allocate adequately towards
+or fiat currency risks. If US institutional credibility was alternative assets, which should suppor t a por tfolio
+called into question, this would likely suppor t demand whether inflation is acute or chronic.
+
+ Exhibit 32: 2022 showed us that protection against Exhibit 33: Traditional diversifiers work better for chronic
+ inflation shocks is best found in alternatives inflation
+ Selected public and private market returns in 2022 Selected asset class returns by inflation regime
+ %, total return in USD %, average three-year annualised total returns
+ Commodities 20
+ Timber
+ Transport 16
+ Infrastructure
+ US core real estate
+ Direct lending 12
+ Gold
+ Private equity
+ Europe core real estate 8
+ Hedge funds
+ Global high yield 4
+ MSCI Europe
+ Global Aggregate
+ S&P 500 0
+ Venture capital 1.5-2.5% 2.5-3.5%>3.5%
+ Global inﬂation-linked Inﬂation regime
+ -30 -20 -10 0 10 20US TreasuriesS&P 500GoldReal estate
+ Fixed income Equity Alternative Inﬂation-linked bonds
+
+ Source: Bloomberg, Burgiss, Clif f water, FactSet, HRFI, LSEG Source: Bloomberg, BLS, LSEG Datastream, NCREIF, S&P Global,
+ Datastream, MSCI, NCREIF, S&P Global, J.P. Morgan Asset Management. J.P. Morgan Asset Management. Inflation: headline CPI; US Treasuries:
+ Bond and commodit y indices are Bloomberg except high yield, which is Bloomberg US Aggregate - Treasur y; Real estate: NCREIF National
+ ICE BofA Global High Yield. Hedge funds: HRFI Fund Weighted Proper ty Index; Inflation-linked bonds: Bloomberg US TIPS. Inflation
+ Composite; US core real estate: NCREIF Proper t y – Open End Diversified regimes are defined using the three-year annualised grow th in CPI,
+ Core Equit y; Europe core real estate: MSCI Global Proper t y Fund – and exclude periods of disinflation. Returns data star ts in 1976, except
+ Continental Europe; Direct lending: Clif f water; Infrastructure: MSCI for inflation-linked bonds which star t in 1997. Past per formance is not
+ Global Quar terly Infrastructure Asset (equal-weighted); Timber: NCREIF a reliable indicator of current and future results. Data as of 31
+ Timberland Total Return. Private equit y and venture capital are time- October 2025.
+ weighted returns from Burgiss. Past per formance is not a reliable
+ indicator of current and future results. Data as of 31 October 2025.
+
+ 24 Investment Outlook 2026 | Fuel in the engine
+
+## Page 25
+
+Scenarios and risks
+
+With more fuel being added to the economic engine, global activity should broaden out across regions in 2026.
+We expect the US economy to be suppor ted by positive wealth effects, rate cuts and ongoing ar tificial intelligence
+(AI) capital expenditure. European growth should accelerate against a backdrop of monetary and fiscal suppor t.
+
+There are, however, downside market risks to be aware of. If technology stocks falter, this could lead to major market
+and economic ramifications. Inflationary pressures could also prove frustratingly stick y. Well-diversified por tfolios
+are essential to protect against both the risk that growth weakens if tech sentiment sours, as well as the risk that
+inflation picks up by more than expected.
+
+ Base case: Global grow th broadens
+
+ Macro: Economic activity broadens across geographies. European growth surprises to the upside and
+ narrows the gap with US growth in 2026 amid considerable fiscal stimulus and ongoing suppor t from
+ prior rate cuts. The US expansion continues, suppor ted by fur ther easing from the Federal Reserve (Fed ).
+ China’s economy is boosted by a stabilisation in the proper ty market, while policymakers suppor t growth in
+ domestic AI technology.
+
+ Markets: Equity diversification is essential across the AI ecosystem and across regions, as well as across
+ public and private markets. With the US dollar falling fur ther against a broad basket of currencies, albeit in
+ an orderly fashion, non-US investors should weigh the impact that currency moves might have on returns.
+ Lower US rates suppor t private equity and private credit.
+
+ Downside risk: Inflation resurges
+
+ Macro: Inflation accelerates, either acutely or slowly as prints creep upward. Acute inflation could occur
+ if tariffs’ effects on US inflation turn out to be larger than feared, as companies pass on higher costs to
+ a resilient consumer. Income tax refunds in early 2026, alongside any fur ther tax cuts in the run-up to
+ the midterm elections, would worsen the inflation problem. Chronic, creeping inflation could result from
+ persistent fiscal deficits and questions about Fed independence.
+
+ Markets: A negative environment for stocks, with interest rate-sensitive sectors hit hardest. Rising yields in
+ core fixed income lead to losses as stock-bond correlations remain positive. In an acute inflation scenario,
+ real assets, such as timber and core infrastructure, would offer the best protection. In a chronic inflation
+ scenario, gold is an impor tant por tfolio diversifier.
+
+ Downside risk: Tech stocks falter
+
+ Macro: AI sentiment sours, as it becomes clear that the demand for AI infrastructure was overestimated.
+ This leads to overcapacity, falling prices and shrinking margins, as the return on investment of AI capex
+ disappoints. US economic growth slows as AI-related spending stalls and a sell-off in stocks leads to
+ negative wealth effects for US households.
+
+ Markets: A very negative environment for equities, par ticularly for the US. Defensive stocks outperform
+ cyclicals and the negative stock-bond correlation returns. By contrast, this is a positive environment for
+ high-quality, long-duration fixed income. However, private equity and private credit struggle given their
+ tech exposure.
+
+J.P. Morgan Asset Management 25
+
+## Page 26
+
+Upside risk: Productivit y boom
+
+ Macro: Growth accelerates meaningfully, driven by an AI-induced productivity boom. Inflation is kept in check
+ by rising productivity and, potentially, lower energy prices on the back of a Russia-Ukraine resolution. This
+ allows central banks to cut interest rates more aggressively than currently priced by markets.
+
+ Markets: A very positive environment for stocks globally. Fixed income also sees strong returns, as policy rates
+ move lower and credit spreads tighten to new record levels.
+
+26 Investment Outlook 2026 | Fuel in the engine
+
+## Page 27
+
+Author s
+
+ Karen Ward
+ Chief Market S trategist Tilmann Galler Lucía Gutiérrez-Mellado
+ EME A Global Market S trategist Global Market S trategist
+
+ Maria Paola Toschi Hugh Gimber Lilia Pey tavin
+ Global Market S trategist Global Market S trategist Global Market S trategist
+
+ Aaron Hussein Ma x McKechnie
+ Global Market S trategist Global Market S trategist
+
+ Natasha May Zara Nokes
+ Global Market Analyst Global Market Analyst
+
+The Market Insights programme provides comprehensive data and commentary on global markets without reference to products. Designed as a tool to
+help clients understand the markets and support investment decision-making, the programme explores the implications of current economic data and
+changing market conditions. For the purposes of MiFID II, the JPM Market Insights and Por t folio Insights programmes are marketing communications and
+are not in scope for any MiFID II / MiFIR requirements specifically related to investment research. Fur thermore, the J.P. Morgan Asset Management Market
+Insights and Portfolio Insights programmes, as non-independent research, have not been prepared in accordance with legal requirements designed to
+promote the independence of investment research, nor are they subject to any prohibition on dealing ahead of the dissemination of investment research.
+This do cument is a general communic ation b eing provide d for informational purp o ses only. It is e duc ational in nature and no t designe d to b e taken as advice
+or a recommendation for any specific inves tment produc t, s trategy, plan feature or other purpose in any jurisdic tion, nor is it a commitment from J.P. Morgan
+Asset Management or any of its subsidiaries to par ticipate in any of the transactions mentioned herein. Any examples used are generic, hypothetical and
+for illustration purposes only. This material does not contain suf ficient information to suppor t an investment decision and it should not be relied upon by
+you in evaluating the merits of investing in any securities or products. In addition, users should make an independent assessment of the legal, regulator y,
+ta x, credit, and accounting implications and determine, together with their own financial professional, if any investment mentioned herein is believed
+to be appropriate to their personal goals. Investors should ensure that they obtain all available relevant information before making any investment. Any
+forecasts, figures, opinions or investment techniques and strategies set out are for information purposes only, based on cer tain assumptions and current
+market conditions and are subject to change without prior notice. All information presented herein is considered to be accurate at the time of production,
+but no warrant y of accuracy is given and no liabilit y in respect of any error or omission is accepted. It should be noted that investment involves risks, the
+value of investments and the income from them may fluctuate in accordance with market conditions and ta xation agreements and investors may not get
+back the full amount invested. Both past per formance and yields are not a reliable indicator of current and future results. J.P. Morgan Asset Management
+is the brand for the asset management business of JPMorgan Chase & Co. and its af filiates worldwide. To the ex tent permit ted by applicable law, we may
+record telephone calls and monitor electronic communications to comply with our legal and regulator y obligations and internal policies. Personal data
+will be collected, stored and processed by J.P. Morgan Asset Management in accordance with our privacy policies at am.jpmorgan.com/global/privacy .
+This communication is issued by the following entities: In the United States, by J.P. Morgan Investment Management Inc. or J.P. Morgan Alternative Asset
+Management, Inc., both regulated by the Securities and E xchange Commission; in Latin America, for intended recipients’ use only, by local J.P. Morgan
+entities, as the case may be.; in Canada, for institutional clients’ use only, by JPMorgan Asset Management (Canada) Inc., which is a registered Por t folio
+Manager and E xempt Market Dealer in all Canadian provinces and territories except the Yukon, an Investment Fund Manager in British Columbia, Ontario,
+Quebec, and New foundland and Labrador, and a derivatives adviser in Ontario and Quebec. In the United Kingdom, by JPMorgan Asset Management
+(UK) Limited, which is authorized and regulated by the Financial Conduct Authority; in other European jurisdictions, by JPMorgan Asset Management
+(Europe) S.à r.l. In Asia Pacific (“APAC”), by the following issuing entities and in the respective jurisdictions in which they are primarily regulated: JPMorgan
+Asset Management (Asia Pacific) Limited, or JPMorgan Funds (Asia) Limited, or JPMorgan Asset Management Real Assets (Asia) Limited, each of which
+is regulated by the Securities and Futures Commission of Hong Kong; JPMorgan Asset Management (Singapore) Limited (Co. Reg. No. 197601586K ), this
+adver tisement or publication has not been reviewed by the Monetar y Authority of Singapore; JPMorgan Asset Management ( Taiwan) Limited; JPMorgan
+Asset Management (Japan) Limited, which is a member of the Investment Trusts Association, Japan, the Japan Investment Advisers Association, Type II
+Financial Instruments Firms Association and the Japan Securities Dealers Association and is regulated by the Financial Services Agency (registration
+number “Kanto Local Finance Bureau (Financial Instruments Firm) No. 330”); in Australia, to wholesale clients only as defined in section 761A and 761G of
+the Corporations Act 2001 (Commonwealth), by JPMorgan Asset Management (Australia) Limited (ABN 5514 3832080) (AFSL 376919). For all other markets
+in APAC, to intended recipients only. For U.S. only: If you are a person with a disabilit y and need additional suppor t in viewing the material, please call us at
+1-800-3 4 3-1113 for assistance.
+Copyright 2025 JPMorgan Chase & Co. All rights reser ved.
+Image source: Shut terstock
+LV– JPM57187 | 11/25 | EME A | 4 611d74 3-c0a0-11f0-8274 -e5d23d527358

@@ -1,0 +1,644 @@
+Source file: Back-to-business-January-2026.pdf
+Source path: outlooks/Back-to-business-January-2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:45:56.728857+00:00
+Page count: 12
+
+---
+
+## Page 1
+
+Back to Business
+
+ Discover our convictions for 2026
+
+ Completed on
+ 05/01/2026
+
+ Join our experts on Tuesday, January 27 for the
+ 2026 Back to Business Webinar!
+
+  Click here to register
+ ➔ Click here to register
+
+This marketing document is intended exclusively for professional clients as defined by the
+ MiFID Directive (Directive 2014/65/EU) and for distributors
+
+## Page 2
+
+Introduction
+
+ Macro context
+
+ Last September, we highlighted that the environment was stillfavourable to riskassets and that it would support a
+ continued steepening of yield curves. Our conclusion will not be radically different at this start of the year.
+
+ Growthmomentum remains positive. In recent months, growth forecasts for the major economies have almost all
+ been revised upwards. This was particularly the case in the United States (1.95% expected in 2025 vs. 1.5% in
+ François Rimeu August) but also in the eurozone (1.4% vs. 1.1% inAugust). Various leading indicators show a dynamic that isstill
+ strong in the services sectors while the manufacturing sectors seem to have finally come out of the slump after the
+ Senior Strategist, rise inenergy prices.
+ Crédit Mutuel
+ Asset Management Fiscal policies remain highly expansionary. One Big Beautiful BillAct passed in 2025 by the Trump administration
+ will continue to have positive effects in 2026 (tax cuts of about $100 billion).Furthermore, itseems likely that new
+ fiscal stimulus measures will be adopted before the midterm elections: the famous dividends linked to customs
+ duties that Trump and Bessent are already having an impact. Based on their statements, this could representmore
+ than $300 billion. In Europe, fiscalsupport should also remain in place, mainly through the German recovery plan
+ (500€ billion).
+
+ On the monetary side, once again, the trend points toward policies that will support growth. U.S.
+ unemployment is rising,inflation seems to be under control, and executive pressure remains strong. The ECB ison
+ hold and should remain so until the end of the first half of the year. In the Eurozone, the outlook depends on
+ inflation trends, where downside risksseem greater than upside risks.
+
+ Micro fundamentals are also well-oriented. Valuations are high in some markets, but earnings are ultimately tied
+ tonominal growth and should remain solid in 2026. Recent revisions have been positive, especially in the U.S.
+
+ All signals seem to be positive at the end of this year but it isalways interesting to think about what could change
+ this dynamic. Below are some possible surprises that could challenge the scenario described above:
+
+ • A surge in energy commodity prices. Consensus currently favors prices remaining very low for the foreseeable
+ future. Yet, demand driven by the AI theme is strong, the economic context argues for sustained prices, and
+ positioning iscurrently very weak.This could call into question the disinflationary scenario.
+
+ • A resurgence of inflation risk, as seen recently in Australia, which could destabilize bond markets and put
+ pressure on riskpremiums.
+
+ • Lower earnings expectations for U.S. tech players amid intensifying competition in both software and
+ hardware.
+
+ Sources: Crédit Mutuel
+ Asset Management,
+ Bloomberg. Data as of
+ 31/12/2025.
+
+ 2
+
+## Page 3
+
+Fixed Income Expertise
+
+Money Market Funds
+
+ Euro money market – Current market expectations suggest that the €STR will remain stable at around 1.90% over the
+ next two years. This scenario supports a positive credit environment, with low rate volatility and wide spreads.
+ Against this backdrop, our money market funds should continue to deliver a net performance of around€STR +10/20
+ basis points, with a controlled riskprofile.
+
+ France exposure – We have confidence in French issuers and view current levels as an opportunity: French spreads
+ offer attractive risk-adjusted returns. Fundamentals remain solid despite the current political crisis.Furthermore,
+ the French economy remains diversified, less exposed to US tensions than other European economies, and benefits
+ from structurally higher growth potential than Germany and Italy (demographics, high savings). In the event of credit
+ stress or widening spreads, the portfolio's short duration ensures that positions can be adjusted quickly.
+
+ Regulatory Risk – A recent bill islikelyto affect some domestic clients who invest in money market funds. Until now,
+ the French real-estate wealth tax (IFI)has targeted only net real estate assets (direct or via SCPI/SCI) exceeding €1.3
+ million. The reform adopted at the end of November 2025 as part of the 2026 Finance Billwould broaden the tax
+ base by transforming the IFIinto an unproductive wealth tax, now including assets that do not contribute to the
+ financing of the productive economy, such as cash and financial instruments (current accounts, savings accounts,
+ term accounts, euro-denominated funds, money market funds), as well as a wide variety of non-productive assets
+ (digitalassets, precious metals, collectibles, luxury vehicles, yachts, etc.).
+
+ DRIVERS WARNING SIGNS
+
+ Credit environment remains Although France presents an opportunity,
+ supportive, with low volatility, greater we are maintaining a cautious approach,
+ visibility on short-term rates and given the risk of further widening of
+ spreads that we believe remain spreads and increased volatility.
+ attractive.
+
+ Primary market supply remains An upside surprise in inflation could lead
+ abundant and diversified, and French to an upward revision in rate
+ spreads offer attractive risk-adjusted expectations, generating further volatility
+ returns on high-quality issuers. The very in funds.
+ short duration of money market funds
+ enables rapid position adjustments, Life insurance contracts in euro funds and
+ thereby limiting risk. certain money market funds could be
+ reclassified as “unproductive” assets,
+ Integration of ESG criteria helps potentially impacting assets under
+ exclude issuers most exposed to credit management in money market funds.
+ stress situations.
+
+ Sources: Crédit Mutuel
+ Asset Management,
+ Bloomberg. Data as of
+ 31/12/2025 POSITIONING
+ Past performance is not *****
+ indicative of future Overall, we remain positive on money market funds, with expected returns of around 2.10% to 2.20% in a low
+ results. The management volatilityenvironment.
+ team is subject to change
+ over time and there is no For savers affected by the likely IFI reform (property wealth tax), short-term bond funds (investment instruments
+ guarantee that it will considered productive) may be a simple alternative to facilitate a gradual transition without radically changing the
+ remain the same allocation profile: These instruments retain the main characteristics of traditional money market funds (high
+ throughout the life of the liquidity,low volatility) while offering higher yields and unchanged tax treatment. Short-term bond funds also offer a
+ fund.
+ risklevel significantly lower than that of equity and traditional bond funds, while maintaining high liquidity.
+
+ 3
+
+## Page 4
+
+Fixed Income Expertise
+
+Investment Grade
+
+ United States: The gradual decline in investor expectations regarding the pace of rate cuts in 2026, coupled with
+ slowing growth, weighed on U.S. rates, which closed 2025 at 4.14% for the 10-year bond. Inflation risks remain high,
+ fueled by policy, restrictive immigration policy, and activity rebound. Inflation should stabilize slightly above 3% in
+ 2026. Economic growth remains resilient. After a third rate cut in December (3.50%–3.75%), justified by a
+ management of risks—between a weakened labour market and high inflation—the Fed will be constrained in future
+ cuts due to activity rebound and inflationary pressures, further supporting U.S. rates.
+ Eurozone: Fiscal and political concerns pushed German and French rates to high levels at the end of 2025, at 2.85%
+ and 3.56% respectively. Inflation isexpected to be slightly below the 2% target in 2026 thanks to the slowdown in
+ services and lower wage increases. Growth will remain limited but above potential growth, thanks in particular to
+ investment plans in Germany. The ECB is therefore likely to maintain the status quo in 2026 unless there isa marked
+ deterioration inmacroeconomic conditions in the eurozone,whichwill keep financial conditions accommodative. We
+ willremain attentive to Italian and French spreads, which remain at riskgiven their high levels of debt and deficits.
+ Credit spreads on investment grade bonds continued to hit record lows (IG euro at 79 bp and IG US at 80 bp),
+ showing strong resilience to various episodes of volatility in sovereignyields. Technical factors supporting the asset
+ class remain predominant (fund inflows, stable money market rates, attractive absolute carry, etc.) against a
+ backdropof solid microeconomic results.
+
+ DRIVERS WARNING SIGNS
+
+ Inflation will remain slightly below the Bond supply will be key in 2026, with
+ 2% target in the eurozone, allowing it to massive sovereign issuance expected,
+ maintain the status quo of its monetary particularly in Germany, coupled with
+ policy, thereby guaranteeing rather continued ECB balance sheet reduction
+ accommodative financing terms.
+
+ Growth momentum in the eurozone The Fed’s monetary policy, potentially
+ will benefit from German stimulus plans more restrictive than anticipated by
+ and positive momentum in peripheral investors , could push U.S. rates higher
+ countries, particularly Ireland, Spain and and affect European rates through
+ Portugal. contagion.
+
+ High demand in the European IG credit
+ market (attractive yield levels Valuation levels for risky assets are at
+ compared to historical levels) should historically tight levels (peripheral
+ provide technical support and limit spreads, IG/HY credit and subordinated
+ volatility. debt).
+
+ Sources: Crédit Mutuel
+ Asset Management,
+ Bloomberg. Data as of POSITIONING
+ 31/12/2025 *****
+
+ *Capital gain generated We maintain a positiveduration stance given the sharp rate increases observed at the end of 2025, favoring the belly
+ by the natural decline in a of the curve (3-7 years). We are overweight Germany, positive on Italy and Spain, and underweight France due to
+ bond’s yield as it persistent political risks.
+ approaches maturity
+ Past performance is not On IG credit, we remain cautious about the risk of spread widening given the extremely tight levels reached at the
+ indicative of future end of 2025 and the return of significant issuance starting in January. In the absence of a shock, carry should
+ results. nevertheless remain the main performance driver in 2026. We favor quality, defensive sectors, senior formats, and
+ the middle part of the curve (up to 7–8 years), maximizing the roll-down return* for a moderate beta given the
+ The breakdown of the steepening of credit curves. Given valuations and the macroeconomic environment, we are adopting a more
+ fund’s portfolio is subject balanced preference for corporates over financials.
+ to change at any time.
+
+ 4
+
+## Page 5
+
+Fixed Income Expertise
+
+High Yield
+
+ For 2026, the High Yield credit market is starting from a position very similar to that of 2025, both in terms of
+ credit spread levels and risk-free rates. As a result, yields have remained virtually unchanged (5.1% today versus
+ 5.5% at the beginning of 2025 for euro-denominated High Yield credit).
+ In the absence of exogenousshocks, High Yield market performance in 2026 isexpected to be broadly in line with
+ 2025, supported by the carry component, which continues to benefit from historically low default rates. In
+ particular, we expect the European default rate to decline to around 2%, compared with approximately 3%
+ currently.
+ The macroeconomic backdrop and progressively less restrictive financial conditions represent positive tailwinds
+ for the asset class. Curve positioning will be a key factor in 2026; in this context, we consider the short to
+ intermediate segments of the curve (2 to 4 years) to offer the most attractive opportunities, given the higher
+ volatility of the long end, which remains adversely affected by rising term premia.
+
+ DRIVERS WARNING SIGNS
+
+ • Corporate fundamentals in HY have not been this • Risks to the Federal Reserve’s independence
+ strong since the Covid crisis(controlled leverage; following the end of Mr. Powell’s term in May
+ good liquidity; limited refinancing needs). 2026.
+ • A rather favorable macroeconomic situation, • Concerns about the AI bubble.
+ even accelerating in some regions, which is • Political situation in France.
+ positive for default rates.
+ • Financial conditions increasingly less restrictive • Private debt in the United States and Europe
+ and abundant liquidity thanks to the Fed showing signs of fragility. Although the High
+ continuing to cut rates and expand its balance Yield credit market is not directly exposed,
+ sheet. potential contagion effects cannot be ruled
+ out.
+ • Carry remains historically attractive, and the • Increasingly investor-unfriendly credit
+ contribution of roll-down (with curve steepening) documentation (weaker covenants). This area
+ will be more significant than in previous years. warrants heightened vigilance.
+ • Flows remain very favorable to credit. • Highly consensual market expectations for
+ • Hedging costs for USD and GBP should continue 2026, implying that any negative surprises
+ to decline in 2026, making HY credit in the U.S. could have a disproportionate impact on
+ and UK more attractive for European investors. asset prices.
+
+ Sources: Crédit Mutuel Asset
+ Management, Bloomberg.
+ Data as of 31/12/2025.
+
+ *Capital gain generated by
+ the natural decline in a
+ bond's yield as it approaches POSITIONING
+ maturity. *****
+
+ Past performance is not Despite current valuation levels, we believe that credit spreads should remain compressed and trade within a
+ indicative of future results. range of 300 to 350 basis points. In the absence of an exogenous shock, carry is expected to remain the primary
+ driver of High Yield performancein 2026.
+
+ The breakdown of the fund’s From a portfolio construction perspective, we favor euro and U.S. High Yield markets, with a focus on the short
+ portfolio is subject to change to intermediate segments of the curve (2 to 4 years), inorder to optimize carry and roll-down effects.
+ at any time.
+
+ 5
+
+## Page 6
+
+Fixed Income Expertise
+
+Subordinated Debt
+
+ 2025 was a very good year for subordinated debt, with returns ranging from 4% to 5.5% across different
+ segments, except for AT1 CoCos€, which posted an 8.5% increase. The trend towards spread tightening, driven by
+ strong demand for any bond offering yield, outweighed the slump caused by the threat of trade barriers and
+ concerns about private debt. We are starting 2026 with even lower spreads (264 basis points on AT1 CoCos, 159
+ basis points on Corporate Hybrids, and 116 basis points on T2 insurance bonds), after more than two years of
+ rallying.So, willdemand ease?
+ We doubt it,since yields remain attractive, the macroeconomic outlook issound, and corporate fundamentals
+ are in excellent shape. That said, we believe that performance prospects will largely depend on the carry
+ provided by bonds. Primary supply should be easily absorbed, as issuance needs are unlikely to change.
+ We expect new issuers to enter the various segments, which is logical in a low-spread environment. In recent
+ months, we have often found primary issuances unattractive, particularly for second-tier and lower-quality
+ issuers, whose yield premiums compared to more defensive companies were too low in our view. This
+ observation islikely to continue; we willtherefore favour "premium" issuers.
+ While the Americans are deregulating their banks, Europeans are talking about "simplifying" banking
+ regulations (with very few quantifiable consequences)... and reigniting the debate surrounding AT1s and their
+ structure! We will see again this year many more attempts to modify regulations.
+
+ DRIVERS WARNING SIGNS
+
+ Bank fundamentals will remain strong, Valuations are at historically
+ benefiting from rising revenues thanks unattractive levels, both in terms of
+ to steeper yield curves and a supportive relative value and spreads, even though
+ macroeconomic environment. This yields remain reasonable in absolute
+ provides a strong anchor for banking terms.
+ sector debt spreads, as demonstrated “High-beta” credit has a very strong
+ during Liberation Day. correlation with equity markets,
+ Subordinated debt segments gained particularlythe S&P 500, which could lead
+ depth in 2025, with many new issuers: to further volatility in spreads.
+ Central and Eastern European banks, Subordinated debt is more sensitive to
+ insurance companies finally issuing RT1 the noise from the Magnificent 7 than to
+ Sources: Crédit Mutuel bonds following the end of Solvency 1 the stock market performance of its
+ Asset Management, grandfathering* (application of new respectiveEuropean sectors.
+ Bloomberg. Data as of rules), and a wave of new non-financial We are less concerned about M&A
+ 31/12/2025. Spreads are hybrid debt. attempts in the European banking sector
+ expressed in OAS to There will be few non-calls** this year, driven by the pride of certain CEOs, given
+ Treasury. thanks to favorable refinancing the failures of UniCredit and BBVA, but
+ *Seniority clause conditions and a trend towards early we remain vigilant about attempts at
+ refinancing. large mergers. On the other hand, we still
+ **No early redemption see consolidation among second-tier
+ players.
+ ***Risk premium at issue
+
+ Past performance is not
+ indicative of future
+ results. The breakdown
+ of the fund's portfolio is POSITIONING
+ subject to change at any *****
+ time. References to Subordinated debt should continue to perform well with significant carry reinforcing its diversification role versus
+ certain securities or High Yield Corporate, while being less exposed to the risks highlighted recently (AI financing, private debt, trade
+ financial instruments are barriers). We believe that spread levels will remain in a range similar to those of the past two months: robust
+ provided for illustrative demand for credit markets and favorable prospects for equity markets. We continue to favor AT1 CoCos € with
+ purposes only. They are high reset spreads*** (i.e.,with a higher intrinsic callprobability), as they often trade at levels comparable to
+ not intended to promote
+ direct investment in securities with lower resets. We prefer AT1€ to AT1$ due to higher spreads and expensive currency hedging. We
+ these instruments. favour T2 insurance over Restricted Tier 1, considering the latter relatively too expensive and offering less
+ liquidity.
+
+ 6
+
+## Page 7
+
+Alternative Expertise
+
+Capitalising on a Transitioning Environment
+
+ The end of 2025 saw a market environment that appeared more stable, yet stillmarked by significant valuation
+ dispersion. After volatility phases observed earlier in the year, notably in April following tariffand trade measures,
+ markets gradually priced in a scenario of controlled activity slowdown and continued disinflation. This dynamic
+ resulted in a relative easing of interest rate markets, punctuated by some temporary tensions, as well as a gradual
+ normalization of credit conditionsduring the lastquarter.
+
+ Monetary policies remained largely unchanged, despite the first rate cuts implemented or anticipated in certain
+ areas. This environment continues to support attractive credit spreads, while reinforcing the need for greater
+ selectivity among issuers. The persistent dispersion between sectors, capital structures and liquidity profiles thus
+ provides fertile ground for arbitrage and relative value strategies. As we approach 2026, although the
+ macroeconomic environment is becoming clearer, itremains fragile and exposed to exogenous and geopolitical
+ shocks, calling for flexible and responsive management focused on capturing market inefficiencies.
+
+ DRIVERS WARNING SIGNS
+
+ Primary market abundance at the start Idiosyncratic variations on spreads and
+ of the year, notably in credit asset curves, requiring continuous position
+ classes (IG, HY, convertibles, adjustments.
+ securitization),favors activeselection.
+
+ Thematic, sectoral, and structural Occasional pressures on liquidity that may
+ volatility are sources of opportunities limit flexibility.
+ forour strategies.
+
+ Strong appetite for M&A, fueled by Short-term valuation fluctuations (mark-
+ companies’ diversification and growth to-market), without challenging the
+ needs. fundamentals of positions.
+
+ POSITIONING *****
+
+ Sources: Groupe La We enter 2026 in an environment where visibilityon the pace and magnitude of monetary easing remains partial.
+ Française. Data as of Persistent inflationary pressures in the U.S., gradual normalization in Japan, and the withdrawal of certain long-term
+ 31/12/2025 institutional investors, notably Dutch pension funds, create lasting dislocations on sovereign and corporate yield
+ curves. We exploit this context through our curve and credit arbitrage strategies.
+ Past performance is not
+ indicative of future
+ results. M&A activity has already begun to accelerate, driven by regulatory adjustments, the return of cross-border deals,
+ The breakdown of the and private equity’s contribution to value creation. We also strengthen our exposure to convertible bonds, whose
+ fund's portfolio is subject structural momentum remains solid, supported by rising issuance and better-calibrated structures. Implied volatility
+ to change at any time. gaps constitute a central performance lever, at the heart of our active, selective, and absolute-return-oriented
+ management.
+
+ 7
+
+## Page 8
+
+Equity Expertise
+
+Large caps
+
+ Equity markets experienced a volatile but overall bullish year in 2025. Stocks rebounded quickly after downturn
+ phases and approached or reached record levels, driven by strong corporate earnings—particularly in technology
+ andartificial intelligence—and by strong investor optimism.
+ European equities benefited in 2025 from renewedinterest from internationalinvestors, attractive valuations, and
+ favourable macroeconomic catalysts, positioning them as one of the most dynamic regions. The banking sector
+ continues to be supported by a favorable market environment, as do industrials exposed to long-term trends such as
+ electrification, AI, and sovereignty.
+ U.S. equities remained broadly bullish, with historical highs reached on certain indices. However, the advance was
+ more moderate than in other regions, partly due to high valuations and a rotation of capital toward more “value”
+ markets starting in October.
+ Emerging markets outperformed global equities, driven by better-than-expected economic growth, rate cuts in
+ some countries,and U.S. tariffs that wereless severe than anticipated. Korea, Taiwan,and China stood out thanks to
+ their exposure to AI. Brazil, Mexico, and Poland also delivered strong performances.
+
+ DRIVERS WARNING SIGNS
+
+ Stabilizing economic conditions and Geopolitical uncertaintiespersist on both
+ valuation gaps favor the continued X sides of the Atlantic.
+ catch-up of Europe versus the United
+ States.
+
+ In Europe, growth drivers have been AI: The speed of monetisation and
+ identified: tariff reductions, fiscal significant productivity gains are
+ support, the German recovery plan and importantfor continued investment.
+ a resumption of investment.
+
+ Electrification & Data centres: massive An optimistic consensus for 2026 could
+ investment roll-out, which should increase the risk of accelerating inflation.
+ benefit utilities/renewable energies.
+ Electricity demand growth in Europe
+ and the US of between 1% and 3%. US issues: continued interest rate cuts,
+ inflation control, unemployment levels
+ Solid US growth driven by and mid-term elections.
+ reindustrialisation, innovation and
+ resilient consumptionon average.
+
+ Sources: Crédit Mutuel
+ Asset Management,
+ Bloomberg. Data as of
+ 31/12/2025. POSITIONING
+ Past performance is not *****
+ indicative of future The macroeconomic context remains broadly favorable in Europe, with recovery drivers gradually materializing.
+ results. U.S. growthforecasts have been revised upward, supported by accommodative monetary and fiscalpolicies.
+ The structural theme of electrification stands out among major winners, including automation, AI,and data centers.
+ Consumption could play a key role, supported by leisure and hospitality spending, while luxury should regain
+ momentum. Financials, particularly banks, should maintain their positive trend, driven by curvesteepening,strong
+ earnings releases,and shareholder-friendly policies. Investments in mega infrastructureprojects (excludingAI) inthe
+ U.S. should support cyclical stocks.
+
+ 8
+
+## Page 9
+
+Equity Expertise
+
+Small & Mid-Caps
+
+ The first half of 2025 saw a rebound in Micro, Small, and Mid-Cap companies, benefiting from a rotation toward
+ European domestic stocks, more focused on local markets, despite an uncertain environment disrupted by tariff
+ announcements from President Trump.
+ The second half of the year saw part of this outperformance erased, in favor of large caps and global stocks, less
+ impacted by the delayed cyclical rebound anticipated early inthe year.
+ In this context, small caps advanced in 2025 by 19% (MSCI Europe Small Cap ex UK NR), driven by southern countries
+ with lower exposure to international markets and by Utilities and Banking sectors, which performed particularly well
+ in 2025. Conversely, Nordic countries, heavily exposed to growth stocks and the U.S. market, were penalized. French
+ small caps also delivered notable performance, with the Enternext PEA PME Index up 34% for the year, mainly driven
+ by biotech and defense themes.
+ The current situation at year-end remains marked by persistent uncertainties regarding global geopolitical tensions,
+ but SMEs are better oriented, and hopes forboth easing inUkraine and economic rebound inGermany by late 2026
+ allow us to expect another favorable year for Small and Mid-Caps.
+
+ DRIVERS WARNING SIGNS
+
+ Potential European economic recovery Geopolitical uncertainties could
+ boosted by the end of the war in intensify with the U.S. electoral cycle,
+ Ukraine and the impact of the German X likely a source of announcements and
+ plan by late 2026 should enable more market volatility.
+ cyclical small caps to regain investor
+ appeal.
+
+ Long-term rates appear to be on an
+ upward trajectory, and central bank
+ Historically low valuations represent a policies could become less
+ major lever for medium-term accommodative.
+ outperformance of small caps.
+
+ Concerns about the valuations of AI-
+ A supportive context enabling mid-caps related players and the concentration
+ to deliver earnings growth superior to of outperformance around this theme.
+ the rest of the European market.
+
+ Market capitalization
+ below €500 million for
+ Micro Caps; between POSITIONING
+ €500 million and €3 *****
+ billion for Small Caps; and
+ between €3 billion and The beginning of 2026 could be marked by volatility in Q4 earnings releases, as economic recovery remains to be
+ €10 billion for Mid Caps. confirmed and uneven across sectors. However, performance drivers—such as PMI indicators, potential easing in
+ Sources: Groupe La Ukraine, and U.S. rate cuts—allow us to remain optimistic about this segment in 2026.
+ Française, Bloomberg. Historically low valuation levels for small caps could signal a strong rebound if recovery materializes and triggers
+ Data as of 31/12/2025. more aggressive investor positioning.
+
+ Past performance is not In this context, management maintains a selection of growth and quality companies. From a thematic perspective,
+ indicative of future defense stocks remain favored at this stage. A repositioninghas also been made on some cyclical stocks to benefit
+ results. from a potential recovery.
+
+ 9
+
+## Page 10
+
+ESG Expertise
+
+2026 Outlook
+
+ 2025 could be described as a year of navigating by sight, where uncertainty became structural amid heightened
+ geopolitical tensions, accelerating extreme weather events, and the rise of AI. However, some certainties have
+ strengthened: seven of the nine planetary boundaries (risk of irreversible environmental damage) have now been
+ exceeded. The global average temperature reached 1.45°C above pre-industrial levels, with a 50% chance of
+ exceeding 1.5°C before 2030.
+ The political polarization around climate fueled the 2025 ‘ESG backlash’, though it has not prevented pragmatic
+ responses from the real economy. What stands out this year isnot a retreat in commitments, but the number of
+ organizations that have raised their ambitions or maintained net-zero targets. In the United States, corporate
+ decarbonization commitments have increased by 9%, and 85% of supply chain companies have increased or
+ maintained sustainability efforts after the government withdrew from the Paris Agreement.
+ Decarbonisation remains a global norm, economically demonstrated by its adoption by companies that see it as
+ feasible and profitable. A recent International Business Report survey shows that nearly nine out of ten companies
+ intend to increase or maintain sustainability investments in 2026.
+
+ DRIVERS WARNING SIGNS
+
+ Globally, data center electricity demand is According to Gartner, 40% of agentic AI
+ expected to more than double, reaching projects could be abandoned by 2027 due
+ over 1,000 TWh by 2030 according to the to excessive costs, uncertain benefits, or
+ IEA. The risk of electricity shortages looms, poorly managed risks.
+ so to address these challenges, the energy
+ mix is evolving, encouraging the
+ deployment of renewables thanks to their
+ competitiveness and rapid rollout.
+ Major challenges persist for decarbonised
+ electrification, such as grid flexibility,
+ consumption peaks growing faster than
+ available capacity, and the need to develop
+ More than 50% of companies experienced controllable generation to ensure security
+ physical climate impacts in 2025, and 80% of electricity supply.
+ say they are ready to strengthen resilience
+ and adaptation measures****.
+
+ Average agricultural losses are expected to
+ rise from €28 billion to around €40 billion
+ per year by 2050, impacting crop yields by
+ Sources: Crédit Mutuel 6% to 9%. Drought remains the main cause,
+ Asset Management, but hail,frost, and excessive rainfall are also
+ Bloomberg. increasing in frequency and intensity.
+
+ *Planetary Health Check –
+ Our planet’s vital signs are
+ flashing red
+ **Net Zero Stocktake 2025
+ | Net Zero Tracker
+ ***2025 State of Supply POSITIONING
+ Chain Sustainability Study *****
+ –MIT Sustainable Supply Addressing short-, medium-, and long-term challenges now means financing companies that bring to market
+ Chain Lab products, services, or technologies that can simultaneously serve our decarbonization needs, industrial
+ ****MS_Institute_for_Sust competitiveness, and strengthen European and French sovereignty.
+ ainable_Investing_Sustaina
+ ble_Signals_Corporate_rep Funds are likely to continue flowing towards renewable energy sources that can both meet our growing energy
+ ort_2025.pdf needs and compensate for intermittency. This theme is linked to flows towards storage capacities such as batteries
+ *****EAFRD_AGRI_Insura and distribution networks. Rare and critical materials are also central to these predictions for 2026, from their
+ nce_Risk_MA.pdf extraction to their circularity. The year 2026 will also be marked by increased attention to the overall ecological
+
+ Past performance is no state ofEuropean waters– Drinking Water Directive –in favour of water treatment and depollution solutions.
+ guarantee of future
+ results.
+
+ 10
+
+## Page 11
+
+Conclusion
+
+ On Wednesday, December 10, the U.S. Federal Reserve, as widely expected by economists, cutits policy rate range
+ by 25 basis points, bringing it to 3.50%–3.75%. Its members anticipate another similar cut during 2026, less than the
+ financial markets, which are expecting two cuts. On the positive side, the centralbank has returned to a quantitative
+ easing stance, with monthly purchases of $40 billion in U.S. Treasuries, with maturities of up to three years. In our
+ view, this policy mix remains supportive of theU.S. economy.
+
+ The Fed’s latest economic projections also appear relatively robust, pointing to stronger growth alongside
+ contained inflation. Finally,Jerome Powell’s term as Fed Chair ends inMay, and his potentialsuccessor is considered
+ to be closely aligned with President Donald Trump.
+
+ Jean-Louis DELHAY We therefore propose five investment themes that we believe are attractive in the medium to long term.
+ CIO – Crédit Mutuel Asset 1. Gold, "the old barbarous relic," has a bright future ahead. Its safe-haven status isgrowing with the dollar's
+ Management
+ declining influence, as central banks, particularly those of emerging countries, seek to reduce their dependence
+ on the dollar.
+
+ 2. The steepening of the yield curve is excellent news for European and American banks, one of their core
+ activities being to borrow short-term to lend long-term. Financial institutions therefore see their profitability
+ mechanically improve when the interest rate spread widens between the levels they pay on deposits (short-
+ term rates) and those they charge on loans (long-term rates). This context isall the more favorable given that
+ bank balance sheets have been significantly strengthened, allowing for attractive returns to shareholders, the
+ fact that deregulation isprogressing, and that a robust pipeline of M&A deals should benefit investment banks.
+
+ 3. Since Russia’s invasion in Ukrainein February 2022, the defense theme has regained strong momentum and is
+ now unavoidable. Concretely, members of the North Atlantic Treaty Organization (NATO) committed at the end
+ of June to a historic increase in their military budgets, targeting 3.5% of GDP — and up to 5% when including
+ broader security-related spending — compared with the current 2% benchmark. These commitments are
+ mechanically driving a significant increase in order backlogs across the defence industrial sector and reinforce
+ theoutlook forsustainedmedium-term growth in industry activity.
+
+ 4. Enthusiasm for AI stocks remains strong since the launch of ChatGPT at the end of 2022. The explanation is
+ quite simple: the investment phase in AI infrastructure to develop computing power and data storage is lasting
+ longer than expected, and the amounts deployed are proving to be higher. Companies directly involved in AI, as
+ well as those along the value chain (energy generation, electrical grid and gas turbines, suppliers of cables,
+ racks, cooling solutions, advanced semiconductors, and memory), are therefore benefiting from significant
+ visibility.At this stage, it isnecessary to be selective and favour solid players.
+
+ 5. With the German stimulus plan ramping up in 2026, local industrial companies (Germany, Austria, Central
+ Europe) willbenefit.
+
+ We maintain a positive outlook on equities, particularly in the United States, supported by the Federal Reserve's
+ accommodative monetary policy, a weaker dollar, the continued momentum in technology and infrastructure
+ Source: Crédit Mutuel investment. We are also positive on European equities, underpinned by the German stimulus plan and the ECB's
+ Asset Management as of interest rate cuts.
+ 31/12/2025
+
+ *The STOXX® indices and On the fixed income side, we believe the environment stillfavors acontinued steepeningof yieldcurves,particularly
+ its registered trademark in areas with very strong fiscal support. In the Eurozone, market expectations are currently for the ECB to maintain
+ are the intellectual the status quo for the whole of 2026, which makes long positionsin Europeanbonds asymmetricallyfavourablefrom
+ property of STOXX®
+ Limited Zurich, a risk perspective. Itseems unlikely that the ECB willraise itsdeposit rate this year, while on the other hand there is
+ Switzerland “STOXX®”. a scenariowhere inflation surprises on the downside,which would generate a more accommodativebias on the part
+ Past performance is not of the European institution.
+ indicative of future
+ results.
+
+ 11
+
+## Page 12
+
+The information contained in this document does not constitute investment advice, an investment proposal or any
+incitement to trade on the financial markets. The assessments made reflect the opinionof their authorson the date of
+publicationand do not constitute a contractual commitment on the part of Groupe La Française. These assessments are
+subject to change without notice within the limits of the prospectus, which alone is authoritative. Groupe La Française
+cannot be held liable in any way for any direct or indirect damage resulting from the use of this publication or the
+information it contains. This publication may not be reproduced, in whole or in part, distributed or disseminated to third
+parties without the prior written authorisation of Groupe LaFrançaise. www.la-francaise.com
+Published by Groupe La Française, a public limited company with a management board and supervisory board, with
+capital of €78,836,320- RCS PARIS 480 871 490.
+Crédit Mutuel Asset Management: 128, boulevard Raspail 75006 Paris. Asset management company authorised by the
+AMF under number GP 97 138 and registered with ORIAS (www.orias.fr) under number 25003045 since 11/04/2025.
+Public limited company with capital of €3,871,680, registered with the Paris Trade and Companies Register under
+number 388 555 021,APE code6630Z. Intra-Community VATnumber: FR 70 388 555 021.
+CMSA – CIGOGNE Management S.A, 18, boulevard Royal L- 2449 Luxembourg. Public limited company under
+Luxembourg law, registered in theLuxembourgTrade and Companies Register under number B 101.547 -Social security:
+20042209 385, VAT: LU211 449 74 as amanagement company under Chapter 15 of the Law of 17 December 2010 under
+number S 633as an alternative investment fund managerunder Article5of theLawof 12 July 2013 under numberA 766.
+Approved by the supervisory authority, the Commission de Surveillancedu Secteur Financier (CSSF), 283, route d'Arlon,
+L-1150 Luxembourg. Cigogne Management is a subsidiary of Groupe La Française, the asset management holding
+company of Crédit Mutuel Alliance Fédérale.
+La Française Finance Services, an investment firm approved by the ACPR under number 18673 (www.acpr.banque-
+france.fr) and registered with ORIAS (www.orias.fr) under number 13007808 on 4 November 2016. Internet contact
+details for supervisory authorities: Autorité de Contrôle Prudentiel et de Résolution (ACPR) www.acpr.banque-france.fr,
+Autorité desMarchés Financiers (AMF) www.amf-france.org

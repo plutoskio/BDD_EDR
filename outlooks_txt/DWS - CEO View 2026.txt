@@ -2,7 +2,7 @@ Source file: DWS - CEO View 2026.pdf
 Source path: outlooks/DWS - CEO View 2026.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:05:55.827574+00:00
+Extracted at UTC: 2026-03-17T21:46:00.336954+00:00
 Page count: 2
 
 ---

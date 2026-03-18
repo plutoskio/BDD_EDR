@@ -2,7 +2,7 @@ Source file: Pictet - Perspectives 2026.docx
 Source path: outlooks/Pictet - Perspectives 2026.docx
 Type: docx
 Extraction method: pandoc
-Extracted at UTC: 2026-03-13T14:06:07.640985+00:00
+Extracted at UTC: 2026-03-17T21:46:13.079923+00:00
 
 ---
 

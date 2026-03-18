@@ -2,7 +2,7 @@ Source file: Oddo BHF - outlook 2026.pdf
 Source path: outlooks/Oddo BHF - outlook 2026.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:06:07.100002+00:00
+Extracted at UTC: 2026-03-17T21:46:10.889247+00:00
 Page count: 2
 
 ---

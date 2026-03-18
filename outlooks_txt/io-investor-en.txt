@@ -1,0 +1,230 @@
+Source file: io-investor-en.pdf
+Source path: outlooks/io-investor-en.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:17.343405+00:00
+Page count: 7
+
+---
+
+## Page 1
+
+Presented by
+ Invesco Strategy & Insights
+
+ 2026 ANNUAL INVESTMENT OUTLOOK
+Re si l ience a nd
+ r e b a la nc i n g
+
+ This marketing material
+ is for UK client use only.
+ Capital at risk.
+ This is marketing material and not
+ f inancial advice. It is not intended
+ as a recommendation to buy
+ or sell any par ticular asset class,
+ security or strategy.
+
+## Page 2
+
+Welcome to ou r 2026 O ut lo ok
+
+ Uncertainty was a key theme in 2025, Investment outlook by asset type
+ yet the market rallied with many
+ investments delivering strong returns. Global Equities Commodities
+ Our end of year outlook reflects U S S to cks Government and central bank suppor t Industrial Metals Better global grow th and a weaker USD
+ two key themes: should help U.S. stocks, but because prices have tended to be conditions where
+ are already high and politics are uncer tain, industrial metals per form well.
+ we’re keeping a smaller investment than
+ Resilience in previous years.
+ Businesses have remained strong
+ despite the economic and geopolitical
+ shocks of the past year. Interest rate Developed Markets Stocks in Europe and other developed Precious Metals Central banks are likely to continue building
+ cuts in the US and increased outside the US markets look more attractive than US equities, gold stocks, and Exchange Traded Funds
+ government spending in Europe, especially with broader economic recovery. (E TFs), demand could remain steady.
+ Japan and China set the stage for However, lower geopolitical risk and stable
+ global growth to pick up again. inflation mean prices are unlikely to rise
+ as much as they did in 2025.
+ Rebalancing Emerging Emerging market stocks of fer strong
+ While US technology stocks, especially Alternatives
+ Markets grow th potential compared to other
+ those linked to AI, have been priced regions, though volatility remains high. Cr ypto Cr yptocurrencies could per form well
+ at a premium, markets outside the US, We anticipate Chinese stocks to continue to as regulator y changes have increased
+ smaller companies, and certain sectors outper form while India may struggle. adoption, with more investors and institutions
+ within the US may hold interesting par ticipating in the digital asset ecosystem.
+ opportunities for investors to consider
+ Corporate Credit
+ We’re entering 2026 with optimism. For investors, Investment Investment grade credit is marginally
+ resilience means focusing on sectors that can Grade Bonds preferred to government bonds. US bonds
+ withstand volatility, while rebalancing highlights look attractive overall, but Europe of fers
+ opportunities beyond the dominant US technology more opportunities for active investors
+ giants. Diversification will be key as the types (active investing means actively buying
+ of investments that lead the market may change. and selling assets to tr y and outper form
+ a market benchmark).
+
+ V iews are pre sented with a 1– 5 -point rating, as indic ated by the bars. The lef t-most value indic ate s the le ast favourable view, while the right-most value indic ate s
+ the most favourable view. T his c omment ar y doe s not c onstitute buy/sell rec ommendations.
+
+ 2
+
+## Page 3
+
+Mac r o -
+e conom ic
+v i ew s
+
+ Economies and markets have Growth expected to widen as China’s policy support keeps growth
+ been resilient in 2025 government support takes effect on track despite external pressures
+
+ • Official growth numbers show the • Our core theme for 2026, particularly in the • Global trade has also been surprisingly
+ US economy looks healthy, but the jobs first half, is one of improved global growth resilient in 2025.
+ market has weakened, with reduced compared to 2025. • China’s exports grew despite higher
+ hiring activity, and small businesses • In the US, this should be helped by lower US tariffs, and shifting trade patterns
+ have cut back on investment. interest rates, strong foreign investment, are creating new opportunities for some
+ • Spending has been driven mainly and a weakening US dollar. emerging markets and sectors.
+ by higher-income households, • Outside the US, government spending • China’s economy is expected to grow by
+ while AI investment has supported and a general improvement in global about 5% in 20261, driven by lower interest
+ US Gross Domestic Product inflation should support economic growth. rates, government spending, and a new
+ (GDP), a measure of the size of the Five-Year Plan focused on boosting
+ economy, and corporate earnings. • With less political and geopolitical domestic demand and innovation in areas
+ • Businesses and households avoided heavy uncertainty in the US, private businesses such as AI and advanced manufacturing.
+ borrowing and maintained cash reserves. and consumers are likely to feel more
+ This caution has helped them weather confident about increasing their spending • A weaker US dollar has also helped bring
+ policy uncertainty and sets the stage and investing, both in the US and around down inflation in many emerging markets,
+ for growth in 2026. the world. allowing central banks to cut interest rates.
+ • This matters for investors, as emerging-
+ market debt bonds issued by governments
+ or companies in developing countries
+ performed well in 2025. Similar trends
+ are expected in 2026, especially in markets
+ outside China.
+
+1 S ourc e s: Bloomb erg L .P., and Inve s c o Strategy & Insight s,
+ as of S eptemb er 3 0, 2 0 25.
+
+ 3
+
+## Page 4
+
+Mac r o -
+e conom ic
+v i ew s
+
+ Europe on the mend: Policy is turning Japan benefits from healthy inflation India’s economy improves amid
+ positive for the region and policy support geopolitical challenges
+
+ • After years of weak growth, • Japan is seeing a steady return of inflation, • India is expected to continue with
+ Europe is showing signs of recovery. which is lifting wages and encouraging economic reforms in 2026 alongside
+ • Germany plans to increase spending people to spend more. an improvement in US-India relations.
+ on their military and infrastructure, • The labour market is strong, • This can help lift Indian stocks higher,
+ and other countries are following suit. and businesses are investing heavily and we expect India to remain the
+ • These changes are encouraging compared to other global economies. fastest-growing major economy,
+ businesses to invest, and early signs • We expect economic growth in Japan with growth picking up as the Reserve
+ of growth are appearing. will continue to improve in 2026, Bank of India cuts interest rates.
+ • But challenges remain, such as ageing helped by new government spending. • Domestic economic reforms are key for
+ populations and political uncertainty. • Interest rates are likely to rise slowly, long-term growth, and we expect to see
+ with rates staying low enough to support gradual progress in 2026, given political
+ • The UK faces hurdles as inflation growth and investment. constraints in the region.
+ is above the Bank of England’s target,
+ public finances are under pressure,
+ and overall growth is weak. However,
+ falling interest rates, stronger wages,
+ and healthy savings are lifting retail sales.
+ If these trends continue, UK growth
+ could beat expectations in 2026.
+
+ 4
+
+## Page 5
+
+W hat cou ld sh i f t th is outlook?
+
+We remain mindful of scenarios that could alter the investment landscape.
+Here are the key uncertainties we’re watching:
+
+ Our economic expectation What might happen instead? What could that mean for inve stors?
+ Will the world economy recover We expect the world economy Global grow th could slow and key economies slip towards • Developed market sovereign bonds would likely perform
+ or go into a reces sion? to improve next year. a recession. better than stocks.
+ • US stocks and the dollar might do better than expected.
+ • Gold and other precious metals could hold up well.
+ • Emerging markets and sectors that depend on strong
+ economic growth may struggle
+ Could inflation rise while We expect inflation to stay slightly Disruptions in supply such as China limiting rare ear th expor ts, • Short and long-term interest rates may move closer together.
+ economic grow th stalls? above target but stable next year. trade issues, an oil price spike, or an unexpected global event • Smaller companies and sectors tied to economic growth
+ could push inflation higher while slowing grow th. could struggle.
+
+ • Emerging markets may lose momentum.
+ • The US dollar could strengthen depending on the nature
+ of the supply shock.
+ Could AI break throughs cause We expect rest of world stocks If businesses find a way to make big profits from AI or show • Equity markets would likely rise overall, but gains would
+ US stocks to rally ? to outperform the US and the USD clear productivity gains, US technology giants could see be led by US stocks.
+ to weaken. a resurgence. • The US dollar could rise if overseas investors put money
+ into US markets without taking steps to protect themselves
+ from changes in exchange rates.
+ Could political instability disrupt We expect improved growth in Europe E xtreme par ties could gain greater influence in Germany • European and German stocks may underperform.
+ grow th in Europe? next year. and France, leading to a drop in investor confidence. • The Euro could weaken against the US dollar.
+ In Germany, this could block promised government spending,
+ while in France, political uncer tainty adds fur ther strain.
+ Could politics undermine the The Fed will cut interest rates, Political inter ference in central banks is increasing. So far, • Investors may focus on real assets like property
+ Federal Reserve’s credibility ? and its decisions won’t be viewed financial markets have largely shrugged of f these challenges. or commodities for stability.
+ as overly political. However, the credibility of the U.S. Federal Reser ve could • US stocks may get a quick boost from lower interest rates,
+ come under pressure if, for instance, a board member were but it might not last. Non-US stocks could outperform.
+ dismissed or a new Chair appeared over tly political.
+ • Long-term bonds could lose value if inflation expectations
+ rise, and the US dollar could weaken.
+
+ 5
+
+## Page 6
+
+O pp or t u n it ie s shapi n g t he ye a r a he ad
+
+The global economy is evolving, and with it, the investment landscape.
+Here are the themes we believe will matter most for investors in 2026:
+
+ Stronger growth, more market participation A weaker US dollar Managing AI investment risks
+ The global economy is picking up again after Diverging central bank policies are weakening Big-name AI companies are currently very
+ a slowdown, which could lead to a wider variety the dollar, supporting the case for investing expensive, and there’s no clear sign of change.
+ of sectors doing better. in emerging markets and commodities. Spreading investments across different
+ areas can help reduce the risk of being
+ too concentrated in one sector.
+
+ Emerging markets look strong Private credit offers diversification
+ Global growth is improving, inflation in emerging Private credit is lending directly to businesses
+ markets is low, and a weaker US dollar could help instead of buying public stocks or bonds
+ emerging markets perform well in 2026. which can be used to diversify an investment As we enter 2026, diversification
+ portfolio. With steady economic growth, and a global perspective will be key
+ stable prices, and lower borrowing costs to capturing opportunities in a shif ting
+ in the US, conditions could be positive
+ for private credit to deliver strong returns. market landsc ape.
+
+ 6
+
+## Page 7
+
+Investment risks
+
+The value of investments and any income will fluctuate (this may partly
+be the result of exchange rate fluctuations) and investors may not get back
+the full amount invested.
+
+Important information
+
+Data as at 10 November 2025, unless other wise stated. This is marketing
+material and not financial advice. It is not intended as a recommendation to buy
+or sell any par ticular asset class, security or strategy. Regulator y requirements
+that require impar tiality of investment/investment strategy recommendations
+are therefore not applicable nor are any prohibitions to trade before publication.
+
+Views and opinions are based on current market conditions and are subject
+to change.
+
+Issued by Invesco Asset Management Limited
+Perpetual Park , Perpetual Park Drive, Henley-on-Thames, Ox fordshire
+RG9 1HH, United Kingdom
+Authorised and regulated by the Financial Conduct Authority
+
+EMEA-EOYOUTEND-INSI-1-E11/25 EMEA5008287
+ 7
+
+ 20251128-5008287-EMEA

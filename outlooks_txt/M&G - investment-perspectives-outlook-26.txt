@@ -2,7 +2,7 @@ Source file: M&G - investment-perspectives-outlook-26.pdf
 Source path: outlooks/M&G - investment-perspectives-outlook-26.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:06:06.935089+00:00
+Extracted at UTC: 2026-03-17T21:46:10.606570+00:00
 Page count: 33
 
 ---

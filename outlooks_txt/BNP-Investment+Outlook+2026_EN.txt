@@ -2,7 +2,7 @@ Source file: BNP-Investment+Outlook+2026_EN.pdf
 Source path: outlooks/BNP-Investment+Outlook+2026_EN.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:05:52.338866+00:00
+Extracted at UTC: 2026-03-17T21:45:55.371634+00:00
 Page count: 42
 
 ---

@@ -2,7 +2,7 @@ Source file: UBS Year Ahead.pdf
 Source path: outlooks/UBS Year Ahead.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:06:10.433638+00:00
+Extracted at UTC: 2026-03-17T21:46:15.735553+00:00
 Page count: 68
 
 ---

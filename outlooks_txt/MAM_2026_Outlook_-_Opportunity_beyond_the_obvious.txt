@@ -1,0 +1,690 @@
+Source file: MAM_2026_Outlook_-_Opportunity_beyond_the_obvious.pdf
+Source path: outlooks/MAM_2026_Outlook_-_Opportunity_beyond_the_obvious.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:10.720665+00:00
+Page count: 17
+
+---
+
+## Page 1
+
+MARKETING COMMUNICATION FOR PROFESSIONAL INVESTORS ONLY
+2 02 6 O u t lo ok
+
+ Fi nd i ng oppor t u n it y beyond t he obv ious
+
+## Page 2
+
+OVERVIEW
+
+ Andrew Lake
+ Chief Investment Officer
+
+As we look to 2026, markets are shifting selectivity and valuation discipline are
+rather than settling. Across regions, one creating opportunities where fundamentals
+common thread stands out: we are investing are improving but investor attention remains
+through a transition. Inflation is lower but not elsewhere. For us, small- and mid-cap
+vanquished, policy is easier but not loose, companies with pricing power, innovation
+and the AI and capex cycle is reshaping capacity and strong balance sheets remain
+winners and losers at a speed markets have one of the clearest ways to access genuine
+rarely seen before. In this environment, we growth without paying mega-cap multiples.
+believe investors will be rewarded less for
+predicting the macro path, and more for In fixed income, we expect income to do
+being selective about which businesses more of the heavy lifting in 2026. Yields
+– and which parts of the capital structure – remain attractive even after spread
+they own. compression, and this environment rewards
+ careful credit selection, especially in parts of
+That is where our identity matters. We are the market where private credit or cyclical
+true active managers. We are independent pressures could create dispersion. Our
+thinkers. And we build high-conviction, focus is on letting coupon carry work, while
+concentrated portfolios, rather than trying keeping the quality bias that has served us
+to mirror benchmarks that are increasingly well late in the cycle.
+dominated by a narrow group of mega-
+cap names. Our desks do not share one Convertible bonds sit naturally across
+homogenous investment view, but they these themes. The resurgence in issuance
+do share a common philosophy: focus and renewed breadth have restored the
+on quality and resilience, keep valuation asset class’s usefulness as a convex way
+discipline, and use active risk management to express views on innovation and smaller
+– from carry and duration to convexity – to caps. With more balanced structures and a
+navigate uncertainty. healthier opportunity set, convertibles allow
+ us to capture asymmetry in a market where
+In equities, our conviction continues to sit the gap between winners and losers is likely
+away from the most crowded areas of the to remain wide.
+market. Both in Europe and Switzerland,
+
+ 2
+
+## Page 3
+
+What ties these views together is not a The following insights go deeper into each of
+top-down forecast, but a way of investing. these themes. Taken together, they reflect
+We spend our time understanding real how our portfolio managers are positioning
+businesses, talking to management teams, today: selectively pro-risk, focused on quality
+stress-testing balance sheets and business and valuation, and ready to use active,
+models, and being disciplined about what concentrated portfolios to turn a year of
+we own – and what we are happy to transition into a year of opportunity.
+leave to others. We embrace tracking error
+because we believe conviction is the only
+way to generate genuinely differentiated
+returns over time.
+
+ 3
+
+## Page 4
+
+M AC ROE C ONOM IC S
+
+ Valentin Bissat Marie Thibout
+ Chief Economist & Senior Senior Economist
+ Multi-Asset Strategist & Strategist
+
+• US: Growth remains resilient under a ‘triple easing’ regime, but elevated mortgage rates
+ mean housing is a key point of strain despite Fed cuts.
+
+• Europe: Fiscal expansion becomes the main engine of recovery in 2026, with public
+ investment reaching its highest level since the global financial crisis.
+
+• UK: Growth is set to slow as the labour market softens and fiscal uncertainty persists,
+ keeping the Bank of England on a rate-cutting path.
+
+• China: Public investment and accommodative policy could push growth above
+ expectations, even as AI rollout faces energy and infrastructure constraints.
+
+US: a triple easing cycle necessarily signal weakness in the labour
+The US is expected to continue operating market, but rather a new structural norm
+within an environment of ‘triple easing’: driven by demographics and immigration
+fiscal, monetary, and regulatory. AI policy. In 2026, we expect US GDP growth to
+investment played a key role in the hold steady at slightly below 2%.
+economic recovery of 2025, as did the tech
+rally, which helped boost household wealth. The real estate market could be a major
+To extend this momentum, it will be critical point of strain. Historically, monetary easing
+to accelerate investment in breakthrough tends to support housing prices and activity.
+technologies and productivity gains ─ But this cycle is breaking with tradition:
+which we think represent the only path although the Federal Reserve (Fed) began
+to sustainably supporting real economic cutting rates in 2024, the long end of the
+activity. yield curve has steepened, fuelled by
+ persistent concerns over public debt and
+Despite a cooling labour market, inflation. As a result, mortgage rates remain
+consumption is expected to remain a pillar elevated (above 6%), dampening the
+of US growth, as long as wealth effects impact of monetary easing on the housing
+are preserved. Slower job creation won’t market.
+
+ 4
+
+## Page 5
+
+At the Federal Reserve, monetary easing UK & China: diverging paths
+is expected to remain moderate, with a The UK is seeking to offset post-Brexit losses
+terminal rate close to 3%. It seems only a with an aggressive trade strategy, but
+sharp economic slowdown (a scenario we growth is set to slow due to a weakening
+do not foresee in 2026) would likely prompt labour market and fiscal uncertainty. As a
+more aggressive rate cuts. A change in result, the Bank of England is expected to
+leadership at the Fed is another key factor continue cutting interest rates in 2026.
+to watch.
+ In China, AI plays a central role in the
+Europe: fiscal engines drive recovery country’s technological sovereignty strategy.
+In Europe, AI adoption is slower, constrained However, its rollout is challenged by energy
+by regulation and an industrial base less and infrastructure constraints, particularly
+focused on digital services. We expect the surge in electricity demand from data
+fiscal policy to be the main driver of growth. centres and the need to modernise the
+Eurozone fiscal policy is expected to turn national grid.
+expansionary in 2026, with the bloc’s
+aggregate deficit rising from 3.2% to 3.5% of After a moderate rebound in 2025, and
+GDP. amid ongoing trade tensions, Chinese
+ growth could surprise to the upside in 2026. If
+Germany is forecasting a record deficit of the recently announced public investments
+4.75% of GDP, mainly due to higher military are implemented quickly, GDP growth could
+and infrastructure spending. France is aiming exceed 4.7%. We think the People’s Bank of
+for moderate consolidation, though its China is likely to maintain accommodative
+budget remains uncertain and vulnerable policy, targeting both consumption and
+to political risk. Italy may exit the Excessive investment.
+Deficit Procedure earlier than expected,
+thanks to stronger tax revenues and better Geopolitically, tensions with the US over
+public spending control. However, the rare earths and tech components will
+country still faces challenges as the EU’s remain elevated, despite a recent easing in
+NextGenerationEU funding programme rhetoric.
+winds down.
+ Conclusion
+Public investment across the eurozone In short, 2026 will be a year of transition, in
+could reach its highest level since the global which central banks must carefully balance
+financial crisis, buoyed by still-available EU growth with price stability, governments must
+funds, with growth reaching 1.2%. That said, manage fiscal and geopolitical pressures,
+rising borrowing costs will likely reduce fiscal and companies must adapt to an ongoing
+space from 2027 onward, and structural technological revolution.
+deficits will remain a longer-term concern.
+ For investors, discernment will be essential
+In this context, we expect the European to navigate an environment defined by
+Central Bank to maintain its current innovation, volatility, and fragmented global
+monetary policy stance. While growth trade dynamics.
+surprises to the upside and inflation remains
+persistent in services, other indicators − such
+as euro strength, slower wage growth, and
+the impact of trade tensions − are broadly
+disinflationary for the region.
+
+ 5
+
+## Page 6
+
+EUROPE A N EQUITIES
+
+ Hywel Franklin
+ Head of European Equities
+
+• Europe’s SMID companies stand out in 2026, combining attractive valuations, improving
+ fundamentals and persistent under-ownership versus the US.
+
+• Headwinds are easing, with tariff impacts rolling off, softer comparatives and a weaker
+ US dollar improving visibility for European exporters and margin recovery.
+
+• Opportunities remain bottom-up, with supportive fundamentals clustering in Spain,
+ Ireland and an improving Germany — not driven by macro calls but by stock-specific
+ strength.
+
+• Portfolio companies combine resilience and self-help, with strong balance sheets,
+ pricing power and accretive M&A, while wide valuation gaps continue to support SMID
+ takeover activity.
+
+Outlooks can have a tendency to be Investors are beginning to revisit the region,
+vague, but our conviction is strong: we think questioning whether it makes sense for so
+Europe remains one of the most under- much of their equity exposure to sit in one
+valued and under-owned regions in global market. With valuations still at a meaningful
+equities. Over the past few years, investor discount and the recovery broadening
+attention has been firmly centred on the US, across countries and sectors, we believe the
+where large-cap technology and AI themes setup for 2026 looks increasingly constructive
+have dominated flows and headlines. That for Europe − particularly in the small- and
+concentration has left Europe overlooked, mid-cap (SMID) part of the market, where
+even as many of its companies have valuations and fundamentals have diverged
+quietly rebuilt balance sheets, streamlined most meaningfully from the US.
+operations and positioned themselves for
+recovery. The big story for 2026
+ We continue to see the strongest bottom-
+But what we are starting to see now, in our up opportunities within European small and
+view, are early signs of re-engagement. mid-caps (SMID). This is where valuation
+
+ 6
+
+## Page 7
+
+support and earnings recovery come direction. Rather than making forecasts, we
+together most clearly. European small caps focus on the resilience and adaptability of
+are trading at 13.4x earnings, compared individual businesses. We prefer companies
+with 14.6x for Europe large caps, 19.7x for US with strong balance sheets, good pricing
+small caps and 24x for US large caps (MSCI power and management teams that can
+data to 25 November 2025). Many SMID adjust quickly.
+businesses have faced a difficult few years
+− from supply-chain shortages and inflation One area that does give us pause is the
+spikes to tariff disruption and currency swings level of complacency embedded in US
+− and have emerged stronger for it. equities. Valuations remain elevated
+ and ownership concentrated, with retail
+We think 2026 could mark the point where exposure now higher than it was at the
+several of those headwinds begin to ease. top of the dot-com boom. Much of the
+Companies that were hurt by tariffs in 2025 market narrative hinges on AI-related
+have softer comparatives and may start capital expenditure, but the scale of that
+to recover margins as trade flows stabilise, spending – and how it will be funded − raises
+while a softer US dollar should support questions. We are also seeing a build-up
+European-based exporters and ease input of leverage in private markets, particularly
+costs. Because many European businesses across unprofitable companies in the AI
+hedge currency exposures in advance, and technology ecosystem. Those are not
+these benefits are likely to come through immediate concerns for Europe, but they do
+gradually over the year, improving visibility reinforce the importance of selectivity and
+and profitability. valuation discipline.
+
+The opportunity, however, is not uniform For us, the key is to stay invested in
+across the market. Europe’s recovery businesses that can make progress
+remains uneven, which creates scope for regardless of the macro backdrop –
+genuine stock picking. While we don’t set companies with visibility, self-help potential
+regional views, we are seeing particular and the ability to “make their own weather”.
+strength in parts of Europe’s periphery −
+notably Spain and Ireland ─ and signs Positioning and opportunity
+of recovery in Germany. Spain’s growth Our portfolios are positioned to capture
+remains robust, supported by business- the recovery we see across different
+friendly regions, steady inward migration parts of the region. Exposure to Germany,
+and low energy costs, thanks to renewables Spain and Ireland gives us leverage to
+expansion. Ireland continues to benefit domestic improvements, while many of our
+from sound public finances, a young, holdings stand to benefit directly from the
+English-speaking workforce and exposure normalisation of tariffs and currency trends.
+to technology and healthcare clusters. In
+Germany, industrial activity is stabilising and A common theme for any of our portfolio
+we are positioned for a cyclical upturn as names is that they drive their own growth
+demand normalises. These are not top-down through operational self-help. Several have
+calls but themes that have emerging from completed small but accretive acquisitions,
+the bottom-up. taking advantage of weaker competitors
+ or niche opportunities to strengthen their
+Risks and resilience positions. These bolt-on deals often create
+We are always cautious about predicting significant synergies and can meaningfully
+macro outcomes. The reality is that inflation, enhance long-term earnings power.
+rates and growth can all surprise in either
+
+ 7
+
+## Page 8
+
+We also expect merger and acquisition Europe’s next chapter
+activity more broadly to remain a feature Europe is still fighting for investor attention,
+of the European SMID landscape. Valuation but we believe the tide is starting to turn. The
+gaps between large and small companies combination of improving fundamentals,
+remain wide, leaving many smaller names attractive valuations and the breadth
+attractively priced and, in some cases, of opportunity within Europe’s SMID
+vulnerable to takeover. We saw two portfolio universe provides a compelling backdrop.
+holdings acquired in 2025 ─ one in the UK Importantly, we see many companies
+and one in Ireland − and we think this is likely capable of delivering progress under their
+to continue as strategic buyers and private own steam ─ businesses that can, as we like
+equity look for growth at reasonable prices. to say, make their own weather.
+
+Overall, we think our portfolios are well After a decade dominated by a narrow
+placed for 2026: focused on cash- group of US giants, we think investors will
+generative businesses with strong visibility increasingly look for growth in places that
+into next year, and with multiple ways to have been overlooked. For those willing
+create value irrespective of the macro to venture beyond the obvious, Europe
+environment. offers a deep and diverse pool of under-
+ appreciated companies entering 2026 from
+ a position of strength.
+
+ 8
+
+## Page 9
+
+SW ISS EQUITIES
+
+ Daniele Scilingo
+ Head of Swiss Equities
+
+• The global backdrop is improving as growth normalises, inflation eases, and policy clarity
+ returns, creating a more constructive environment for selective equity investing.
+
+• Swiss equities remain well supported, with strong balance sheets, innovation depth and
+ a long history of disciplined capital allocation across large-caps and SMID.
+
+• FX headwinds are masking underlying strength, and even modest stabilisation could
+ allow organic growth − especially within SMID − to reassert itself.
+
+• Management change and strategic repositioning across several Swiss corporates offer
+ potential catalysts for 2026, complementing a broader theme of ‘quality growth priced
+ for non-growth’.
+
+• Our positioning favours resilience and selectivity, through disciplined valuation work,
+ diversified performance drivers and a focus on high-quality franchises capable of
+ compounding through uncertainty.
+
+As we look toward 2026, the global Within this context, Switzerland continues to
+economy appears to be entering a stand out for the depth and resilience of its
+“Goldilocks” phase – one that is neither corporate sector. While large caps remain
+overheating nor stalling. Early signals reliable anchors, we see many compelling
+indicate steadying momentum: global trade opportunities in the small- and mid-cap
+tensions are easing, and Europe may be (SMID) universe, where valuation dispersion,
+showing its first genuine signs of acceleration innovation and operational agility remain
+after years of structural constraints. As pronounced. Strong balance sheets, high-
+policy clarity improves, investor sentiment quality management teams and a long
+is strengthening, creating an environment tradition of disciplined capital allocation
+where selective opportunities can be position Swiss companies – across the
+captured with conviction. market-cap spectrum – to navigate a more
+ complex global landscape.
+
+ 9
+
+## Page 10
+
+FX headwinds masking underlying equity market, ‘dividend aristocrats’ remain
+fundamentals particularly compelling for their stable
+Foreign exchange remains a central theme income, resilience and compounding
+in Swiss equities. The persistent weakness potential. We love to use the slogan “earn
+of the US dollar has weighed on export- while you wait, grow while you sleep” for
+oriented Swiss champions, masking the such names.
+underlying strength of many business
+models. Even a modest stabilisation should Navigating risks with discipline
+relieve pressure and reveal the strong and diversification
+organic growth many firms consistently Nonetheless, risks remain ever present and
+generate. require close monitoring. Commodity and
+ technology supercycles raise questions
+Strategic catalysts: trade, leadership change about durability and the possibility for
+and corporate agility abrupt reversals. Asset bubbles in areas
+A potential trade agreement between such as real estate, technology, and
+Switzerland and the US could deliver alternative investments could create
+meaningful upside, although uncertainty sudden dislocations. AI-driven disruption is a
+about its timing may introduce short-term powerful yet unpredictable force, capable
+demand volatility. In this environment, we of reshaping competitive dynamics at
+see strategic opportunities: Swiss companies speed. K-shaped recovery patterns could
+may expand their US exposure through advantage select regions or industries while
+targeted acquisitions, thereby bolstering leaving others behind, producing uneven
+revenue diversification and competitive returns. Europe’s recovery trajectory also
+positioning. An unusually high number of remains uneven; despite ongoing stimulus
+management changes in 2025 could also and reform efforts, slow adjustment in
+act as a catalyst, as new leadership teams major economies continues to limit the
+look to reset priorities, strengthen operational continent’s ability to fully benefit from global
+focus and rebuild investor confidence into momentum.
+2026.
+ As 2026 approaches, our strategy
+Quality growth: mispriced emphasises discipline, clarity, and
+and misunderstood diversification. We continue to stress-test
+Our investment approach focuses on each company’s competitive moat and
+identifying companies with durable assess its ability to return to sustainable
+competitive moats and resilient business growth. Valuation discipline remains
+models, rigorously stress-testing quality essential, guiding us toward opportunities
+to ensure adaptability across market the market may be underappreciating –
+conditions. Scepticism has grown regarding particularly within the SMID universe, where
+the outlook for ‘quality growth’, with dispersion is still elevated.
+concerns that such businesses may have
+moved beyond growth and could face With diversification across multiple
+ongoing valuation pressure if earnings performance drivers, we aim to manage
+disappoint. We think this view risks uncertainty while positioning our portfolios
+underestimating the resilience of high-quality to capture upside in a shifting global
+business models. As growth normalises, we landscape. This balanced framework
+expect earnings and valuations for well- supports long-term resilience and
+positioned companies – including several in strengthens our conviction in identifying
+the SMID universe – to expand, rewarding high-quality Swiss opportunities for patient
+patient investors. In a yield-starved Swiss investors.
+
+ 10
+
+## Page 11
+
+Stock insights: catalysts across the Sika is actively managing its cost base to
+capital structure address reduced growth prospects in the
+We have observed that select companies short term.
+are set to benefit from management
+team rejuvenation and potential strategic Straumann’s strong track record of solid,
+catalysts, such as Nestlé and Tecan. After double-digit organic sales growth has been
+several governance missteps, Nestlé temporarily overshadowed by significant
+strengthened its leadership with a high- adverse effects from the weak US dollar
+profile chairman, Pablo Isla (formerly CEO and Brazilian real, as well as modest growth
+of Inditex), and a new CEO appointed from in the US. Its innovation leadership in the
+the internal talent pool. Nestlé should swiftly global dental implant market should, in
+address past shortcomings and refocus the our view, put the company in a strong
+group on attractive categories. Divestments position to accelerate growth, courtesy of
+of non-core product lines, alongside lower US interest rates and Chinese policy
+targeted investment to accelerate growth interventions that favour Straumann’s
+in strategic categories, should lift Nestlé’s product range.
+organic growth prospects. A rigorous cost-
+cutting programme supports efforts to grow While many investors remain cautious
+and leverage its operating capital base. on financials, we see strength in Partners
+ Group’s and Cembra’s business models. The
+Meanwhile, Swiss diagnostics equipment former focuses on private-market solutions
+firm Tecan is weathering several headwinds and has become a key partner for major
+– from weakness in the Chinese market private wealth groups. While there is some
+to US tariffs and reduced US government concern about the excesses in the area
+healthcare research budgets. While we and the reduced prospects of earning
+assess current headwinds as transitory high fees, we see value in Partners Group’s
+and a base from which to grow, the new conservative investment strategy and its
+leadership team should regroup and refocus focus as a solution provider. Performance
+the company to sharpen its strategic focus fees are expected to flow more abundantly
+and capture future growth opportunities. from 2026 onwards, complementing the 4%
+ dividend yield.
+For the category of ‘quality growth priced
+for non-growth’, we would highlight Sika Cembra offers an even higher yield,
+in the large-cap space, and Straumann although its potential to expand earnings
+among the small- and mid-caps. Sika, a stems from extensive efforts to digitalise
+longtime growth darling for Swiss investors, the back office and reduce costs. As the
+is battling with weakening market trends in only Swiss bank purely active in the private
+the construction chemicals market, most consumer credit markets, Cembra benefits
+notably in China. Although Sika continues from regulatory specificities in Switzerland,
+to outperform its competitors, organic sales which allow it to build on steady demand
+growth rates have dwindled to low single and grow through innovative products.
+digits and turn negative once adverse
+currency effects are taken into account.
+
+The companies referenced in this insight are shown for illustrative purposes only. Their inclusion should not be
+interpreted as a recommendation to buy or sell. The information provided is to illustrate our current investment
+activities and approach only, and should not be construed as offer, research or investment advice. Past
+performance and other indicators or metrics do not predict future outcomes. Please read important
+information at the end of this communication.
+
+ 11
+
+## Page 12
+
+C ON V E R T I BL E B ON D S
+
+ Nicolas Crémieux
+ Head of Convertible Bonds
+
+• Asset-class momentum is strong and broad-based. Record issuance, deep liquidity and
+ robust secondary performance show a fully re-engaged convertibles market heading
+ into 2026.
+
+• The opportunity set is improving in quality. New, more balanced structures and
+ attractive valuations in the underlying equities enhance asymmetry and support
+ selective upside.
+
+• AI-driven dispersion is the defining theme. Nearly half of recent US issuance is AI-linked,
+ creating volatility but also rich stock-picking potential for active managers.
+
+• Active allocation remains essential. A quality-tilted, selective pro-risk stance is well suited
+ to a landscape of earnings breadth, rotations, and ongoing M&A and policy catalysts.
+
+After a good second half of 2024 and an 2026 outlook: renewed breadth and
+even stronger 2025, we think it is fair to say better structures
+that convertibles are finally back! As we look to 2026, there are good reasons
+ to believe this positive trajectory is likely to
+2025 has already become the busiest continue.
+issuance year ever recorded for the
+primary market, with close to USD 155 bn With stubbornly high interest rates
+issued globally year-to-date (YTD) . On the and volatility, the cost advantage for
+secondary front, the FTSE Russell Global convertibles over traditional debt remains
+Convertibles Index is up 19.66% YTD, only intact for issuers, with close to USD 90 bn in
+193bps below the MSCI World , while expected maturities and redemptions over
+convertible bonds’ underlying equites are the year.
+up 27.62% , finally outperforming broader
+global equities. This year is also the busiest As far as the secondary market is
+year ever for secondary trading volumes, concerned, we expect both convertibles
+with more than twice the global convertibles and their underlying equities to do well. For
+market capitalisation traded YTD , largely convertibles, the renewal of the opportunity
+surpassing global equities and fixed income. set via the issuance of investor-friendly,
+
+ 12
+
+## Page 13
+
+balanced instruments should further increasing beta selectively across growth
+enhance asymmetry. For the underlying and cyclicals, with flexibility to add on
+equities, their valuations are down on the dislocations as market breadth improves.
+year, despite their outperformance against We are transitioning from defensively late-
+larger peers, as earnings breadth improved cycle positioning toward a measured
+leading to earnings expectations that pro-risk stance, emphasising quality and
+outpaced their price return. select cyclicals as earnings revision breadth
+ stabilises and inflation trends lower. This
+This is especially important in a context landscape of dispersion and rotations
+of looser monetary and fiscal policies, as favours active management, the only style
+global economies rebound from a tariff- that allows investors to make the most of the
+uncertainty-induced slowdown, conditions elevated volatility.
+that have historically proved to be tailwinds
+for smaller caps. In this case, we view this volatility not as a
+ source of risk, but rather as one of the main
+AI dispersion: friend, foe – or both? sources of opportunity.
+A hotly debated topic, we anticipate
+AI is likely to, once again, be the main M&A: a quiet tailwind with upside potential
+source of dispersion in 2026. Specifically for Finally, M&A has brought some surprises
+convertibles, although it has proved to be this year. While small- and mid-caps usually
+a tailwind so far, the jury remains out on make the bulk of the targets in our space,
+declaring whether AI is friend or foe. large-cap deals have also made an
+ appearance: Altair Engineering, US Steel,
+Of the USD 45 bn of US convertible issuance Exact Sciences, CyberArk, TXNM Energy,
+since August 2025, a staggering 50% has and Dayforce to name a few. Convertibles
+been AI-related in one way, shape or form. remain a useful instrument for gaining
+These younger, more volatile companies exposure to this theme. If a bond is ‘out of
+naturally gravitate toward convertible the money’, holders have the right to ask
+debt as a fast, flexible way to fund high for early redemption upon completion of
+CapEx stacks, even if it means sharing their the deal. If it is ‘in the money’, investors
+successes with bondholders. This induces can convert into cash or new shares at an
+more volatility for convertible bonds’ enhanced ratio.
+underlying equities, which can be a good
+thing for valuations, but could also prove to Policy, politics and the 2026 catalyst
+be painful if cold water is suddenly poured As we get closer to the 2026 US mid-term
+on these high-flying stocks. However it elections, the Trump administration is
+evolves, AI adoption is accelerating, which expected to focus on policies stimulating
+we expect will result in intra- and inter-sector the economy, with deregulation being the
+rotations, depending on which side of the most consensual. With growth picking up
+fence companies are on. and easier financing conditions ahead, we
+ expect smaller, more innovative companies
+Positioning: selective beta, quality first to offer fertile ground for larger acquirers –
+To navigate this ‘Goldilocks’ environment, using convertibles to finance their buying
+we maintain a quality-biased, moderately sprees.
+pro-risk stance within our portfolios,
+
+1 Bank of Amer ica, Mi rabaud Asset Management, as at 26 4 F TSE Russell Global Focus Par it y Index, as at 26 November 2025
+November 2025 5 TRACE, Mi rabaud Asset Management, as at 26 November 2025
+
+2 F TSE Russell, as at 26 November 2025 6 Bank of America
+
+3 MSCI Wor ld USD Hedged, as at 26 November 2025 7 Barclays, as at 26 November 2025
+
+ 13
+
+## Page 14
+
+H IGH Y I E L D BON DS
+
+ Al Cattermole
+ Fixed Income Portfolio Manager
+
+• Carry, not compression, will drive returns in 2026. With spreads already near post-crisis
+ lows, high yield becomes a steady income story rather than a directional one.
+
+• Yields remain appealing despite tight spreads. Government rates have stayed higher
+ than expected, and new issuance at elevated coupons has rebuilt the income
+ opportunity for investors.
+
+• Macro risks sit on both sides. Too little stimulus risks recession and spread widening; too
+ much risks reigniting inflation and limiting the rate-cutting cycle.
+
+• Private credit stress is a new swing factor. Early cracks in private markets could spill over
+ into public high yield, triggering spread decompression and pressure on lower-quality
+ issuers.
+
+• Quality bias and coupon are central to positioning. Our portfolios emphasise higher-
+ quality BB/B exposure and a higher coupon than the benchmark, while selectively
+ targeting cyclical recovery and LBO opportunities.
+
+After two years of strong performance, A market where carry matters more
+global high yield enters 2026 at an than direction
+interesting juncture. The recession widely That leaves today’s opportunity centred
+expected in 2023–24 never arrived: US less on further spread tightening and more
+consumers remained resilient, the AI on the strength of carry. While spreads
+investment cycle gathered pace, and rate are historically tight, overall yields remain
+cuts that began in late 2024 supported a appealing because government rates
+soft landing. Those dynamics helped drive have not fallen as quickly as expected.
+meaningful spread compression through Companies have been issuing at much
+2023–25, pushing valuations towards the higher coupons over the past two years,
+lower end of their post-crisis ranges. In other rebuilding the income available to investors.
+words, the market has already priced out a Against this backdrop, we think high yield
+significant portion of the downside risk that looks set for a year defined by steady
+investors once feared. income rather than significant directional
+ moves – what we view as a classic ‘carry
+
+ 14
+
+## Page 15
+
+year’, with potential for mid-to-high single- Where surprises may come from: M&A
+digit total returns if the macro environment and LBO activity
+holds. There are also potential upside surprises.
+ M&A and leveraged buyout (LBO) activity
+Stimulus, cycles and a narrowly balanced is re-emerging, helped by lower valuations,
+macro backdrop easier financing and ongoing deregulation.
+The broader outlook hinges on whether For credit investors, change-of-control
+the soft landing is the start of a new cycle events can create opportunities in both
+or merely the late stages of the previous directions: bonds trading below par can
+one. Our base case is constructive: both reprice higher, while those above par may
+monetary and fiscal stimulus should support fall. We expect this to be a more prominent
+US and global growth into 2026–27. Financial theme over the next year.
+conditions are loose, interest rates have
+moved meaningfully lower, and typical high Positioning for resilience and meaningful
+yield sectors – industrial and service-oriented coupon income
+companies – should be able to navigate a Given this backdrop, we are positioning
+shallow-growth but stable backdrop. our portfolios to make the most of the carry
+ environment while managing downside
+But this narrative comes with two potential asymmetry. The focus is on earning higher
+risks. The first is that stimulus arrives too late. income than the benchmark – our coupon
+Labour markets have softened, and policy is around 6.9% versus 6.3% – achieved
+operates with lags. If activity weakens further through disciplined security selection and a
+and recession probabilities rise, high yield preference for the most attractive coupons
+spreads could widen meaningfully. relative to price.
+
+The opposing risk is that stimulus proves At the same time, we maintain a clear tilt
+too powerful and reignites inflation. With a towards higher-quality credit. While CCCs
+US political cycle approaching and large delivered exceptional returns in 2023–24,
+spending plans requiring cheaper funding, that segment is now more vulnerable:
+the pressure to push rates lower is strong. But economic growth is insufficient for many
+if inflation becomes sticky, the cutting cycle issuers to ‘grow into’ their capital structures,
+could be shallower than expected, keeping and higher interest costs continue to
+high yield in a range-bound, carry-plus squeeze cash generation. We therefore
+environment. remain underweight lower-quality credit and
+ overweight BBs and stronger single-Bs, which
+Private credit as a new swing factor offer a more resilient income profile in a
+There’s also a wildcard risk factor that sits sideways market.
+outside traditional macro considerations.
+Early cracks have appeared in private Selective opportunities across sectors
+credit, where underwriting standards appear and regions
+to have been looser and transparency lower Selectivity remains essential. We see
+than in public markets. Large mark-downs or opportunities building in cyclical areas,
+fund restructurings could spill over into public such as chemicals and building materials,
+high yield, triggering spread decompression: particularly if the cycle turns up. We
+higher-quality issuers widening modestly, continue to monitor potential LBO and
+lower-quality issuers widening sharply, as has recovery candidates.
+already begun in recent weeks.
+
+ 15
+
+## Page 16
+
+Regionally, we retain a tilt towards the US, As far as the secondary market is
+where deregulation and steadier growth concerned, we expect both convertibles
+provide a clearer path for earnings. Europe and their underlying equities to do well. For
+offers pockets of value – including in convertibles, the renewal of the opportunity
+selected peripheral banks – but the broader set via the issuance of investor-friendly,
+macro picture remains more varied and
+country-specific.
+
+A year where carry does the heavy lifting
+Overall, we think 2026 is shaping up as a
+year in which high yield earns its name:
+not through dramatic spread moves, but
+through the strength of the coupon. If the
+soft-landing scenario holds – and if policy
+stimulus supports activity without reigniting
+inflation – the asset class should deliver solid
+carry.
+
+ 16
+
+## Page 17
+
+IMPORTANT INFORMATION
+
+This publication is for information, education, and non-commercial purposes only. It is not suitable
+for readers who have no prior knowledge of financial markets. The views and opinions expressed
+are those of the named author(s) and may not necessarily represent views expressed or reflected
+in other Mirabaud communications.
+
+It does not constitute an offer and is not intended to provide investment advice or investment
+recommendations. Any sectors, asset classes, securities, regions or countries shown are for
+illustrative purposes only and are not to be considered a recommendation to buy or sell. This
+publication is not intended for and cannot be shared with any person who is a citizen or resident
+of any jurisdiction where the publication, distribution or use of the information contained herein
+would be subject to any restrictions.
+
+Past performance does not predict future returns. All investment involves risks, including loss
+of the money invested. Diversification does not necessarily ensure a profit or protect against
+losses in declining markets. There is no guarantee that any particular asset allocation or mix of
+investments will meet given investment objectives or generate a given level of income. Exchange
+rate changes may cause the value of any cross-border investments to rise or fall. In general,
+investments in stocks and bonds are subject to risks such as country/regional risk, issuer, volatility
+and currency risk, which are not necessarily addressed herein. Do not base any investment
+decision on this publication alone.
+
+This publication has been prepared without taking into consideration the objectives, financial
+situation or needs of any particular investor or type of investor. Neither the issuer nor its affiliates
+accept liability for any loss incurred in connection with the use of the information available in this
+publication. The sources used are deemed reliable. However, the accuracy or completeness of
+the information cannot be guaranteed, and some figures may only be estimates. Statements
+of facts, opinions, estimates, analysis or conclusions contained herein are provided in good
+faith and without obligation to update, revise or complete. They are subject to change without
+notice and may be revised at any time. This material may include projections, forecasts, and
+other forward-looking statements which are hypothetical in nature. They involve certain risks and
+uncertainties that could cause actual results to differ from those stated herein.
+
+Mirabaud Asset Management (MAM), all rights reserved. Partial reproduction subject to proper
+quoting, full reproduction subject to MAM prior consent.
+
+ 17

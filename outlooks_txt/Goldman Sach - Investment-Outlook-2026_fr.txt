@@ -2,7 +2,7 @@ Source file: Goldman Sach - Investment-Outlook-2026_fr.pdf
 Source path: outlooks/Goldman Sach - Investment-Outlook-2026_fr.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:06:02.008227+00:00
+Extracted at UTC: 2026-03-17T21:46:05.742214+00:00
 Page count: 61
 
 ---

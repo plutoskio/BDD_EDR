@@ -1,0 +1,870 @@
+Source file: 2026-global-outlook.pdf
+Source path: outlooks/2026-global-outlook.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:45:48.356103+00:00
+Page count: 15
+
+---
+
+## Page 1
+
+The value of an investment and any income taken from it is not
+ guaranteed and can go down as well as up, and the investor may
+ get back less than the original amount invested. A ssumptions,
+ opinions, and estimates are provided for illustrative purposes only.
+ There is no guarantee that any forecast s made will come to pass .
+
+2026 global outlook
+Risk and reward
+amid an A I
+revolution
+
+## Page 2
+
+Even as the spring’s tariffs-related volatility recedes into
+ distant memory, we recognise that both geopolitics and
+ domestic politics retain their ability to wrong-foot markets.
+ Fo rewo rd
+ As such, we explain why we seek to shun ‘reckless prudence’
+ in an increasingly uncertain world, as well as offer an optimistic
+ take on emerging markets and discuss how innovative “
+ We devote much of our outlook to tackling key questions exposure can be achieved. Just as this
+ for investors raised by this period of extraordinary We also show how an evolution in liability-driven investing new industrial
+ seeks to balance preservation and growth objectives.
+ technological change. revolution based
+ Our futures
+
+ As we consider what the next five years and beyond may around human-
+ bring, our purpose at L&G feels ever more relevant: “Investing
+ Sonja Laud Bill Hughes for the long term. Our futures depend on it.”
+ Global Chief Investment Officer Global Head of Private Markets AI collaboration
+ With foundations stretching back to 1836, we have seen more
+ than one period of transformational change. Throughout them
+ all, we have sought to capture the opportunities, and manage ushers in vast
+ the risks, on behalf of our clients.
+ The first half of this decade has been characterised by a
+ global pandemic, multiple geopolitical crises and dramatic Key questions opportunities,
+ developments in artificial intelligence. The latter trend seems
+ set to dominate the second half. As investors, we can prepare for some of the probable
+ implications of AI, such as the explosion of public and private it also presents
+ Investor hopes for far-reaching applications of AI have debt issuance to support the so-called ‘hyperscalers’. But we
+ certainly led risk assets in 2025. Albeit narrowly focused gains accept that many of the questions raised by the era-defining
+ have driven many markets to significant returns, as at the time technology remain unanswered. manifold risks.
+ of writing, even after the recent pullback in some of the more That is why much of this outlook, which includes views from
+ speculative areas of the investment universe, such as crypto. across our global Asset Management business, is devoted to
+
+ We share in some of this excitement. Economists have long the theme. Key takeaways include:
+ debated the macro consequences of technological change. • AI may have a far bigger impact on the economy and ”
+ Joel Mokyr, an economic historian and recent Nobel laureate,
+ has shown that innovations like railroads, automobiles and markets than historical parallels suggest
+ personal computers have had transformative effects.
+ • The US economy will likely determine which of a wide
+ AI is likely to prove just as transformative as it reinvents the range of scenarios for global growth plays out in 2026
+ ways in which we live, work and play – if not even more so, in
+ our view. And yet, as we noted back in 2023, just as this new • Carefully constructed index, equity and or multi-asset
+ industrial revolution based around human-AI collaboration strategies could help investors overcome AI-related
+ ushers in vast opportunities, it also presents manifold risks. challenges and concentration risk
+
+ • Amid the focus on fiscal challenges, fixed income investors
+ can take comfort in the notion that the US is still seen as
+ the ‘cleanest dirty shirt’
+
+22 3
+2 3
+
+## Page 3
+
+2026 | Global outlook
+
+ Economics The euro area has been more sluggish, but growth is prepared to cut interest rates fast enough to fully offset this
+ expected to strengthen gradually from a turn in the global dynamic, especially if inflation is rising.
+ manufacturing cycle, with the potential for earlier rate cuts
+ boosting interest-rate sensitive parts of the economy and Tariff pass-through has proven more muted than expected so
+ government spending in defence and infrastructure gaining far, but this could be a delayed effect. Inventories were built in
+ traction, notably from Germany. anticipation of tariffs; once they are depleted, firms might feel
+ more compelled to raise prices.
+ The US As the chart shows, China is expected to grow in the 4-5%
+ range with government support and a diminished drag from Geopolitics remains another source of risk. For example, should
+ the property sector. the Supreme Court rule that the President has overstepped
+ his authority in using the International Emergency Economic
+ We see the UK as being relatively more vulnerable to weaker- Powers Act to impose tariffs, this could inject a fresh round of
+ swing factor than-expected growth, given tightening fiscal policy. However, uncertainty in US trade policy.
+ this could trigger more interest rate cuts than the two priced by
+ the Bank of England over the next year from 4% in November, Upside risks mainly reflect the potential for continued strong
+ in our view. investment in AI and business adoption, which could boost
+ The world’s largest economy will likely economy-wide productivity, as noted elsewhere in this outlook.
+ determine which of a wide range of scenarios Downside and upside risks However, the AI roll-out has a number of challenges. There is a
+ danger of over-investment. If return expectations are not met,
+ Downside risks revolve around concerns the US labour market AI-related equity prices could correct, delivering a shock to
+ for global growth plays out in 2026. could weaken further, in our view. So far, the slowing in household wealth. Alternatively, the pace of change might be
+ employment growth reflects both demand and supply factors, so fast that AI automation leads to job losses. The disruption
+ with immigration flows abruptly halting. But if layoffs were to could undermine consumer spending, even as firms potentially
+ increase, consumer job fears would intensify, likely triggering expand margins through efficiency gains.
+ a pullback in spending. It is not clear that the Fed would be
+ Tim Drayson
+ Head of Economics
+ “
+ Downside risks revolve
+
+ Global growth has been surprisingly resilient since the spring, Consensus GDP forecasts for 2026, since 2024 around concerns the
+ despite the uncertainty caused by disruptive US trade policy.
+ Growth has been aided by rapid AI spending and positive 5
+ wealth effects on consumption from surging big tech stocks. 4. 5 US labour market
+
+ Looking ahead, consensus forecasts reflect a return to 4 could weaken further.
+ equilibrium in a number of economies during 2026, with global 3. 5
+ growth around trend, unemployment close to its natural rate,
+ inflation potentially on a path towards target and many central 3
+ bank rates moving to near ‘neutral’. ”
+ 2. 5
+ While central forecasts appear clustered around this view, 2
+ there are a wide range of scenarios; these mostly reflect the 1. 5
+ US economy as the swing factor.
+ 1
+ In the near-term, consensus expects a couple of softer quarters
+ in the US as tariffs feed through into higher prices and this 0. 5
+ squeezes real incomes. But growth is expected to recover 0
+ through 2026. Tariffs are seen as a one-off price level effect, 2024 2025
+ which will fade, while consumers should receive a moderate US GD P Ec onomic Forecas t (QoQ % SAAR Quarterly )
+ boost to annual disposable income from rebate checks in the & (YoY % Yearly)
+ spring, given tax cuts in the One Big Beautiful Bill passed UK GD P Ec onomic Foreca st (Annual YoY %)
+ earlier this year. Euroz one GD P Ec onomi c Forecas t (Annual YoY %)
+ C hina GD P Ec onomic Forecas t (Annual YoY %)
+
+ Source: MacroBond, L&G as at 19 November 2025.
+ Assumptions, opinions, and estimates are provided for
+ illustrative purposes only. There is no guarantee that any
+ forecasts made will come to pass.
+
+4 55
+
+## Page 4
+
+Those four are: • Political peril. The political outlooks for the US, UK, EU
+ Asset Allocation and China continue to be endlessly scrutinised, with
+ • Bubble trouble. At the end of the third quarter in 2025, attention inevitably skewed towards the former. The
+ according to Bloomberg data, the market cap of the US heads to mid-term elections in November 2026,
+ so-called ‘Magnificent Seven’ stocks in the US exceeded and a Republican ‘clean sweep’ victory would offer
+ the market cap of the MSCI EAFE index, representing up the prospect of additional radical reshaping of the
+ the 700 largest stocks in Europe, the UK, Japan and the US government in the final two years of the Trump
+ Building resilient Asia-Pacific. Debate is swirling about the validity of administration. We think a Democrat victory in either
+ comparisons to the concentration risk of the dotcom boom House of Congress would imply that two years of
+ in the late 1990s. legislative paralysis beckons.
+
+ Bubble trouble: S&P 500 market cap versus global GDP
+ portfolios in an
+ 100% 250%
+
+ 80% 200%
+ uncertain world
+ 60% 150%
+ Why we seek to shun reckless prudence in favour 40% 100%
+ of clearly reasoned strategic allocations. 20% 50%
+
+ 0% 0%
+ 1998 2003 2008 2013 2018 2023
+ Chris Jeffery Robin Martin
+ Head of Macro Strategy, Asset Global Head of Investment Strategy and US Share of Global GD P S&P 500 Market Cap Relativ e to Global GDP ("Buff et Index ")
+ Allocation Research, Private Markets
+ Source: Bloomberg, L&G calculations as of 31 October 2025.
+ Past performance is not a guide to the future.
+
+ David Chapman Political peril: Global Economic Policy Uncertainty Index
+ Head of Multi-Asset, L&G – Asset 700
+ Management, America
+
+ 600
+
+ 500
+
+ 400
+ In a twist on the author Leo Tolstoy’s famous adage, we’d
+ argue that “all bullish investors are alike, but all bearish Known unknowns 300
+ investors are bearish in their own way”. Investment managers
+ can always point out reasons to worry, but the nature of the A number of these drivers are better characterised as 200
+ concern shifts over time. existential uncertainty rather than risk. Risk refers to situations
+ where the probabilities of outcomes are known or can be 100
+ The regular survey by Bank of America of fund managers is a measured; uncertainty describes scenarios where these
+ good reflection of the zeitgeist. probabilities are unknown or difficult to estimate. Uncertainty 0
+ is fundamentally less quantifiable and more challenging for 1997 2001 2005 2009 2013 2017 2021 2025
+ With 2026 nearly upon us, the following are top of the list: AI investors to manage. Index level
+ valuation concerns, nebulous fears about private credit and The only way to avoid all such worries is to take shelter in Global Economic Policy Uncertainty Index: Current Price Adjusted GDP, Index, Monthly, Not Seasonally Adjusted. Source: Federal Reserve Bank of St. Louis,
+ the perennial angst about the inflation outlook. Geopolitics is cash, but that is not a recipe for either liability- or inflation- as at September 2025.
+ also never far from investors’ thoughts, given the simmering beating returns. In fact, it is compensation for taking exposure
+ tensions. to these unquantifiable uncertainties that can drive excess
+
+ returns. The sensible framing of the problem is to think
+ about how they can be mitigated without forgoing the most
+ important opportunities.
+
+ In the current environment, we think there are four important
+ risk axes where investors can legitimately debate whether
+ simply avoiding the risk portends supernormal returns or
+ whether its crystallisation could trigger stagnation or, even
+ worse, a genuine market relapse.
+ Assumptions, opinions, and estimates are provided for illustrative purposes only. There is no guarantee that any forecasts
+ made will come to pass
+
+6 7
+
+## Page 5
+
+• Inflation irregularities. The aftermath of the pandemic, • Minsky memories. The growth of private financing is a (4) Risk-conscious hedging of unacceptably poor outcomes
+ combined with the Russian invasion of Ukraine, drove double-edged sword. Wider participation in private credit What do we do about may seem uncompelling given the historically poor carry – the
+ inflation across the OECD to levels not witnessed since and equity increases the opportunity set for a broad range return or cost of holding the position. However, we see equity
+ the 1970s. Having been let out of the box so recently, it of investors, but fosters concerns about the rapid growth these concerns? hedges as priced fairly (relative to their own history) going into
+ may be hard for investors to completely move on from of financing outside of the most regulated channels. That 2026. Prospectively, though, the four risk axes outlined above
+ inflation concerns. inevitably draws comparison with previous episodes of seem poised to pull portfolios strongly away from central
+ rapid credit growth and the risk of overextension among There is extensive evidence that the perception of higher expectations in any one of those directions. Direct hedging
+ both borrowers and lenders. uncertainty leads to heightened risk aversion and amplifies ensures resilience in the face of those risks.
+ behavioural biases such as familiarity and home bias.1 It is
+ Inflation irregularities: Inflation, consumer prices for OECD members, percent, annual, not seasonally adjusted linked to the idea of ‘reckless prudence’ – insufficient risk- Within established asset classes:
+ taking to realistically meet long-term objectives. We’d argue
+ 18 that’s almost the opposite of what is needed. (5) Sector and geographical diversification 2 can be achieved
+ through active risk taking or strategic benchmark design
+ 16 Instead, we aspire to build ‘resilient portfolios’. and selection. In recent years, sectors and markets with less
+ 14 challenging valuations generated strong absolute returns
+ What does that mean? We can divide a list of initiatives that while being largely overshadowed by US large cap tech.
+ 12 we can use to think about this into strategies at the total Active asset allocation can help identify ample opportunities
+ 10 portfolio level and those which operate at the asset-class level. outside the mainstream. In private markets, asset owners are
+ 8 increasingly considering complementing US exposures with
+ At the total portfolio level, steps include: allocations to Europe and, selectively, APAC.
+ 6
+ 4 (1) Adding alternative public assets: broad commodity ETFs (6) Decorrelated niches: as an example, within private credit,
+ can offer liquidity and simplicity, while synthetic commodity there is a spectrum of risk-return profiles. Many investors
+ 2 exposure can enhance capital efficiency. Investors typically now have substantial allocations to sub-investment grade
+ 0 have a small, if any, allocation to commodities, which can lending. Although returns have been healthy, this does come
+ 1970 1976 1982 1988 1994 2000 2006 2012 2018 2024diversify traditional exposures to equities and fixed income.with associated credit risk. The investment grade space
+ in private credit, which has long been used by insurers to
+ (2) Adding private assets: investors have long looked to match liabilities, has a track record of credit quality being
+ private markets with the aim of enhancing portfolio outcomes substantially insulated from the economic cycle.
+ through a combination of complexity and illiquidity premia,
+ in addition to diversification. Certain market segments offer We will conclude with another, unaltered quote from a Tolstoy
+ Source: Federal Reserve Economic Data, Federal Reserve Bank of St. Louis, as at 18 November 2025. access to industry sectors and business types that are hard novel: “All the variety, all the charm, all the beauty of life is
+ to access via public markets, such as social and affordable made up of light and shadow”. By accepting the shadow of
+ Minsky memories: private credit loans outstanding ($ bn) housing. We think affordable housing can be attractive to uncertainty, and harnessing the light of strategic allocations,
+ clients who take a very long-term view in portfolio construction we seek to construct truly resilient portfolios for our clients.
+ 1400 and value the prospect of stable, inflation-linked returns over
+ liquidity needs.
+ 1200
+ (3) Adding alternative risk premia may be increasingly
+ 1000 attractive for targeting returns as the risk / reward outlook for
+ equities becomes ever more challenging. Investors seeking “
+ 800 to clear a return hurdle may be compelled to move beyond There is extensive evidence
+ traditional asset classes in search of consistent, repeatable
+ 600 outcomes. that the perception of
+
+ 400 higher uncertainty leads to
+
+ 200 heightened risk aversion and
+ amplifies behavioural biases.
+ 0
+ 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 20241. See Prospect Theory: An Analysis of Decision under Risk, by Daniel
+ U nited Stat es Europe excl UK U nited Kingdom Rest of world Kahneman and Amos Tversky (1979) ”
+ 2. It should be noted that diversification is no guarantee against a
+ Source: BIS Quarterly Review as at 11 March 2025. loss in a declining market.
+
+8
+8 9
+
+## Page 6
+
+Credit markets Gross public sector debt/GDP
+
+ 14 0 14 0
+ *Debt held by the public.
+ 12 0 12 0
+ Fiscal fault Advanced Economies
+ 10 0 10 0
+
+ 80 80
+ lines: how debt 60 60
+
+ 40 40
+ sustainability fears 20 20
+ United States*
+ 0 0
+ 1900 1910 1920 1930 1940 1950 1960 1970 19801 990 2000 2010 2020 2030
+ may shape 2026 Source: CBO, IMF; Minack Advisors
+ As at 31 October 2025.
+ How after years of fiscal largesse, the ‘debasement trade’ Enter the bond vigilantes In the US, worries around a looming debt crisis spiked shortly
+ after the tariffs-related ‘Liberation Day’. However, although
+ has gained significant momentum, just as AI fuels an US largesse has dominated headlines, investors have become
+ The post-pandemic boom coincided with an energy price spike increasingly wary of the deteriorating fiscal position of other
+ following Russia’s invasion of Ukraine, leading to inflation and G10 markets.
+ extraordinary wave of capital investment. rising rates. The ‘bond vigilantes’ returned amid concerns about
+ inflation and debt sustainability, resulting in a sharp increase in The material repricing in the term structure of rates is not just
+ longer-term funding costs. a US phenomenon – term premiums have risen even more
+ Matthew Rees Anthony Woodside abroad.
+ Head of Global Bond Strategies – Head of Multi-Sector Fixed Income & Investment
+ Unconstrained Strategy, L&G – Asset Management, America
+ US Treasuries have outperformed developed-market
+ Dan Dreher Lushan Sun
+ Solutions Strategist, Head of Cross-Asset Research, Private Markets peers over the past year
+ L&G – Asset Management, America
+ G-4 YTD change in yields (basis points Evolution of G-4 2s30s yield curves (basis points)
+
+ 60 250
+ A surge in government debt during the pandemic enabled 200
+ developed economies to survive the crippling impact of 40
+ 150
+ lockdowns on economies. But it also reminded politicians that
+ giving money to the electorate sometimes translates into votes. 20 100
+
+ 50
+ Perhaps unsurprisingly, therefore, debt has reached levels not
+ seen since the Second World War. 0 0
+
+ In the US, despite persistent calls for fiscal consolidation by -50
+ -20
+ Democrats and Republicans, there appears to be little appetite -100
+ to curb spending, and the fiscal deficit remains elevated.
+ -40 -150
+
+ -60 US Germany UK Japan
+ US Germany UK Japan
+
+ Source: Bloomberg, L&G Research, as of 12 November 2025.
+ Past performance is not a guide to the future.
+
+10 11
+
+## Page 7
+
+2026 | Global outlook
+
+ For some time, we have believed that governments are not
+ incentivised to issue the most expensive debt. And this is what
+ has happened over the past few years – the proportion of
+ shorter-dated debt has increased.5
+ Keeping the peace with While the end of quantitative tightening should provide some
+ modest relief, price-sensitive buyers will likely continue to
+ bondholders demand additional compensation to take down long-term debt
+ amid elevated policy uncertainty and two-way inflation risks.
+
+ Although fiscal austerity is not politically fashionable, the
+ stirring of the bond vigilantes is nudging some governments to What happens next? At the same time, the recent bankruptcies of First
+ respond. The role of Treasuries Brands and Tricolor have created a lot of anxiety over
+ The UK is aiming to maintain a fiscally neutral budget by the The rollover of debt mountains could become an issue in 2026 the health of the private credit market. In fact, both
+ end of parliament, while the new Japanese premier is also for countries whose average debt maturity is short. Most were deep sub-investment grade (“IG”) borrowers
+ trying to contain expectations over huge fiscal spending. developed markets are not yet near this position, but that could The ‘debasement trade’ has become increasingly topical – so their bankruptcy had little impact on IG private
+ change over the next few years. amid the surge in gold and crypto prices. While fears over credit. They also sought most of their financing from
+ Apart from France, the budget adjustments required by government debt and expansionary monetary policies eroding banks and working capital funds; sub-IG private credit
+ governments are not massive by historical standards, but Apart from an unexpected outbreak of fiscal austerity, the purchasing power of fiat currency are not without merit, we exposure was very limited.
+ we are not yet seeing many signs that increasingly populist investors should also watch out for indications of financial still see a place for US Treasuries.
+ governments will accept the pain. repression or engineering to finance deficits. Idiosyncratic cases like First Brands point to emerging
+ With yields well above post-global financial crisis averages, cracks, but there’s no clear evidence at the moment
+ We note that the US promotion of stablecoins (often backed and the US policy rate generally viewed as modestly pointing to broader stress in sub-IG private credit,
+ by short-term government debt) and the easing of US bank restrictive, we believe short-dated Treasuries can serve as an in our view. Default rates in direct lending remain
+ Budget adjustment required to stablise debt/GDP capital regulation (enabling banks to hold more treasuries) effective hedge should risk assets come under duress and / or low and falling interest rates should support debt
+ should help the government fund its fiscal deficit. the economy tip into recession. servicing. Nevertheless, recent events have been a
+ useful wakeup call and once again emphasise the
+ Canada Finally, a return of quantitative easing could also assist in Moreover, if this year is any indication of the market’s importance of robust underwriting and portfolio
+ financing deficits, but this would most likely require some form assessment of fiscal risk, investors can take comfort in the diversification. We think investor caution should drive
+ Ge rm an y of market or economic shock. Governments (and investors) notion that the US is still seen as the ‘cleanest dirty shirt’. better underwriting standards, which could lead to
+ should be careful about what they wish for! improved credit performance for future vintages.
+ UK
+ AI spending in focus 2025 is the year when the AI revolution truly reached
+ US private credit. Several multi-billion deals were
+ In tandem with the sovereign debt dynamics discussed above, announced, including Meta’s $29bn AI data centre
+ Fr ance AI is fuelling an extraordinary wave of capital investment. financing and Microsoft’s $30bn partnership with
+ BlackRock.* This is not a fleeting trend: we expect
+ Ital y “ The AI capex boom is well underway, and even with tech further growth in private credit financing of digital
+ Change in primary balance required infrastructure in 2026. The surge in debt supply could
+ to stabilise debt/GDP if average Investors can take companies funding a healthy portion from their free cash flows, shift negotiating power in favour of lenders, which
+ Japan financing costs reflect current 5 the revolution will be heavily funded by debt. This deluge of
+ year bond yield would be welcome news for investors after several
+ comfort in the supply is not only likely to exert widening pressure on spreads, years of spread compression and covenant erosion.
+ -1.0 -0.5 0. 00.5 1. 01.5 2. 02.5 3. 0 3.5 but may also put upward pressure on risk-free rates.
+ % OF GDP However, there are plenty of risks associated with
+ As at 31 October 2025. Assumptions, opinions, and estimates are notion that the US According to Morgan Stanley,6 global data centre expenditure the sector – cost volatility, obsolescence risk and
+ provided for illustrative purposes only. There is no guarantee is projected to reach about $3 trillion by 2028, which translates overcapacity, to name a few. For investors, we
+ that any forecasts made will come to pass. is still seen as the to ~$1 trillion in annual investment demand by 2028. For believe the opportunity lies in targeting private credit
+ context, the total capital expenditure of all S&P 500 companies strategies that capture the structural tailwinds of AI-
+ In the US, the One Big Beautiful Bill Act is projected to increase in 2024 was only about $950 billion. Most importantly, driven infrastructure, while maintaining disciplined risk
+ the deficit by $3.4 trillion over 10 years, according to the ‘cleanest dirty shirt’. Morgan Stanley expects $800 billion of supply to flow through management in a rapidly evolving market.
+ Congressional Budget Office, largely owing to reduced federal private credit markets by 2028.
+ tax revenues. Consequently, the technical backdrop will remain
+ a headwind for Treasuries.
+ ”
+
+ 6. As at July 2025
+ * For illustrative purposes only. Reference to a particular security is on a historic basis and does not
+ mean that the security is currently held or will be held within an L&G portfolio. The above information
+ 5. Refer to chart C on page 28 of the 2025 OECD Global Debt report. does not constitute a recommendation to buy or sell any security.
+
+12 13
+
+## Page 8
+
+The potential yield pick-up of enhanced LDI
+ The next wave of liability- LDI 3.0 takes its inspiration from how insurers structure their Total = 5.5%
+ investments to balance preservation and growth objectives, Total = 5.0% Opportunistic
+ driven investing widening the LDI investment toolkit to include: 0.6% Fixed Income
+ 0.9% Long Treasury
+ • Short duration fixed income to enhance collateral
+ Christopher Wroblewski efficiency and optimize liquidity and yield objectives 1.8% Investment Grade
+ Co-Head of Solutions Strategy, L&G Intermediate Credit Private Credit
+ – Asset Management, America • Opportunistic fixed income to improve diversification and 1.3%
+ unlock uncorrelated sources of return potential 0.5%
+ Long Treasury
+ • Securitised assets for potential spread pick-up while 0.4% Intermediate Credit
+ We show how an evolution in approach maintaining high credit quality
+ seeks to balance preservation and 2.8% Long Credit
+ • Investment grade private credit to gain yield potential 2.2% Long Credit
+ growth objectives, by widening the and diversification
+ investment toolkit. To be sure, there is no one-size-fits-all solution. Circumstances
+
+ Defined benefit (DB) pension plans have long relied matter, and we think LDI programmes should be considered Traditional LDI Enhanced LDI
+ on liability-driven investing to manage risk and align from a holistic point of view. However, as the chart shows, we
+ assets with liabilities. As the landscape of DB pension find that the enhanced fixed income portfolios that characterise Source: L&G – Asset Management, America and Bloomberg. Data as of September 30, 2025. Traditional LDI represents a portfolio of 50% long credit, 30%
+ plans continues to evolve, we are entering its next LDI 3.0 can potentially lead to enhanced yields and improved intermediate credit and 20% custom Treasury. Enhanced LDI represents a portfolio of 40% long credit, 10% intermediate credit, 30% investment grade private credit,
+ wave: LDI 3.0. funded status outcomes while also lowering drawdown 10% custom Treasury and 10% opportunistic fixed income.
+ exposure. Assumptions, opinions, and estimates are provided for illustrative purposes only. There is no guarantee that any forecasts
+ LDI 3.0 builds on the evolution of the strategy over made will come to pass.
+ the past two decades. In the early stages, plan The bottom line: LDI has long sought to minimise volatility The value of an investment and any income taken from it is not guaranteed and can go down as well as up, and the investor
+ sponsors opted to simply extend the duration of their and improve funded status outcomes. As DB plans continue to may get back less than the original amount invested.
+ fixed income using longer duration market-based evolve and mature, so should the LDI strategy.
+ benchmarks. In the US, the next phase of LDI involved
+ a more customised approach to credit and Treasury
+ strategies to better align with the liability risk profile,
+ most commonly involving a long credit allocation and a
+ custom Treasury portfolio to hedge interest rate risk.
+
+ As funding ratios for corporate DB plans have improved
+ in recent years, many DB plans are fully funded or in
+ surplus, with fixed income the dominant class within
+ their asset allocations. As corporate DB plans mature
+ and fixed income allocations grow, plan sponsors
+ have more flexibility to improve diversification and
+ potentially seek more yield while still meeting their
+ hedging objectives.
+
+ Enter LDI 3.0, which involves broadening the fixed
+ income toolkit beyond traditional investments to
+ potentially enhance yield and improve diversification.7
+ It comes as more companies are planning to keep
+ their overfunded plans compared to prior years amid
+ growing recognition of the opportunities that exist from
+ managing the plan in run-off mode. Indeed, according
+ to a Mercer survey in June, 50% of US plan sponsors do
+ not intend to terminate their DB plans in 2025, up from
+ 36.7% in 2023.
+
+ 7. It should be noted that diversification is no guarantee
+ against a loss in a declining market.
+
+14
+14 15
+
+## Page 9
+
+DC pensions
+ Addressing under-
+ saving for retirement
+
+ Given strains on government finances, how can the More broadly, global responsible investment integration and
+ climate-aware investing has extended to encompass nature
+ pension industry meet this growing challenge? and social impact. At L&G, we have enhanced our offering to
+ DC savers to these areas, with a focus on emerging markets.
+ We’ve also allocated to thematic equities focused in areas of
+ sustainability.
+ Jayesh Patel These are examples of how by using every lever at our
+ Head of UK DC Distribution disposal, seeking dynamic asset allocation and advanced risk
+ management solutions, the pension industry can help support
+ changing member and societal needs.
+
+ According to the Department for Work and Pensions (DWP), While investment innovation is vital, it alone won’t solve
+ around 12.5 million UK adults, or 38% of the working-age Income opportunities pension adequacy. Just as essential are member support;
+ population, are currently under-saving for retirement.8 financial education; personalised, tech-driven tools and nudges
+ Delivering more income opportunities in the growth stages toward higher contributions.
+ There are important nuances within that cohort. For example, while balancing flexibility in the decumulation stage is key for
+ ethnic minorities face a significant pensions savings gap – our modern-day defaults.
+ research suggests that they are under-saving by as much as The value of an investment and any income taken from
+ 54% compared to white British Defined Contribution (DC) Approaching the decumulation phase, we favour placing it is not guaranteed and can go down as well as up, and
+ pension savers.9 greater weight on risk management by lowering the equity and the investor may get back less than the original amount
+ increasing the dynamic asset allocation. Decumulation is likely invested.
+ Given mounting pressures on government finances and the to lead further innovation in 2026.
+ wind down of DB pensions, we believe DC schemes must We believe private markets will continue to gain traction
+ evolve to address pension adequacy. To improve retirement through innovative pooled vehicles that solve the daily pricing
+ outcomes, smarter investment strategies are essential, in
+ our view. DC schemes are increasingly diversifying beyond and liquidity challenges. These markets offer diversification
+ traditional asset classes to unlock growth. and access to illiquidity premiums, with the prospect of
+ boosting long-term returns.
+ Approximately 90% of UK DC pension savers currently remain
+ in default investment funds,10 driving renewed attention to L&G was one of the first asset managers to launch a diversified
+ enhancing these offerings – a trend set to continue in 2026. private markets strategy range designed for DC savers.
+ While the primary goal is to improve member outcomes, this
+ approach also channels pension capital into investments that
+ support economic growth, infrastructure and social progress.
+
+ 8. As at March, 2023
+ 9. As at June, 2023
+ 10. Source: DWP as at December, 2024
+ It should be noted that diversification is no guarantee against a loss in a declining market.
+
+16 1717
+
+## Page 10
+
+2026 | Global outlook
+
+ Long-term themes
+ Is A I the answer ?
+
+ While scepticism runs high, there’s potential for
+ AI to have far bigger impact on the economy and
+ markets than historical parallels suggest.
+
+ Jason Shoup Matthew Rodger
+ Chief Investment Officer, Co-Head Economist
+ of Global Fixed Income, L&G – Asset
+ Management, America Not a bubble but a
+ sentiment surge
+ James Tyrrell Ewan Bowerbank
+ Research Analyst Portfolio Manager We believe two distinct concerns – that ‘hyperscalers’ may We do think AI has the potential to change businesses the
+ be overvalued and that AI may fail to deliver real productivity way the Internet did, but at a much faster rate. Its impact will
+ gains – often get conflated in the current debate about be broad and deep, with businesses previously considered to
+ the technology. While the jury is still out on the long-term have impeachable economic moats brought under pressure.
+ economic implications of AI, we believe bubble concerns about Numerous blue-chip companies could have their ‘Kodak
+ current valuations are overblown. Those concerns centre moment’ simultaneously.
+ around the belief that hyperscaler valuations look so stretched
+ that it’s difficult to see how the sector can generate the
+ required rate of returns to justify its massive capex.
+
+ AI is the topic du jour, with concerns about bubble risk Meanwhile, big tech’s push to build massive data centres Yet hypserscalers’ huge stock gains over the last three years
+ have come with a doubling of EBITDA and steady margins,
+ dominating headlines. Yet while AI-scepticism runs high, could balkanise AI infrastructure, with global powers like the not just multiple expansion. Nvidia11 – a key enabler of AI –
+ there’s been a lot less focus on the implications should the US and China capturing disproportionate benefits, even as AI has seen its price-to-earnings (P/E) multiple compress from “
+ technology deliver. applications could simultaneously democratise growth in more 39x to 29x, even as its total shareholder return soared by We believe two distinct
+ fiscally constrained regions. 998%, driven entirely by earnings growth rather than multiple
+ Historical parallels suggest a modest productivity boost expansion.12 concerns – that
+ translating into 30-50 basis points of gross domestic product With regards to the labour market, in typical capex cycles,
+ (GDP) uplift for a decade, before the economy reverts to trend. job shedding is delayed until recessions force firms to realise If we aren’t in a bubble on current valuations, and today’s
+ But AI’s potentially universal application and ‘agentic’ ability to productivity gains. Yet that may not be the case with AI, as use cases support the current level of spending, it’s worth ‘hyperscalers’ may be
+ replicate human output hint at a far bigger impact. it rivals humans in an increasingly larger share of tasks. The considering whether we are in a sentiment bubble. Nvidia’s
+ cadence of labour market effects from AI may catch many by CEO, Jensen Huang, speculated in September that global AI
+ surprise, with the potential risk that AI increasingly weighs on infrastructure spending may reach $3-4 trillion per annum over valued and that AI
+ Long-term economic white-collar jobs even as productivity rises. by the end of the decade. This scale of spending is many
+ magnitudes above what even the most bullish analysts are may fail to deliver real
+ implications In the US, the labour market already looks fragile; companies forecasting.
+ have paused hiring given tariff uncertainty while anticipating
+ If AI-powered computers can take on a wider set of tasks, AI productivity gains to come. A move to shed labour outright Amazon’s Jeff Bezos has called the AI investment boom an productivity gains –
+ demographic burdens in rich countries could lighten through could squeeze median and youth consumers. Typically, “industrial bubble,” not a financial one. All AI ideas are getting
+ automation in sectors like elderly care. AI could also reshape such a scenario would impact growth and might lead to a funded – good and bad. If the tech is real, then most of the
+ the debt sustainability profile for rich countries. If AI powers recession. Yet if AI is delivering productivity gains and driving value will accrue to the implementers, not the enablers. often get conflated.
+ a run of growth and tax revenues similar to the stellar run an investment capex boom, then GDP might remain near trend
+ of technology-enhanced global growth that substantially even as the unemployment rate rises – a very unusual scenario. As such, from a macroeconomic perspective, bad AI
+ lightened the fiscal burden in the 1990s, today’s fiscal investments might be an acceptable cost to bear for the sake of
+ anxieties could ease. How markets could react to this scenario is tricky to predict. fast innovation that could revolutionise the American economy.
+ If median-consumer weakness drives disinflation and In addition, the AI spending boom does not look aggressive ”
+ unemployment rises while growth stays near trend, the when compared to other technological revolutions. That said,
+ Federal Reserve could cut aggressively. Lower rates may not some hyperscalers seem to be investing with the rationale that
+ save jobs but could be risk-positive for markets. falling behind the AI-curve will present existential risk to their
+ companies. That dynamic likely increases the risk of wasteful
+ 11. For illustrative purposes only. The above information does not constitute a recommendation to buy or sell any security. spending.
+ Reference to a particular security is on a historic basis and does not mean that the security is currently held or will be held
+ within a L&G portfolio. 12. Source for hyperscaler and Nvidia metrics: Bloomberg as at November.
+
+18 19
+
+## Page 11
+
+Frontier Data Centre Costs
+ The revolution will be funded by debt 120
+
+ The AI investment boom is being is clearly being debt-funded. We see 2025 as a likely inflection point, where companies 100
+ are transitioning from self-financing to more reliance on debt markets, spreading AI-related risks more broadly across the
+ economy. 80
+
+ Everyone is now asking how much AI-related debt issuance is on the horizon after deals by Meta ($30 billion), Oracle ($18
+ billion), Google ($24 billion), according to Bloomberg as at November, and a handful of high-yield-rated data centre issuers 60
+ recently.* A recent McKinsey report sees nearly $7 trillion of hyperscaler capex through 2030 ($5.2 trillion for AI and $1.5
+ trillion for non-AI). Morgan Stanley estimates $3 trillion over three years, while EpochAI estimates that the cost of the most 40
+ expensive data centre could reach $100 billion by 2027. Even with hyperscalers still funding a healthy portion from their free
+ cash flow, the implication is $500-800 billion of additional debt annually – or $2-3 trillion cumulatively by 2030.
+ 20
+
+ Hyperscaler capex through 2030 0
+
+ $5.2 trillion forAI Source: EpochAI, Frontier Data Centers as at November 2025.
+ Assumptions, opinions, and estimates are provided for illustrative purposes only. There is no guarantee that any forecasts
+ made will come to pass.
+
+ Here’s one way to frame the debt financing requirement. Over
+ $1.5 trillion for non-AI the past decade, the US non-Treasury bond markets grew $1.5
+ trillion annually, according to Bloomberg data as at November. History often rhymes
+ Adding $500-800 billion would boost net supply by 30-50%,
+ our calculations indicate, pushing the total above $2 trillion Will AI echo Moore’s Law, the dot-com boom, the gold
+ for the first time and setting a record for the largest year-over- rush or the railroad era? Perhaps a little of each. What
+ Source: McKinsey, as at April 2025. year percentage increase going back a decade. is certain, in our view, is investor uncertainty and the
+ need for diversification. The next decade will reveal
+ A sub-plot to the supply story is the debate around which whether the current boom is a bubble, a revolution or
+ * For illustrative purposes only. Reference to a particular security is on a historic basis and does not mean that the security is bond markets will see the most AI-issuance. To date, data something in between.
+ currently held or will be held within an L&G portfolio. The above information does not constitute a recommendation to buy or centres have mostly been financed in securitized and private
+ sell any security. markets as off-balance sheet/limited-recourse/project-style In the meantime, while we are certainly on the lookout
+ financing. But the financing needs are now too big to bypass for AI disruption to the economy and markets, our base
+ Assumptions, opinions, and estimates are provided for illustrative purposes only. There is no guarantee that any forecasts the greater demand available in public markets, as the recent case for 2026 is that AI-driven capex and productivity
+ made will come to pass. surge in unsecured issuance from Meta, Google and Oracle gains continue to drive economic momentum,
+ illustrates. Indeed, there has been an increase in quasi-private corporate profits stay resilient and companies refrain
+ transactions where large financing deals begin life in the from shedding labour for now, in line with historical
+ private market and then get registered and marketed to public productivity booms where labour shedding comes
+ investors before pricing and distribution. later.
+
+ The rising capital intensity of AI infrastructure could accelerate
+ public-private hybrid financing models. In a world where AI
+ does drive significant growth, venture capital may see outsized
+ gains, while enabling infrastructure – especially data centres –
+ may command even higher valuations in private markets.
+
+ In this scenario, leverage in AI infrastructure may amplify
+ returns rather than stress credit markets. However, a balanced
+ view needs to be taken in times of uncertainty. With private
+ markets today offering entry points across the risk-return
+ spectrum, selecting investments that offer AI exposure and
+ retain value in diverse exit scenarios becomes the challenge.
+
+ It should be noted that diversification is no
+ guarantee against a loss in a declining market.
+
+20 21
+
+## Page 12
+
+We believe a carefully constructed index, equity and or
+ multi-asset strategy can seek to overcome this. For example,
+ to address concentration risk, an equal weight approach can
+ be used to cap exposure to individual names in a transparent
+ Diversification fashion while still providing access to underlying growth
+ potential.
+
+ A diversified13 approach that captures full AI value chain –
+ from infrastructure providers to application innovators – is a
+ and the global A I pragmatic response to the pace of change we are seeing in AI.
+ Rather than picking today’s best-known names and hoping
+ their success continues, investors could instead consider
+ investing in a wide range of companies driving AI adoption
+ across many sectors and geographies, providing much more
+ growth story rounded exposure.
+
+ The value of an investment and any income taken from it
+ is not guaranteed and can go down as well as up, and the
+ How a carefully constructed index, equity and investor may get back less than the original amount invested
+ or multi-asset strategy could help investors
+ overcome the challenges posed by AI.
+
+ Aude Martin
+ Head of Pooled Index Investment
+ Specialists
+
+ For many investors, capturing AI growth appears to present a • Open-source distributed intelligence: state-of-the-
+ troubling compromise: is concentration risk simply the price of art small, local models, often open-source, are creating
+ entry to the most compelling growth story around? distributed intelligence layers
+
+ We believe this dilemma is illusory. • Enterprise deployment acceleration: adoption is
+ expanding from testing to full deployment phases.
+ Although the leading names in AI are domiciled in the US, Complex AI systems are driving demand for robust
+ it’s crucial to remember that AI is a global phenomenon, not oversight tools, creating entirely new categories of
+ a regional one. As a result, we expect AI growth to reflect essential infrastructure for explainability, security and
+ current global GDP trends and divisions, with the US, China compliance
+ and Europe the driving forces, while also capturing growth • The inference economy: AI infrastructure is expanding
+ elsewhere through distributed applications. Sovereign beyond traditional data centres into interconnected
+ independence requirements will also drive domestic AI systems (edge devices, specialised processors and
+ investment into data centres, as we are seeing play out now. distributed networks)
+
+ Increasing adoption in consumer, enterprise and cross-industry • Next-generation interface revolution: multi-modal
+ applications can also be expected to drive growth. AI adoption through earbuds, augmented reality, wrist
+
+ When we consider the current stage of AI evolution, we see controllers and ambient computing is creating new
+ several near-term developments that we believe should be on platforms that transcend existing market-leading
+ investors’ radar screens: interfaces like smartphones, laptops, and tablets
+
+ • Data centre capex diversification: diversification beyond For investors, the challenge is clear: AI is complex, multi-
+ NVIDIA to Google* TPUs, AMD and custom AI chips, shift faceted and fast evolving. Picking individual winners is difficult,
+ from general-purpose to application-specific processing and concentration risk can be high in market-cap-weighted
+ architectures indices.
+
+ * For illustrative purposes only. Reference to a particular security is on a historic basis and does not mean that the security is
+ currently held or will be held within an L&G portfolio. The above information does not constitute a recommendation to buy or
+ sell any security. 13. It should be noted that diversification is no guarantee against a loss in a declining market.
+
+22 2323
+
+## Page 13
+
+2026 | Global outlook
+
+ Inflation We have also observed investor sentiment towards EMD
+ Emerging markets (Median) improving. Global liquidity conditions have strengthened, and
+ 10 after years of significant outflows, EMD funds are now seeing
+ renewed inflows, EPFR data indicate as at November. Notably,
+ 8 crossover investor allocations to EMD have risen from 8% to
+ 15% over the past three years, Bank of America, also as at
+ 6 November.
+ Upside risk after a
+ 4 Given this backdrop, we see limited risk of a sharp widening in
+ 2 EM spreads. Despite record issuance this year, spreads have
+ compressed, indicating strong demand for the asset class. Even
+ 0 CCC rated issuers such as Suriname, Laos, and the Republic of
+ resilient 2025 the Congo have successfully accessed markets, underscoring
+ -2 investor appetite for EM paper.
+ We identify reasons for cautious optimism and discuss EM US
+ how we think innovative exposure can be achieved. Source: Macrobond, as at 19 November, 2025. Assumptions, opinions,
+ and estimates are provided for illustrative purposes only. There
+ is no guarantee that any forecasts made will come to pass. “
+ With resilient
+ Raza Agja Erik Lueth Fiscal policy will likely be less accommodative, as the majority
+ Head of Emerging Market Sovereign Emerging Market Economist of emerging economies still need to return their fiscal balances growth across
+ Strategy to pre-COVID levels. Particularly worrisome, in our view,
+ have been the fiscal dynamics in Poland, Colombia and to
+ a lesser extent Indonesia. But there have also been success emerging markets,
+ stories – notably Chile, South Africa and India. Government
+ Jake Harper debt remains much lower in emerging economies than in their upward revisions to
+ Senior Investment Manager advanced peers, including when measured against taxing
+ power.
+ forecasts, declining
+ Next year will see a number of elections that could mark
+ crucial turning points. We believe a market-friendly pivot is
+ Half a year after the US raised tariffs to levels not seen in a most likely in Colombia. Brazil’s election remains a toss-up inflation, and a ro-
+ century, we are still to see a significant effect on emerging Rate of change at this stage, while Peru is likely to remain politically divided
+ markets. irrespective of the outcome. In Israel and Hungary, two leaders bust external sector,
+ Importantly, with inflation falling and now at par with G7 who have dominated politics for decades are fighting for
+ As at November, exports are growing above 10-year averages levels (see chart), we believe emerging markets will continue survival.
+ for each of the four regional groupings and China, according to cut interest rates. Some 40% of the top 20 cut over since the we maintain a con-
+ to Bloomberg data. In our view, front-loading and re-routing summer, as at November, with the rest staying on hold. This As of October, the International Monetary Fund expects
+ probably delayed Liberation Day’s impact. still needs to feed through to the real economy. On top of that, growth of emerging and developing countries to accelerate in
+ market consensus is that the US Federal Reserve is expected 2026. We are sympathetic to this view, as risks look skewed structive stance on
+ On the other hand, trade uncertainty should be significantly to ease by 100 basis points over the next 12 months. to the upside. Capital flows to emerging markets have been
+ lower in the lead-up to the US mid-term elections and several lacklustre over the past decade. Hence, we believe the risk of emerging market
+ large emerging markets (EMs) are still to negotiate tariffs a sudden reversal in capital flows – perhaps the quintessential
+ down. We should also note that free-trade negotiations are crisis for such economies – is low. China has experienced a
+ mushrooming in the rest of the world – a pattern already multi-year property and earnings recession, again suggesting debt.
+ observed during President Trump’s first term. that risks are asymmetric. Finally, we believe the US dollar is
+ more likely to fall than rise given excessive valuations, which
+ tends to boost EM growth.
+ The debt view ”
+
+ With resilient growth across emerging markets, upward
+ revisions to forecasts, declining inflation, and a robust external
+ sector, we maintain a constructive stance on emerging market
+ debt (EMD) and anticipate continuing to buy on pullbacks as
+ we head into year-end and 2026.
+
+ Our confidence is underpinned by structural improvements
+ now being reflected in credit rating trends. Upgrades have
+ outpaced downgrades in 2025, signalling positive momentum.
+ There have been zero sovereign defaults in the last two years,
+ and we expect aggregate default probability to be very low
+ next year, whereas EM corporate default is forecasted at about
+ 3% in 2026, according to J.P. Morgan as at November.
+
+24
+24 25
+
+## Page 14
+
+2026 | Global outlook
+
+ So far, larger markets like China, India, Brazil and South Africa
+ have been the focus of managers looking towards this type
+ of exposure. Investment-grade countries in Latin America
+ and Southeast Asia have also been on investors’ radar.
+ Anecdotally, we haven’t seen much investment into lower-
+ income countries where it is generally more challenging to find
+ opportunities.
+ Innovation, innovation,
+ innovation
+
+ One reason we believe private debt is a viable strategy for
+ Relative value EM exposure is the capacity it offers for product innovation.
+ By opting for private transactions, investors may be able to
+ From a valuation standpoint, while spreads remain tight, we gain exposure to debt structures that offer the potential for
+ find all-in yields compelling and see them as a more reliable attractive and uncorrelated returns, while supporting initiatives
+ indicator of potential forward returns, in our view. We also that have a real-world impact.
+
+ expect solid EM fundamentals to help contain any spread One such example is use-of-proceeds lending, which involves
+ widening. providing loans where the proceeds will be used in a defined
+ With subdued growth, a softening labour market, and weak way – for example, on an infrastructure or housing project. We
+ oil prices in the US, we, like other market participants, also have also observed the emergence of debt conversions as a
+ anticipate continued rate cuts by the Fed. This should help way of allowing EMs to refinance their debt while supporting
+ keep rates from rising meaningfully, supporting our expectation sustainability efforts.
+
+ of mid-to-high single-digit total returns in EMD for 2026. These transactions – which are also referred to as ‘debt
+ Looking ahead, key risks for EM in 2026 are likely, in our view, conversions for nature’ are investment grade and allow EM
+ to stem from US markets and macroeconomic developments sovereigns to refinance their debt at improved financial terms.
+ – particularly a possible resurgence in inflation and elevated The caveat is that the borrower commits to utilising the
+ AI-driven equity valuations. proceeds from these savings in conservation efforts.
+
+ Recent volatility in US equities has already had spillover We believe other public goods can be used in debt conversions
+ effects on EMD and broader risk assets in Q4 2025, and we – notably, health, education, food among others.
+
+ remain cautious of similar episodes next year. Consequently, We are also interested in the “A/B” loan programmes carried
+ our positioning is more selective than in previous cycles, with a out by multilateral development banks (MDBs). Effectively
+ focus on idiosyncratic opportunities (for example, oil importers these involve MDB’s lending money via their commercial arms
+ and precious metal exporters) rather than broad beta exposure. to corporates / financial institutions / infrastructure projects
+ in emerging markets while selling the risk to investors. This
+ provides investors with exposure to EM and the underlying
+ Taking things private transaction while seeking to benefit from the MDB’s preferred
+ An increasing trend we’ve noticed in 2025, and one we believe creditor status.
+
+ will persist in 2026, is the prominence of private debt investing A last structure we believe worth keeping an eye on in 2026
+ when allocating to EMs. is outcome bonds. As the name suggests, returns from
+ these instruments is linked directly to the success of specific
+ development projects. We think there could be a strong
+ pipeline for this kind of model developing in emerging markets,
+ with potential returns linked to things like conservation efforts.
+
+ Assumptions, opinions, and estimates are provided for illustrative purposes only. There is no guarantee that any forecasts
+ made will come to pass.
+
+26 2727
+
+## Page 15
+
+Contact us:
+For non-US institutional investors, to find out more more information about the Asset Management
+business of L&G, please visit am.landg.com or contact your usual L&G representative.
+
+For US-institutional investors, to find out more information about L&G – Asset Management, America,
+please visit am.landg.us.com or contact your usual L&G representative.
+
+Key risk
+The value of an investment and any income taken from it is not guaranteed and can go down as well as up, and the investor
+may get back less than the original amount invested.
+
+Important information
+The views expressed in this document are those of Legal & General Investment Management Limited and/or its affiliates (‘L&G’, ‘we’ or ‘us’) as at the date
+of publication. This document is for information purposes only and we are not soliciting any action based on it. The information above discusses general
+economic, market or political issues and/or industry or sector trends. It does not constitute research or investment, legal or tax advice. It is not an offer
+or recommendation or advertisement to buy or sell securities or pursue a particular investment strategy. Past performance should not be taken as an
+indication or guarantee of future performance and no representation, express or implied, is made regarding future performance.
+Certain of the information contained herein represents or is based on forward-looking statements or information, including descriptions of anticipated
+market changes and expectations of future activity. Forward-looking statements and information are inherently uncertain and actual events or results may
+differ from those projected. Therefore, undue reliance should not be placed on such forward-looking statements and information. There is no guarantee
+that L&G’s investment or risk management processes will be successful.
+No party shall have any right of action against L&G in relation to the accuracy or completeness of the information contained in this document. The
+information is believed to be correct as at the date of publication, but no assurance can be given that this document is complete or accurate in the light of
+information that may become available after its publication. We are under no obligation to update or amend the information in this document. Where this
+document contains third party information, the accuracy and completeness of such information cannot be guaranteed and we accept no responsibility or
+liability in respect of such information.
+This document may not be reproduced in whole or in part or distributed to third parties without our prior written permission. Not for distribution to any
+person resident in any jurisdiction where such distribution would be contrary to local law or regulation.
+© 2025 Legal & General Investment Management Limited, authorised and regulated by the Financial Conduct Authority, No. 119272. Registered in
+England and Wales No. 02091894 with registered office at One Coleman Street, London, EC2R 5AA.
+L&G Global
+Unless otherwise stated, references herein to “L&G”, “we” and “us” are meant to capture the global conglomerate that includes:
+European Economic Area: LGIM Managers (Europe) Limited, authorised and regulated by the Central Bank of Ireland as a UCITS management company
+(pursuant to European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations, 2011 (as amended) and as an
+alternative investment fund manager (pursuant to the European Union (Alternative Investment Fund Managers) Regulations 2013 (as amended).
+USA: Legal & General Investment Management America, Inc. (a U.S. SEC registered investment adviser), Legal & General Investment Management
+America, Inc. (d/b/a L&G – Asset Management, America) (“L&G – Asset Management, America” or “L&G”) is a registered investment adviser with the
+U.S. Securities and Exchange Commission (“SEC”). L&G – Asset Management, America provides investment advisory services to U.S. clients. L&G’s asset
+management division more broadly—and the non-L&G – Asset Management, America affiliates that comprise it—are not registered as investment advisers
+with the SEC and do not independently provide investment advice to U.S. clients. Registration with the SEC does not imply any level of skill or training.
+Japan: Legal & General Investment Management Japan KK (a Japan FSA registered investment management company).
+Hong Kong: issued by Legal & General Investment Management Asia Limited which is licensed by the Securities and Futures Commission.
+Singapore: issued by LGIM Singapore Pte. Ltd. (Company Registration No. 202231876W) which is regulated by the Monetary Authority of Singapore.
+The L&G Stewardship Team acts on behalf of all such locally authorised entities.
+
+D011817

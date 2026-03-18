@@ -1,0 +1,1269 @@
+Source file: royal_london_outlook_2026.pdf
+Source path: outlooks/royal_london_outlook_2026.pdf
+Type: pdf
+Extraction method: pypdf-layout
+Extracted at UTC: 2026-03-17T21:46:19.401378+00:00
+Page count: 27
+
+---
+
+## Page 1
+
+OUTLOOK
+ 2026
+
+ ROYAL LONDON ASSET MANAGEMENT
+
+For professional clients/qualified investors/wholesale investors only,
+not suitable for retail investors. This is a marketing communication.
+
+## Page 2
+
+2 | Royal London Asset Management 3 | Royal London Asset Management
+
+ Contents
+
+ The CIO view: What has changed, really? Will Nicoll 03 The CIO view:
+
+ Equities Mike Fox 07 What has
+
+ Global equities Paul Schofield 11 changed, really?
+
+ Will Nicoll
+ UK equities Richard Marwood 15 Chief Investment Officer
+
+ Multi asset Trevor Greetham 19
+
+ Sterling credit Paola Binns 23
+
+ High yield Stephen Tapley 27
+ Introduction
+ Rates & cash Craig Inches 31
+
+ Asset-backed securities Jeremy Deacon 37 The end of 2025 does not feel as Worries, what worries?
+ different from the end of 2024 as we It is worth noting that almost every concern an
+ Property Kevin McCauley 41 might have expected or hoped. Trade investor could have had at the start of 2025, came
+ policies – and many other policies – true. The worries were well-founded, and geopolitical
+ from the US administration continue volatility did not let up throughout the year. Despite
+ Responsible investment Ashley Hamilton Claxton 45 to appear with little warning, making it this, however, most major economies have held up
+ difficult to judge the state of global trade sufficiently well for this not to get in the way of a strong
+ Contact us 51 and of geopolitics. The war in Ukraine is corporate story. The volatility we have seen has almost
+ still going on and despite lots of hope it been ignored by the financial markets.
+ is still not obvious how it will stop or be Indeed, given that the risks in 2025 were meant to
+ stopped. Governments, particularly in the be geopolitical, it is interesting that by the end of
+ West, continue to rack up large deficits the year much of the volatility in asset pricing was
+ and are stuck in a vicious cycle with their aligned with a single set of results from Nvidia.
+ electorates. So, what has changed?
+ Everything has gone up. Equities are
+ hitting all-time highs, some credit spreads
+ are at multi-decade tights and gold has
+ continued to drive ever higher.
+
+ Introduction
+
+## Page 3
+
+4 | Royal London Asset Management 5 | 5 | Royal London Asset ManagementRoyal London Asset Management
+
+ Where does this leave us?
+
+ A simplistic view is that we find ourselves in the
+ same position as the start of the year, except
+ It is worth noting that that markets are all more expensive. If we We can see that all
+ were nervous 12 months ago then in theory
+ almost every concern we should be more so now. However, it is clear predictions of high
+ an investor could that markets are not thinking the same way as volatility have come
+ they were at the end of 2024. Then, we were
+ have had at the start fearful of the impending volatility and nervous true and yet the
+ of 2025, came true. of geopolitical actions around the world. Now markets have not
+ we can see that all predictions of high volatility
+ have come true and yet the markets have increased their
+ not increased their risk premia – indeed, in risk premia.
+ many cases these are now lower. This shows
+ that markets are in a very different frame of
+ mind. Still nervous, but now around valuation
+ rather than volatility or fears of US policy.
+
+ So, everyone ‘knows’ that the US equity market
+ is highly concentrated on an AI theme and is
+ heroically valued. Credit spreads are also tight
+ historically and not offering as much value as
+ previously. However, even ignoring the fact
+ that there is no obvious catalyst for values in
+ those assets to fall, there are reasons to be
+ cheerful. Government bonds offer value in a
+ world where rates have been falling and may
+ continue to fall. Inflation-linked debt can give
+ investors protection against an unexpected
+ inflation spike at a much cheaper rate then we
+ have seen for many years. Property remains
+ on a completely different cycle and it looks like
+ the promised increased spend in infrastructure
+ will come through in the next few years offering
+ opportunities.
+
+Introduction Introduction OUTLOOK 2026
+
+## Page 4
+
+6 | Royal London Asset Management 7 | 7 | Royal London Asset ManagementRoyal London Asset Management
+
+ Where will 2026’s volatility Active management is vital
+ come from? What these market conditions tell me is clear:
+ The US President will not change his nature. An diversification is king. Any portfolio has to be
+ economy being captained by someone who is positioned carefully and not focused solely on
+ entirely focused on deal-making will continue to overvalued parts of the market. Diversification Ai = All
+ see bouts of volatility and an element of chaos. and active management should always be best
+ We cannot rely on lower volatility to drive friends to a long-term investor.
+ returns. It has been a difficult environment for
+ There is also the factor of debt-to-GDP ratios active management in equities. Although
+ sitting at numbers that would have given an volatility should favour active management,
+ economist in the ‘90s a panic attack. Some of if that volatility is driven by relatively random
+ the largest democracies do appear to be living factors then it is less useful for rational long- Mike Fox
+ beyond their means, making it important to ask: term investors. Similarly, we believe that Head of Equities
+ how long can this type of government spending diversification is without doubt the best way to
+ continue? invest in the long term but if returns are heavily
+ concentrated in a small group of US equities
+ We can expect more volatility – this time more then investors can be tempted to narrow their
+ concentrated in markets – as sentiment flicks investment horizons. The kind of concentration
+ from exuberance and excitement around AI to in the equity markets that we have seen recently
+ geopolitical gloom. Which is the correct side has not usually ended very well. Similarly, the
+ to be on? The answer, as always, is the side of amount of leverage being offered to funds –
+ diversification. whether public or private – is at a high level and Equities
+ that has also often not ended particularly well.
+ At Royal London Asset Management, we’ll
+ continue to do what we do best: active We might all be fed up with the Microsoft, which are at the forefront of AI
+ management and diversification. In my amount of time spent discussing the usage to drive innovation and productivity.
+ view, when in uncertain markets, you need potential of artificial intelligence (AI) In short, if AI continues to perform, the
+ Although volatility an active manager with an underlying and the number of column inches stock market continues to perform. If AI
+ should favour active philosophy of being stock pickers: our given over to speculation about the does deliver, US equities will probably
+ investment teams will continue to make AI endgame. But this is a trend that do better than the UK and Europe. But
+ management, if that thousands of individual investment decisions isn’t going away in 2026. In fact, it’s if AI starts to disappoint, this could be a
+ volatility is driven by that respect a backdrop that might be only likely to grow. In my view, the significant problem at some point next year.
+ difficult, but will not be dominated by it.
+ relatively random fate of AI will very much continue Artificially inflated?
+ factors then it is less to dictate the performance of the
+ world’s stock markets and corporate Given the rapid pace of growth in AI, there is
+ useful for rational behaviour in the coming year. certainly a chance that growth will moderate.
+ long -term investors. Since the public unveiling of OpenAI’s GPT
+ This fact is inescapable when we look at the models in November 2022, the speed of
+ current state of the market. At the time of AI adoption has been phenomenal. OpenAI
+ writing, all of the top ten stocks by market alone has reached 800 million users in
+ capitalisation in the MSCI All Country less than two years, a pace that dwarfs
+ World Index are plays on AI in some form. the early growth of the internet and other
+ These include the chip makers powering the transformative technologies. This rapid
+ revolution, such as Nvidia and Broadcom, rollout has been enabled by the infrastructure
+ and household names like Amazon, Apple and
+
+Introduction Equities
+
+## Page 5
+
+8 | Royal London Asset Management 9 | Royal London Asset Management
+
+ such as smartphones, cloud platforms and Silicon stimulus Farewell to freeware?
+ global connectivity. Ironically, much of this
+ infrastructure is a result of the vast amounts Looking at the effects of the AI industry on the From the perspective of investors, the question
+ investors ploughed into technology over the wider economy, data centre construction in the most will be asking is ‘how soon will we see a
+ last 30 years. Similar to the original late-90s US is estimated to account for almost all the return?’ The ability to monetise AI is its biggest
+ tech boom that spurred this splurge, could country’s GDP growth in the first half of 2025.3 We are already seeing uncertainty. While Nvidia and Broadcom have
+ we see a bust of a similar magnitude again? Encouragingly, the longer-term benefits that there will be found profitable niches in hardware, most AI
+ To answer this question, it’s probably worth across the economy should prove inherently applications and services remain loss-making,
+ looking outside the ‘Magnificent seven’ deflationary. As companies reduce costs and winners and losers with unclear revenue models. The emergence
+ stocks and assessing how AI will affect do more with less, productivity benefits should from the AI boom. of Chinese models such as DeepSeek, which
+ companies such as the other 493 members widen out from the economic boost that is offer advanced capabilities at lower cost and
+ of the S&P 500. Sectors ranging from coming from the AI sector itself. are often given away for free, has further
+ industrials and healthcare, to retail and complicated the outlook. At some point
+ financials are rapidly integrating AI into their So, with AI making our daily lives easier, somebody’s going to have to pay for all of this
+ operations, seeking productivity gains, cost boosting corporate profits, supporting investment, but who and how isn’t clear yet.
+ efficiencies, and new avenues for growth. markets, and lifting global economic growth,
+ Morgan Stanley estimates that AI adoption perhaps this time it really is different?
+
+ could translate into annual net benefits Of course, in reality there are always reasons
+ of $920 billion for S&P 500 companies, not to be completely bullish. We are already
+ representing about 28% of consensus pre- seeing that there will be winners and losers
+ tax earnings for 2026.1 And according to from the AI boom. After all, one firm’s cost
+ the Stanford AI Index, 78% of organisations savings often equals another’s revenue losses.
+ globally now report using AI in at least one AI tools can now perform tasks that once
+ business function, up from 55% in 2023.2 commanded high fees at a fraction of the
+ cost. At the moment the collapse in pricing
+ is most acute among certain knowledge-
+ based services. As one finance director put it,
+ “What used to cost $1,000,000 now costs
+ $200,000 with Accenture, and ChatGPT can
+ probably do it for $10,000.”4 This year we
+ Sectors ranging have seen share prices of various consultancies
+ and software providers prove vulnerable and
+ from industrials and this trend is likely to broaden across sectors in
+ healthcare, to retail the coming year.
+ and financials are
+ rapidly integrating AI
+ into their operations.
+
+1Morgan Stanley Research: AI Could Affect 90% of Occupations 2Stanford HAI 2025 AI Index Report (official) 3Nearly all US growth in 2025 tied to AI and data center-related capital spending |
+TechSpot 4AI sets up Kodak moment for global consultants | Reuters
+
+Equities Equities
+
+## Page 6
+
+10 | Royal London Asset Management 11 | 11 | Royal London Asset ManagementRoyal London Asset Management
+
+ At some point somebody’s going to have to pay for all
+ of this investment, but who and how isn’t clear yet.
+
+ Outside the AI industry, there appears to be a For 2026, investors must weigh the Resilience
+ growing scepticism about business leaders’ optimistic case - of productivity gains, new
+ ability to foresee the ways in which AI will products, and value creation - against the as strateg y
+ affect their operations, and to direct investors’ challenges of monetisation, inflationary
+ capital accordingly. In the UK, estate agency pressures, and sectoral disruption. If the
+ Rightmove was recently punished when it positives outweigh the negatives, then the
+ announced a large-scale uptick in AI spending. ‘Magnificent seven’ could once again leave
+ Its shares lost a quarter of their value due to the rest of the market in their wake. Paul Schofield
+ doubts that AI would enhance the experience Head of Global Equities
+ of house buyers sufficiently to create the But what seems more likely is that there will
+ kind of returns forecast by management.5 be something of a shakeout, both among
+ AI companies and in the wider economy, as
+ From an economic perspective, the energy we get more clarity around the AI winners
+ consumption required to power data centres and losers. During this period, investors
+ is driving up electricity prices, particularly in will have to position portfolios accordingly
+ the US, where they now consume about 4% of and stock picking is likely to come to the
+ total electricity generated - a figure expected fore. Companies best positioned to harness
+ to rise sharply by 2028.6 Labour costs are AI’s potential or adapt to its disruptive Global equities
+ also increasing, as the construction and effects are likely to become more obvious.
+ maintenance of data centres require skilled But the avoidance of certain areas will
+ workers, many of whom are in short supply. be as critical as finding the winners.
+ Navigating a world of This marks a distinct change in focus.
+ I’m afraid the only thing that is certain is constant disruption Efficiency was once the holy grail of corporate
+ that you’re going to carry on reading at strategy. For decades, firms focused on lean
+ least as much about AI in the coming year. As we look to 2026, we are leaving operations, cost reduction, and supply chain
+ behind a year in which investors were optimisation to deliver superior returns. That
+ initially unnerved by tumultuous global model thrived in an era of relative stability.
+ events. The issues that caused this Today, resilience commands the premium. A
+ series of shocks including pandemics, trade
+ volatility haven’t gone away. But one disputes, regional conflicts, and cyber threats
+ of the reasons for the subsequent has exposed the fragility of hyper-efficient
+ rise in markets has been a growing systems and forced a fundamental rethink of
+ faith that companies can take these what drives value. For investors, this is not a
+ challenges in their stride and will passing trend; it is a structural reset that may
+ prove more resilient than investors shape risk and reward for years to come.
+ had been giving them credit for. Global logistics have been repeatedly
+ disrupted, turning single-source supply models
+ into single points of failure. The pandemic
+ revealed how brittle just-in-time inventories can
+ be, while extreme weather and cyber incidents
+ have added new layers of operational risk.
+
+5AI’s awfully exciting until companies want to use it: Rightmove edition 6Data Center Energy Demand Could Triple by 2028, Government Report Warns - Newsweek
+
+Equities Global equities
+
+## Page 7
+
+12 | Royal London Asset Management 13 | 13 | Royal London Asset ManagementRoyal London Asset Management
+
+ with public capital, not just grants or tax
+ credits. Washing ton has also moved to secure
+ critical minerals and reduce supply chain
+ risks through new frameworks with allies,
+ The question has including a US-Japan agreement focused
+ on sourcing critical minerals. Additional
+ shifted from ‘How deals with partners such as Australia aim
+ to de-risk processing and refining. 2
+ lean can you be?’ to
+ ‘How shock-proof is Energy security is now central to resilience. In
+ October 2025, the US government announced
+ your business model?’ a strategic partnership with Westinghouse
+ and its owners, Brookfield and Cameco, to
+ deploy at least $80 billion of nuclear reactors.3
+ The goal is to increase dependable low-
+ carbon power supply and support data-centre
+ growth. The structure includes profit-sharing
+ mechanisms and potential future equity
+ The question has shifted from “How lean participation, signalling a long-term public-
+ can you be?” to “How shock-proof is private commitment to power security.
+ your business model?” Companies that The energy transition is becoming a resilience
+ build redundancy, optionality, and faster play. Europe offers a clear example: the
+ response cycles may incur higher upfront region has accelerated its shift toward
+ costs, yet they are better positioned to renewables to reduce dependency on imported
+ protect cash flows through volatility. fossil fuels, streng thening both energy
+
+ Resilience comes at a price. Multi-sourcing, security and price stability. Investments are
+ onshoring or nearshoring, and cybersecurity increasingly focused on grids and storage,
+ upgrading are capital-intensive. In the near which are essential for a system that can
+ term, these investments can compress withstand shocks and maintain reliability.4
+ margins and widen the gap between balance
+ sheet haves and have-nots. Investors will Digital infrastructure for
+ need to distinguish between management
+ teams making strategic, well-sequenced resilient operations
+ resilience investments and those spending
+ tactically without a coherent plan. The former Digital transformation is also being reframed
+ can widen competitive moats; the latter as a resilience imperative. AI-driven demand
+ risks diluting returns while achieving little. forecasting, digital twins (virtual copies of
+ real-world systems that help businesses test
+ Policy and government action scenarios and spot problems before they
+ happen), and blockchain-enabled traceability
+ Industrial policy is reinforcing this shift. In allow companies to anticipate disruptions and
+ a striking break with past practice, the US reroute faster. Cloud architectures reduce
+ government took an equity stake of roughly dependence on single physical sites, while
+ 10% in Intel in August 2025, converting part cybersecurity is now a core operating expense.
+ of previously awarded CHIPS Act support into The investable takeaway is clear: providers
+ ownership to accelerate domestic advanced of security, data integrity, observability, and
+ chip capacity.1 This move underscores predictive analytics should be structural
+ how strategic technologies tied to AI and beneficiaries as enterprises rebuild operating
+ national security are being backstopped stacks for reliability rather than pure efficiency.
+
+1 U.S. Government Takes Historic 10% Stake in Intel, Signalling New Era of Industrial Policy | FinancialContent 2 United States - Japan Framework for Securing the Supply of Critical Minerals and Rare
+Earths through Mining and Processing – The White House 3 Brookfield Press Release | Westinghouse Nuclear 4 10th report on the state of the energy union - Energy - European Commission.
+
+Global equities OUTLOOK 2026Global equities
+
+## Page 8
+
+14 | Royal London Asset Management 15 | Royal London Asset Management
+
+ In a world where uncertainty is the baseline, firms
+ that invest in adaptability will command a premium.
+
+ Diversifying supply chains Investment implications Lessons from
+
+ Supply chains are being re-routed, and not The sector implications are clear. 2025 and
+ just to one place. Southeast Asia continues Manufacturers with multi-node networks
+ to benefit from “China-plus-one” strategies and nearshored capacity can shorten prospects
+ as firms diversify assembly and component lead times and cushion shocks. Industrials
+ sourcing into Vietnam, Indonesia, Malaysia, and logistics players stand to gain from
+ and Thailand. Foreign direct investment capital expenditure in infrastructure and for 2026
+ (FDI) and export data confirm the trend, warehousing. Semiconductor ecosystems
+ with Indonesia and Vietnam prominent in should benefit from localised production Richard Marwood
+ greenfield manufacturing and electronics. and packaging investment, though capital Head of UK and European Equities
+ ASEAN-wide FDI has been resilient, supported intensity and execution risk remain high.
+ by favourable policy and infrastructure Consumer companies built on ultra-lean
+ upgrades that deepen the region’s role in inventories may need to rebuild buffers or
+ electronics, automotive, and renewables supply re-think product offerings, sacrificing some
+ chains.5 For investors, that creates multi- margin to stabilise availability. Software
+ year opportunities in logistics, power, and and cybersecurity vendors that offer
+ industrial automation across these corridors. observability, threat detection, identity,
+ and AI-assisted planning are positioned to
+ Sustainability meets resilience monetise the shift in corporate priorities. UK equities
+
+ Sustainability and resilience are converging. All of these factors have implications for
+ What began as ESG compliance is increasingly investors. In my view, portfolio construction
+ a hedge against physical and regulatory must now incorporate resilience as a core lens,
+ shocks. Renewable power agreements insulate while balance sheets matter again. Companies Q What important lessons did you an important point: It is always important to
+ against fossil fuel price spikes. Circularity with ample liquidity can bridge the investment learn from 2025? remember to detach narrative from valuation.
+ reduces input volatility and waste. Ethical period needed to rewire supply chains. Pricing Investment is not just a question of looking for
+ sourcing mitigates geopolitical and legal power is critical: firms that can pass through The first observation is one that perhaps sits stocks with a great story – what you pay for that
+ risks. In Europe, sustained growth in wind higher costs without losing share will protect A story is also crucial. A critical determinant of
+ and solar has cut import bills and lowered returns. Regional allocation also shifts – the uneasily in an outlook piece – that even with how successful an investment is the price you
+ power-sector emissions, illustrating how US and Europe are likely to keep outspending perfect foresight of economic and geopolitical pay for it in the first place.
+ climate alignment and resilience can reinforce on cyber, grids, and clean-firm power, while events, investors might not necessarily make the
+ each other. I expect markets to reward firms Asia, especially India and Southeast Asia, should right call as to how markets might react. At the
+ that internalise transition risk with higher remain a magnet for diversified manufacturing start of the year, being told that we would be in a
+ valuations, particularly where decarbonisation and infrastructure buildout. world with ongoing large-scale military conflicts,
+ dovetails with operational reliability. a growing realisation that the finances of many
+ Resilience is not replacing efficiency; it governments are seriously stretched and that A critical determinant
+ is redefining it. The winners will blend the US President would be intent on upending
+ lean operations with redundancy where it the existing global trade status quo, would an of how successful
+ matters, digital visibility, and credible energy investor be expecting to be sitting on UK equity
+ and sourcing strategies. In a world where market gains comfortably into double digits? an investment is the
+ uncertainty is the baseline, I believe that firms Probably not. That is why, within our equity team, price you pay for it in
+ that invest in adaptability will command a we spend the majority of time analysing the
+ premium, and portfolios that overweight those fundamentals of companies, rather than trying to the first place.
+ models should be better placed to perform predict macroeconomics.
+ through the next cycle.
+ The general gloom around market news
+
+5 ASEAN Investment Report 2025 | UN Trade and Development (UNCTAD) contrasted with market returns highlights
+
+Global equities UK equities
+
+## Page 9
+
+16 | Royal London Asset Management 17 | Royal London Asset Management
+
+ Q In what way will 2026 be Q What are your expectations
+ different from 2025? for inflation and interest rates
+ That is extremely hard to predict, but we can next year?
+ A be certain that it will be different. 2026 will be
+ my 30th year working in the financial markets A While I feel that interest rates will probably
+ – a period that has seen the dotcom boom and edge down a little, I also believe that inflation
+ bust, 9/11, Global Financial Crisis, Brexit is likely to remain sticky and higher than long-
+ and Covid, to name but a few of the market term targets. This is in part due to my view
+ fuelling and market shaking events. The market around how indebted many governments are.
+ always finds new things to throw at investors, With debt there are two ways to clear it – pay it
+ but these events are part and parcel of equity off or default on it. Most governments are not
+ investing and over time this volatility creates in a position to do the former and as they run
+ opportunities as well as challenges. deficits and therefore need to take on further
+
+ debt, cannot do the latter. There is a third way
+ Q What is your view on – borrow today a pound and pay it off with a
+ somewhat devalued pound in the future. That is
+ UK equities? the mechanism of inflation and something that
+ I have never subscribed to the view espoused we all witness every day. What we can buy with
+ A by some, that the UK is a dinosaur market, £5 today is significantly less than what we could
+ devoid of interesting business. Our market buy with £5 only a few years ago.
+ continues to contain plenty of world-leading
+ businesses with interesting products,
+ technologies and market positions. Compared
+ to many other markets, lots of these
+ businesses are attractively valued too.
+
+ To reiterate an earlier point, mood music and
+ returns are not the same thing. Over the last
+ five years there has been plenty of gloomy
+ rhetoric about the UK equity market, yet over
+ that five years investors have seen average
+ annual returns in double digit percentages –
+ in fact the FTSE All-Share index has almost
+ 15% per annum over the past five years.1
+
+ 1Source: RLAM as at 31 October 2025.
+
+UK equities OUTLOOK 2026 UK equitiesUK equities
+
+## Page 10
+
+18 | Royal London Asset Management 19 | Royal London Asset Management
+
+ Q What does the landscape for UK
+ equity dividends look like?
+ While I feel that A Dividend payments remain very healthy in
+ the UK. The market offers an attractive
+ interest rates will dividend yield of over 3% and the levels of Diversif y
+ those dividends has risen over time. Growth in
+ probably edge dividends is part of what can help equities offset
+ down a little, I the impact of inflation on savers. away from
+ also believe that In recent years, in addition to dividends, the obvious
+ investors have also benefited from share
+ inflation is likely to buybacks. UK companies have been huge
+ remain sticky and buyers of their own shares. Every morning, I Trevor Greetham
+ read the regulated news service that provides Head of Multi Asset
+ higher than long - investors with their official news about
+ companies and dozens of these news items
+ term targets. are titled “Transaction in own Securities” –
+ announcements of how many of its own shares
+ a company has bought and cancelled. In the
+ long term this can help augment future dividend
+ growth, as the future profits of a business are
+ spread across a smaller number of shares.
+ Multi asset
+
+ Diversify away from the obvious Stretched valuations on Wall Street and in
+ hot spots to seek value and parts of the global credit market raise the
+ risk of disappointment should things turn
+ improve portfolio resilience out differently. We’re tactically positive on
+ The world economy is enjoying moderate, if global equities, including the US technology
+ patchy, growth with relatively low inflation when sector, but our broadly diversified and
+ compared to recent years. This is the Recovery active approach to asset allocation balances
+ phase of the Investment Clock that has exposure to the obvious hot spots with
+ historically seen the best stock market returns value plays in government bond markets,
+ (see Chart 1 overleaf ). America’s trade wars UK real assets and commodities.
+
+ and sudden policy swings grab the attention, Business cycle indicators have been moving
+ but in the background central banks have rapidly in recent months. It’s not beyond
+ been steadily cutting interest rates and this the realms of possibility that growth and
+ bodes well for growth in 2026. Governments inflation both end up stronger than expected
+ are heavily indebted, but the corporate in 2026. This would move the Clock into
+ sector is in good health with technology- commodity-friendly Overheat. A shift from
+ related earnings particularly strong. monetary easing to monetary tightening would
+ streng then the parallel with the later stages
+ of the dotcom bubble of the late 1990s.
+
+UK equities Multi asset
+
+## Page 11
+
+20 | Royal London Asset Management 21 | 21 | 21 | Royal London Asset ManagementRoyal London Asset ManagementRoyal London Asset Management
+
+ Chart 1: Investment Clock is in Recovery, but moving fast
+
+ Inf lation Rises
+ Is this a boom
+
+ Industrial metals or a bubble?
+
+ Recovery Overheat History suggests
+ probably a bit of
+
+ Te c h n o l o g y a n d i n d u s t r i a l s
+ Corporate High yield both. Artificial
+ bonds Ma t e r ia ls bonds
+ Stocks Commodities intelligence is
+
+ Softs r Dis c r e t i o n a r y Energy
+ undoubtedly a
+
+ Te l e c o m , s t a p l e s , h e a l t h c a r e a n d u t i l i t i e sBonds Cash
+ Government Inﬂation game changer.
+ bonds linked bonds
+
+ Ref lation Stagf lation
+
+ Precious metals
+
+ Inf lation Falls
+
+ Source: Royal London Asset Management. As at November 2025. For illustrative purposes only. Trail shows monthly
+ readings based on global growth and inflation indicators.
+
+ Lessons from the past Is this a boom or a bubble? History suggests
+ probably a bit of both. Artificial intelligence
+ History never repeats itself, but sometimes is undoubtedly a game changer. But as
+ it sure does rhyme. Technology companies a comparison, few could dispute the
+ are once again engaged in an arms race to transformative impact of the internet on
+ become the biggest and best with investors business over the last quarter century and
+ cheering them on. Traditionally cash-generative yet equity investors lost half their money in
+ businesses are suddenly having to raise capital the three-year bear market after the bubble
+ to fund eye-watering investments in artificial burst. Losses in the technology, media and
+ intelligence infrastructure. Wall Street is willing telecommunication sectors were larger.
+ to provide cheap finance via generous stock For now, we remain tactically positive on
+ market valuations and opaque private debt US equities and technology, but with US
+ structures. We saw the same in the late 1990s, stock valuations at their highest level since
+ though the telecommunications and media 1999/2000 and credit spreads tight, we think
+ sectors offer a better comparator for today’s it makes sense to diversify more broadly, and
+ technology giants than the frothy internet start- we’ve further reduced our strategic exposure
+ ups, most of which had never turned a profit. to US equities.
+
+Multi asset Multi asset OUTLOOK 2026
+
+## Page 12
+
+22 | Royal London Asset Management 23 | 23 | Royal London Asset ManagementRoyal London Asset Management
+
+ Looking at the bigger picture Diversification in practice
+ Outside of technology, the world economy We believe that value and resilience can be
+ faces some serious challenges. Country- improved by adding government bonds, UK real
+ specific risk under the second Trump assets and commodities to a global portfolio.
+ presidency has risen significantly, posing a In late 2021, 10-year gilts were yielding 0%,
+ challenge to the dollar. War continues to rage with index linked gilts offering a real yield of Compression
+ on Europe’s eastern flank. Government debt minus 2%. We were paying to lend money to
+ levels are high the world over. The surge in governments with the risk of capital losses if and
+ the price of gold suggests investor disquiet and when yields normalised. The 2022 bond
+ isn’t far below the surface. This all speaks to market crash was a major reset. Now real yields commoditisation
+ diversification to reduce risk. are closer to plus 2%. This makes life harder for
+ finance ministers, but government bonds are
+ paying their way once more and could provide Paola Binns
+ portfolio resilience in a deflationary shock. Head of Credit
+
+ UK equities remain good value, with cycle-
+ adjusted valuations around half the level of
+ Country-specific risk the US market. The FTSE’s low exposure to
+ growth sectors could make it resilient in a tech
+ under the second shake out. Indeed, the UK was one of the best
+ Trump presidency performing major stock markets in 2022.
+ has risen significantly, Real assets also have a place. Commercial
+ property has recovered from the interest Sterling credit
+ posing a challenge to rate shock of 2022 and the asset class offers
+ the dollar. a decent yield with steady total returns. UK
+ property was hit hard in the financial crisis of The story of 2025 was one of persistent
+ 2008 but it’s worth remembering that it sailed Navigating 2026 in
+ through the dotcom crash, posting good returns sterling credit external noise that generated headlines but did
+ in each year of the bear market. not ultimately undermine credit markets. In our
+ Sterling credit markets have shown view, despite relatively low credit spreads in an
+ Lastly, we continue to allocate to commodities, remarkable resilience in 2025, weathering historic context, credit continues to compensate
+ including gold, as a hedge against unexpected external noise and tightening spreads. investors for fundamental risks and provides
+ inflation and geopolitical risk. One thing you can Despite elevated interest rates and persistent potential for attractive income generation.
+ say for sure about AI is that it’s resource hungry. volatility, investment grade credit still offers While volatility seems to be the new normal,
+ attractive yields underpinned by robust credit markets have shown a remarkable ability
+ fundamentals. The commoditisation of the to cut through the noise. Although we believe
+ market, driven by new buyers like insurers this resilience will persist, built off relatively
+ and ETFs, brings opportunities for active robust corporate fundamentals, tighter credit
+ managers to add value through research-led spreads demand discipline and selectivity.
+ approaches. With sound corporate health
+ and well-capitalised banks, selectivity and
+ discipline remain key. As we look to 2026,
+ navigating compressed spreads demands
+ a focus on fundamentals to uncover income
+ potential and manage risks in sterling credit.
+
+Multi asset Sterling credit
+
+## Page 13
+
+24 | Royal London Asset Management 25 | Royal London Asset Management
+
+ The year in review Interest rates have remained elevated for longer Commoditisation of
+ than expected, pressured by sticky inflation.
+ At the start of the year, concerns around While investment grade credit continues to the credit market
+ heightened volatility—particularly following offer attractive all-in yields, the composition of
+ Donald Trump’s inauguration as US President— those yields has shifted. Credit spreads have The relative recent streng th of credit markets
+ were front of mind for many investors. Yet, credit tightened significantly in recent years, and has, in a large part, been due to the emergence
+ has largely held firm. Market fundamentals have contrary to expectations, government bond of significant new buyers of corporate bonds,
+ reasserted themselves, with spreads tightening yields have not fallen as many expected they such as insurance companies managing
+ and income generation continuing to underpin would. As a result, a greater proportion of the annuity liabilities and ETFs. As well as pushing
+ performance. While political headlines have total credit yield now stems from the underlying spreads tighter, this also leads to further
+ dominated the narrative, credit markets have government component. Recent volatility in commoditisation of credit – with marginal
+ fixed income markets has largely been driven by buyers matching their prescriptive investment
+ demonstrated their ability to absorb shocks. requirements by favouring more generic
+ underlying government bond yields responding bond characteristics. In an asset class that
+ Sterling investment grade spreads reduced to geopolitics and macroeconomic uncertainties has always been welcomingly idiosyncratic,
+ over the year from 0.86% at the start of and we expect this to remain a factor next year. this dynamic creates real opportunities
+ January to 0.77% (iBoxx) by the end of the for active managers, with a fundamental,
+ third quarter and also compressed – with Compressed credit spreads research-led approach, focusing on bond
+ the additional spread for owning riskier demand fundamental discipline specifics to build better credit portfolios.
+ credits falling further. However, we have seen In our view, one area that is particularly
+ renewed, strong demand for the asset class. fertile in this respect remains secured
+ Clearly, there is a lot of uncertainty ahead from credit, where fundamental attractions are
+ a political and economic perspective. Combined often under-appreciated by the market.
+ with tighter and more compressed credit
+ spreads, effective credit investing requires
+ a foundation built on strong fundamental
+ analysis. Given the importance of banks to
+ Navigating both economic activity and credit markets, this
+ compressed spreads feels like the right place to start. The sector, Effective credit
+ at a broad level, is well capitalised, liquid,
+ demands a focus on and operates within a supportive regulatory investing requires
+ fundamentals. system. There are also few immediate a foundation
+ signs of stress in banks’ loan books.
+ built on strong
+ Looking at corporates more widely, fundamental
+ profitability is relatively healthy, leverage is
+ not spiking, and balance sheets remain liquid analysis.
+ and diverse. As ever, with cycles extending,
+ risk is increasing but there are limited early
+ signals of significantly rising default rates to
+ imply that investment grade credit spreads no
+ longer compensate for fundamental loss risk.
+
+Sterling credit Sterling credit
+
+## Page 14
+
+26 | 26 | Royal London Asset ManagementRoyal London Asset Management 27 | Royal London Asset Management
+
+ In an asset class that has always been welcomingly
+ idiosyncratic, this dynamic creates real opportunities
+ for active managers.
+
+ Where
+
+ Active management has always been critical income meets
+ Navigating the new normal
+ in credit due to enduring inefficiencies.
+ Even if spreads widen, attractive income Moving into 2026, it feels the driving forces volatility
+ generation should still be available. Based on of compression and commoditisation mean
+ future rate expectations, 10-year gilts seem that it is more important than ever. Building Stephen Tapley
+ a good entry point at current levels (read portfolios with allocations to secured Senior Fund Manager
+ the thoughts of our Head of Rates & Cash, corporate bonds materially in excess of
+ Craig Inches) . So, although spreads are near typical bond benchmarks, while maintaining
+ to historically tight levels, the potential for higher yield and income than the index through
+ strong returns built on all-in credit income bottom-up selectivity and appropriate
+ looks attractive. It is up to us to find the diversification, should continue to give us a
+ best ways to access it in our portfolios. strong base for navigating clear headwinds.
+ High yield
+
+ For those seeking attractive yields,
+ the high yield market continues
+ to offer a compelling case,
+ especially when complemented
+ by resilient risk management, A common concern
+ in a rapidly evolving world. that keeps being
+
+ As we look ahead to 2026, the global economic raised is the
+ landscape is marked by persistent uncertainty. combination of
+ Global growth is forecast to decelerate to the worries over
+ slowest pace since the pandemic, amid ongoing
+ geopolitical tensions, shifting trade policies, and expensive valuations
+ the risk of policy missteps. From conversations in the market and fear
+ with investors, a common concern that keeps
+ being raised is the combination of worries at missing any further
+ over expensive valuations in the market and potential upside.
+ fear at missing any further potential upside.
+
+Sterling credit High yield
+
+## Page 15
+
+28 | 28 | Royal London Asset Management 29 | Royal London Asset ManagementRoyal London Asset Management
+
+ Where do we sit? Historical data can show that focusing on
+ short duration high yield can deliver similar
+ Central banks are expected to continue total returns to the broader high yield market,
+ easing, but the path of rates is clouded but with significantly lower volatility and
+ by inflation volatility and fiscal pressures, drawdowns. As bonds approach maturity,
+ especially in the US and Europe. The US price volatility diminishes, and the ‘pull-to-par’
+ Federal Reserve and Bank of England are effect helps insulate portfolios from market
+ projected to cut rates further, but the pace swings. Despite tighter spreads, we feel yields
+ and depth remain highly data dependent. in the short duration segment remain relatively
+ Euro area rates are near neutral, with limited attractive and above historical averages.
+ room for further cuts unless growth falters. A strategy that focuses on ‘battle-tested’
+
+ Fiscal support is likely to remain robust, bonds, those nearing maturity, should
+ particularly in the US and Europe, with mean default risk is lower, and also benefit
+ increased spending on infrastructure from a higher proportion of higher-rated
+ and defence. Elevated volatility and policy sub-investment-grade securities.
+ uncertainty are expected to persist, Another aspect to consider is the self-
+ reinforcing the need for defensive liquidating nature of a strategy that focuses on
+ positioning and careful risk management. short duration bonds. It should see constant
+ What areas within high yield cashflow from positions being redeemed,
+ allowing for a somewhat organic re-positioning
+ offer an attractive option? opportunity as market conditions evolve, as
+ you re-invest and tilt and tweak positioning.
+ As such, with those conditions hovering in the
+ background, where can investors look in high
+ yield markets? In our view, a short duration
+ bias, focusing on bonds being redeemed in
+ less than two years, can offer a defensive
+ stance in a mature high yield market. This
+ approach minimises exposure to interest We are seeing private
+ rate and spread volatility, which is especially debt markets grow
+ valuable as we look at central banks on
+ different rate paths in 2026, unlike longer- in size, hoovering up
+ duration strategies that are more vulnerable
+ to negative returns in such environments. lower rated companies.
+
+High yield High yieldHigh yield OUTLOOK 2026
+
+## Page 16
+
+30 | Royal London Asset Management 31 | Royal London Asset Management
+
+ The high yield market has matured, with BB Is now the right time?
+ rated bonds now making up a larger share,
+ and some lower-quality issuers have exited Heading into 2026, could a short duration
+ the market (chart 1). This has been brought bias offer a reliable and repeatable process?
+ about by the ever-growing presence of private We believe so, as it is ultimately an evergreen
+ debt. We are seeing private debt markets strategy. Whether entering or exiting a
+ grow in size, hoovering up lower rated slowdown, a short duration high yield strategy What we got
+ companies. This results in public markets that provides defensive positioning and
+ being left in a structurally stronger place. As right... and
+ the CCC portion of the market continues to access to high coupon bonds from resilient
+ diminish, taking the most stressed part of the issuers could protect investors from the where we missed
+ market out of public hands, we can see clear expected volatility that next year may bring.
+ signs of why default rates remain so low.
+ Craig Inches
+ Chart 1 Head of Rates & Cash
+
+ 100
+
+ 90
+
+ 80
+
+ 70 Rates & cash
+
+ 60
+ 2025 delivered on the big calls: rates Issuance dynamics are shifting. After a surge in
+ 50 long-dated supply early in the year, the fourth
+ fell, inflation eased but stayed sticky,
+ and central banks continued cutting. quarter saw a sharp pullback as governments
+ 40 acknowledged the unsustainable cost of locking
+ Yet, the pace of disinflation lagged in high yields. You can now expect a glut of
+ expectations, exposing the resilience
+ 30 short to medium-dated issuance ahead, with
+ of global demand and the willingness curve flattening likely as long supply remains
+ of consumers to absorb higher costs. constrained.
+ 20
+ This stickiness now limits how far
+ central banks can go – a critical Looking forward, we think inflation should grind
+ 10
+ question for 2026. lower, but growth risks loom. Central banks
+ are nearing the end of their easing cycles, and
+ 0 any uptick in unemployment or wage weakness
+ could unsettle risk assets. For investors,
+ the environment demands flexibility: global
+ CCC & Below B BB diversification, active curve positioning, and
+ inflation hedges will be key. Opportunities lie
+ in global sovereign strategies and index linked
+ Source: ICE Data Indices LLC using ICE BofA Global High Yield Index (HW00) as at 31 October 2025. Percentages bonds – not just to weather volatility, but to
+ subject to rounding. exploit it.
+
+High yield Rates & cash
+
+## Page 17
+
+32 | Royal London Asset Management 33 | Royal London Asset Management
+
+ Did we get it right? Markets welcomed the signal that selling 15-
+ year and longer duration at yields above likely
+ We began 2025 expecting policy rates to The question for nominal growth is not a sustainable funding
+ fall and inflation to ease but stay sticky – and strategy. By the fourth quarter, that stance was
+ that broad call held. Major central banks 2026 is whether even more visible in primary calendars. The
+ moved further into their easing phases, inflation proves mostly DMO’s revised 2025/26 remit kept overall
+ while inflation moderated from its peaks gilt sales near £299bn but trimmed long-dated
+ without returning to pre pandemic norms. transitory from here or supply and boosted short and unallocated
+ evolves into a structural buckets to maintain flexibility – a clear attempt
+ Where we misjudged was the pace of to flatten curves at the margin by easing long
+ disinflation in the second half. The global issue driven by tariffs, end supply pressure.
+ economy proved more resilient than fiscal looseness and
+ consensus, with wage dynamics and
+ protectionist trade policies slowing the supply-side frictions.
+ descent of core inflation. The International
+ Monetary Fund’s July update framed the
+ growth backdrop as “tenuous resilience” with When supply is heavy
+ inflation drifting down but still above target
+ in key economies, particularly the US. and inflation uncertain,
+ Issuance: the elephant term premia re-price as
+ This stickiness matters: as long as underlying in the room
+ inflation hovers above neutral, policy space investors demand more
+ for deep cuts is limited. That’s why 2025’s Sovereign borrowing remained enormous
+ easing moves by the US Federal Reserve, through 2025, pushing debt to GDP ratios compensation to hold
+ European Central Bank and Bank of England higher and increasing the share of budgets the long end.
+ came with heavy caveats about the path ahead. devoted to interest costs. The OECD’s Global
+ The Fed delivered back-to-back 25bps cuts in Debt Report flagged record sovereign
+ September and October but explicitly pushed issuance and a marked rise in interest to GDP
+ back on the idea that December easing was across much of the OECD. When supply is
+ “a foregone conclusion,” and it announced heavy and inflation uncertain, term premia re-
+ quantitative tightening (QT ) would stop, a price as investors demand more compensation
+ liquidity signal as much as a policy one. to hold the long end. We saw that drama
+ play out most clearly in the UK, where the
+ The question for 2026 is whether inflation Debt Management Office (DMO) executed
+ proves mostly transitory from here or evolves an “important shift” away from long-dated
+ into a structural issue driven by tariffs, fiscal issuance in March and April, cutting the long
+ looseness and supply-side frictions. That bucket to its lowest share in about 35 years and
+ debate will define rates, term premia and cross redirecting supply toward the front end and UK
+ market relative value next year. treasury bills.
+
+Rates & cash Rates & cash
+
+## Page 18
+
+34 | Royal London Asset Management 35 | 35 | Royal London Asset ManagementRoyal London Asset Management
+
+ More of the same, or Yields on the move: Where
+ a turning point? do investors go?
+
+ Lower inflation and more rate cuts are likely in Government bond yields fell from their mid
+ 2026, but the path won’t be smooth. The Fed year peaks as the market priced a slower
+ cut 50bps across September and October, growth glide path and the end of QT, but moves
+ bringing the target range to 3.75–4.00%, were uneven across the curve and regions.
+ and halted QT from 1 December; a liquidity In the US, the curve oscillated between ‘bull
+ pivot that matters for term funding. The flattening’ (front end leading on cuts) and
+ ECB held steady in the fourth quarter after ‘bear steepening’ (long end leading yield
+ earlier cuts, citing “broadly unchanged” increases) driven by term premium rebuild,
+ inflation risks, while the BoE eased twice fiscal supply and tariff risks. Strategists
+ but warned on sticky services inflation. highlighted that in cutting cycles the curve
+ The first US hurdle into winter is the aftermath often steepens, but today’s mix of policy, fiscal
+ of the shutdown. The Senate backed deal and trade uncertainty makes the path jagged.
+
+ to end the record long shutdown reaffirms In the UK, long yields briefly traded at
+ back pay for federal workers and unwinds levels last seen in the late 1990s before
+ reductions in force (RIFs); once the House retreating as the DMO curtailed long supply.
+ vote and presidential signature complete the The DMO’s pivot, plus the BoE’s measured
+ process, back pay should flow “at the earliest easing, has nudged investors to re assess
+ date possible” under the 2019 law. Whether duration and the balance between short
+ households spend or save those lump sums strategies and all maturity exposures.
+ will matter for consumption momentum. In our view, the message is straightforward:
+
+ Meanwhile, labour dynamics bear watching. you should look to diversify interest rate
+ If unemployment ticks up and wage growth risk. Concentrated single country funds
+ cools while tariffs keep goods prices leave you exposed to one macro call,
+ sticky, we could face a tricky mix of softer whether it is the US term premium or UK
+ growth and persistent inflation, forcing issuance, and to local policy pivots. A global,
+ slower, stop start easing cycles and active approach can rotate across curves,
+ renewed dispersion across countries. regions and relative value expressions,
+ targeting disparate sources of alpha.
+
+ Elsewhere, investors should consider global
+ index linked exposure. With sticky services
+ inflation and tariff uncertainty, short to
+ intermediate linkers have outperformed at
+ points this year as inflation accruals and high The uptick in the
+ real yields did the heavy lifting. Allocations to unemployment rate
+ linkers can hedge upside inflation surprises
+ while adding diversified duration. will be of concern
+ to the UK and US.
+
+Rates & cash Rates & cash OUTLOOK 2026
+
+## Page 19
+
+36 | Royal London Asset Management 37 | Royal London Asset Management
+
+ What we’re watching into 2026
+
+ Simple, the labour market. The uptick in
+ the unemployment rate will be of concern
+ to the UK and US. If this begins to break
+ the 5% level materially, we could see Volatility,
+ some more urgency on rate cuts.
+
+ There is inflation’s ‘last mile’ to watch. The what
+ IMF and private sector forecasts see headline
+ inflation drifting down, but core (especially
+ services) and tariff pass through keep risks two volatility?
+ sided. Whether the stickiness proves cyclical or
+ structural will determine the depth and pace of Jeremy Deacon
+ further cuts. Head of ABS and Leveraged Finance
+
+ The issue of fiscal issuance and discipline will
+ also need to be monitored. Where treasuries
+ emphasise short end over long end supply and
+ communicate consistent frameworks, curves
+ should flatten and volatility should moderate,
+ with the UK offering a real time case study.
+
+ And finally, geopolitical posturing is worth Asset-backed securities
+ watching. European budget concerns in
+ France, continuing tariff tensions and trade
+ talks in the US, as well as underlying global set off a major retrenchment. The ABS
+ conflicts will continue to create volatility for Looking back over the year, 2025
+ both risk assets and sovereign bonds. was a strong one for asset-backed market has been relatively insulated
+ securities (ABS) – along with from the volatility seen elsewhere.
+ One thing Is certain a whole host of other assets. In Where is this demand
+ the ABS market, we typically see coming from?
+ The next 12 months will not be quiet. Investors spreads move in line with other
+ who embrace flexibility, global diversification, markets, which have seen tightening In our view, ABS remains relatively cheap
+ and active management across curves and throughout the year as demand versus other parts of the credit market. The
+ instruments should be best placed to navigate, continues to remain robust. And we market still suffers from a hangover from
+ and capitalise on, volatility across rates, see no sign of this demand slowing. 20 years ago, where the global financial
+ inflation, and policy regimes. In our view, the crisis saw all ABS under the spotlight
+ right mix is a globally diversified government But in our view, the asset class – despite most of the problems during
+ bond core, selective index linked exposure, remains attractively priced. that period being caused by excessively-
+ and the ability to lean into relative value when levered vehicles exposed to US sub-prime
+ issuance, policy and liquidity regimes create With persistent external noise and some mortgages. And the bad press still lingers.
+ dislocations. idiosyncratic issues – that generate headlines As a result, the asset class remains unloved,
+
+ of an impending downturn in markets – it keeping bonds cheap as others continue
+ is hard to see where this potential fallout to ignore the solid credit fundamentals.
+ could come from. While risk remains, it
+ is hard to see the catalyst for what could
+
+Rates & cash Asset-backed securities
+
+## Page 20
+
+38 | Royal London Asset Management 39 | Royal London Asset Management
+
+ ABS offers a higher yield for the equivalent risk There was a notable development in the market How the market has played out? In the loan market, we have seen strong
+ compared to corporate or government bonds, in 2025, with the news around key Solvency performance as corporates looked to secure
+ as investors can benefit from the ‘complexity II proposals from the European Commission. While we have seen broad themes play out lending at attractive rates. As in the CMBS
+ premium’ that ABS offers, due to the One of the main outcomes was a reduction across the ABS market, the sectors in which market, idiosyncratic factors could remain an
+ specialisms required to understand both the in capital charges for Simple, Transparent we invest each have their own individual stories issue, but for different reasons however, as
+ underlying assets and how they operate within & Standardised (STS), in line with covered to tell. cheap lending could lead to concerns around
+ each securitisation. And we believe there is still bonds. The reduction is meaning ful for non- hidden leverage feeding into the system.
+ a lot of money to be put to work in the sector. STS senior tranches, where AAA is proposed In the autos sector, we have seen what we
+ to be about a fifth of current capital charges, would consider good value during the year, When trying to predict how financial markets
+ which improves return on regulatory capital with the misconception that these bonds would will behave months or years from now, the
+ for Collateralised Loan Obligations (CLO) be affected by the consumer finance mis- original problem usually stems from too much
+ rated AAA significantly and brings it quite selling. While the sector did see some negative leverage. This is what gives me fear for next
+ close to that for investment grade corporate sentiment, the decision determining that year: idiosyncratic issues potentially toppling
+ bonds. On the other hand, the improvement in the originator and not the security would be into an over-leveraged system. We are still
+ capital charges is less encouraging for non- affected, allowed some recovery. seeing heavy CLO issuance, and this is not
+ Investors can STS mezzanine tranches, where the potential likely to stop with spreads at their current tight
+ benefit from the for insurers to benefit from the mid-high There was some weakness from German, levels, so any fallout will come from widening
+ single digit yields of CLO mezzanine has been Dutch and Finnish autos, with the consumers but, again, what the catalyst will be for that
+ ‘complexity premium’ curtailed by the still high regulatory capital. in those regions facing a softer economic widening is hard to pinpoint.
+ that ABS offers. environment. We expect this to continue to be a
+ factor into next year which could hurt issuance
+ from those respective countries.
+
+ In commercial mortgage-backed securities
+ (CMBS) there was strong issuance, but it
+ remains fairly concentrated on logistics
+ assets, which has given us some pause about This is what gives me
+ investing in the sector. Demand has been
+ high, which has seen spreads tighten, but fear for next year:
+ the lack of diversification leads us to favour idiosyncratic issues
+ other sectors. This concentration could see
+ idiosyncratic factors – which would typically be potentially toppling
+ contained – result in wider market weakness. into an over-leveraged
+ This highlights how important it is for a fund
+ manager to know what they hold and the system.
+ importance of bottom-up analysis.
+
+Asset-backed securities Asset-backed securities
+
+## Page 21
+
+40 | Royal London Asset Management 41 | Royal London Asset Management
+
+ Which leads us to residential mortgage- What lies on the horizon?
+ backed securities (RMBS). We have taken a
+ tactical decision to avoid exposure to the US There is a fear that there is too much credit
+ in this sector, as we feel you have to be closer in private markets, and the opaque nature
+ to the originators to properly understand could lead to problems developing before
+ the securities you are buying. There is heavy they can be spotted. So, the key then, is Challenges,
+ demand and we feel there could be ‘criteria active management. You have to time any
+ creep’. As demand hits record highs, you could move in volatile markets correctly.
+ begin to see lenders lower their standards concerns…
+ and seek to capture additional returns, or Spotting where these issues might come
+ just match previous returns, increasing the from, however, is a different skill. It is always and optimism
+ likelihood of potential issues. difficult to know what the catalyst will be for
+ a potential downturn but active management Kevin McCauley
+ Outside of the US, we expect to see issuance of your portfolio is the best way through Head of Strategy & Property Research
+ rise in Europe, following the previously it. A portfolio built on bottom-up analysis,
+ mentioned Solvency II rule changes from where you understand the risk you hold, is
+ the European Commission. This will the only way through volatile markets.
+ create demand in the region, perhaps not
+ seen since 2008, as it becomes a good
+ funding source for the EU insurers.
+ Property
+
+ UK real estate remains a key Another important lesson from 2025 was
+ As demand hits asset class for many investors the persistent and sometimes unbridgeable
+ – both in the UK and globally. gap between buyer and seller pricing
+ record highs, you Looking at the prospects for expectations. This disparity has frequently
+ could begin to this area in 2026 means looking resulted in a reduction in the number
+ at underlying fundamentals, of completed transactions, as parties
+ see lenders lower but also why this may remain struggled to agree on valuations.
+ their standards. attractive over the longer term. Despite these challenges, one positive
+ Key lessons learned from 2025 development has been the pronounced
+ competition for high quality assets. This
+ The property market underwent a significant strong demand for prime properties has
+ value correction that started in the middle of played a significant role in establishing
+ 2022 and continued into 2023. The subsequent market pricing benchmarks.
+ recovery has been notably slow and, at times,
+ seemingly appeared to stall altogether. This
+ experience served as a crucial reminder that
+ recoveries in the property sector are often
+ gradual, with investors typically adopting a
+ cautious approach. As risks become more
+ apparent, investor confidence can waver,
+ further prolonging the recovery period.
+
+Asset-backed securities Property
+
+## Page 22
+
+42 | Royal London Asset Management 43 | Royal London Asset Management
+
+ Finally, the influence of macroeconomic We anticipate that the differences in There are several compelling reasons why
+ conditions on investor activity was particularly performance across various sectors will be less international investors are drawn to the UK,
+ evident in 2025. Even in the face of robust pronounced compared to the previous cycle. many of which extend beyond the property
+ rental growth and healthy occupier demand, Rather than expecting a rapid upturn, we predict sector itself. The English language, cultural
+ many investors have remained hesitant, a steady and measured recovery. With limited familiarity, and longstanding educational
+ and the market has not witnessed a large- potential for further inward yield movement, connections – many investors were educated
+ scale return of investment activity. While it will be essential for investors to focus on at UK universities – contribute to the country’s
+ there have been isolated areas of intense proactive asset management and the realisation enduring ‘soft power’ and appeal. Confidence
+ transactional activity, a consistent and broad- of income growth to generate positive alpha. in the UK’s legal system further underpins
+ based recovery is yet to materialise. this attraction. While political stability was
+ There is currently robust occupier demand in historically a crucial factor, its significance may
+ In what way will 2026 be most sectors, coupled with a shortage of prime have shifted somewhat in the post-Brexit era.
+ different from 2025? space. This dynamic is expected to support
+ ongoing rental growth, which in turn will drive From a real estate perspective, the UK offers
+ If the coming months bring greater clarity cashflow growth for investors. Performance a range of benefits that are highly valued by
+ around the UK’s fiscal position, this could will increasingly be determined by asset- overseas investors. These include a transparent
+ support a reduction in gilt yields and overall specific factors, with prime and well-located and liquid property market, a track record of
+ debt costs. Such conditions may improve properties forecast to outperform the broader robust total returns, and the historic use of
+ investor sentiment and encourage increased market. We think this trend is expected to be upward-only rent reviews – though it should
+ transaction activity in the months ahead. particularly evident in the office sector, where be noted that the government is considering
+ Should debt become more accretive under prime assets are likely to lead the way. legislative changes to this practice. The scale of
+ these circumstances, debt-backed investors opportunity is also a major draw, with London
+ What makes UK real ranking among the world’s largest office
+ are more likely to re-engage, helping to drive estate so attractive to markets. Additionally, the planning system,
+ a sustained rebound in capital values across overseas investors? while challenging for developers, serves to
+ sectors. Combined with continued robust rental constrain supply and thereby helps support
+ growth, these dynamics would create strong The UK is a leading destination for overseas rental growth, which is attractive to investors
+ total return opportunities for investors. capital, consistently attracting a significant seeking long-term value and stability.
+ share of international investment. Over the past
+ Outlook for UK real estate decade, overseas capital has accounted for Overseas investors continue
+ approximately 50% of the market, with some to look at the UK
+ Our overall outlook for the UK real estate years reaching as high as 60%. London stands
+ market is broadly positive. While optimism is out as the principal performer within the UK, Many of the key factors that have historically
+ gradually becoming more widespread, there regularly drawing more overseas investment attracted international capital to the UK
+ are still some notable challenges. Concerns than any other city on the global stage. remain firmly in place and are expected to
+ surrounding public finances and the complexities persist for the foreseeable future. In the
+ of the current inflationary environment context of political uncertainties across the
+ continue to create a degree of uncertainty, continent and globally, the UK’s reputation
+ making the landscape less clear-cut. for stability may once again become an
+ appealing attribute for overseas investors.
+
+Property Property
+
+## Page 23
+
+44 | Royal London Asset Management 45 | 45 | Royal London Asset ManagementRoyal London Asset Management
+
+ At present, the most compelling aspect for markets and further enhance the appeal of
+ international investors is the UK’s current UK real estate for international investors.
+ position within the property cycle. Occupier
+ markets across most sectors have shown One notable factor absent from the recent
+ remarkable resilience, with robust rental recovery has been a sustained improvement
+ growth observed in the post pandemic period. in investor sentiment, which is essential for a
+ While this rate of growth is expected to consistent increase in capital values. However, Strateg y,
+ moderate, it is anticipated to remain above it is anticipated that we are at a turning point,
+ historic averages, providing continued support with a full capital value recovery expected scrutiny, and
+ for income growth and cashflow stability. to commence. Capital Economics forecast
+ UK total property returns of 7.5% and 5.5% sustainable
+ The UK is set to be the second-fastest-growing annualised over the next three and five years
+ of the world’s most advanced economies this respectively1 – figures that outperform other success
+ year, according to recent projections from markets. This robust performance is projected Ashley Hamilton Claxton
+ the International Monetary Fund. The UK to be evident across all real estate sectors. Head of Responsible Investment
+ economy is forecast to achieve annualised
+ GDP growth of 1.3% this year and next, Overseas investors are acutely aware of these
+ outpacing other major European economies emerging opportunities and it is our view that
+ such as France, which is projected at 0.8%, 2026 could see this awareness translate into
+ and Germany at 0.5%. This economic increased activity within the UK market.
+ momentum is expected to underpin occupational
+
+ All Property predicted total returns, 2026-30
+
+ 8 Responsible investment
+
+ 7
+ Environmental, Social, and Amid regulatory scrutiny, political backlash,
+ 6 and calls for accountability, companies
+ Governance (ESG) has shifted are recalibrating their ESG strategies.
+
+ 5 from a hallmark of corporate Many are adopting “greenhushing,”
+ responsibility to a lightning reducing public messaging while continuing
+
+ 4 rod in political discourse. Once sustainability efforts behind the scenes.
+ seen as common sense, it is now
+ 3 viewed by some as ideologically
+ charged. While critics dismiss
+ 2
+ ESG as a fad, we believe that its
+
+ 1 underlying principles – resource ESG issues remain
+ efficiency, inclusive growth, and fundamental
+
+ 0 strong governance – remain
+ A PA C Euro zone UK US to corporate strateg y.
+ essential for financial resilience
+ 3 year 5 year and long -term value creation.
+
+ Source: Capital Economics, Global Property Returns & Valuations, October 2025 . Forward looking statements are
+ subject to certain risks and uncertainties. Actual outcomes may be materially different from those expressed or implied.
+
+1Source: Capital Economics, Global Property Returns & Valuations, October 2025.
+
+Property Reponsible investment
+
+## Page 24
+
+46 | Royal London Asset Management 47 | Royal London Asset Management
+
+ Despite this, ESG issues remain fundamental Regulatory consolidation: Stewardship in a
+ to corporate strategy, and as ESG integration from expansion to alignment changing landscape
+ becomes more mature, the governance
+ processes surrounding it need to keep up. Regulation is entering a phase of strategic Regulatory shifts and evolving investor
+ Boards must embed robust disclosure recalibration. In the UK, Sustainability expectations are reshaping shareholder
+ practices, scenario planning, and a clear Disclosure Requirements (SDR) are moving proposals, particularly on environmental and
+ articulation of ESG’s relevance to them. from policy to practice, introducing anti- social issues. The 2026 proxy season is set to
+ Asset managers are also adjusting their greenwashing rules, investment labels, be one of the most complex in recent years.
+ approach to responsible investment. Rather and enhanced disclosures. Some firms
+ than treating responsible investment as a have adopted SDR labels, while others Shareholder proposals, particularly those on
+ marketing tool or a compliance checkbox, navigate operational challenges. The environmental or social grounds are expected
+ firms are being challenged to embed ESG focus is shifting from prescriptive rules to continue to decline, driven by the SEC
+ analysis more deeply into investment to purposeful regulation – emphasising guidance broadening the ability of companies
+ decisions, voting, and engagement. materiality, decision-useful data, and to exclude proposals on “ordinary business”
+ integration into governance and strategy. and “economic significance” grounds.
+
+ Asset owners continue to show robust In the EU, the Commission’s ‘Omnibus’ Pass-through voting continues to dominate the
+ support for responsible investment. Surveys simplification package signals a move rhetoric and while it has its place, care must
+ indicate that a growing majority believe ESG from expansion to consolidation. The be taken as this risks fragmenting outcomes
+ considerations align with fiduciary duty1, and anticipated SFDR revision aims to clarify and increases unpredictability. These changes
+ sustainable fund assets under management product categories and better align with underscore a broader move away from
+ have grown significantly2. While net flows the EU Taxonomy, addressing criticisms ‘one-size-fits-all’ voting, reflecting diverging
+ into traditional products may outpace of the Article 6/8/9 framework. It’s also global priorities and US political headwinds.
+ sustainable ones, inflows into ESG funds aiming to ensure alignment with other
+ remain positive, underscoring the enduring global regulations to address the burden At Royal London Asset Management,
+ demand for responsible investment. and cost of regulatory divergence. we remain firm in our positions. We
+ will continue to champion diverse ESG
+ Globally, policymakers are asking not just “what priorities – tailored to company context
+ should be disclosed?” but “what drives real – and we will streng then and escalate our
+ change?” – demanding better data systems, voting positions where appropriate.
+ team upskilling, and proactive regulatory
+ The focus is shifting engagement. The challenge for 2026: maintain
+ ambition while navigating a landscape designed
+ from prescriptive for clarity, competitiveness, and credibility.
+ rules to purposeful We will continue to
+ regulation. champion diverse ESG
+ priorities – tailored to
+ company context.
+
+1 Voice of the Asset Owner Survey 2025 Quantitative Analysis | Morningstar Indexes 2 Sustainable Investing Funds Beating Traditional Funds in 2025 | Morgan Stanley
+
+Reponsible investment Reponsible investment
+
+## Page 25
+
+48 | Royal London Asset Management 49 | Royal London Asset Management
+
+ Our engagement strategy over the next five Our Net Zero Stewardship Programme Looking ahead: priorities Engagement strategies are becoming more
+ years focuses on measurable outcomes and remains a core focus – driving innovation, for 2026 and beyond outcome-driven, with nature, biodiversity,
+ the interconnectedness of ESG issues. Our collaboration, and tangible climate progress. and social equity rising on the agenda.
+ biennial investor consultation has set the Stewardship will increasingly link climate goals As we enter 2026, responsible investment Governance will continue to be the cornerstone
+ direction for our engagement strategy since with broader ESG priorities, recognising is moving toward consolidation, maturity, of ESG integration, ensuring ESG ambitions
+ 2019 and continues to do so as we refresh our environmental interdependence. translate into measurable outcomes. In this
+ priority engagement themes for 2026-2028. and strategic clarity. ESG regulation is fast-changing world, resilience, adaptability,
+ The next five years are critical for turning shifting from expansion to simplification, and a commitment to long-term value will
+ Our clients have told us that land use, commitments into action. By 2030, with policymakers prioritising credibility define leadership in responsible investment.
+ deforestation, and natural capital are important investor mandates and disclosures will and alignment across markets. Companies
+ to them. They are prioritising water stewardship expect both net zero alignment and climate and investors are embedding responsible
+ and social equity, while nature-related risks investment and sustainability more deeply
+ become integral to climate strategies. We have adaptation. Success will be measured into governance and investment processes
+ reflected on this feedback and will be focusing not only by emissions reductions but by while navigating political headwinds and
+ on the following four themes: Climate, Nature, how companies plan for the future, align evolving disclosure requirements.
+ People, and Governance. assets with climate goals, and streng then
+ governance. This shift is about more than
+ compliance – it’s about credibility and
+ competitiveness in a world where responsible
+ investment is becoming the standard.
+
+ By 2030, investor
+ mandates and
+ disclosures will expect
+ Climate Nature People Governance both net zero alignment
+
+ will focus on our Net will cover the Climate will focus on Diversity, will focus on Business, and climate adaptation.
+ Zero Stewardship Nature Nexus, Financial Inclusion Culture and Ethics,
+ Programme, Just Nature and and Human Rights. Cyber Security,
+ Just Transition and Land and Water and Sustainable
+ Just Adaptation. Management. and Ethical AI.
+
+Reponsible investment Reponsible investment OUTLOOK 2026
+
+## Page 26
+
+50 | Royal London Asset Management 51 | Royal London Asset Management
+
+ Important information Contact us
+
+ Investment risks For more information about our range of products and services, please contact us.
+ Royal London Asset Management, 80 Fenchurch Street, London, EC3M 4BY
+ Past performance is not a guide to future performance. The value of investments and the income
+ from them is not guaranteed and may go down as well as up and investors may not get back the amount originally
+ invested. Changes in currency exchange rates may affect the value of these investments. UK
+ For advisers and wealth For institutional client
+ Important information managers queries
+
+ For professional clients/qualified investors/wholesale investors only, not suitable for retail investors. bdsupport@rlam.co.uk institutional@rlam.co.uk
+ This is a marketing communication. +44 (0)20 3272 5950 +44 (0)20 7506 6500
+
+ This is a financial promotion and is not investment advice. Telephone calls may be recorded.
+ For further information please see our Privacy policy at www.rlam.com Switzerland
+ For all investors:
+ The views expressed are those of Royal London Asset Management at the date of publication unless otherwise indicated, john.parkin@rlam.com
+ which are subject to change, and is not investment advice.
+ +44 (0)20 3272 5912
+ This document is private and confidential and only for use by “permitted clients” in Canada. This document is for information
+ purposes only and is not intended as an offer or solicitation to invest. This document does not constitute investment advice
+ and should not be relied upon as such. Royal London Asset Management Limited is authorized to provide investment
+ services in Canada under the International Adviser Exemption. Royal London Asset Management’s principal place for Germany
+ business is in the United Kingdom, and it is not registered as a manager in the provinces of Alberta, British Columbia,
+ Ontario, and Québec. For all investors:
+ immo.gatzweiler@fundrock.com
+ Issued in December 2025 within Europe (ex-Switzerland) by FundRock Distribution S.A. (“FRD”) the EU distributor for +49 151 54 72 5296
+ Royal London Asset Management Limited. FRD is a public limited company, incorporated under the laws of the Grand
+ Duchy of Luxembourg, registered office at Airport Center Luxembourg, Level 2, 5 Heienhaff, L-1736 Senningerberg, FundRock provide EU Management Company services to RLAM.
+ Luxembourg, and registered with the Luxembourg trade and companies register under number B253257. FRD is
+ authorized as distributor of shares/units of UCIs without making or accepting payments (within the meaning of Article
+ 24-7 of the 1993 Law), as updated from time to time. FRD is authorised and regulated by the Commission de Surveillance Spain
+ du Secteur Financier (CSSF ). Portfolio management activities and services are undertaken by Royal London Asset For all investors:
+ Management Limited, 80 Fenchurch Street, London, EC3M 4BY, UK. Authorised and regulated by the Financial Conduct
+ Authority in the UK, firm reference number 141665. A subsidiary of The Royal London Mutual Insurance Society Limited. mrona@altamarcam.com|
+ +34 91 290 07 28
+ For Switzerland: Copies of the Memorandum and Articles of Association,the Prospectus, KIIDs and the annual and semi- Proud to partner with Altamar Capital to serve clients in Spain.
+ annual reports of the fund may be obtained free of charge from the fund’s representative
+ in Switzerland, ACOLIN Fund Services AG, Leutschenbachstrasse 50, CH-8050 Zurich. The Paying Agent
+ in Switzerland is Banque Cantonale Vaudoise, Place St François 14, CH-1003 Lausanne. All other EEA investors
+
+ For Australia: For Wholesale clients only. Royal London Asset Management Limited is exempt from the requirement to For all investors:
+ hold an Australian financial services licence under the Corporations Act (as a result of the operation of ASIC Class Order arnaud.gerard@fundrock.com
+ 03/1099 as amended by the ASIC Corporations (Repeal and Transitional) Instrument 2016/396 and extended by ASIC +352 691 992 088
+ Corporations (Amendment) Instrument 2020/200) in respect of the financial services it provides to wholesale clients in
+ Australia and is regulated by the Financial Conduct Authority under UK laws which differ from Australian laws. FundRock provide EU Management Company services to RLAM.
+
+ Issued in December 2025 within Switzerland, Australia and the UK by Royal London Asset Management Limited,
+ 80 Fenchurch Street, London, EC3M 4BY. Authorised and regulated by the Financial Conduct Authority, Australia
+ firm reference number 141665. A subsidiary of The Royal London Mutual Insurance Society Limited. For all investors:
+
+ kevin.haran@rlam.com
+ +61 (0)413 138 055
+
+AL RLAM PD 0208 Contact us
+
+## Page 27

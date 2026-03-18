@@ -6,6 +6,7 @@ It currently has two layers:
 
 - a macro layer for normalized economic forecasts
 - a positioning and themes layer for portfolio views and thematic calls
+- a consolidated dashboard layer with one row per asset manager
 
 ## Files
 
@@ -24,6 +25,13 @@ It currently has two layers:
   - normalized comparison table with one row per manager and canonical topic
 - `positioning_codebook.md`
   - the rules for topic coverage and view normalization
+- `asset_manager_master.csv`
+  - one row per asset manager
+  - this is the simplest comparison table for dashboard work and manual review
+  - it combines macro fields and qualitative topic fields in a single sheet
+- `asset_manager_manual_entries.json`
+  - sparse manual supplement for managers or fields that are not yet represented in `macro_master.csv` / `positioning_master.csv`
+  - use this for newly added outlooks so rebuilds do not wipe them out
 
 ## Working Rule
 
@@ -35,6 +43,9 @@ Recommended workflow:
 2. Verify the final statement in the original file in `outlooks/`.
 3. Fill the relevant row in `macro_evidence.csv` or append evidence to `positioning_evidence.csv`.
 4. Mirror the final selected output into `macro_master.csv` or `positioning_master.csv`.
+5. Add any net-new manager rows or manual overrides to `asset_manager_manual_entries.json`.
+6. Rebuild `asset_manager_master.csv` with `python3 scripts/build_asset_manager_master.py`.
+7. Use `asset_manager_master.csv` as the practical one-row-per-manager layer for dashboard building and manual comparison.
 
 ## Design Choices
 

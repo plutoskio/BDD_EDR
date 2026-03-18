@@ -2,7 +2,7 @@ Source file: EFG_outlook_2026.pdf
 Source path: outlooks/EFG_outlook_2026.pdf
 Type: pdf
 Extraction method: pypdf-layout
-Extracted at UTC: 2026-03-13T14:05:59.851635+00:00
+Extracted at UTC: 2026-03-17T21:46:03.977132+00:00
 Page count: 43
 
 ---
