@@ -9,6 +9,7 @@
   margin-bottom: 24px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  font-family: 'Playfair Display', serif; /* Elegant section headers */
 }
 
 .data-table {
@@ -31,12 +32,12 @@
   display: flex;
   align-items: flex-start;
   padding: 16px 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid var(--border-light);
   transition: background-color 0.2s ease;
 }
 
 .data-row:hover {
-  background-color: rgba(255, 255, 255, 0.02);
+  background-color: var(--bg-hover);
 }
 
 .col-metric {
@@ -48,13 +49,13 @@
 
 .col-edram {
   flex: 1.5;
-  border-left: 1px solid rgba(255, 255, 255, 0.04);
+  border-left: 1px solid var(--border-light);
   padding-left: 16px;
 }
 
 .col-comp {
   flex: 1.5;
-  border-left: 1px solid rgba(255, 255, 255, 0.04);
+  border-left: 1px solid var(--border-light);
   padding-left: 16px;
 }
 
@@ -66,17 +67,19 @@
 
 .evidence-trigger {
   color: var(--text-muted);
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
   border-radius: 4px;
   padding: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .evidence-trigger:hover {
   color: var(--accent-color);
-  background: rgba(99, 102, 241, 0.2);
+  background: var(--bg-hover);
 }
 
 .cell {
@@ -99,11 +102,11 @@
 
 .qualitative-quote {
   font-size: 13px;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   font-style: italic;
   margin-top: 8px;
   line-height: 1.6;
-  border-left: 2px solid rgba(255,255,255,0.05);
+  border-left: 2px solid var(--border-light);
   padding-left: 10px;
   max-width: 95%;
 }

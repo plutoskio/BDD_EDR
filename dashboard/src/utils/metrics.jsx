@@ -78,9 +78,9 @@ export function extractData(row, key, isMacro) {
 export function getStatusColor(status) {
   if (!status) return 'var(--status-nd-text)';
   const s = status.toLowerCase().trim();
-  if (['positive', 'long', 'overweight', 'constructive'].includes(s)) return 'var(--status-positive-text)';
-  if (['negative', 'short', 'underweight'].includes(s)) return 'var(--status-negative-text)';
-  if (['neutral', 'mixed'].includes(s)) return 'var(--status-neutral-text)';
+  if (['positive', 'long', 'overweight', 'constructive', 'attractive'].includes(s)) return 'var(--status-pos-text)';
+  if (['negative', 'short', 'underweight', 'unattractive', 'cautious'].includes(s)) return 'var(--status-neg-text)';
+  if (['neutral', 'mixed'].includes(s)) return 'var(--status-neu-text)';
   if (s === 'qualitative' || s === 'quantitative') return 'var(--text-highlight)';
   return 'var(--status-nd-text)';
 }

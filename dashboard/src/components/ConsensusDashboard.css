@@ -19,22 +19,22 @@
 .icon-wrapper {
   width: 40px;
   height: 40px;
-  border-radius: 10px;
+  border-radius: 8px; /* Sharper */
   display: flex;
   align-items: center;
   justify-content: center;
   color: #fff;
 }
 
-.bg-divergent { background: rgba(239, 68, 68, 0.2); color: #ef4444; border: 1px solid rgba(239, 68, 68, 0.4); }
-.bg-aligned { background: rgba(34, 197, 94, 0.2); color: #22c55e; border: 1px solid rgba(34, 197, 94, 0.4); }
-.bg-blindspot { background: rgba(168, 85, 247, 0.2); color: #a855f7; border: 1px solid rgba(168, 85, 247, 0.4); }
-.bg-qualitative { background: rgba(99, 102, 241, 0.2); color: #6366f1; border: 1px solid rgba(99, 102, 241, 0.4); }
+.bg-divergent { background: rgba(220, 38, 38, 0.1); color: #dc2626; border: 1px solid rgba(220, 38, 38, 0.2); }
+.bg-aligned { background: rgba(5, 150, 105, 0.1); color: #059669; border: 1px solid rgba(5, 150, 105, 0.2); }
+.bg-blindspot { background: rgba(148, 163, 184, 0.15); color: #475569; border: 1px solid rgba(148, 163, 184, 0.3); }
 
 .section-head h3 {
   font-size: 20px;
   margin-bottom: 4px;
-  color: var(--text-primary);
+  color: var(--text-highlight);
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
 }
 
@@ -52,16 +52,16 @@
 .insight-card {
   background: var(--bg-secondary);
   border: 1px solid var(--border-light);
-  border-radius: 12px;
+  border-radius: 8px; /* Corporate sharper borders */
   padding: 24px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 37, 80, 0.04);
 }
 
 .insight-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
-  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 24px rgba(0, 37, 80, 0.08); /* EdRAM shadow */
+  border-color: var(--accent-color);
 }
 
 .card-header {
@@ -75,24 +75,28 @@
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--text-muted);
-  font-weight: 600;
-  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-highlight);
+  font-weight: 700;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
   padding: 4px 8px;
   border-radius: 4px;
 }
 
 .evidence-icon {
   color: var(--text-muted);
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
   border-radius: 4px;
   padding: 6px;
   transition: all 0.2s ease;
+  cursor: pointer;
 }
 
 .evidence-icon:hover {
   color: var(--accent-color);
-  background: var(--accent-glow);
+  background: var(--bg-hover);
+  border-color: var(--accent-color);
 }
 
 .card-metric {
@@ -125,7 +129,7 @@
 }
 
 .border-edram { border-left: 3px solid var(--accent-color); }
-.border-comp { border-left: 3px solid var(--text-muted); }
+.border-comp { border-left: 3px solid var(--border-light); }
 
 .value-display {
   display: flex;
@@ -139,6 +143,7 @@
   font-size: 18px;
   font-weight: 700;
   letter-spacing: -0.5px;
+  color: var(--text-primary);
 }
 
 .stance-text {
@@ -156,10 +161,10 @@
 
 .why-preview {
   font-size: 13px;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   font-style: italic;
   line-height: 1.6;
-  border-left: 2px solid rgba(255,255,255,0.05);
+  border-left: 2px solid var(--border-light);
   padding-left: 10px;
   margin-top: 8px;
 }
@@ -174,7 +179,7 @@
 .coverage-bar .track {
   flex: 1;
   height: 6px;
-  background: rgba(255,255,255,0.05);
+  background: var(--border-light);
   border-radius: 3px;
   overflow: hidden;
 }

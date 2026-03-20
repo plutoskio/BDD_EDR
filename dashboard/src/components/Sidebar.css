@@ -2,7 +2,7 @@
   width: 280px;
   height: 100vh;
   border-radius: 0;
-  border-right: 1px solid var(--border-light);
+  border-right: 1px solid var(--text-highlight);
   border-top: none;
   border-bottom: none;
   border-left: none;
@@ -10,6 +10,7 @@
   flex-direction: column;
   padding: 24px 16px;
   z-index: 10;
+  background-color: var(--text-highlight); /* Prussian Blue */
 }
 
 .sidebar-header {
@@ -21,20 +22,21 @@
 
 .logo-box {
   background: var(--accent-color);
-  color: #fff;
+  color: #ffffff;
   font-weight: 700;
   padding: 6px 10px;
   border-radius: 6px;
   font-size: 14px;
   margin-right: 12px;
   letter-spacing: 0.5px;
-  box-shadow: 0 2px 10px var(--accent-glow);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
 }
 
 .sidebar-header h2 {
   font-size: 16px;
   font-weight: 600;
-  color: var(--text-primary);
+  color: #ffffff;
+  font-family: 'Playfair Display', serif;
   letter-spacing: -0.2px;
 }
 
@@ -46,7 +48,7 @@
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--text-muted);
+  color: #94a3b8;
   font-weight: 600;
   margin-bottom: 8px;
   padding: 0 8px;
@@ -62,19 +64,23 @@
   width: 100%;
   padding: 10px 12px;
   border-radius: 8px;
-  color: var(--text-secondary);
+  color: #cbd5e1;
   font-size: 14px;
   font-weight: 500;
   margin-bottom: 4px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  text-align: left;
 }
 
 .nav-btn:hover {
-  background: var(--bg-hover);
-  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
 }
 
 .nav-btn.active {
-  background: var(--accent-glow);
+  background: rgba(182, 146, 89, 0.15); /* Gold Glow */
   color: var(--accent-color);
 }
 
@@ -99,18 +105,22 @@
   width: 100%;
   padding: 8px 12px;
   border-radius: 6px;
-  color: var(--text-secondary);
+  color: #cbd5e1;
   font-size: 13px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  text-align: left;
 }
 
 .competitor-btn:hover {
-  background: var(--bg-hover);
-  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
 }
 
 .competitor-btn.active {
-  background: var(--bg-hover);
-  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
   font-weight: 600;
 }
 
