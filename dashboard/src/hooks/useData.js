@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Papa from 'papaparse';
-import csvUrl from '../../../foundation/asset_manager_master.csv?url';
+import csvUrl from '../data/asset_manager_master.csv?url';
 
 export function useData() {
   const [data, setData] = useState([]);
