@@ -1,0 +1,36 @@
+fund,asset_class,role,complexity,tags,taxonomy_source
+EDR SICAV - Corporate Hybrid Bonds,fixed_income,core,4,"fixed_income, credit, hybrid, carry, europe, financials",manual
+EdR Fund Big Data,equity,satellite,4,"equity, thematic, technology, ai, global, growth",manual
+EdR Fund Bond Allocation,fixed_income,core,2,"fixed_income, diversified, allocation, income, global",manual
+EdR Fund China,equity,satellite,4,"equity, china, em, regional, growth",manual
+EdR Fund EM Climate Bonds,fixed_income,satellite,4,"fixed_income, em, climate, sustainable, credit",manual
+EdR Fund Emerging Credit,fixed_income,satellite,4,"fixed_income, em, credit, carry, income",manual
+EdR Fund Emerging Sovereign,fixed_income,satellite,4,"fixed_income, em, sovereign, carry, income",manual
+EdR Fund Euro High Yield,fixed_income,core,4,"fixed_income, europe, high_yield, credit, carry, income",manual
+EdR Fund Healthcare,equity,satellite,4,"equity, thematic, healthcare, defensive, global, growth",manual
+EdR Fund Human Capital,equity,satellite,4,"equity, thematic, human_capital, sustainable, global, growth",manual
+EdR Fund Income Europe,equity,relay,3,"equity, europe, income, dividend, defensive",manual
+EdR Fund Investment Grade Credit,fixed_income,core,2,"fixed_income, investment_grade, credit, carry, income",manual
+EdR Fund QUAM 5,multi_asset,core,4,"multi_asset, quant, risk_managed, absolute_return, diversified",manual
+EdR Fund Strategic Emerging,equity,satellite,4,"equity, em, global, growth, regional",manual
+EdR Fund US Value,equity,relay,3,"equity, us, value, style, defensive",manual
+EdR Goldsphere,alternatives,satellite,4,"alternatives, gold, commodities, inflation_hedge, defensive",manual
+EdR India,equity,satellite,4,"equity, india, em, regional, growth",manual
+EdR SICAV - Equity Euro Solve,equity,relay,3,"equity, europe, eurozone, core, diversified",manual
+EdR SICAV - Euro Sustainable Credit,fixed_income,core,3,"fixed_income, europe, credit, sustainable, carry, income",manual
+EdR SICAV - Euro Sustainable Equity,equity,relay,3,"equity, europe, sustainable, core, diversified",manual
+EdR SICAV - European Catalysts,alternatives,satellite,5,"alternatives, event_driven, europe, absolute_return, alpha",manual
+EdR SICAV - European Smaller Companies,equity,relay,4,"equity, europe, small_cap, regional, growth",manual
+EdR SICAV - Financial Bonds,fixed_income,core,3,"fixed_income, credit, financials, carry, europe, income",manual
+EdR SICAV - Global Allocation,multi_asset,core,3,"multi_asset, global, allocation, diversified, balanced",manual
+EdR SICAV - Global Resilience,equity,satellite,4,"equity, thematic, resilience, global, quality, defensive",manual
+EdR SICAV - Green New Deal,equity,satellite,4,"equity, thematic, climate, energy_transition, sustainable, global",manual
+EdR SICAV - Millesima 2030,fixed_income,core,2,"fixed_income, target_maturity, defined_maturity, carry, income",manual
+EdR SICAV - Millesima 2032,fixed_income,core,2,"fixed_income, target_maturity, defined_maturity, carry, income",manual
+EdR SICAV - Millesima Select 2028,fixed_income,core,2,"fixed_income, target_maturity, defined_maturity, carry, income",manual
+EdR SICAV - Millesima World 2028,fixed_income,core,2,"fixed_income, target_maturity, defined_maturity, global, carry, income",manual
+EdR SICAV - Mission Europa,equity,relay,3,"equity, europe, regional, domestic, quality",manual
+EdR SICAV - Short Duration Credit,fixed_income,core,3,"fixed_income, credit, short_duration, carry, income",manual
+EdR SICAV - Tech for Tomorrow,equity,satellite,4,"equity, thematic, technology, innovation, global, growth",manual
+EdR SICAV - Tricolore Convictions,equity,relay,3,"equity, france, europe, domestic, concentrated, conviction",manual
+EdR SICAV - Ultim,multi_asset,satellite,4,"multi_asset, absolute_return, diversified, risk_managed, global",manual

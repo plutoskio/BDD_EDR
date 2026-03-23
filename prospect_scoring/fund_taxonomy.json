@@ -1,0 +1,212 @@
+{
+  "EDR SICAV - Corporate Hybrid Bonds": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 4,
+    "tags": ["fixed_income", "credit", "hybrid", "carry", "europe", "financials"]
+  },
+  "EdR Fund Big Data": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "technology", "ai", "global", "growth"]
+  },
+  "EdR Fund Bond Allocation": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "diversified", "allocation", "income", "global"]
+  },
+  "EdR Fund China": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "china", "em", "regional", "growth"]
+  },
+  "EdR Fund EM Climate Bonds": {
+    "asset_class": "fixed_income",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["fixed_income", "em", "climate", "sustainable", "credit"]
+  },
+  "EdR Fund Emerging Credit": {
+    "asset_class": "fixed_income",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["fixed_income", "em", "credit", "carry", "income"]
+  },
+  "EdR Fund Emerging Sovereign": {
+    "asset_class": "fixed_income",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["fixed_income", "em", "sovereign", "carry", "income"]
+  },
+  "EdR Fund Euro High Yield": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 4,
+    "tags": ["fixed_income", "europe", "high_yield", "credit", "carry", "income"]
+  },
+  "EdR Fund Healthcare": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "healthcare", "defensive", "global", "growth"]
+  },
+  "EdR Fund Human Capital": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "human_capital", "sustainable", "global", "growth"]
+  },
+  "EdR Fund Income Europe": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "europe", "income", "dividend", "defensive"]
+  },
+  "EdR Fund Investment Grade Credit": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "investment_grade", "credit", "carry", "income"]
+  },
+  "EdR Fund QUAM 5": {
+    "asset_class": "multi_asset",
+    "role": "core",
+    "complexity": 4,
+    "tags": ["multi_asset", "quant", "risk_managed", "absolute_return", "diversified"]
+  },
+  "EdR Fund Strategic Emerging": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "em", "global", "growth", "regional"]
+  },
+  "EdR Fund US Value": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "us", "value", "style", "defensive"]
+  },
+  "EdR Goldsphere": {
+    "asset_class": "alternatives",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["alternatives", "gold", "commodities", "inflation_hedge", "defensive"]
+  },
+  "EdR India": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "india", "em", "regional", "growth"]
+  },
+  "EdR SICAV - Equity Euro Solve": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "europe", "eurozone", "core", "diversified"]
+  },
+  "EdR SICAV - Euro Sustainable Credit": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 3,
+    "tags": ["fixed_income", "europe", "credit", "sustainable", "carry", "income"]
+  },
+  "EdR SICAV - Euro Sustainable Equity": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "europe", "sustainable", "core", "diversified"]
+  },
+  "EdR SICAV - European Catalysts": {
+    "asset_class": "alternatives",
+    "role": "satellite",
+    "complexity": 5,
+    "tags": ["alternatives", "event_driven", "europe", "absolute_return", "alpha"]
+  },
+  "EdR SICAV - European Smaller Companies": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 4,
+    "tags": ["equity", "europe", "small_cap", "regional", "growth"]
+  },
+  "EdR SICAV - Financial Bonds": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 3,
+    "tags": ["fixed_income", "credit", "financials", "carry", "europe", "income"]
+  },
+  "EdR SICAV - Global Allocation": {
+    "asset_class": "multi_asset",
+    "role": "core",
+    "complexity": 3,
+    "tags": ["multi_asset", "global", "allocation", "diversified", "balanced"]
+  },
+  "EdR SICAV - Global Resilience": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "resilience", "global", "quality", "defensive"]
+  },
+  "EdR SICAV - Green New Deal": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "climate", "energy_transition", "sustainable", "global"]
+  },
+  "EdR SICAV - Millesima 2030": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "target_maturity", "defined_maturity", "carry", "income"]
+  },
+  "EdR SICAV - Millesima 2032": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "target_maturity", "defined_maturity", "carry", "income"]
+  },
+  "EdR SICAV - Millesima Select 2028": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "target_maturity", "defined_maturity", "carry", "income"]
+  },
+  "EdR SICAV - Millesima World 2028": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 2,
+    "tags": ["fixed_income", "target_maturity", "defined_maturity", "global", "carry", "income"]
+  },
+  "EdR SICAV - Mission Europa": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "europe", "regional", "domestic", "quality"]
+  },
+  "EdR SICAV - Short Duration Credit": {
+    "asset_class": "fixed_income",
+    "role": "core",
+    "complexity": 3,
+    "tags": ["fixed_income", "credit", "short_duration", "carry", "income"]
+  },
+  "EdR SICAV - Tech for Tomorrow": {
+    "asset_class": "equity",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["equity", "thematic", "technology", "innovation", "global", "growth"]
+  },
+  "EdR SICAV - Tricolore Convictions": {
+    "asset_class": "equity",
+    "role": "relay",
+    "complexity": 3,
+    "tags": ["equity", "france", "europe", "domestic", "concentrated", "conviction"]
+  },
+  "EdR SICAV - Ultim": {
+    "asset_class": "multi_asset",
+    "role": "satellite",
+    "complexity": 4,
+    "tags": ["multi_asset", "absolute_return", "diversified", "risk_managed", "global"]
+  }
+}
